@@ -1,4 +1,0 @@
-1.0	it	airs	reruns
-1.0	Its sister	is	television channel Pro Gold
-0.6373278446712045	it	reruns of	telenovelas
-1.0	it	airs	reruns of telenovelas

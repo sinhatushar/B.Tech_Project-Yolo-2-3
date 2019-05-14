@@ -1,6 +1,0 @@
-1.0	He	serves as	Gordon S. Rentschler Memorial Professor of Economics in Economics Department
-1.0	He	serves at	Princeton University
-1.0	He	serves as	Gordon S. Rentschler Memorial Professor
-1.0	Gordon S. Rentschler Memorial Professor	is in	Economics Department
-1.0	He	serves as	Gordon S. Rentschler Memorial Professor of Economics
-1.0	He	serves as	Gordon S. Rentschler Memorial Professor in Economics Department

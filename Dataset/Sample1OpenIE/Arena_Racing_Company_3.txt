@@ -1,6 +1,0 @@
-1.0	It	operates	hotels at Wolverhampton Racecourse
-1.0	It	also operates	hotels
-1.0	It	operates	hotels at Wolverhampton Racecourse at Lingfield
-1.0	It	also operates	hotels at Wolverhampton Racecourse
-1.0	It	also operates	hotels at Wolverhampton Racecourse at Lingfield
-1.0	It	operates	hotels

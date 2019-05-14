@@ -1,5 +1,0 @@
-1.0	Amir Naderi	is	Iranian film director
-1.0	Naderi	is	Iranian
-0.4967561474030503	Persian	born	15 August 1946
-1.0	Amir Naderi	is	film director
-0.4967561474030503	Persian	born	August 1946

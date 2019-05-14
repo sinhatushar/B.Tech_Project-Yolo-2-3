@@ -1,7 +1,0 @@
-1.0	Serie A	football 's	women
-1.0	Coppa Italia	is in	1983
-1.0	It	won	Coppa Italia in 1983
-1.0	It	won	Coppa Italia
-1.0	women	has	football
-1.0	It	won	women 's football
-1.0	It	won	Serie A

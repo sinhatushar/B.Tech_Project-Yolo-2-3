@@ -1,4 +1,0 @@
-1.0	He	killed	eight soldiers
-1.0	He	managed to	clear others
-1.0	He	managed to	others
-1.0	He	killed	eight Turkish soldiers

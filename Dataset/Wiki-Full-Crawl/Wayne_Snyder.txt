@@ -1,4 +1,0 @@
-Wayne Snyder is an associate professor at Boston University known for his work in E-unification theory.
-He was raised in Yardley, Pennsylvania, worked in his father's aircraft shop, attended the Berklee School of Music, and obtained an MA in Augustan poetry at Tufts University.
-He then studied computer science, and earned his Ph.D. at the University of Pennsylvania in 1988.
-In 1987 he came to Boston University, teaching introductory computer science, and researching on automated reasoning, and, more particularly, E-unification.

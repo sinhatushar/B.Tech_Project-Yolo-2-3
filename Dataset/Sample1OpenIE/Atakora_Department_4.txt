@@ -1,6 +1,0 @@
-1.0	some	was	moved
-1.0	some	was moved to	Donga Department
-1.0	some	was moved to	newly created Donga Department
-1.0	dpartement	was	bifurcated
-1.0	dpartement	was bifurcated in	1999
-1.0	some	was moved to	created Donga Department

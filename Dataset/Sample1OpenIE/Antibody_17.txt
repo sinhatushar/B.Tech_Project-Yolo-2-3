@@ -1,4 +1,0 @@
-1.0	complex	mediate	roles
-1.0	antigen-antibody complex	mediate	roles
-1.0	complex	mediate	different roles
-1.0	antigen-antibody complex	mediate	different roles

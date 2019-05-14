@@ -1,5 +1,0 @@
-1.0	company executives	revealed On	May 21 1984 during press conference
-1.0	5200	been discontinued after	just two years on market
-1.0	5200	been discontinued after	just two years
-1.0	company executives	revealed On	May 21 1984
-1.0	5200	been	discontinued

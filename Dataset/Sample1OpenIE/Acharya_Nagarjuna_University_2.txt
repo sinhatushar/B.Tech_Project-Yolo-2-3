@@ -1,2 +1,0 @@
-1.0	districts	is in	region
-1.0	several major universities	is in	country

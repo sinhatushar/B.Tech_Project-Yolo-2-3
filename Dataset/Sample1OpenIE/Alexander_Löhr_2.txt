@@ -1,4 +1,0 @@
-1.0	Lhr	became	commander-in-chief
-1.0	Lhr	served during	World War II
-1.0	Lhr	served in	Luftwaffe
-1.0	Lhr	became in	Southeast Europe

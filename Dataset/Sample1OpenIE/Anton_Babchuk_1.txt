@@ -1,7 +1,0 @@
-1.0	Babchuk	is	Ukrainian-Russian
-1.0	He	played for	Atlant Moscow Oblast of Kontinental Hockey League
-1.0	He	played for	Atlant Moscow Oblast of Hockey League
-1.0	He	last played for	Atlant Moscow Oblast
-1.0	He	last played for	Atlant Moscow Oblast of Hockey League
-1.0	He	last played for	Atlant Moscow Oblast of Kontinental Hockey League
-1.0	He	played for	Atlant Moscow Oblast

@@ -1,9 +1,0 @@
-1.0	They	are distinguished by	their possession
-1.0	They	are	distinguished from other nudibranchs by their possession
-1.0	They	are	distinguished from other nudibranchs by their possession of cerata
-1.0	They	are	distinguished from nudibranchs by their possession
-1.0	They	are distinguished from	nudibranchs
-1.0	They	are distinguished by	their possession of cerata
-1.0	They	are distinguished from	other nudibranchs
-1.0	They	are	distinguished from nudibranchs by their possession of cerata
-1.0	They	are	distinguished

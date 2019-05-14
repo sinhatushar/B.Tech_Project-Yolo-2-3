@@ -1,8 +1,0 @@
-1.0	He	is	considered
-1.0	He	is among	most influential economists
-1.0	He	is among	economists
-1.0	He	is among	most influential economists in world
-1.0	He	is among	economists in world
-1.0	He	is among	influential economists in world
-1.0	He	is among	influential economists
-1.0	influential economists	is in	world

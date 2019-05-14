@@ -1,4 +1,0 @@
-1.0	bombs	targeted	petrol station
-1.0	bombs	targeted	police station
-1.0	bombs	also targeted	petrol station
-1.0	bombs	also targeted	police station

@@ -1,9 +1,0 @@
-1.0	many	also retain	languages
-1.0	They	are	largely speaking
-1.0	many	retain	languages
-1.0	many	also retain	languages of their ancestors
-1.0	They	are	English speaking
-1.0	They	are	speaking
-1.0	They	are	largely English speaking
-0.7009070814272655	many	languages of	their ancestors
-1.0	many	retain	languages of their ancestors

@@ -1,3 +1,0 @@
-gene segments
-using
-random recombination

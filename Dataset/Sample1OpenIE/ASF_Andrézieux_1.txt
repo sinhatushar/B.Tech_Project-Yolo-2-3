@@ -1,7 +1,0 @@
-1.0	L'Association Sportive Forezienne Andrzieux-Bouthon	is	association football team
-1.0	Andrzieux-Bouthon	is	French
-1.0	L'Association Sportive Forezienne Andrzieux-Bouthon	is	French association football team
-1.0	L'Association Sportive Forezienne Andrzieux-Bouthon	is	association football team founded in 1947
-1.0	L'Association Sportive Forezienne Andrzieux-Bouthon	is	French association football team founded in 1947
-1.0	L'Association Sportive Forezienne Andrzieux-Bouthon	is	association football team founded
-1.0	L'Association Sportive Forezienne Andrzieux-Bouthon	is	French association football team founded

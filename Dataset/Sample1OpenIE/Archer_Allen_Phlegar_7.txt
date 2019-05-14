@@ -1,7 +1,0 @@
-1.0	He	was elected to	Supreme Court of Appeals
-1.0	He	was	elected to Supreme Court in October 1900
-1.0	He	was	elected to Supreme Court of Appeals in October 1900
-1.0	He	was elected in	October 1900
-1.0	He	was	elected
-1.0	He	served on	court
-1.0	He	was elected to	Supreme Court

@@ -1,4 +1,0 @@
-1.0	cell	Using	binding mechanism
-1.0	cell	Using	antibody
-1.0	infected cell	Using	antibody
-1.0	infected cell	Using	binding mechanism

@@ -1,3 +1,0 @@
-feathers
-have
-stream

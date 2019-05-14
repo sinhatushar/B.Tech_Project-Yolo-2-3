@@ -1,6 +1,0 @@
-0.8090231035042662	He	performing at	age of 19
-0.8090231035042662	He	performing as	stand-up comedian
-0.8090231035042662	He	performing in	1989
-0.8090231035042662	He	performing as	comedian
-0.8090231035042662	He	performing at	age
-1.0	He	Born in	Sydney

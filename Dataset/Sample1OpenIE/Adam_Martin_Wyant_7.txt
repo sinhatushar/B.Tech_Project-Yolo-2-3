@@ -1,9 +1,0 @@
-1.0	Wyant	served	becoming
-1.0	Wyant	also served at	one time
-1.0	Wyant	becoming	U.S.
-1.0	Wyant	also served	becoming
-1.0	Wyant	served at	one time
-1.0	Wyant	also served as	principal of Greensburg schools
-1.0	Wyant	also served as	principal
-1.0	Wyant	served as	principal
-1.0	Wyant	served as	principal of Greensburg schools

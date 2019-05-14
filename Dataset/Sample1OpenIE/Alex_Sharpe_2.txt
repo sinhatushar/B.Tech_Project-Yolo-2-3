@@ -1,4 +1,0 @@
-1.0	she	is best known In	United States
-1.0	she	is	best known
-1.0	she	is known In	United States
-1.0	she	is	known

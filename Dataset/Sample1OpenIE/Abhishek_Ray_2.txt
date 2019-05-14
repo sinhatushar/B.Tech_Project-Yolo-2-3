@@ -1,3 +1,0 @@
-1.0	He	is	known
-1.0	He	is	well known
-1.0	He	composed	music

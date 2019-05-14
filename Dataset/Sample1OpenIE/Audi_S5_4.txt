@@ -1,5 +1,0 @@
-1.0	cabriolets	are	built
-1.0	Audi	at	factory in Neckarsulm
-1.0	cabriolets	are built at	Audi 's factory
-1.0	Audi 's factory	is in	Neckarsulm
-1.0	cabriolets	are built at	Audi 's factory in Neckarsulm

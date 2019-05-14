@@ -1,7 +1,0 @@
-1.0	people	have	reputation
-1.0	prominent businessman	were brought up including	restaurateur
-1.0	people	have	reputation as canny traders
-1.0	businessman	were brought up including	restaurateur
-1.0	businessman	were brought up here including	restaurateur
-1.0	prominent businessman	were brought up here including	restaurateur
-1.0	people	have	reputation as traders

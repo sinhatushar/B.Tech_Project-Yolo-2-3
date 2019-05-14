@@ -1,8 +1,0 @@
-1.0	Vraciu	was born in	Indiana of Romanian parents
-1.0	Vraciu	was born in	Indiana of immigrant parents
-1.0	Vraciu	was born in	Indiana of Romanian immigrant parents
-1.0	East Chicago	Indiana of	Romanian immigrant parents
-1.0	Vraciu	was	born
-1.0	Vraciu	was born in	East Chicago
-1.0	Vraciu	was born in	Indiana of parents
-1.0	Vraciu	was born in	Indiana

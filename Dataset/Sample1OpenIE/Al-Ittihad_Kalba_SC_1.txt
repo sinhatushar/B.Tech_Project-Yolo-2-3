@@ -1,5 +1,0 @@
-1.0	Ittihad Kalba Sports	is	football club in Kalba
-1.0	Cultural Club	is	football club in Kalba
-1.0	Ittihad Kalba Sports	is	football club
-1.0	Cultural Club	is	football club
-1.0	football club	is in	Kalba

@@ -1,7 +1,0 @@
-1.0	She	had	leading role in horror comedy film Movie 5
-1.0	She	had	role in horror comedy film Scary Movie 5
-1.0	leading role	is in	horror comedy film Scary Movie 5
-1.0	She	had	role
-1.0	She	had	role in horror comedy film Movie 5
-1.0	She	had	leading role
-1.0	She	had	leading role in horror comedy film Scary Movie 5

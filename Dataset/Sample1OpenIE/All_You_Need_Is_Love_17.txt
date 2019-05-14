@@ -1,6 +1,0 @@
-1.0	Our World performance	was	colourised
-1.0	Our World performance	broadcast in	black-and-white
-1.0	Our World performance	was colourised for	inclusion in Beatles ' 1995 Anthology documentary series
-1.0	Our World performance	Originally broadcast in	black-and-white
-1.0	Our World performance	was colourised for	inclusion
-1.0	inclusion	is in	Beatles ' 1995 Anthology documentary series

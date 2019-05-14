@@ -1,3 +1,0 @@
-1.0	leaves	are	long
-1.0	leaves	are long with	margin
-1.0	leaves	are long with	serrated margin

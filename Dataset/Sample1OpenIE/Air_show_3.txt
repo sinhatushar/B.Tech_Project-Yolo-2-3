@@ -1,7 +1,0 @@
-1.0	Singapore Air Show	are claiming	place
-1.0	Dubai air show	are claiming	third place
-1.0	Dubai air show	are claiming	place
-1.0	Singapore Air Show	are claiming	third place
-1.0	largest	is	Le Bourget
-1.0	largest	is	Le Bourget followed by Farnborough
-1.0	largest	is	Le Bourget followed

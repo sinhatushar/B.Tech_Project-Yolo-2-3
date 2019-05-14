@@ -1,4 +1,0 @@
-1.0	He	served to	Cabinet Planning Committee
-1.0	He	served as	Secretary
-1.0	He	also served to	Cabinet Planning Committee
-1.0	He	also served as	Secretary

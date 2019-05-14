@@ -1,9 +1,0 @@
-1.0	shows	is in	United States as
-1.0	shows	is in	Mexico
-1.0	Antonio Pea	broke from	CMLL
-1.0	Antonio Pea	broke away from	Consejo Mundial de Lucha Libre
-1.0	AAA	has held	PPV
-1.0	Antonio Pea	broke away from	CMLL
-1.0	AAA	Founded in	1992
-1.0	Antonio Pea	broke from	Consejo Mundial de Lucha Libre
-1.0	Antonio Pea	set up	promotion

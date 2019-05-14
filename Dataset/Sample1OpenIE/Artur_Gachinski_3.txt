@@ -1,4 +1,0 @@
-1.0	He	announced	his retirement from competitive skating
-1.0	He	citing	injuries
-1.0	He	announced	his retirement
-1.0	He	announced	his retirement from skating

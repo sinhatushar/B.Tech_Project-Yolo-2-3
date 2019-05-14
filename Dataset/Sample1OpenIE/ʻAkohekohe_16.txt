@@ -1,9 +1,0 @@
-1.0	3,800 akohekohe	left on	Maui
-1.0	akohekohe	left in	two populations separated
-1.0	3,800 akohekohe	left in	two populations separated by Koolau Gap
-1.0	akohekohe	left on	Maui
-1.0	3,800 akohekohe	left in	two populations separated
-1.0	akohekohe	left in	two populations separated by Koolau Gap
-1.0	It	has	has estimated
-1.0	akohekohe	left in	two populations
-1.0	3,800 akohekohe	left in	two populations

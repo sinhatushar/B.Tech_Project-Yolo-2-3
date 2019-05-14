@@ -1,8 +1,0 @@
-1.0	he	succeeded Pierre Andr Latreille in	1815
-1.0	he	succeeded Pierre Andr Latreille at	cole nationale vtrinaire d'Alfort
-1.0	he	succeeded Pierre Andr Latreille to	professorship of zoology
-1.0	he	succeeded	Pierre Andr Latreille
-1.0	he	succeeded Pierre Andr Latreille to	professorship
-1.0	Desmarest	was disciple of	Georges Cuvier
-1.0	Desmarest	was	disciple
-1.0	he	succeeded Pierre Andr Latreille at	cole nationale d'Alfort

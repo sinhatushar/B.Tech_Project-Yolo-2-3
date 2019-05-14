@@ -1,6 +1,0 @@
-1.0	band	has	vehement antiRight-Hand Path stance
-1.0	title	convey	band 's antiRight-Hand Path stance
-1.0	title	convey	band 's Path stance
-1.0	title	convey	band 's vehement antiRight-Hand Path stance
-1.0	title	convey	band 's vehement Path stance
-1.0	title	was	chosen

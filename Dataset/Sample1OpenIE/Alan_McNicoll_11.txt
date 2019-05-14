@@ -1,7 +1,0 @@
-1.0	he	attend Imperial Defence College in	1955
-1.0	He	commanded	ship
-1.0	He	commanded ship for	two years
-1.0	he	returned at	point
-1.0	it	was sold off for	scrap
-1.0	he	attend	Imperial Defence College
-1.0	he	returned to	London

@@ -1,7 +1,0 @@
-1.0	He	is	son
-1.0	He	is son of	two prominent French personalities
-1.0	He	is son of	television journalist-reporter Georges de Caunes
-1.0	He	is son of	two prominent personalities
-1.0	He	is son of	two personalities
-1.0	He	is son of	two French personalities
-1.0	He	is son of	television journalist-reporter Georges Caunes

@@ -1,6 +1,0 @@
-1.0	Abacab Tour	visited	North America
-1.0	Abacab Tour	visited Europe in	1981
-1.0	Abacab Tour	visited	Europe
-1.0	Abacab Tour	visited	recordings
-1.0	Abacab Tour	visited North America in	1981
-1.0	Abacab Tour	visited recordings in	1981

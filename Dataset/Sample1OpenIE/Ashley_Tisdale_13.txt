@@ -1,5 +1,0 @@
-1.0	Tisdale	starred in	High School Musical spin-off film Sharpay 's Fabulous Adventure
-1.0	High School Musical spin-off film Sharpay	in	Fabulous Adventure
-1.0	Tisdale	starred in	2011
-1.0	High School Musical spin-off film Sharpay	's Adventure is	2011
-1.0	Tisdale	starred in	High School spin-off film Sharpay 's Fabulous Adventure

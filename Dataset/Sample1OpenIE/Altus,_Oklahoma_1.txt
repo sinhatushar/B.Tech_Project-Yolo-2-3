@@ -1,2 +1,0 @@
-1.0	Altus	is	city
-1.0	county seat	is in	County

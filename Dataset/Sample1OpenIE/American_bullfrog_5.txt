@@ -1,6 +1,0 @@
-1.0	male bullfrog	defends	territory during breeding season
-1.0	bullfrog	defends	territory during breeding season
-1.0	bullfrog	defends	territory during season
-1.0	male bullfrog	defends	territory during season
-1.0	bullfrog	defends	territory
-1.0	male bullfrog	defends	territory

@@ -1,3 +1,0 @@
-1.0	surface	is	convex
-1.0	base	is	flat
-1.0	upper surface	is	convex

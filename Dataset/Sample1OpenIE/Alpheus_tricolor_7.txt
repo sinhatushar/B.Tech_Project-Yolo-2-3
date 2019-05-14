@@ -1,3 +1,0 @@
-1.0	species	is named after	its characteristic colour pattern
-1.0	species	is	named
-1.0	species	is named after	its colour pattern

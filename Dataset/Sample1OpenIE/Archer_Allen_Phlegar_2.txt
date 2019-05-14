@@ -1,5 +1,0 @@
-1.0	He	attended	Montgomery Male Academy in Montgomery County
-1.0	Montgomery Male Academy	is in	Montgomery County
-1.0	He	later entered	Washington College
-1.0	He	entered	Washington College
-1.0	He	attended	Montgomery Male Academy

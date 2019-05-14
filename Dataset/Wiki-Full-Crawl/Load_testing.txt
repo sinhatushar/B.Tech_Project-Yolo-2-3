@@ -1,1 +1,0 @@
-Load testing is the process of putting demand on a system and measuring its response.

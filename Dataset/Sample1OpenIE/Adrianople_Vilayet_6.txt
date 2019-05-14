@@ -1,8 +1,0 @@
-1.0	area	Sometimes is described also as	Southern Thrace
-1.0	area	is	described also
-1.0	area	Sometimes is described as	Southern Thrace
-1.0	area	is	described
-1.0	area	is	Sometimes described also
-1.0	area	is described as	Southern Thrace
-1.0	area	is	Sometimes described
-1.0	area	is described also as	Southern Thrace

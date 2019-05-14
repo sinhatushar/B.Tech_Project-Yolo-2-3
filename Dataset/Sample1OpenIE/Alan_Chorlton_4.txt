@@ -1,7 +1,0 @@
-1.0	he	become	works manager
-1.0	he	moved at	plant.In 1913
-1.0	he	moved at	Lincoln
-1.0	He	returned to	England
-1.0	he	moved to	Ruston
-1.0	he	rose	become
-1.0	he	become	general works manager

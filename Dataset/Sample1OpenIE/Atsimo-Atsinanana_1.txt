@@ -1,3 +1,0 @@
-1.0	Atsimo-Atsinanana	is	region
-1.0	region	is in	Madagascar
-1.0	Atsimo-Atsinanana	is region in	Madagascar

@@ -1,8 +1,0 @@
-1.0	Tisdale	had	minor roles
-1.0	Tisdale	had	minor roles in television
-0.8172272592056105	had	minor roles in	television
-1.0	Tisdale	had	roles in television
-1.0	Tisdale	had	roles
-1.0	minor roles	is in	television
-1.0	Tisdale	was featured in	over 100 advertisements
-0.8172272592056105	had	roles in	television

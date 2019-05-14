@@ -1,4 +1,0 @@
-1.0	grain	are	where grown
-1.0	city	is	trade centre
-1.0	grain	are	grown
-1.0	city	is	trade centre for farming region

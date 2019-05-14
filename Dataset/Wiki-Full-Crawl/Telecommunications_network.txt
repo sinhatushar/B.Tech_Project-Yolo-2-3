@@ -1,9 +1,0 @@
-A telecommunications network is a collection of terminal nodes, links  are connected so as to enable telecommunication between the terminals.
-The transmission links connect the nodes together. The nodes use circuit switching, message switching or packet switching to pass the signal through the correct links and nodes to reach the correct destination terminal.
-Each terminal in the network usually has a unique address so messages or connections can be routed to the correct recipients. The collection of addresses in the network is called the address space.
-Examples of telecommunications networks are:
-computer networks
-the Internet
-the telephone network
-the global Telex network
-the aeronautical ACARS network

@@ -1,8 +1,0 @@
-1.0	television channel	operated by	European Media Enterprises WarnerMedia/AT
-1.0	television channel	operated by	Media Enterprises
-1.0	television channel	operated by	European Media Enterprises
-1.0	television channel	operated by	Central European Media Enterprises
-1.0	television channel	operated by	Central Media Enterprises
-1.0	television channel	operated by	Central Media Enterprises WarnerMedia/AT
-1.0	television channel	operated by	Media Enterprises WarnerMedia/AT
-1.0	television channel	operated by	Central European Media Enterprises WarnerMedia/AT

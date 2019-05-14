@@ -1,6 +1,0 @@
-1.0	Airspeed Limited	build aeroplanes in	1931 in York
-1.0	novelist	used	his forenames
-1.0	Airspeed Limited	build aeroplanes by	A. H. Tiltman
-1.0	Airspeed Limited	build	aeroplanes
-0.08525081604622908	novelist	used as	his pen-name
-1.0	Airspeed Limited	was	established

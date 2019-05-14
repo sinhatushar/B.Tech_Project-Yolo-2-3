@@ -1,6 +1,0 @@
-1.0	Agyemang-Prempeh	is	professional
-1.0	Nana Opoku Agyemang-Prempeh	is	footballer
-1.0	Nana Opoku Agyemang-Prempeh	is	Ghanaian footballer
-1.0	Nana Opoku Agyemang-Prempeh	is	Ghanaian professional footballer
-1.0	Agyemang-Prempeh	is	Ghanaian
-1.0	Nana Opoku Agyemang-Prempeh	is	professional footballer

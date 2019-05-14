@@ -1,5 +1,0 @@
-1.0	jurist	General under	President Ulysses S. Grant
-1.0	Alphonso Taft	November at_time	1891
-1.0	Alphonso Taft	was	American jurist
-1.0	Taft	was	American
-1.0	Alphonso Taft	was	jurist

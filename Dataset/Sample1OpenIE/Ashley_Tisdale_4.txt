@@ -1,4 +1,0 @@
-1.0	she	starred as	Sharpay Evans
-1.0	she	starred in	High School franchise
-1.0	she	starred in	High School Musical franchise
-1.0	success	was	heightened

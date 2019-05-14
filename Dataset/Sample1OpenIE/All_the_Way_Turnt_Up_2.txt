@@ -1,3 +1,0 @@
-1.0	song	features	rapper Soulja Boy
-1.0	song	was produced by	Vybe Beatz
-1.0	song	was	produced

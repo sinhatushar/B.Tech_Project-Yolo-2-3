@@ -1,6 +1,0 @@
-1.0	Ontario Ministry	has designated Alfred Bog Near	town of Alfred
-1.0	Ontario Ministry	has designated Alfred Bog Near	town
-1.0	Ontario Ministry	has designated	Alfred Bog
-1.0	Ontario Ministry	has designated Alfred Bog as	wetland
-1.0	Ontario Ministry	has designated Alfred Bog as	significant wetland
-1.0	Ontario Ministry	has designated Alfred Bog as	provincially significant wetland

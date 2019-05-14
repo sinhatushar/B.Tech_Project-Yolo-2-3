@@ -1,4 +1,0 @@
-1.0	David Byrne	of	film True Stories
-1.0	Adelle Lutz	is	actress
-1.0	Lutz	is	American
-1.0	Adelle Lutz	is	American actress

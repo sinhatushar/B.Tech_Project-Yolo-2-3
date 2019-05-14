@@ -1,5 +1,0 @@
-1.0	Antimimistis	is	genus
-1.0	Antimimistis	is	genus of moths in family Geometridae
-1.0	Antimimistis	is genus of	moths
-1.0	genus	is in	family Geometridae
-1.0	Antimimistis	is genus in	family Geometridae

@@ -1,8 +1,0 @@
-1.0	Fleet Marine Force Combat Operation Insignia	is also authorized for	wear on medal
-1.0	Fleet Marine Force Combat Operation Insignia	is	authorized
-1.0	Fleet Marine Force Combat Operation Insignia	is also authorized for	wear on medal for Navy service members
-1.0	Fleet Marine Force Combat Operation Insignia	is also authorized for	wear
-1.0	Fleet Marine Force Combat Operation Insignia	is authorized for	wear on medal for Navy service members
-1.0	Fleet Marine Force Combat Operation Insignia	is	also authorized
-1.0	Fleet Marine Force Combat Operation Insignia	is authorized for	wear on medal
-1.0	Fleet Marine Force Combat Operation Insignia	is authorized for	wear

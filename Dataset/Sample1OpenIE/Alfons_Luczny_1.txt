@@ -1,9 +1,0 @@
-1.0	Luczny	was	German
-1.0	Alfons Luczny	was	general
-1.0	Alfons Luczny	was	general in Luftwaffe during World War II
-1.0	Alfons Luczny	was	German general
-1.0	Alfons Luczny	was general during	World War II
-1.0	Alfons Luczny	was German general during	World War II
-1.0	Alfons Luczny	was German general in	Luftwaffe
-1.0	Alfons Luczny	was	German general in Luftwaffe during World War II
-1.0	Alfons Luczny	was general in	Luftwaffe

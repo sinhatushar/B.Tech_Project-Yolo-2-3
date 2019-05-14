@@ -1,6 +1,0 @@
-1.0	it	was	Prior known
-1.0	it	was known as	Bellanca Aircraft Company
-1.0	it	was	known
-1.0	it	was	Prior to 1983 known
-1.0	it	Prior was known as	Bellanca Aircraft Company
-1.0	it	was	Prior to 1983 known as Bellanca Aircraft Company

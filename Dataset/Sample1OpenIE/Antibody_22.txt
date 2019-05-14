@@ -1,5 +1,0 @@
-1.0	signal transduction	induce	conditions
-1.0	asthma.Though	region at	tip of protein
-1.0	allergen-IgE-FcR interaction	mediates	signal transduction
-1.0	allergic signal transduction	induce	conditions
-1.0	allergen-IgE-FcR interaction	mediates	allergic signal transduction

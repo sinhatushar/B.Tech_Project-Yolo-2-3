@@ -1,8 +1,0 @@
-1.0	Her collaboration	is with	Hardwell
-1.0	Her collaboration	held	number on Beatport Top 100
-1.0	Her collaboration	held	number
-1.0	musical family	is in	Sydney
-1.0	Shepherd	comes from	family in Sydney
-1.0	Shepherd	comes from	musical family in Sydney
-1.0	Shepherd	comes from	family
-1.0	Shepherd	comes from	musical family

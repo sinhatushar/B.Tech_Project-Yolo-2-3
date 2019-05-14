@@ -1,8 +1,0 @@
-1.0	first album	was	debut
-1.0	first album	was debut of	group OMP Wilanw
-0.5247415887546166	first album	released by	Asfalt Records
-0.5247415887546166	album	released by	Asfalt Records
-1.0	album	was debut of	group OMP Wilanw
-1.0	first album	was debut of	Polish group OMP Wilanw
-1.0	album	was	debut
-1.0	album	was debut of	Polish group OMP Wilanw

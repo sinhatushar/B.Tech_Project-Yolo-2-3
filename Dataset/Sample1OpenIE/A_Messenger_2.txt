@@ -1,5 +1,0 @@
-1.0	album	was released by	Sparrow Records
-1.0	album	was	released on January 29 2013 by Sparrow Records
-1.0	album	was released on	January 29 2013
-1.0	album	was	released
-1.0	album	debuted at	No

@@ -1,5 +1,0 @@
-1.0	centre	gained status in	1976
-1.0	centre	open with	ten courses
-1.0	centre	open with	ten post-graduate courses
-1.0	centre	gained	affiliating-university status
-1.0	centre	gained	status

@@ -1,4 +1,0 @@
-1.0	operators	is in	Italy
-1.0	operators	is in	Central Europe
-1.0	company	grew	becoming
-1.0	company	grew in	importance

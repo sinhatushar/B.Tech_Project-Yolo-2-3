@@ -1,6 +1,0 @@
-1.0	Lack	would result in	scaling
-1.0	Lack	would also result in	scaling
-1.0	Lack	would also result in	scaling down of project
-1.0	Lack	would also result in	scaling down
-1.0	Lack	would result in	scaling down of project
-1.0	Lack	would result in	scaling down

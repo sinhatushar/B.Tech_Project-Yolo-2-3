@@ -1,4 +1,0 @@
-1.0	Soebandono	is third child of	four siblings
-1.0	Soebandono	is child of	four siblings
-1.0	Soebandono	is	child
-1.0	Soebandono	is	third child

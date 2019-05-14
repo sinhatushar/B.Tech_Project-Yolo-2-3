@@ -1,6 +1,0 @@
-1.0	They	grow into	head
-1.0	They	grow on	short stalk
-1.0	They	grow on	stalk
-1.0	They	grow on	short robust stalk
-1.0	They	grow on	robust stalk
-1.0	They	grow into	compact head

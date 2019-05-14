@@ -1,6 +1,0 @@
-1.0	It	is	considered
-0.8465041649518997	it	follows format as	show
-1.0	It	is	often considered
-1.0	Space Ghost	interviewing	guests
-0.8465041649518997	it	follows	format
-0.8465041649518997	it	follows	same format

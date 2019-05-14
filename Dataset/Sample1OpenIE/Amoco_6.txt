@@ -1,9 +1,0 @@
-1.0	firm 's innovations	included	two essential parts of industry
-1.0	modern industry	of parts is	gasoline tanker truck
-1.0	firm 's innovations	included	two parts of modern industry
-1.0	firm 's innovations	included	two parts
-1.0	firm	has	innovations
-1.0	firm 's innovations	included	gasoline tanker truck
-1.0	firm 's innovations	included	two essential parts
-1.0	firm 's innovations	included	two parts of industry
-1.0	firm 's innovations	included	two essential parts of modern industry

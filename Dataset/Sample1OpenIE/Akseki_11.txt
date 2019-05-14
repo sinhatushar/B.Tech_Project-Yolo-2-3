@@ -1,7 +1,0 @@
-1.0	Antalya	has	Akdeniz University
-1.0	Antalya 's Akdeniz University	has	branch here
-1.0	Antalya 's Akdeniz University	doing	other vocational training
-1.0	Antalya 's Akdeniz University	doing	training
-1.0	Antalya 's Akdeniz University	has	branch
-1.0	Antalya 's Akdeniz University	doing	other training
-1.0	Antalya 's Akdeniz University	doing	vocational training

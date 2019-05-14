@@ -1,5 +1,0 @@
-1.0	he	was appointed Deputy Controller at	Ministry
-1.0	he	was appointed Deputy Controller During	First World War
-1.0	he	was appointed Deputy Controller at	Ministry of Munitions
-1.0	he	was appointed	Deputy Controller
-1.0	he	was appointed	Deputy Controller of Aero Engines

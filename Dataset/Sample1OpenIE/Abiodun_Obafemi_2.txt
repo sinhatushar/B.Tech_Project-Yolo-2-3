@@ -1,9 +1,0 @@
-1.0	his career	most of was	part of Nigeria 's Gold Medal at 1996 Olympics
-1.0	most	was	part of Nigeria 's Gold Medal at 1996 Olympics
-1.0	Nigeria	of	Gold Medal
-1.0	most	was part at	1996 Olympics
-1.0	his career	most of was	part
-1.0	his career	most of was	part at 1996 Olympics
-1.0	most	was	part
-1.0	He	is	defender
-1.0	most	was part of	Nigeria 's Gold Medal

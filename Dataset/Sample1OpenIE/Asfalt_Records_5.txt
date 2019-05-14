@@ -1,2 +1,0 @@
-1.0	two groups	joined	label
-1.0	two groups	Afterwards joined	label

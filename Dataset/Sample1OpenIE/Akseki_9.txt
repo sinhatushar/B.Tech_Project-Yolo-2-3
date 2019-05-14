@@ -1,6 +1,0 @@
-1.0	Akseki	was	formerly Byzantine town
-1.0	Akseki	was	town
-1.0	Akseki	was	Byzantine town
-1.0	Akseki	was town of	Marla
-1.0	Akseki	was Byzantine town of	Marla
-1.0	Akseki	was formerly Byzantine town of	Marla

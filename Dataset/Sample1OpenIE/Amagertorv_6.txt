@@ -1,7 +1,0 @@
-1.0	It	consists of	pattern of granite stones in five colours
-1.0	It	consists of	pattern
-1.0	It	consists of	pattern of granite stones
-1.0	pattern	is in	five colours
-1.0	It	consists of	pattern of pentagonal granite stones
-1.0	It	consists of	pattern in five colours
-1.0	It	consists of	pattern of pentagonal granite stones in five colours

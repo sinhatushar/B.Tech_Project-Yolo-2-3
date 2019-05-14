@@ -1,8 +1,0 @@
-1.0	Aralioideae	is	subfamily of flowering plants contains around 50 recognized genera
-1.0	Aralioideae	is subfamily of	flowering plants
-1.0	Aralioideae	is	subfamily contains around 50 recognized genera
-1.0	Aralioideae	is	subfamily of flowering plants contains
-1.0	Aralioideae	is	subfamily
-1.0	Aralioideae	is	subfamily of flowering plants contains around 50 genera
-1.0	Aralioideae	is	subfamily contains
-1.0	Aralioideae	is	subfamily contains around 50 genera

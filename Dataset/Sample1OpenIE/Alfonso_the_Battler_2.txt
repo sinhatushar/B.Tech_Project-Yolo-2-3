@@ -1,4 +1,0 @@
-1.0	He	was son of	King Sancho Ramrez
-1.0	He	was	second son
-1.0	He	was second son of	King Sancho Ramrez
-1.0	He	was	son

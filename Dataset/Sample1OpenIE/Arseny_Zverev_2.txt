@@ -1,9 +1,0 @@
-1.0	Zverev	was born outside	just Moscow
-1.0	Zverev	was	born in little village outside Moscow
-1.0	Zverev	was	born in village just outside Moscow
-1.0	Zverev	was born in	village
-1.0	Zverev	was born in	little village
-1.0	Zverev	was	born in little village just outside Moscow
-1.0	Zverev	was	born in village outside Moscow
-1.0	Zverev	was	born
-1.0	Zverev	was born outside	Moscow

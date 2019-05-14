@@ -1,9 +1,0 @@
-1.0	aircraft	are	where exhibited
-1.0	show	is	public
-1.0	aircraft	are	exhibited
-1.0	air show	is public event	exhibited
-1.0	air show	is event	where exhibited
-1.0	air show	is	public event
-1.0	air show	is event	exhibited
-1.0	air show	is public event	where exhibited
-1.0	air show	is	event

@@ -1,4 +1,0 @@
-1.0	Berkeley	was	American
-1.0	Berkeley	was	Trinidadian-born
-1.0	Anthony Ian Berkeley	November at_time	2001
-0.6218211427405165	Anthony Ian Berkeley	better known as	Too Poetic

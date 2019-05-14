@@ -1,4 +1,0 @@
-1.0	Lynx	had	affiliations
-1.0	Lynx	had	affiliations with Tampa Bay Lightning of NHL
-1.0	Lynx	had	affiliations with Tampa Bay Lightning
-1.0	affiliations	is with	Tampa Bay Lightning of NHL

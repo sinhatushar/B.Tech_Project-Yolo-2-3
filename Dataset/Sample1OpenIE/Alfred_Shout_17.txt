@@ -1,5 +1,0 @@
-1.0	Shout	mentioned in	despatches
-1.0	Shout	was awarded	Military Cross
-1.0	Shout	later mentioned in	despatches
-1.0	Shout	was awarded Military Cross For	his leadership
-1.0	Shout	was awarded Military Cross For	his leadership during invasion

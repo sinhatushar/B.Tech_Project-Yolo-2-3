@@ -1,4 +1,0 @@
-1.0	states	have stop	statutes
-1.0	24 states	have stop	statutes
-1.0	states	have stop statutes In	United States
-1.0	24 states	have stop statutes In	United States

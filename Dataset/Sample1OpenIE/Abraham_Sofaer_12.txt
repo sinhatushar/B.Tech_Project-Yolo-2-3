@@ -1,7 +1,0 @@
-1.0	He	made	three appearances
-0.8900045270650501	He	was featured in	two episodes
-1.0	He	made	three appearances including as Sylvester Robey
-1.0	He	made	three appearances on Perry Mason including as Sylvester Robey
-0.8900045270650501	He	was	featured
-0.8900045270650501	He	was featured in	two episodes of Star Trek
-1.0	He	made	three appearances on Perry Mason

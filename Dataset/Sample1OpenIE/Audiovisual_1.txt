@@ -1,6 +1,0 @@
-0.7976641619156964	component	sound such as	slide-tape presentations
-0.7976641619156964	component	sound such as	presentations
-0.7976641619156964	visual component	sound such as	slide-tape presentations
-0.7976641619156964	visual component	sound such as	presentations
-1.0	Audiovisual	possessing	sound
-1.0	Audiovisual	possessing	component

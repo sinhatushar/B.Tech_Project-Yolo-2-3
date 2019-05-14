@@ -1,6 +1,0 @@
-1.0	He	was	included
-1.0	country	in	squads at European Championship in 2000
-1.0	He	was included in	country 's squads at European Championship
-1.0	He	was included in	country 's squads at Championship
-1.0	country 's squads	is in	2000
-1.0	He	was included in	country 's squads

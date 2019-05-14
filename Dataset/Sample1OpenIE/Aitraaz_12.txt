@@ -1,2 +1,0 @@
-1.0	film	winning	three
-1.0	film	received	ten nominations

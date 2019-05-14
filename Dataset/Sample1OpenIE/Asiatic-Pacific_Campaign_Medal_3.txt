@@ -1,6 +1,0 @@
-1.0	reverse side	was	designed
-1.0	reverse side	was designed by	Adolph Alexander Weinman
-1.0	side	was designed by	Adolph Alexander Weinman
-1.0	medal	was	designed
-1.0	side	was	designed
-1.0	medal	was designed by	Thomas Hudson Jones

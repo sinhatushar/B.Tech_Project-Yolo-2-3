@@ -1,5 +1,0 @@
-1.0	David Stevens	complete	it
-0.9476122480925425	book	Story of	Family
-0.9476122480925425	book	Story of	American Family
-1.0	book	was published as	Queen
-1.0	book	was	published

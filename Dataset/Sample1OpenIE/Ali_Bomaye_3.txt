@@ -1,5 +1,0 @@
-1.0	song	has peaked on	Billboard Bubbling
-1.0	song	appears in	soundtrack to Grand Theft Auto V.
-1.0	song	has peaked on	Billboard Bubbling Under R&B
-1.0	song	appears in	soundtrack
-1.0	song	has peaked at	number one

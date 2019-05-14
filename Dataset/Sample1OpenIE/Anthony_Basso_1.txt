@@ -1,5 +1,0 @@
-1.0	Basso	is	French
-1.0	footballer	currently playing for	Yverdon-Sport
-1.0	footballer	playing for	Yverdon-Sport
-1.0	French footballer	playing for	Yverdon-Sport
-1.0	French footballer	currently playing for	Yverdon-Sport

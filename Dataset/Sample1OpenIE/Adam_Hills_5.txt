@@ -1,4 +1,0 @@
-1.0	He	has performed for	Laughs festival
-1.0	He	has performed Just for	Laughs festival
-1.0	He	has performed Just at	Edinburgh Festival Fringe
-1.0	He	has performed at	Edinburgh Festival Fringe

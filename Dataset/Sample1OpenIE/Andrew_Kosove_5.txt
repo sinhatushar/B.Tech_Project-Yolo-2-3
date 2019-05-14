@@ -1,7 +1,0 @@
-1.0	He	finished third in	2010
-1.0	He	finished in	2010
-1.0	Ironman Executive Challenge	is in	Ironman Coeur d'Alene
-1.0	He	finished in	Ironman Executive Challenge
-1.0	He	finished third in	Ironman Executive Challenge in Ironman Coeur d'Alene
-1.0	He	finished in	Ironman Executive Challenge in Ironman Coeur d'Alene
-1.0	He	finished third in	Ironman Executive Challenge

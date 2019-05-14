@@ -1,4 +1,0 @@
-1.0	Tisdale signing	is with	Warner Bros.
-1.0	success	led to	Tisdale signing
-1.0	success	led to	Tisdale signing with Warner Bros.
-1.0	her	album	Headstrong

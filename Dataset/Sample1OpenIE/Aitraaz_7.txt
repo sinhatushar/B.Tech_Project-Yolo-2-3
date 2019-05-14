@@ -1,7 +1,0 @@
-1.0	Aitraaz	grossing against	budget
-1.0	Aitraaz	was	commercial
-1.0	Aitraaz	grossing over	260 million
-1.0	Aitraaz	was	commercial success
-1.0	Aitraaz	grossing at	box office
-1.0	Aitraaz	grossing against	budget of 110 million
-1.0	Aitraaz	was	success

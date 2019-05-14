@@ -1,4 +1,0 @@
-1.0	AES	is headquartered in	Arlington
-1.0	world	of	leading power companies
-1.0	AES	is	headquartered
-1.0	AES	is headquartered in	Virginia

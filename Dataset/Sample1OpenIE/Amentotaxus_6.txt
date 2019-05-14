@@ -1,5 +1,0 @@
-1.0	male cones	are on	branches
-1.0	male cones	are on	different branches
-1.0	species	can	can monoecious
-1.0	male cones	are on	often branches
-1.0	male cones	are on	often different branches

@@ -1,2 +1,0 @@
-0.308421633671098	She	was	born
-1.0	She	was born	1974 in San Francisco

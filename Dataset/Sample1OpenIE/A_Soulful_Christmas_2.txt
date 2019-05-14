@@ -1,4 +1,0 @@
-1.0	album	was released in	1968
-1.0	album	was	released in 1968 by King Records
-1.0	album	was	released
-1.0	album	was released by	King Records

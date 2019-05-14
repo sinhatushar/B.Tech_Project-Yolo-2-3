@@ -1,4 +1,0 @@
-1.0	He	works in	New Delhi
-1.0	He	works in	Versova
-1.0	He	works out of	his studios
-1.0	He	works out of	his recording studios

@@ -1,9 +1,0 @@
-1.0	marine gastropod mollusks	is in	family Fasciolariidae
-1.0	Amiantofusus	is genus of	sea snails
-1.0	Amiantofusus	is genus of	marine gastropod mollusks
-1.0	Amiantofusus	is genus of	marine gastropod mollusks in family Fasciolariidae
-1.0	Amiantofusus	is	genus
-1.0	Amiantofusus	is genus of	spindle snails
-1.0	Amiantofusus	is genus of	gastropod mollusks
-1.0	sea snails	mollusks in	family Fasciolariidae
-1.0	Amiantofusus	is genus of	gastropod mollusks in family Fasciolariidae

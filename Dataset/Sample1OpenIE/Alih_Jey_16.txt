@@ -1,6 +1,0 @@
-1.0	ties	is with	record label Universal Music Latino
-1.0	proceeded	released at_time	year
-1.0	proceeded	released at_time	following year
-1.0	she	severed	ties with record label Universal Music Latino
-1.0	she	severed	ties
-1.0	she	severed ties In	2006

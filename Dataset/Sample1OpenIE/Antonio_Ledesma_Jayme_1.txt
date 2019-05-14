@@ -1,5 +1,0 @@
-1.0	state	to	constitution
-1.0	revolutionary nation	has	founding father
-1.0	Antonio Ledesma Jayme	was	Filipino lawyer
-1.0	Antonio Ledesma Jayme	Governor of	Negros Occidental
-1.0	Antonio Ledesma Jayme	July at_time	1937

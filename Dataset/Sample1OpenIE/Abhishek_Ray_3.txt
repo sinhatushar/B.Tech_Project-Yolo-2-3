@@ -1,5 +1,0 @@
-1.0	Kab aate ho	is with	legendary poet Gulzar
-1.0	Ray	has composed on	solo albums
-1.0	Ray	has composed on	solo albums like Udaas Paani
-1.0	Paani	ho with	legendary poet Gulzar
-1.0	Ray	has composed Apart from	feature films

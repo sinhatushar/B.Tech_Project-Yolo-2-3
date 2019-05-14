@@ -1,6 +1,0 @@
-1.0	Terry	played	different characters
-1.0	Terry	played	characters
-1.0	Terry	played	several different characters
-1.0	Terry	played characters in	1916 film Civilization
-1.0	Terry	played characters in	1916 anti-war film Civilization
-1.0	Terry	played	several characters

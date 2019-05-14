@@ -1,4 +1,0 @@
-1.0	Accomac	is	town
-1.0	Accomac	is town in	Accomack County
-1.0	Accomac	is town in	United States
-1.0	town	is in	County

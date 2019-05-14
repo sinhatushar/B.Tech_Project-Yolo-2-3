@@ -1,4 +1,0 @@
-1.0	process	is called	V J
-1.0	process	is	called
-1.0	recombinational process	is	called
-1.0	recombinational process	is called	V J

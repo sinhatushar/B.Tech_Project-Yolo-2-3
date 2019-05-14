@@ -1,8 +1,0 @@
-1.0	He	was also president of	National Rifle Association
-1.0	He	was	first president
-1.0	He	was first president of	National Rifle Association
-1.0	He	was president of	National Rifle Association
-1.0	He	was	also first president
-1.0	He	was also first president of	National Rifle Association
-1.0	He	was	president
-1.0	He	was	also president

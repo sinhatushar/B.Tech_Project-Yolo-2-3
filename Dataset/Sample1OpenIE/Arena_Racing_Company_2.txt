@@ -1,7 +1,0 @@
-1.0	It	accounting for	39 % of racing fixtures
-1.0	16 racecourses	is in	Great Britain
-1.0	It	accounting for	39 % of British racing fixtures
-1.0	It	owns	16 racecourses in Great Britain
-1.0	It	owns	16 racecourses
-1.0	It	accounting for	39 %
-1.0	It	owns	16 racecourses in Britain

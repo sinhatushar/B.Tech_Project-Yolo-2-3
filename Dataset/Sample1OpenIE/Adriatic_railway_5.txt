@@ -1,4 +1,0 @@
-1.0	Lecce-Otranto segment	was turned over to	Ferrovie del Sud Est
-1.0	southernmost Lecce-Otranto segment	was turned over to	Ferrovie del Sud Est
-1.0	southernmost Lecce-Otranto segment	was turned over In	1933
-1.0	Lecce-Otranto segment	was turned over In	1933

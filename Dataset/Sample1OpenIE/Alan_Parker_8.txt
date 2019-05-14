@@ -1,6 +1,0 @@
-1.0	he	received	BAFTA Academy Fellowship Award
-1.0	he	received	highest honour
-1.0	British Film Academy	can give	filmmaker
-1.0	Film Academy	can give	filmmaker
-1.0	he	received BAFTA Academy Fellowship Award In	2013
-1.0	he	received	honour

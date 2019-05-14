@@ -1,9 +1,0 @@
-1.0	He	was named	2000 Danish under-19 Talent
-1.0	He	represented Denmark at	2001 Championship
-1.0	He	represented Denmark at	2001 European Championship
-1.0	He	represented Denmark at	2001 European Under-19 Championship
-1.0	He	represented	Denmark
-1.0	He	represented Denmark at	2001 Under-19 Championship
-1.0	He	was named	2000 under-19 Talent of Year
-1.0	He	was named	2000 under-19 Talent
-1.0	He	was named	2000 Danish under-19 Talent of Year

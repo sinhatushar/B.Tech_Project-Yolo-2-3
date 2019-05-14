@@ -1,6 +1,0 @@
-1.0	Anabarilius	is genus of	ray-finned fish
-1.0	Anabarilius	is genus of	fish in Cyprinidae family
-1.0	Anabarilius	is genus of	ray-finned fish in Cyprinidae family
-1.0	ray-finned fish	is in	Cyprinidae family
-1.0	Anabarilius	is	genus
-1.0	Anabarilius	is genus of	fish

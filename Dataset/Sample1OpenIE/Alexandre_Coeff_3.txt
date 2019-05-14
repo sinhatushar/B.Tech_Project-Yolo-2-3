@@ -1,6 +1,0 @@
-1.0	Coeff	earned caps from	under-16 to under-21 levels
-1.0	Coeff	is	France youth
-1.0	Coeff	earned caps from	under-16
-1.0	Coeff	earned	caps
-1.0	Coeff	is	France youth international
-1.0	Coeff	is	international

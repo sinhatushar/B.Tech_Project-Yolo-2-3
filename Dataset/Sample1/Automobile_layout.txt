@@ -1,3 +1,0 @@
-The layout of a car is often defined by the location of the engine and drive wheels.
-Layouts can roughly be divided into three categories: front-wheel drive, rear-wheel drive and four-wheel drive. Many different combinations of engine location and driven wheels are found in practice, and the location of each is dependent on the application for which the car will be used.
-

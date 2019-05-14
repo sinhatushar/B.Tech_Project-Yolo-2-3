@@ -1,4 +1,0 @@
-1.0	He	was	cousin
-1.0	He	was cousin of	Lennart Meri
-1.0	He	was cousin of	former President of Estonia
-1.0	He	was cousin of	former President

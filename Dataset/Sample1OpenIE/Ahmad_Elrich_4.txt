@@ -1,4 +1,0 @@
-1.0	He	is older brother of	Western Sydney Wanderers player Tarek Elrich
-1.0	He	is brother of	Western Sydney Wanderers player Tarek Elrich
-1.0	He	is	brother
-1.0	He	is	older brother

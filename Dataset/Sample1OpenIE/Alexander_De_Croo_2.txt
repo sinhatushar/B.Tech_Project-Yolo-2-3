@@ -1,6 +1,0 @@
-1.0	He	holds	office
-1.0	He	currently holds	office of Deputy Prime Minister of Belgium
-1.0	He	currently holds	office of Deputy Prime Minister
-1.0	He	currently holds	office
-1.0	He	holds	office of Deputy Prime Minister
-1.0	He	holds	office of Deputy Prime Minister of Belgium

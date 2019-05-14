@@ -1,2 +1,0 @@
-1.0	Chassis	are	different
-1.0	Chassis	is in	S5

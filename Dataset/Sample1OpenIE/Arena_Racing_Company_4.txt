@@ -1,6 +1,0 @@
-1.0	ARC	acquired Sunderland Greyhound Stadium In	May 2017
-1.0	ARC	acquired Sunderland Greyhound Stadium from	William Hill
-1.0	ARC	acquired Newcastle Greyhound Stadium In	May 2017
-1.0	ARC	acquired	Newcastle Greyhound Stadium
-1.0	ARC	acquired Newcastle Greyhound Stadium from	William Hill
-1.0	ARC	acquired	Sunderland Greyhound Stadium

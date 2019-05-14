@@ -1,6 +1,0 @@
-1.0	album	was remastered with	new stereo
-1.0	album	was remastered In	2007
-1.0	album	was	remastered
-1.0	album	was	In 2007 remastered with new stereo
-1.0	album	was	In 2007 remastered with stereo
-1.0	album	was remastered with	stereo

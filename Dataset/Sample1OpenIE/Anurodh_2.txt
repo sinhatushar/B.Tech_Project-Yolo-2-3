@@ -1,8 +1,0 @@
-1.0	film	stars	Simple Kapadia
-1.0	film	stars	Asrani
-1.0	film	stars	Nirupa Roy
-1.0	film	stars	Rajesh Khanna
-1.0	film	stars	Rita Bhaduri
-1.0	film	stars	Ashok Kumar
-1.0	film	stars	Vinod Mehra
-1.0	film	stars	Asit Sen Utpal Dutt

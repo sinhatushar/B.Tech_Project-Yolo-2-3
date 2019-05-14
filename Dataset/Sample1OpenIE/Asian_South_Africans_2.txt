@@ -1,6 +1,0 @@
-1.0	most	are descended from	workers
-1.0	most	are descended from	indentured workers
-1.0	most	are descended from	workers transported
-1.0	most	are descended from	indentured workers transported
-1.0	most	are	descended
-0.9912222369120524	most	known as	Natal

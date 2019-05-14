@@ -1,4 +1,0 @@
-1.0	club	won promotion in	their season
-1.0	club	won promotion in	their second season
-1.0	club	won	promotion from Serie B
-1.0	club	won	promotion

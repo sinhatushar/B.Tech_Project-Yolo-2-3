@@ -1,6 +1,0 @@
-1.0	they	performed Beatles In	promotion strategy
-1.0	they	also performed	Beatles
-1.0	they	also performed Beatles In	promotion strategy
-1.0	they	performed Beatles In	odd promotion strategy
-1.0	they	also performed Beatles In	odd promotion strategy
-1.0	they	performed	Beatles

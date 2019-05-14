@@ -1,6 +1,0 @@
-0.04645007046092198	It	was	adapted
-1.0	Alex Haley	has	Queen released in 1992
-1.0	It	was adapted	Alex Haley 's Queen released in 1992
-1.0	It	was adapted	Alex Haley 's Queen released
-1.0	It	was adapted	Alex Haley 's Queen
-0.04645007046092198	It	was adapted as	film

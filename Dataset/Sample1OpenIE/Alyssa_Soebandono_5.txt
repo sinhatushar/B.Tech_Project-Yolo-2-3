@@ -1,7 +1,0 @@
-1.0	bachelor	has	degree in Monash University on Australia
-1.0	She	has completed	her bachelor 's degree in Monash University on Australia
-1.0	She	has completed	her bachelor 's degree
-1.0	she	taking	post-graduate program
-1.0	she	taking	program
-1.0	her bachelor 's degree	is in	Monash University on Australia
-1.0	She	has completed	her bachelor 's degree in Monash University

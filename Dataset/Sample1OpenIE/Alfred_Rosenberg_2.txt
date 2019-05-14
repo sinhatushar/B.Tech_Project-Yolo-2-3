@@ -1,8 +1,0 @@
-1.0	Rozenberg	was	German-born
-1.0	Al fred-Ernst Vol demarovich Rozenberg	influential ideologue of	Nazi Party
-1.0	Al fred-Ernst Vol demarovich Rozenberg	ideologue of	Nazi Party
-1.0	Al fred-Ernst Vol demarovich Rozenberg	was	Baltic theorist
-1.0	Al fred-Ernst Vol demarovich Rozenberg	was	German-born theorist
-1.0	Rozenberg	was	Baltic
-1.0	Al fred-Ernst Vol demarovich Rozenberg	was	Baltic German-born theorist
-1.0	Al fred-Ernst Vol demarovich Rozenberg	was	theorist

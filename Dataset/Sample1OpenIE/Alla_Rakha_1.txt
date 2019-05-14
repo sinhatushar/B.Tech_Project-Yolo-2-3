@@ -1,5 +1,0 @@
-1.0	tabla player	specialized in	Hindustani Classical music
-1.0	tabla player	specialized in	Hindustani music
-1.0	Qureshi	was	Indian
-1.0	Indian tabla player	specialized in	Hindustani music
-1.0	Indian tabla player	specialized in	Hindustani Classical music

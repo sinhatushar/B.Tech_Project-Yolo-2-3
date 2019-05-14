@@ -1,5 +1,0 @@
-1.0	They	are	gastropod molluscs
-1.0	They	are	marine gastropod molluscs
-1.0	They	are	gastropod molluscs in suborder Cladobranchia
-1.0	marine gastropod molluscs	is in	suborder Cladobranchia
-1.0	They	are	marine gastropod molluscs in suborder Cladobranchia

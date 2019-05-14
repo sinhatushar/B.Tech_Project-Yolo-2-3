@@ -1,5 +1,0 @@
-1.0	he	entered	Royal Australian Naval College
-1.0	he	entered Royal Australian Naval College at	age
-1.0	he	Born in	Melbourne
-1.0	he	entered Royal Australian Naval College at	age of thirteen
-1.0	he	graduated in	1926

@@ -1,7 +1,0 @@
-1.0	programme	was	broadcast
-1.0	programme	seen by	audience
-1.0	programme	was broadcast via	satellite
-1.0	programme	seen by	audience of over 400 million
-1.0	audience	is in	25 countries
-1.0	programme	seen by	audience of over 400 million in 25 countries
-1.0	programme	seen by	audience in 25 countries

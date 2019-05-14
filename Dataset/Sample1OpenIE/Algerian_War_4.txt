@@ -1,9 +1,0 @@
-1.0	repercussions	is in	metropolitan France
-1.0	war	took place with	repercussions
-1.0	war	took	place
-1.0	war	took place on	mainly territory
-1.0	war	took place on	territory
-1.0	war	took place with	repercussions in France
-1.0	war	took place on	mainly territory of Algeria
-1.0	war	took place on	territory of Algeria
-1.0	war	took place with	repercussions in metropolitan France

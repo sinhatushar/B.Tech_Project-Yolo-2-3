@@ -1,1 +1,0 @@
-  -sphere in Euclidean n-space bounds a topological ball however embedded

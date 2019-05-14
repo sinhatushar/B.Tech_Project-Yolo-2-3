@@ -1,4 +1,0 @@
-1.0	Peters	is with	Debra Paget
-1.0	film	stars	Louis Jourdan
-1.0	film	stars	Jean Peters with Debra Paget
-1.0	film	stars	Jean Peters

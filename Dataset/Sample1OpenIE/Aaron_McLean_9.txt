@@ -1,6 +1,0 @@
-1.0	he	fell following	club 's promotion
-1.0	he	fell following	club 's promotion to Premier League
-1.0	he	moved to	Ipswich Town
-1.0	club	following	promotion to Premier League
-1.0	he	moved on	loan
-1.0	Birmingham City	is in	2013

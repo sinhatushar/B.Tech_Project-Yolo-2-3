@@ -1,6 +1,0 @@
-1.0	Acharya Nagarjuna	founder of	Madhyamaka path
-1.0	university	is named after	founder of Madhyamaka path of Mahayana Buddhism
-1.0	university	is named after	founder of Madhyamaka path
-1.0	university	is	named
-1.0	university	is named after	founder
-1.0	university	is named after	Acharya Nagarjuna

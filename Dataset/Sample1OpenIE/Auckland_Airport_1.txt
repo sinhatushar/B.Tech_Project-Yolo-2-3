@@ -1,7 +1,0 @@
-1.0	Auckland Airport	is largest airport in	New Zealand
-1.0	largest airport	is with	19,387,627
-1.0	Auckland Airport	is largest and busiest airport in	New Zealand
-1.0	Auckland Airport	is	airport
-1.0	Auckland Airport	is	largest airport
-1.0	largest airport	is in	New Zealand
-1.0	Auckland Airport	is airport in	New Zealand

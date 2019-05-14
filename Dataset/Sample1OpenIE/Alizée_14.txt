@@ -1,8 +1,0 @@
-1.0	Gourmandises	was followed by	Mes courants lectriques
-1.0	second studio album	is in	2003
-1.0	Gourmandises	was followed by	studio album
-1.0	Gourmandises	was	followed
-1.0	Gourmandises	was followed by	studio album in 2003
-1.0	Gourmandises	was followed by	second studio album
-1.0	2003	in album is	Mes courants lectriques
-1.0	Gourmandises	was followed by	second studio album in 2003

@@ -1,7 +1,0 @@
-1.0	Generali	is	Italian insurance company
-1.0	Generali	is	Italian
-1.0	Italian insurance company	largest in	Italy
-1.0	Assicurazioni Generali S.p.A.	is	insurance company
-1.0	S.p.A.	is	Italian
-1.0	Assicurazioni Generali S.p.A.	is	Italian insurance company
-1.0	Generali	is	insurance company

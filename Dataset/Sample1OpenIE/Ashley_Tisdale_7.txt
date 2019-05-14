@@ -1,9 +1,0 @@
-1.0	album	earning certification from	Recording Industry Association of America
-1.0	album	was	commercial
-1.0	album	earning	gold certification
-1.0	album	was	success
-1.0	album	earning certification from	RIAA
-1.0	album	earning	certification
-1.0	America	of Association is	RIAA
-1.0	album	earning certification from	Recording Industry Association
-1.0	album	was	commercial success

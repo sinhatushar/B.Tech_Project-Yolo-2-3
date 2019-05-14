@@ -1,7 +1,0 @@
-0.7404666857835902	advance post-secondary education	careers in	engineering
-1.0	purpose	share	ideas
-0.7404666857835902	advance post-secondary education	technology-oriented careers in	engineering
-1.0	purpose	share	practices
-0.7404666857835902	advance education	careers in	engineering
-1.0	careers	is in	engineering
-0.7404666857835902	advance education	technology-oriented careers in	engineering

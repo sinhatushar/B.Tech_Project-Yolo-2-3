@@ -1,8 +1,0 @@
-1.0	important young filmmakers	is in	Japan
-1.0	Kurosawa	cast	actor Toshiro Mifune
-1.0	Drunken Angel	cemented	director 's reputation
-1.0	director	has	reputation
-1.0	Kurosawa	cast	then-unknown actor Toshiro Mifune
-1.0	Kurosawa	cast actor Toshiro Mifune in	role
-1.0	Kurosawa	cast actor Toshiro Mifune in	starring role
-1.0	acclaimed Drunken Angel	cemented	director 's reputation

@@ -1,9 +1,0 @@
-1.0	He	was born in	part
-1.0	He	was born in	Rangoon
-1.0	He	was born in	then part of Empire
-1.0	He	was born in	part of Empire
-1.0	He	was born in	then part of British Empire
-1.0	Rangoon	part of	British Empire
-1.0	He	was born in	then part
-1.0	He	was born in	part of British Empire
-1.0	He	was	born

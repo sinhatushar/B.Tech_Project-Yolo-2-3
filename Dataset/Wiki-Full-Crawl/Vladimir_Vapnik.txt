@@ -1,1 +1,0 @@
-Vladimir Naumovich Vapnik (Russian:   ; born 6 December 1936) is one of the main developers of the VapnikChervonenkis theory of statistical learning, and the co-inventor of the support vector machine method, and support vector clustering algorithm.

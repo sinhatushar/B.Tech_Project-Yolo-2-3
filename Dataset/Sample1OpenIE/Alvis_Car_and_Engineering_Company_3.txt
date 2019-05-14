@@ -1,4 +1,0 @@
-1.0	company	became	subsidiary
-1.0	company	became in	1965
-1.0	company	subsidiary of	Rover
-1.0	company	became	subsidiary of Rover

@@ -1,5 +1,0 @@
-1.0	Arthur MacArthur III	was	United States Navy officer
-1.0	career	extended from	SpanishAmerican War
-1.0	career	extended through	World War I.
-1.0	active-duty career	extended from	SpanishAmerican War
-1.0	active-duty career	extended through	World War I.

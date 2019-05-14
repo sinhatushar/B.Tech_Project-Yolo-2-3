@@ -1,5 +1,0 @@
-1.0	back	spotted with	yellow
-1.0	sides	spotted with	yellow
-1.0	olive back	spotted with	yellow
-1.0	green back	spotted with	yellow
-1.0	olive green back	spotted with	yellow

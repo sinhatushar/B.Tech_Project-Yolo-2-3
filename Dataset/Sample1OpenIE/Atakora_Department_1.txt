@@ -1,7 +1,0 @@
-1.0	Atakora	bordering Togo to	north
-1.0	Atakora	bordering Togo to	west
-1.0	Atakora	is northwestern department of	Benin
-1.0	Atakora	bordering	Togo
-1.0	Atakora	is	department
-1.0	Atakora	is department of	Benin
-1.0	Atakora	is	northwestern department

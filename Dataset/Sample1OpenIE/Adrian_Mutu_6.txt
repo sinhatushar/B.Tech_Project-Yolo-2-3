@@ -1,4 +1,0 @@
-1.0	he	was	released
-1.0	he	join	Juventus
-1.0	he	was released Due to	breach
-1.0	he	returned to	Serie A

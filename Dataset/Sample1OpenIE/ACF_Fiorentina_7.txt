@@ -1,2 +1,0 @@
-1.0	club	have played at	Stadio Artemio Franchi
-1.0	club	have played Since	1931

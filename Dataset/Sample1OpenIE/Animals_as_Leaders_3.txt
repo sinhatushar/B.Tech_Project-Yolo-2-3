@@ -1,7 +1,0 @@
-1.0	They	are prominent band within	scene
-1.0	They	are band within	scene
-1.0	They	are prominent band within	djent scene
-1.0	They	are	prominent
-1.0	They	are	prominent band
-1.0	They	are band within	djent scene
-1.0	They	are	band

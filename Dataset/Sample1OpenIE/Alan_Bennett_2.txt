@@ -1,5 +1,0 @@
-1.0	he	performed with	Oxford Revue
-1.0	He	was born in	Leeds
-1.0	He	attended	Oxford University
-1.0	he	studied	history
-1.0	He	was	born

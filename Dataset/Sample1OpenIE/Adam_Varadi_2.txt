@@ -1,7 +1,0 @@
-1.0	Bank	won	league title
-1.0	Varadi	was	member
-1.0	squad	is in	2003-2004 season
-1.0	Varadi	was member of	squad of Bank Ostrava
-1.0	Varadi	was member of	squad
-1.0	Varadi	was member of	squad in 2003-2004 season
-1.0	Varadi	was member of	squad of Bank Ostrava in 2003-2004 season

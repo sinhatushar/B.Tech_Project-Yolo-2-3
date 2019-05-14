@@ -1,9 +1,0 @@
-1.0	Kviesis	promulgated	law
-1.0	Kviesis	thus unconstitutionally combining	two offices
-1.0	Kviesis	promulgated law On	19 March 1936
-1.0	Ulmanis	become upon	expiration of Kvesis ' term
-1.0	Ulmanis	become	president
-1.0	Kviesis	combining	two offices
-1.0	Ulmanis	become upon	expiration
-1.0	Kviesis	thus combining	two offices
-1.0	Kviesis	unconstitutionally combining	two offices

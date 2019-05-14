@@ -1,7 +1,0 @@
-1.0	Ahsan	received LLM from	Cambridge
-1.0	Ahsan	studied law at	Lahore
-1.0	Ahsan	studied law at	Government College
-1.0	Ahsan	received LLM from	Downing College
-1.0	Ahsan	received	LLM
-1.0	Ahsan	studied	law
-1.0	Ahsan	Born in	Murree

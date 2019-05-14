@@ -1,9 +1,0 @@
-1.0	They	have	appearance with small head
-1.0	They	have	hump-backed appearance with head
-1.0	They	have	appearance
-1.0	They	have	appearance with strikingly small head
-1.0	They	have	hump-backed appearance
-1.0	They	have	hump-backed appearance with small head
-1.0	They	have	hump-backed appearance with strikingly small head
-1.0	hump-backed appearance	is with	strikingly small head
-1.0	They	have	appearance with head

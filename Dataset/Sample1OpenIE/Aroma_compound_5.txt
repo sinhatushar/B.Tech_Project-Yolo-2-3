@@ -1,8 +1,0 @@
-1.0	fragrances	be	synthetic.Aroma compounds can found in food
-1.0	fragrances	tend	synthetic.Aroma compounds can found in food
-1.0	fragrances	be	synthetic.Aroma compounds
-1.0	fragrances	tend	synthetic.Aroma compounds can found
-1.0	fragrances	tend	synthetic.Aroma compounds
-1.0	Flavors	tend	be occurring
-1.0	fragrances	be	synthetic.Aroma compounds can found
-1.0	Flavors	tend	be naturally occurring

@@ -1,5 +1,0 @@
-1.0	percent	loss of is	home to Altus Air Force Base
-1.0	7.7 percent	loss of is	home to Altus Air Force Base
-1.0	percent	loss of is	home
-1.0	Altus Air Force Base	base for	C-17
-1.0	7.7 percent	loss of is	home

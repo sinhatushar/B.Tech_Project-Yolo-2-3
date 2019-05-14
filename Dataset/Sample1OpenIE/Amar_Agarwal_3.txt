@@ -1,8 +1,0 @@
-1.0	He	is also past President of	International Society of Refractive Surgery
-1.0	He	is past President of	International Society of Surgery
-1.0	He	is	also past President
-1.0	He	is also past President of	International Society of Surgery
-1.0	He	is	past President
-1.0	He	is past President of	International Society of Refractive Surgery
-1.0	He	is also past President of	International Society
-1.0	He	is past President of	International Society
