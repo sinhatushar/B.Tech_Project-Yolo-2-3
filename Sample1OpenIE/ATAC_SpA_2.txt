@@ -1,8 +1,0 @@
-1.0	trips	are	daily made
-1.0	trips	are	made
-1.0	trips	using	ATAC services
-1.0	Four million trips	transporting	1,148,966,529 passengers
-1.0	Four million trips	using	ATAC services
-1.0	Four million trips	are	made
-1.0	Four million trips	are	daily made
-1.0	trips	transporting	1,148,966,529 passengers

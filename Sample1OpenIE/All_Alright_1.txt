@@ -1,6 +1,0 @@
-1.0	Alright	is	song recorded
-1.0	Alright	is	song
-1.0	song	recorded by	country music group Zac Brown Band
-1.0	song	recorded by	American country music group Zac Brown Band
-1.0	Alright	is	song recorded by American country music group Zac Brown Band
-1.0	Alright	is	song recorded by country music group Zac Brown Band

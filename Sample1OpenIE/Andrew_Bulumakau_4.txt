@@ -1,9 +1,0 @@
-1.0	Coventry	is	Sevens player
-1.0	Coventry	is	Scottish
-1.0	Bulumakau	left Doncaster On	12 April 2018
-1.0	Coventry	is	international
-1.0	Coventry	is	international Sevens player
-1.0	Bulumakau	left	Doncaster
-1.0	Coventry	is	Scottish Sevens player
-1.0	Doncaster	join	Championship rivals
-1.0	Coventry	is	Scottish international Sevens player

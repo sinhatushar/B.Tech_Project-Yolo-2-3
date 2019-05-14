@@ -1,8 +1,0 @@
-1.0	part	is as long as	sidelobes
-1.0	part	is	long
-1.0	basal part	is as long as	sidelobes
-1.0	part	is	as long
-1.0	basal part	is	as long
-1.0	basal part	is	long
-1.0	basal part	is long as	sidelobes
-1.0	part	is long as	sidelobes

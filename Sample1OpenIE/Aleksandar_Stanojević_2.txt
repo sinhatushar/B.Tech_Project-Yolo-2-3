@@ -1,4 +1,0 @@
-1.0	He	is	manager
-1.0	He	is	currently manager
-1.0	He	is currently manager of	Beijing Renhe
-1.0	He	is manager of	Beijing Renhe

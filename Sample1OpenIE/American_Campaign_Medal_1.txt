@@ -1,9 +1,0 @@
-1.0	American Campaign Medal	is	military award
-1.0	Campaign Medal	is	military award
-1.0	Medal	is	military
-1.0	Campaign Medal	is award of	United States Armed Forces
-1.0	American Campaign Medal	is	award
-1.0	Campaign Medal	is	award
-1.0	American Campaign Medal	is award of	United States Armed Forces
-1.0	Campaign Medal	is military award of	United States Armed Forces
-1.0	American Campaign Medal	is military award of	United States Armed Forces

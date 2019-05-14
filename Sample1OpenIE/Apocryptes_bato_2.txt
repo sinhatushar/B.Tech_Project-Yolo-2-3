@@ -1,2 +1,0 @@
-1.0	species	can reach	length
-1.0	species	can reach	length of 26 centimetres

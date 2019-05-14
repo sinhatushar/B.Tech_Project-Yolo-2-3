@@ -1,7 +1,0 @@
-1.0	Swim Brain Trust	is	television special
-1.0	November 4 2004	on block is	Adult Swim
-1.0	Adult Swim Brain Trust	is	television special
-1.0	Adult Swim Brain Trust	is	animated television special
-1.0	Swim Brain Trust	is	animated television special
-1.0	Cartoon Network	on	late night
-1.0	Trust	is	animated

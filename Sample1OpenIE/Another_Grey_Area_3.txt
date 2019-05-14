@@ -1,3 +1,0 @@
-1.0	album	features	Nicky Hopkins
-1.0	album	features Nicky Hopkins on	acoustic piano
-1.0	album	features Nicky Hopkins on	piano

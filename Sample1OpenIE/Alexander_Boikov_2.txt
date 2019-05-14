@@ -1,4 +1,0 @@
-1.0	He	was	captain
-1.0	He	was captain for	HC Sibir Novosibirsk
-1.0	He	was	captain for HC Sibir Novosibirsk for two seasons
-1.0	He	was captain for	two seasons

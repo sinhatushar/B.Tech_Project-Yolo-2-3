@@ -1,5 +1,0 @@
-1.0	Angela	's Ashes is	1999
-1.0	Angela	has	Ashes
-1.0	He	has directed	musicals
-1.0	His films	have won	ten Golden Globes
-1.0	His films	have won	nineteen BAFTA awards

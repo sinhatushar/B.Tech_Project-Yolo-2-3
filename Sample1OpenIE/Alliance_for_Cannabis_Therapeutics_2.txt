@@ -1,5 +1,0 @@
-1.0	Randall	was	first person known
-1.0	charge	is in	violation of Controlled Substances Act
-1.0	Randall	was	person
-1.0	Randall	was	first person
-1.0	Randall	was	person known

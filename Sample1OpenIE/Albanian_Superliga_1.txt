@@ -1,6 +1,0 @@
-1.0	men	for	association football clubs
-1.0	Albanian Superliga	is professional league for	men 's association football clubs
-1.0	Superliga	is	professional
-1.0	Albanian Superliga	is	professional league
-1.0	Albanian Superliga	is	league
-1.0	Albanian Superliga	is league for	men 's association football clubs

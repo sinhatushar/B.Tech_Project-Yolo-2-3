@@ -1,7 +1,0 @@
-1.0	It	discontinued by	forces
-1.0	It	was	invaded by Napoleon 's troops in 1807
-1.0	It	was	invaded
-1.0	It	was invaded by	Napoleon 's troops
-1.0	It	was invaded in	1807
-1.0	Napoleon	by	troops
-1.0	It	discontinued by	Liberal forces

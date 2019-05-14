@@ -1,8 +1,0 @@
-1.0	Apidae	is	largest family
-1.0	family	containing	at least 5700 species of bees
-1.0	Apidae	is family within	superfamily Apoidea
-1.0	largest family	containing	at least 5700 species of bees
-1.0	family	containing	at least 5700 species
-1.0	Apidae	is largest family within	superfamily Apoidea
-1.0	Apidae	is	family
-1.0	largest family	containing	at least 5700 species

@@ -1,2 +1,0 @@
-1.0	He	was	great-uncle
-1.0	He	was great-uncle of	Walter Benjamin

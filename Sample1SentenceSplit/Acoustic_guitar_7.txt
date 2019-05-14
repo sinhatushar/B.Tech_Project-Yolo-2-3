@@ -1,1 +1,0 @@
-The frequencies produced can depend on string length, mass, and tension.

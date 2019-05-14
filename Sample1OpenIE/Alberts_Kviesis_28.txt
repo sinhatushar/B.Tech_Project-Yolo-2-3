@@ -1,4 +1,0 @@
-1.0	Forest Cemetery	is in	Riga
-1.0	He	was buried at	Forest Cemetery in Riga
-1.0	He	was buried at	Forest Cemetery
-1.0	He	was	buried

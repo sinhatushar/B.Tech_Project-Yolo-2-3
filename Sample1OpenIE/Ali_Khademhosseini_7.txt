@@ -1,6 +1,0 @@
-1.0	He	has	has cited > 44,000 times
-1.0	He	has	has cited >
-1.0	He	has	H-index
-1.0	He	has	has cited
-0.5334344539892886	has	H-index of	110
-1.0	He	has	H-index of 110

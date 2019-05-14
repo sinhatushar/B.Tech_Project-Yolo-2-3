@@ -1,5 +1,0 @@
-0.9016927172921697	Assistance Mexican Lucha Libre	based in	Mexico City
-1.0	its	Administracin	Spanish
-0.9016927172921697	Assistance Lucha Libre	based in	Mexico City
-0.9016927172921697	Assistance Lucha Libre promotion	based in	Mexico City
-0.9016927172921697	Assistance Mexican Lucha Libre promotion	based in	Mexico City

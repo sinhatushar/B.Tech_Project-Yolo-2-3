@@ -1,4 +1,0 @@
-1.0	St Teresa	died at	convent
-1.0	she	founded in	town
-1.0	St Teresa	is	buried there
-1.0	St Teresa	is	buried

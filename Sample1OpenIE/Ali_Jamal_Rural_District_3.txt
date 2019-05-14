@@ -1,2 +1,0 @@
-1.0	district	has	38 villages
-1.0	rural district	has	38 villages

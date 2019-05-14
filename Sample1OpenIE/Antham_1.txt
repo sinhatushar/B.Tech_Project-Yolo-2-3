@@ -1,8 +1,0 @@
-1.0	Antham	is	1992 Telugu neo-noir action-crime film produced by Ram Gopal Varma
-1.0	1992 Telugu neo-noir action-crime film	produced by	Ram Gopal Varma
-1.0	Antham	is	1992 Telugu neo-noir action-crime film produced
-1.0	Antham	is	1992 Telugu neo-noir action-crime film
-0.47999423256747253	Antham	produced by	Ram Gopal Varma
-0.47999423256747253	Antham	produced by	Ram Gopal Varma on Drishya Creations banner
-1.0	Antham	is	1992 Telugu neo-noir action-crime film produced by Ram Gopal Varma on Drishya Creations banner
-1.0	1992 Telugu neo-noir action-crime film	produced by	Ram Gopal Varma Drishya Creations banner

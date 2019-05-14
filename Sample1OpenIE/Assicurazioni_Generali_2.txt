@@ -1,3 +1,0 @@
-1.0	It	has	its headquarters
-1.0	its headquarters	is in	Trieste
-1.0	It	has	its headquarters in Trieste

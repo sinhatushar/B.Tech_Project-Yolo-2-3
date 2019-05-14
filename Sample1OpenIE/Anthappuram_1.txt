@@ -1,4 +1,0 @@
-1.0	Anthappuram	is	Indian
-1.0	Anthappuram	is	1980 Malayalam film
-1.0	Anthappuram	is	1980 Indian Malayalam film
-0.6085594576870599	Anthappuram	directed by	K. G. Rajasekharan

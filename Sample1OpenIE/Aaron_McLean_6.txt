@@ -1,6 +1,0 @@
-1.0	He	switched to	Aldershot Town
-1.0	He	moved again to	Grays Athletic
-1.0	He	moved again in	2005
-1.0	He	moved in	2005
-1.0	He	switched in	2003
-1.0	He	moved to	Grays Athletic

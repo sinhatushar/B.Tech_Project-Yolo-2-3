@@ -1,4 +1,0 @@
-1.0	he	worked After	his studies
-1.0	he	worked as	lawyer in Jelgava
-1.0	lawyer	is in	Jelgava
-1.0	he	worked as	lawyer

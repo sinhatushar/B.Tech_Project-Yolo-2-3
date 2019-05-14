@@ -1,7 +1,0 @@
-1.0	equivalent	is Andrea	feminine in other languages
-1.0	equivalent	is Andrea	feminine in most other languages
-1.0	Andrea	is feminine in	other languages
-1.0	equivalent	is Andrea In	Italian
-1.0	Andrea	is feminine in	most other languages
-1.0	equivalent	is	Andrea
-1.0	Andrea	is In	Italian

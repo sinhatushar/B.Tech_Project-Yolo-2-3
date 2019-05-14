@@ -1,5 +1,0 @@
-0.4172445907778871	career	spanning	57 years
-1.0	Akira Kurosawa	was	film director
-1.0	Akira Kurosawa	was	Japanese film director
-1.0	Kurosawa	was	Japanese
-1.0	screenwriter	directed	30 films

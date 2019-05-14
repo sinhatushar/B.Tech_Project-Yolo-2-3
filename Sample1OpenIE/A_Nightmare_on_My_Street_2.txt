@@ -1,3 +1,0 @@
-1.0	crossover hit	is in	US
-1.0	song	became	crossover hit in US
-1.0	song	became	crossover hit

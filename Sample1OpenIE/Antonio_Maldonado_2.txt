@@ -1,4 +1,0 @@
-1.0	He	served as	U.S. Office of Defense Cooperation
-1.0	He	served as	U.S. Office
-1.0	He	served as	Chief
-1.0	Chief	Office of	Defense Cooperation

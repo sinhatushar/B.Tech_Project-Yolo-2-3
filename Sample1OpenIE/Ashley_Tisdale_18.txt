@@ -1,8 +1,0 @@
-1.0	She	serves as	producer of ABC Family television series Young
-1.0	She	serves as	executive producer
-1.0	She	also serves as	executive producer of ABC Family television series Young
-1.0	She	also serves as	executive producer
-1.0	She	serves as	producer
-1.0	She	serves as	executive producer of ABC Family television series Young
-1.0	She	also serves as	producer of ABC Family television series Young
-1.0	She	also serves as	producer

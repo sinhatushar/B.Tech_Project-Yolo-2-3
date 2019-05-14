@@ -1,4 +1,0 @@
-1.0	books	follow	turbulent lives of Violet
-1.0	books	follow	lives
-1.0	books	follow	lives of Violet
-1.0	books	follow	turbulent lives

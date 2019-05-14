@@ -1,7 +1,0 @@
-1.0	Abhishek Ray	is	Indian film composer
-1.0	Abhishek Ray	is	eminent Indian film composer
-1.0	Ray	is	eminent
-1.0	Abhishek Ray	is	film composer
-1.0	Abhishek Ray	is	eminent film composer
-1.0	producer working	is in	Bollywood
-1.0	Ray	is	Indian

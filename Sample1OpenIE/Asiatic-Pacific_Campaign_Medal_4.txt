@@ -1,6 +1,0 @@
-1.0	Navy construction battalion units	issued medal with	Arabic numerals
-1.0	21 Army	denoted on	suspension ribbon
-1.0	21 Army	denoted by	service stars
-1.0	Navy construction battalion units	issued medal with	numerals
-1.0	21 Army	denoted on	suspension ribbon medal
-1.0	Navy construction battalion units	issued	medal

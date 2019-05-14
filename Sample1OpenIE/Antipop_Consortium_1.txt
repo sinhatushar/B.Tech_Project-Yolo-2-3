@@ -1,6 +1,0 @@
-1.0	Antipop Consortium	is	American hip hop group
-1.0	Antipop Consortium	is	alternative hip hop group
-1.0	Antipop Consortium	is	hip hop group
-1.0	Antipop Consortium	is	American alternative hip hop group
-1.0	Consortium	is	American
-1.0	Consortium	is	alternative

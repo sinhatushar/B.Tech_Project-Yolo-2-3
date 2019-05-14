@@ -1,4 +1,0 @@
-1.0	He	is currently coach at	Ebbsfleet United
-1.0	He	is coach at	Ebbsfleet United
-1.0	He	is	currently coach
-1.0	He	is	coach

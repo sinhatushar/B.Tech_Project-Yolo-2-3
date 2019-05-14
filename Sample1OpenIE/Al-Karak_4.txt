@@ -1,7 +1,0 @@
-1.0	ancient King	on	Highway
-1.0	Al-Karak	lies	87 mi
-1.0	Al-Karak	lies	140 kilometres
-0.270954568891561	Al-Karak	lies on	King 's Highway
-0.270954568891561	Al-Karak	lies to	south
-0.270954568891561	Al-Karak	lies on	ancient King 's Highway
-0.270954568891561	Al-Karak	lies to	south of Amman

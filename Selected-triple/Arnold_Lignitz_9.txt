@@ -1,3 +1,0 @@
-author Veit Scherzer
-has cast
-doubt

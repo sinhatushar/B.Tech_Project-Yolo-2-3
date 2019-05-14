@@ -1,4 +1,0 @@
-1.0	Alexandru Ghika	was	mathematician
-1.0	Ghika	was	Romanian
-1.0	Alexandru Ghika	was	Romanian mathematician
-1.0	Romanian mathematician	founder of	Romanian school

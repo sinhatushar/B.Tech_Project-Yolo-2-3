@@ -1,5 +1,0 @@
-1.0	their music	incorporate	aspects of rock
-1.0	their music	evolved from	punk rock
-1.0	their music	incorporate	aspects
-1.0	their music	evolved from	straightforward punk rock
-1.0	their music	incorporate	aspects of classic rock

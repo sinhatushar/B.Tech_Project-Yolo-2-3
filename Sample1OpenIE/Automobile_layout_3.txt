@@ -1,3 +1,0 @@
-1.0	location	is	dependent
-1.0	car	will	will used
-1.0	location	is dependent on	application

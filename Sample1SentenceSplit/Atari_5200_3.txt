@@ -1,1 +1,0 @@
-The 5200's controllers have an analog joystick and a numeric keypad along with start, pause, and reset buttons.

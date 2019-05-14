@@ -1,8 +1,0 @@
-1.0	Amedeo Rega	was	Italian professional football player
-1.0	Amedeo Rega	was	Italian football player
-1.0	January 31 1920-2007	is in	Rome
-1.0	Amedeo Rega	was	football player
-1.0	Rega	was	Italian
-1.0	Amedeo Rega	was	professional football player
-1.0	Amedeo Rega	January in	Rome
-1.0	Rega	was	professional

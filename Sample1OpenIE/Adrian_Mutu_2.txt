@@ -1,3 +1,0 @@
-1.0	he	played as	attacking midfielder
-1.0	he	played As	player
-1.0	he	played as	midfielder

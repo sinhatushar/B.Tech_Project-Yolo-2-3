@@ -1,5 +1,0 @@
-1.0	compound	is	chemical
-1.0	aroma compound	is	compound
-0.8812319974000978	aroma compound	known as	odorant
-0.8812319974000978	aroma compound	also known as	odorant
-1.0	aroma compound	is	chemical compound

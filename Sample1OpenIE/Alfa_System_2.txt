@@ -1,2 +1,0 @@
-1.0	company	was	founded
-1.0	company	was founded in	1988

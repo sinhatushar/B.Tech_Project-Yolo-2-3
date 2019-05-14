@@ -1,9 +1,0 @@
-1.0	Atheris	is genus of	vipers
-1.0	Atheris	is genus of	venomous vipers known as bush vipers
-1.0	Atheris	is genus of	vipers known as bush vipers
-1.0	Atheris	is genus of	vipers known
-1.0	Atheris	is genus of	vipers known as vipers
-1.0	Atheris	is genus of	venomous vipers known as vipers
-1.0	Atheris	is	genus
-1.0	Atheris	is genus of	venomous vipers known
-1.0	Atheris	is genus of	venomous vipers

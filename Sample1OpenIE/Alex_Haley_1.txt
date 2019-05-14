@@ -1,5 +1,0 @@
-1.0	Alexander Murray Palmer Haley	author of	1976 book Roots
-1.0	Alexander Murray Palmer Haley	was	writer
-1.0	Haley	was	American
-1.0	Alexander Murray Palmer Haley	was	American writer
-1.0	Alexander Murray Palmer Haley	August at_time	1992

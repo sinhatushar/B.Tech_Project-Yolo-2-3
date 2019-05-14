@@ -1,3 +1,0 @@
-region
-extends along
-southern part of coast

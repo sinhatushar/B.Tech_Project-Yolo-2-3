@@ -1,9 +1,0 @@
-1.0	she	collaborated on	many projects
-1.0	she	placing	songs
-1.0	she	placing songs on	other singers ' albums
-1.0	she	collaborated on	projects
-1.0	she	also collaborated on	many projects
-1.0	she	also collaborated on	projects
-1.0	she	placing songs on	singers ' albums
-1.0	she	placing songs on	several singers ' albums
-1.0	she	placing songs on	several other singers ' albums

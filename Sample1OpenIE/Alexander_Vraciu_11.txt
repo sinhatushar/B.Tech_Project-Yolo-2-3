@@ -1,8 +1,0 @@
-1.0	military forces	returning to	USS Lexington
-1.0	American military forces	returning to	USS Lexington
-1.0	Vraciu	spent at_time	five weeks
-1.0	forces	returning to	USS Lexington
-1.0	American forces	returning to	USS Lexington
-1.0	Vraciu	parachuted from	his plane
-1.0	Vraciu	spent with	Filipino resistance fighters
-1.0	Vraciu	parachuted In	December 1944

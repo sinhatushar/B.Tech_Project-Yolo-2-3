@@ -1,3 +1,0 @@
-1.0	genus name	comes from	Greek
-1.0	genus name	comes	meaning
-1.0	genus name	meaning	unwetted

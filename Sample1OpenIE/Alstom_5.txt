@@ -1,8 +1,0 @@
-1.0	3.2 billion state-backed bailout	is in	2003
-1.0	company	comply with	EU rules
-1.0	company	comply with	EU rules on state aid
-0.14955323807813503	company	required	comply
-1.0	company	was	required
-1.0	company	was required as	result
-0.14955323807813503	company	required	comply with EU rules
-0.14955323807813503	company	required	comply with EU rules on state aid

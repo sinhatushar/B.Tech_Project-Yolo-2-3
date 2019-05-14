@@ -1,9 +1,0 @@
-1.0	bromeliad lizard	is in	Spanish
-0.5528586635291262	Anadia ocellata	commonly known as	bromeliad lizard Spanish
-0.5528586635291262	Anadia ocellata	known as	bromeliad lizard
-1.0	Anadia ocellata	is	species
-1.0	Anadia ocellata	is species of	lizard endemic
-1.0	Anadia ocellata	is species of	lizard
-1.0	Anadia ocellata	is species of	lizard endemic to Americas
-0.5528586635291262	Anadia ocellata	commonly known as	bromeliad lizard
-0.5528586635291262	Anadia ocellata	known as	bromeliad lizard Spanish

@@ -1,6 +1,0 @@
-0.08525081604622908	stadium	has used over	years
-1.0	stadium	undergone	several renovations
-1.0	stadium	undergone	renovations
-1.0	stadium	has used names over	years
-1.0	stadium	has used	names
-1.0	stadium	has used	several names

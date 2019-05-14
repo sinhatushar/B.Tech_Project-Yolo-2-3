@@ -1,4 +1,0 @@
-1.0	they	play at	L'Envol Stadium in Andrzieux-Bouthon
-1.0	they	play For	201617 season
-1.0	L'Envol Stadium	is in	Andrzieux-Bouthon
-1.0	they	play at	L'Envol Stadium

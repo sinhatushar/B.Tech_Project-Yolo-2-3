@@ -1,5 +1,0 @@
-1.0	article	is about	Armenian party
-1.0	Armenian political party	is in	Armenian diaspora including
-0.8029366669697613	article	established as	Armenakan Party
-0.8029366669697613	article	established in	1885
-1.0	article	is about	party

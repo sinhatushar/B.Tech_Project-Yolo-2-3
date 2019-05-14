@@ -1,6 +1,0 @@
-1.0	company	was	founded
-1.0	company	was	Under name founded on December 26 1831
-1.0	company	was	Under name of Imperial Regia Privilegiata Compagnia di Assicurazioni Generali Austro-Italiche founded on December 26 1831
-1.0	company	was founded Under	name
-1.0	company	was founded Under	name of Imperial Regia Privilegiata Compagnia di Assicurazioni Generali Austro-Italiche
-1.0	company	was founded on	December 26 1831

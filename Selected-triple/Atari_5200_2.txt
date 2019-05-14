@@ -1,3 +1,0 @@
-release.The 5200
-has
-internal hardware

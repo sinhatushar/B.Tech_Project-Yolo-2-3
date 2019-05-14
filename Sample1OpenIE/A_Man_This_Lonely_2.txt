@@ -1,6 +1,0 @@
-1.0	James	wrote while	song
-1.0	Dunn	wrote	song
-1.0	James	wrote	song
-1.0	Brooks	in	backing band
-1.0	tour	is in	Canada
-1.0	Dunn	wrote while	song

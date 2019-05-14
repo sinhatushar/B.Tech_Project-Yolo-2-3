@@ -1,7 +1,0 @@
-1.0	He	spent	two seasons
-1.0	He	ended	his career
-1.0	two seasons	scoring	20 goals in 65 matches
-1.0	two seasons	scoring	20 goals
-1.0	his career	is with	Bristol City
-1.0	He	ended	his career with Bristol City
-1.0	20 goals	is in	65 matches

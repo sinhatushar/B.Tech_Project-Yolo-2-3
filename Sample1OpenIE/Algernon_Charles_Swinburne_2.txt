@@ -1,9 +1,0 @@
-1.0	He	contributed to	Eleventh Edition of Encyclopdia Britannica
-1.0	He	wrote	several novels of poetry
-1.0	He	contributed to	Eleventh Edition
-1.0	He	contributed to	famous Eleventh Edition of Encyclopdia Britannica
-1.0	He	contributed to	famous Eleventh Edition
-1.0	He	wrote	several novels
-1.0	He	wrote	novels
-1.0	He	wrote	collections
-1.0	He	wrote	novels of poetry

@@ -1,4 +1,0 @@
-1.0	Arthur Robert Jensen	was	American psychologist
-1.0	Arthur Robert Jensen	August at_time	2012
-1.0	Jensen	was	American
-1.0	Arthur Robert Jensen	was	psychologist

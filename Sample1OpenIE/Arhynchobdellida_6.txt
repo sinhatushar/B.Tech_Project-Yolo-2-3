@@ -1,6 +1,0 @@
-1.0	Some	are	bloodsuckers
-1.0	Some	are bloodsuckers	predators
-1.0	Some	are bloodsuckers among	them
-1.0	Erpobdelliformes	of Leech is	Mimobdella buettikoferi
-1.0	most	are	predators
-1.0	Hirudiniformes	of Leech is	Hirudo medicinalis

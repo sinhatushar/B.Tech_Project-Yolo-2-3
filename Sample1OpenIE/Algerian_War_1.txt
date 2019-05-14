@@ -1,6 +1,0 @@
-0.6833724196623345	Algerian War	known as	Algerian War
-1.0	Algerian War	was war between	France
-0.6833724196623345	Algerian War	known as	Algerian War Independence
-1.0	Algerian War	was	war
-0.6833724196623345	Algerian War	also known as	Algerian War Independence
-0.6833724196623345	Algerian War	also known as	Algerian War

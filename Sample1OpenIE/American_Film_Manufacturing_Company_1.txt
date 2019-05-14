@@ -1,5 +1,0 @@
-1.0	American Film Manufacturing Company	was	motion picture production company
-0.9365291950428051	American Film Manufacturing Company	known as	Flying Studios
-1.0	Company	was	American
-1.0	American Film Manufacturing Company	was	American motion picture production company
-0.9365291950428051	American Film Manufacturing Company	also known as	Flying Studios

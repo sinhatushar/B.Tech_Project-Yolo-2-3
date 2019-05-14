@@ -1,4 +1,0 @@
-1.0	region	be	part
-1.0	region	used	part
-1.0	region	be part of	Fianarantsoa Province
-1.0	region	used	part of Fianarantsoa Province

@@ -1,7 +1,0 @@
-1.0	lvaro Gonzalo Rudolphy Fontaine	is actor	works in theater
-1.0	lvaro Gonzalo Rudolphy Fontaine	is Chilean actor	works in theater
-1.0	Fontaine	is	Chilean
-1.0	lvaro Gonzalo Rudolphy Fontaine	is actor	works
-1.0	lvaro Gonzalo Rudolphy Fontaine	is	Chilean actor
-1.0	lvaro Gonzalo Rudolphy Fontaine	is Chilean actor	works
-1.0	lvaro Gonzalo Rudolphy Fontaine	is	actor

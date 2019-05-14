@@ -1,8 +1,0 @@
-0.388383030127301	Poglietti	post of	court organist
-1.0	Poglietti	held post from	1661
-1.0	Poglietti	held	post of court organist
-1.0	Poglietti	held post until	his death
-1.0	Poglietti	held post until	his death during siege
-1.0	Poglietti	held post until	his death during Turkish siege
-1.0	Poglietti	held	post
-1.0	Poglietti	held post for	22 years

@@ -1,7 +1,0 @@
-1.0	His father	served as	president of College
-1.0	His father	served as	president
-1.0	His father	served as	president of College of William
-1.0	His	father	Julian Alvin Carroll Chandler
-1.0	His father	also served as	president of College
-1.0	His father	also served as	president
-1.0	His father	also served as	president of College of William

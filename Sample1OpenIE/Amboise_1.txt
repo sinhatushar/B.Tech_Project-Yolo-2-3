@@ -1,9 +1,0 @@
-1.0	Amboise	is commune in	Indre-et-Loire department
-1.0	Amboise	is commune in	department
-1.0	Indre-et-Loire department	is in	central France
-1.0	Amboise	is commune in	Indre-et-Loire department in central France
-1.0	Amboise	is commune in	department in central France
-1.0	Amboise	is	commune
-1.0	Amboise	is commune in	Indre-et-Loire department in France
-1.0	commune	is in	Indre-et-Loire department
-1.0	Amboise	is commune in	department in France

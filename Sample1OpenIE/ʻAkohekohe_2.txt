@@ -1,6 +1,0 @@
-1.0	It	is endemic to	island
-1.0	It	is	endemic
-1.0	It	is endemic to	island of Maui
-1.0	island	is in	Hawaii
-1.0	It	is endemic to	island of Maui in Hawaii
-1.0	It	is endemic to	island in Hawaii

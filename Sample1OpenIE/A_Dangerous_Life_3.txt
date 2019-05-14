@@ -1,5 +1,0 @@
-1.0	film	Originally airing as	mini-series
-1.0	film	airing as	mini-series
-1.0	film	Originally airing on	television
-1.0	film	airing on	television
-1.0	film	was	edited

@@ -1,5 +1,0 @@
-1.0	company	became	Alstom
-1.0	merger	is with	parts of General Electric Company plc
-1.0	company	became in	1998
-1.0	merger	formed	GEC Alsthom
-1.0	merger	formed GEC Alsthom in	1989

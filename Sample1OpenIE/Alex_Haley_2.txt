@@ -1,8 +1,0 @@
-1.0	ABC	adapted book as	television miniseries of same name
-1.0	ABC	adapted book as	television miniseries
-0.04645007046092198	ABC	adapted as	television miniseries
-1.0	ABC	aired	it
-1.0	ABC	adapted book as	television miniseries of name
-1.0	ABC	adapted	book
-0.04645007046092198	ABC	adapted as	television miniseries of name
-0.04645007046092198	ABC	adapted as	television miniseries of same name

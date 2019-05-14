@@ -1,7 +1,0 @@
-1.0	Kviesis	practice	law
-1.0	army	occupied	Latvia
-1.0	Soviet army	occupied Latvia in	1940
-1.0	Soviet army	occupied	Latvia
-1.0	army	occupied Latvia in	1940
-1.0	law	put under	house arrest
-1.0	Kviesis	was	prohibited

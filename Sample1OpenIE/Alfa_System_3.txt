@@ -1,9 +1,0 @@
-1.0	Alfa System	developed In	their years
-1.0	Alfa System	developed	NEC consoles
-1.0	Alfa System	developed exclusively	NEC consoles with Hudson Soft
-1.0	NEC	consoles with	Hudson Soft
-1.0	Alfa System	developed exclusively In	their years
-1.0	Alfa System	developed exclusively	NEC consoles
-1.0	Alfa System	developed In	their early years
-1.0	Alfa System	developed exclusively In	their early years
-1.0	Alfa System	developed	NEC consoles with Hudson Soft

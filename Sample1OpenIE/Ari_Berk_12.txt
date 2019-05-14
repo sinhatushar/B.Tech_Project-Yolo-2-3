@@ -1,5 +1,0 @@
-1.0	he	Born in	California
-1.0	he	lives with	his wife
-1.0	he	lives in	Michigan
-1.0	he	now lives in	Michigan
-1.0	he	now lives with	his wife

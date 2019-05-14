@@ -1,4 +1,0 @@
-1.0	family	consisting in	single genus Toxotes
-1.0	family	is	small
-1.0	family	consisting of	ten species
-1.0	family	consisting in	genus Toxotes

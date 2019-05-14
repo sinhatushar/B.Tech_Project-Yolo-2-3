@@ -1,6 +1,0 @@
-1.0	Scherzer	has challenged	validity of eleven
-1.0	Scherzer	has challenged	validity of eleven more of listings
-0.6836831789575427	Scherzer	validity of	eleven
-1.0	Scherzer	has challenged	validity
-1.0	Fellgiebel	delisted	one
-0.6836831789575427	Scherzer	validity of	eleven more of listings

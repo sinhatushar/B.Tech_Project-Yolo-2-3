@@ -1,5 +1,0 @@
-1.0	Gardner	grew up	Morristown
-1.0	Gardner	played for	band called
-1.0	Gardner	grew up	outside Morristown
-1.0	Gardner	played for	band
-1.0	Gardner	grew up	New Jersey

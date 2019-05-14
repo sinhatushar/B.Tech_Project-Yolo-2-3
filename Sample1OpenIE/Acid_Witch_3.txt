@@ -1,6 +1,0 @@
-1.0	band	released	two EPs
-1.0	band	released	Witch House
-1.0	Witch House	is in	2009
-1.0	two EPs	House in	2009
-1.0	Midnight Mass	is in	2010
-1.0	band	released	Witch House in 2009

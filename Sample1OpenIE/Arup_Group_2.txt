@@ -1,5 +1,0 @@
-1.0	firm	Founded in	1946
-1.0	firm	has	over 13,000 staff based
-1.0	firm	has	over 13,000 staff based in 92 offices
-1.0	firm	has	over 13,000 staff
-1.0	firm	Founded by	Sir Ove Arup

@@ -1,9 +1,0 @@
-1.0	GE acquisition deal	was accepted by	EU
-1.0	GE acquisition deal	was	accepted
-1.0	GE acquisition deal	was accepted	subject to sale of Alstom 's gas turbine business
-1.0	GE acquisition deal	was accepted	subject
-1.0	GE acquisition deal	was accepted in	mid 2015
-1.0	Alstom	of	heavy gas turbine business
-1.0	GE acquisition deal	was accepted	subject to sale
-1.0	GE acquisition deal	was	accepted by EU in mid 2015
-1.0	GE acquisition deal	was accepted	subject to sale of Alstom 's heavy gas turbine business

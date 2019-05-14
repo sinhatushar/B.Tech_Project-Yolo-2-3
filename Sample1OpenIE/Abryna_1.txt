@@ -1,8 +1,0 @@
-1.0	genus	is in	Cerambycidae family.Species include
-1.0	Abryna	is	genus of beetle in Cerambycidae family.Species
-1.0	Abryna	is genus of	beetle
-1.0	Abryna	is genus in	Cerambycidae family.Species
-1.0	Abryna	affinis	Breuning
-1.0	Abryna	is	genus of beetle in Cerambycidae family.Species include
-1.0	Abryna	is	genus
-1.0	Abryna	is genus in	Cerambycidae family.Species include

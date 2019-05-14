@@ -1,3 +1,0 @@
-1.0	He	studied under	Ernst Kummer
-1.0	He	was influenced by	Felix Klein
-1.0	He	was	influenced

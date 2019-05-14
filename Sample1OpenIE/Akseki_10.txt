@@ -1,7 +1,0 @@
-1.0	It	was conquered along with	towns in area
-1.0	It	was conquered along with	towns
-1.0	It	was	conquered
-1.0	It	was conquered by	Seljuk Turks
-1.0	It	was conquered along with	other towns in area
-1.0	other towns	is in	area
-1.0	It	was conquered along with	other towns

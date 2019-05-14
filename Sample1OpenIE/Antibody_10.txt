@@ -1,7 +1,0 @@
-1.0	interaction	produce	activation
-1.0	interaction	is necessary In	cases
-1.0	interaction	produce	activation of B cell
-1.0	interaction	produce	full activation
-1.0	interaction	produce	full activation of B cell
-1.0	interaction	is necessary In	most cases
-1.0	interaction	is with	T helper cell

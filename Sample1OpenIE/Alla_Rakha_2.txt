@@ -1,7 +1,0 @@
-1.0	He	was accompanist of	sitar player Ravi Shankar
-1.0	He	was	frequent
-1.0	He	was	accompanist
-1.0	He	was frequent accompanist of	player Ravi Shankar
-1.0	He	was	frequent accompanist
-1.0	He	was accompanist of	player Ravi Shankar
-1.0	He	was frequent accompanist of	sitar player Ravi Shankar

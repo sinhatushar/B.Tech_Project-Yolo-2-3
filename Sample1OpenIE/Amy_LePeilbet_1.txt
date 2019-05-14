@@ -1,5 +1,0 @@
-1.0	LePeilbet	is	American
-1.0	LePeilbet	is	retired
-1.0	LePeilbet	is	professional
-1.0	United States women	of	national soccer team
-1.0	National Women	in	Soccer League

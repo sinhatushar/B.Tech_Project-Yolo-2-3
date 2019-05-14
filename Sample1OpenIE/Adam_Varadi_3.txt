@@ -1,4 +1,0 @@
-1.0	He	played for	Czech Republic youth national teams
-1.0	He	played for	Czech Republic youth teams
-1.0	He	played since	level
-1.0	He	played since	under-15 level

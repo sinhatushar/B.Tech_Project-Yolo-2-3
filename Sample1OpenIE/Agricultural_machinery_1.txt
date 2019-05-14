@@ -1,3 +1,0 @@
-1.0	Agricultural machinery	is	machinery used
-1.0	Agricultural machinery	is	machinery
-1.0	Agricultural machinery	is	machinery used in farming

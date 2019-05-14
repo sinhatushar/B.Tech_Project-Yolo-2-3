@@ -1,4 +1,0 @@
-0.7438657188957535	Antnio Ferreira Gonalves dos Reis	known as	Antnio Reis
-1.0	Antnio Ferreira Gonalves dos Reis	was	film director
-1.0	Antnio Ferreira Gonalves dos Reis	was	Portuguese film director
-1.0	Reis	was	Portuguese

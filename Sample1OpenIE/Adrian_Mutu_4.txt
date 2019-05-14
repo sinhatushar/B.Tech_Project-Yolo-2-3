@@ -1,5 +1,0 @@
-1.0	he	left After	only 10 games with Nerazzurri
-1.0	he	scored	39 goals
-1.0	he	left for	Hellas Verona
-1.0	10 games	is with	Nerazzurri
-1.0	he	left After	only 10 games

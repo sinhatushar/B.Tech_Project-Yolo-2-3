@@ -1,8 +1,0 @@
-1.0	gene segments	using	random recombination
-1.0	gene segments	are	then joined together
-1.0	gene segments	are	then joined
-1.0	gene segments	using	recombination
-1.0	gene segments	are	joined together
-1.0	gene segments	using	genetic recombination
-1.0	gene segments	using	random genetic recombination
-1.0	gene segments	are	joined

@@ -1,5 +1,0 @@
-1.0	Amphicallia	is	genus of moth in subfamily Arctiinae
-1.0	Amphicallia	is genus in	subfamily Arctiinae
-1.0	Amphicallia	is genus of	moth
-1.0	genus	is in	subfamily Arctiinae
-1.0	Amphicallia	is	genus

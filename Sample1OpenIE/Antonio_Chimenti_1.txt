@@ -1,6 +1,0 @@
-1.0	Chimenti	is	retired
-1.0	Antonio Chimenti	is	football goalkeeper
-1.0	Antonio Chimenti	is	retired football goalkeeper
-1.0	Chimenti	is	Italian
-1.0	Antonio Chimenti	is	retired Italian football goalkeeper
-1.0	Antonio Chimenti	is	Italian football goalkeeper

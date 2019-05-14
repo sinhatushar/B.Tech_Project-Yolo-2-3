@@ -1,6 +1,0 @@
-1.0	bills	are	color
-1.0	legs	are	blackish
-1.0	bills	are	blackish color
-1.0	bills	are	blackish
-1.0	legs	are	color
-1.0	legs	are	blackish color

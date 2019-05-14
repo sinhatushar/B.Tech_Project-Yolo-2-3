@@ -1,5 +1,0 @@
-1.0	guitar	through	body
-1.0	waves	resonate through	guitar 's body
-1.0	sound waves	resonate through	guitar 's body
-1.0	sound waves	creating	sound
-1.0	waves	creating	sound

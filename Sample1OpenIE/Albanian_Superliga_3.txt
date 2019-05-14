@@ -1,7 +1,0 @@
-1.0	It	operates on	system of promotion
-1.0	It	operates on	system of promotion with Albanian First Division
-1.0	It	is contested by	10 clubs
-1.0	It	operates on	system
-1.0	It	operates on	system with Albanian First Division
-1.0	It	is	contested
-1.0	system	is with	Albanian First Division

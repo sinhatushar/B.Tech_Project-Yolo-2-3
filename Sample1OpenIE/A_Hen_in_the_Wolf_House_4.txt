@@ -1,6 +1,0 @@
-1.0	It	sharing continuity with	films
-1.0	It	is set in	Marvel Cinematic Universe
-1.0	It	sharing	continuity
-1.0	It	is	set
-1.0	It	sharing continuity with	films of franchise
-1.0	It	is set in	MCU

@@ -1,6 +1,0 @@
-1.0	sire	of	name
-1.0	His name	was derived	Valentine 's Day
-1.0	beginning	is with	holiday
-1.0	he	was	born
-1.0	Valentine	has	Day
-1.0	he	was	born on

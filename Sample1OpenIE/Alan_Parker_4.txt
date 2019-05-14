@@ -1,9 +1,0 @@
-1.0	range	working in	genres
-1.0	Parker	is	noted
-1.0	Parker	having	range
-1.0	Parker	having	range of filmmaking styles
-1.0	wide range	working in	differing genres
-1.0	wide range	working in	genres
-1.0	Parker	having	wide range of filmmaking styles
-1.0	Parker	having	wide range
-1.0	range	working in	differing genres

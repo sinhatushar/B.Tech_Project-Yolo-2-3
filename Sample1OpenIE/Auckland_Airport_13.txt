@@ -1,2 +1,0 @@
-1.0	expected completion date	is	now 2025
-1.0	completion date	is	now 2025

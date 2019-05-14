@@ -1,3 +1,0 @@
-1.0	Aeolidioidea	is superfamily of	sea slugs
-1.0	sea slugs	of superfamily is	aeolid nudibranchs
-1.0	Aeolidioidea	is	superfamily

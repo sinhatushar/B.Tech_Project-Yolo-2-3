@@ -1,8 +1,0 @@
-1.0	Norlin	is	Swedish
-1.0	journalist	makes	music
-1.0	journalist	makes music under	names Hello
-1.0	journalist	makes music under	names
-1.0	stersund	Norlin of is	Swedish pop artist
-1.0	Annika Norlin	is	pop artist
-1.0	Annika Norlin	is	Swedish pop artist
-1.0	stersund	Norlin of is	pop artist

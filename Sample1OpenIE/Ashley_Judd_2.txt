@@ -1,5 +1,0 @@
-1.0	She	grew up in	family of artists
-1.0	She	grew up in	family of successful artists
-1.0	She	grew up in	family of successful performing artists
-1.0	She	grew up in	family
-1.0	She	grew up in	family of performing artists

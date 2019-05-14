@@ -1,3 +1,0 @@
-frequencies
-can depend on
-string length

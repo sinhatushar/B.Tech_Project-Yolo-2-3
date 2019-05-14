@@ -1,5 +1,0 @@
-1.0	He	studied	theater in academy
-1.0	He	studied	theater by Gustavo Meza
-1.0	He	studied	theater
-1.0	He	studied	theater in academy by Gustavo Meza
-1.0	theater	is in	academy

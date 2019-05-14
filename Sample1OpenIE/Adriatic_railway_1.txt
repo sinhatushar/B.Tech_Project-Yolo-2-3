@@ -1,6 +1,0 @@
-1.0	Adriatic railway	is railroad from	Ancona to Lecce
-1.0	Adriatic railway	is railroad from	Ancona
-1.0	Adriatic railway	is railroad	runs along Adriatic Coast of Italy
-1.0	Adriatic railway	is railroad	runs
-1.0	Adriatic railway	is railroad	runs along Adriatic Coast
-1.0	Adriatic railway	is	railroad

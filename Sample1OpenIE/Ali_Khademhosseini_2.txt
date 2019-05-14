@@ -1,5 +1,0 @@
-1.0	He	holds	professorship
-1.0	multi-departmental professorship	is in	Bioengineering
-1.0	He	holds	multi-departmental professorship in Bioengineering
-1.0	He	holds	professorship in Bioengineering
-1.0	He	holds	multi-departmental professorship

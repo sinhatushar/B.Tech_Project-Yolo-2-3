@@ -1,9 +1,0 @@
-1.0	Arkham House	is	publishing house specializing in weird fiction
-1.0	Arkham House	is	American publishing house specializing
-1.0	Arkham House	is	publishing house specializing in fiction
-1.0	House	is	American
-1.0	Arkham House	is	publishing house specializing
-1.0	Arkham House	is	American publishing house specializing in fiction
-1.0	Arkham House	is	publishing house
-1.0	Arkham House	is	American publishing house specializing in weird fiction
-1.0	Arkham House	is	American publishing house

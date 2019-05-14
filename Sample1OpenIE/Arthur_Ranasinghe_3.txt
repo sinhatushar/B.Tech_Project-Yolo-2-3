@@ -1,8 +1,0 @@
-1.0	Cabinet Minister	had	career
-1.0	he	had	career
-1.0	Cabinet Minister	had career in	Ceylon Civil Service
-1.0	Senator	had career in	Ceylon Civil Service
-1.0	he	served to	Treasury
-1.0	Senator	had	career
-1.0	he	served as	Secretary
-1.0	he	had career in	Ceylon Civil Service

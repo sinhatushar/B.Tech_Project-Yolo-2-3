@@ -1,7 +1,0 @@
-1.0	He	also was former player in	Thailand team
-1.0	He	was former player in	Thailand national team
-1.0	He	also was former player in	Thailand national team
-1.0	He	was	also former player
-1.0	former player	is in	Thailand national team
-1.0	He	was former player in	Thailand team
-1.0	He	was	former player

@@ -1,4 +1,0 @@
-1.0	dissimilis	is species from	Cerambycidae family
-1.0	dissimilis	is	species of beetle from Cerambycidae family
-1.0	dissimilis	is	species
-1.0	dissimilis	is species of	beetle

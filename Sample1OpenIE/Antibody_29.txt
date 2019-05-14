@@ -1,6 +1,0 @@
-1.0	paratope locus	is	polymorphic
-1.0	paratope locus	is polymorphic	during antibody production chosen
-1.0	paratope locus	is	also polymorphic
-1.0	paratope locus	is polymorphic	chosen
-1.0	paratope locus	is also polymorphic	chosen
-1.0	paratope locus	is also polymorphic	during antibody production chosen

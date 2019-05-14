@@ -1,4 +1,0 @@
-1.0	band	released	their album
-1.0	band	released	their second album
-1.0	band	released	Stoned
-1.0	their	album	Stoned

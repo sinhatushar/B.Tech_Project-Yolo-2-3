@@ -1,3 +1,0 @@
-1.0	He	served in	diplomatic post
-1.0	He	served in	post
-1.0	He	served for	five years

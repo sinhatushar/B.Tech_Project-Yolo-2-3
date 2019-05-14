@@ -1,6 +1,0 @@
-1.0	He	is	considered
-1.0	Rudolf Steiner	founders of	modern organic agriculture
-1.0	He	is considered	to
-1.0	He	is considered by	many
-1.0	He	is considered by	many in English-speaking world
-1.0	He	is considered by	many in world

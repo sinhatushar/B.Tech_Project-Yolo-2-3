@@ -1,3 +1,0 @@
-1.0	region	is known as	region
-1.0	region	is	known
-1.0	region	is known as	hypervariable region

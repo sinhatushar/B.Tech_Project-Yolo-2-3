@@ -1,5 +1,0 @@
-1.0	Adult Swim	on	YouTube channel
-1.0	special	is	also available
-1.0	special	is also available on	Adult Swim 's YouTube channel
-1.0	special	is	available
-1.0	special	is available on	Adult Swim 's YouTube channel

@@ -1,5 +1,0 @@
-1.0	European Argentines	belong to	communities
-1.0	country	to	cultural variety
-1.0	Argentines	belong to	several communities
-1.0	Argentines	belong to	communities
-1.0	European Argentines	belong to	several communities

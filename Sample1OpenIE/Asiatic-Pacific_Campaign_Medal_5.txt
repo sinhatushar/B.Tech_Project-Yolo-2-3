@@ -1,3 +1,0 @@
-1.0	Arrowhead device	is	authorized
-1.0	Arrowhead device	is authorized for	campaigns
-1.0	participation	is in	amphibious assault landings

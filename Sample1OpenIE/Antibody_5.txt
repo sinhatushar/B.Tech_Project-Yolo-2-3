@@ -1,6 +1,0 @@
-1.0	binding	activate	macrophages
-0.6958178918514228	process	causing	disease
-1.0	binding	may impede	process
-1.0	binding	may impede	biological process
-1.0	binding	may impede process Depending	Depending antigen
-0.6958178918514228	biological process	causing	disease

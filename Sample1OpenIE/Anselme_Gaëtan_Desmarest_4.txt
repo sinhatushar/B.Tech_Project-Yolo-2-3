@@ -1,6 +1,0 @@
-1.0	he	was	In 1820 elected to Acadmie Nationale Mdecine
-1.0	he	was elected to	Acadmie Nationale de Mdecine
-1.0	he	was	In 1820 elected to Acadmie Nationale de Mdecine
-1.0	he	was elected to	Acadmie Nationale Mdecine
-1.0	he	was	elected
-1.0	he	was elected In	1820

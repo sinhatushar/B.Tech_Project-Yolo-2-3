@@ -1,5 +1,0 @@
-1.0	Knight	has	Cross
-1.0	rank	is	recipient 's rank at time
-1.0	Knight 's Cross	was	awarded
-1.0	rank	is	recipient 's rank
-1.0	recipient	has	rank at time

@@ -1,9 +1,0 @@
-1.0	Piraquive	is	Colombian
-1.0	politician	served as	Senator of Colombia
-1.0	politician	served as	Senator
-1.0	politician	served from	2002 to 2014
-1.0	she	has	has Vice President
-1.0	Moreno	is co-founder of	Independent Movement of Renovation
-1.0	Moreno	is co-founder of	Independent Movement
-1.0	Moreno	is	co-founder
-1.0	Moreno	is co-founder of	Independent Movement of Absolute Renovation

@@ -1,4 +1,0 @@
-1.0	rural population	was	62.80 percent
-1.0	total rural population	was	62.80 percent
-1.0	total population	was	62.80 percent
-1.0	population	was	62.80 percent

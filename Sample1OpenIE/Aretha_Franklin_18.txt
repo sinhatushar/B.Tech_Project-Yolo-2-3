@@ -1,7 +1,0 @@
-1.0	She	was	inducted to UK Music Hall of Fame in 2005
-1.0	Gospel Music Hall	is in	2012
-1.0	She	was inducted to	UK Music Hall
-1.0	She	was inducted in	2005
-1.0	She	was	inducted to UK Music Hall in 2005
-1.0	She	was inducted to	UK Music Hall of Fame
-1.0	She	was	inducted

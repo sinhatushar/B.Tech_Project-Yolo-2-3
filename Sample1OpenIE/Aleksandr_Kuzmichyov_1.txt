@@ -1,5 +1,0 @@
-1.0	Kuzmichyov	is	professional
-1.0	Kuzmichyov	is	Russian
-1.0	coach	played as	midfielder
-1.0	Kuzmichyov	is	retired
-1.0	current coach	played as	midfielder

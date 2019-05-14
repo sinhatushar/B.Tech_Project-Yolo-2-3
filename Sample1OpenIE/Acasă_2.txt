@@ -1,7 +1,0 @@
-1.0	It	is	entertainment station dedicated to daytime series
-1.0	It	is	entertainment station primarily dedicated to series
-1.0	It	is	entertainment station
-1.0	It	is	entertainment station primarily dedicated
-1.0	It	is	entertainment station dedicated
-1.0	It	is	entertainment station dedicated to series
-1.0	It	is	entertainment station primarily dedicated to daytime series

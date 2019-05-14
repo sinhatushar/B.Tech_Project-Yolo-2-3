@@ -1,9 +1,0 @@
-0.8251613289396544	he	spell of	his career
-1.0	he	had	spell
-1.0	He	joined	Clyde
-1.0	He	returned to	Scotland
-1.0	he	making over	200 appearances
-1.0	he	had	best spell of his career
-1.0	he	had	spell of his career
-0.8251613289396544	he	best spell of	his career
-1.0	he	had	best spell

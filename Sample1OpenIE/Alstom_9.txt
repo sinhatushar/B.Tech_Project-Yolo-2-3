@@ -1,7 +1,0 @@
-1.0	Alstom	has	generation
-1.0	acquisition	was finalised on	2 November 2015
-1.0	acquisition	was	finalised
-1.0	GE	acquiring	electricity transmission business
-1.0	GE	acquiring	Alstom 's power generation
-0.8175942904167881	Alstom company	operating in	rail transport market
-0.8175942904167881	Alstom company	operating solely in	rail transport market

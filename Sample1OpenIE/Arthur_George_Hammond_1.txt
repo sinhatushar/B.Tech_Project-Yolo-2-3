@@ -1,4 +1,0 @@
-1.0	Hammond	was	English
-1.0	highest award	is in	face of enemy
-1.0	Victoria Cross	award for	gallantry
-1.0	Victoria Cross	award in	face of enemy

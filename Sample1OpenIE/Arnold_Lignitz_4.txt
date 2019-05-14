@@ -1,6 +1,0 @@
-1.0	number	is based on	acceptance by Association
-1.0	number	is	based
-1.0	Knight	of	Cross Recipients
-1.0	Knight	's Recipients is	AKCR
-1.0	number	is based on	acceptance by Association of Knight 's Cross Recipients
-1.0	number	is based on	acceptance

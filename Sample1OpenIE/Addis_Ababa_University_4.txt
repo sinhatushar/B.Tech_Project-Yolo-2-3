@@ -1,4 +1,0 @@
-1.0	one	is	located
-1.0	one	is located in	Bishoftu about 45 kilometres away
-1.0	one	is located in	Bishoftu
-1.0	one	is located in	Bishoftu away

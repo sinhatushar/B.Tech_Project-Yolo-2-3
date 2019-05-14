@@ -1,9 +1,0 @@
-1.0	merger	is in	August 1926
-1.0	Fiorentina	have played at	top level of football
-1.0	Fiorentina	have played at	level
-1.0	clubs	have played in	more Serie seasons
-1.0	Fiorentina	have played at	level of football
-1.0	Fiorentina	have played at	top level of Italian football
-1.0	Fiorentina	have played at	top level
-1.0	Fiorentina	have played at	level of Italian football
-1.0	clubs	have played in	Serie seasons

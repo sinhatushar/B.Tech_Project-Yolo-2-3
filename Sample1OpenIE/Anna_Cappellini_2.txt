@@ -1,6 +1,0 @@
-1.0	partner Luca Lanotte	With champion is	2014 European champion
-1.0	2014 World champion	is With	partner Luca Lanotte
-1.0	partner Luca Lanotte	With champion is	2015 Cup of China champion
-1.0	she	is	With partner Luca Lanotte 2014 World champion
-1.0	she	is	2014 World champion
-1.0	2014 World champion	Cup of	China champion

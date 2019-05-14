@@ -1,7 +1,0 @@
-1.0	books	Characterized by	tones
-1.0	books	are noted for	their humor
-1.0	books	are noted for	their dark humor
-1.0	books	are	noted
-1.0	books	Characterized by	Victorian tones
-1.0	books	Characterized by	Gothic tones
-1.0	books	Characterized by	Victorian Gothic tones

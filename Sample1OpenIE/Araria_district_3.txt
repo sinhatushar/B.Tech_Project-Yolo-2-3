@@ -1,2 +1,0 @@
-1.0	district	occupies	area
-1.0	district	occupies	area of 2830 km

@@ -1,2 +1,0 @@
-1.0	She	has played at_time	times
-1.0	She	has played at_time	many times

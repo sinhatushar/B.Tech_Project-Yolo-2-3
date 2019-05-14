@@ -1,9 +1,0 @@
-1.0	Amoco Building	is in	Chicago
-1.0	it	select	US markets
-1.0	Chicago	in Building is	Aon Center
-1.0	Its headquarters	were	located
-1.0	Its headquarters	were located in	Illinois.In October 2017
-1.0	Its headquarters	were located in	Aon Center
-1.0	Its headquarters	were located in	Amoco Building in Chicago
-1.0	Its headquarters	were located in	Amoco Building
-1.0	it	reintroducing	Amoco name

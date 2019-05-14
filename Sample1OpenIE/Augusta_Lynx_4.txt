@@ -1,8 +1,0 @@
-1.0	team	was named for	Masters golf tournament
-0.5444261898472817	Lynx play	hitting	links
-1.0	team	was named for	Masters golf tournament held in Augusta
-1.0	team	was named for	Masters golf tournament held
-1.0	team	was named for	Masters golf tournament held annually
-1.0	team	was named for	Masters golf tournament held annually in Augusta
-1.0	team	was	named
-0.5444261898472817	Lynx	play on	golf term

@@ -1,5 +1,0 @@
-1.0	He	competed	Ironman World Championship
-1.0	He	competed	Ironman World Championship in Kona
-1.0	Kona	Hawaii in	2012
-1.0	Hawaii	is in	2012
-1.0	Ironman World Championship	is in	Kona

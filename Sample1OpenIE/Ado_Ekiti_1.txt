@@ -1,3 +1,0 @@
-1.0	Ado Ekiti	is city in	southwest Nigeria
-1.0	city	is in	southwest Nigeria
-1.0	Ado Ekiti	is	city

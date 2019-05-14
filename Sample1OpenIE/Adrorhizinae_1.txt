@@ -1,6 +1,0 @@
-1.0	Adrorhizinae	is	subtribe
-1.0	Adrorhizinae	is orchid subtribe in	tribe Vandeae
-1.0	Adrorhizinae	is	orchid subtribe
-1.0	Adrorhizinae	is	orchid
-1.0	orchid subtribe	is in	tribe Vandeae
-1.0	Adrorhizinae	is subtribe in	tribe Vandeae
