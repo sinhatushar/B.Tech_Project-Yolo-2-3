@@ -1,0 +1,12 @@
+0.8368489630866833	born	1964 in	New Jersey
+1.0	Alan Pollack	is American artist	work has appeared in games
+1.0	Alan Pollack	is American artist	work has appeared
+1.0	Alan Pollack	is artist	work has appeared in role-playing games
+1.0	Alan Pollack	is	artist
+1.0	work	has appeared in	games
+1.0	Alan Pollack	is artist	work has appeared
+1.0	Pollack	is	American
+1.0	Alan Pollack	is	American artist
+1.0	Alan Pollack	is American artist	work has appeared in role-playing games
+1.0	Alan Pollack	is artist	work has appeared in games
+1.0	work	has appeared in	role-playing games

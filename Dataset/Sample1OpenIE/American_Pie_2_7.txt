@@ -1,0 +1,8 @@
+1.0	Kevin	has	older brother
+1.0	summer beach house	is in	Grand Haven
+1.0	older brother	per	suggestion
+1.0	Much	takes place per	Kevin 's older brother 's suggestion
+1.0	Much	takes place per	Kevin 's brother 's suggestion
+1.0	Much	takes place at	summer beach house
+1.0	Much	takes place at	summer beach house in Grand Haven
+1.0	Much	takes	place

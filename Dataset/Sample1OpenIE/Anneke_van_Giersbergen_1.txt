@@ -1,0 +1,12 @@
+1.0	Giersbergen	is	Dutch
+1.0	Anna Maria van Giersbergen known	is	singer
+1.0	Anna Maria van Giersbergen known	is	Dutch singer
+1.0	Anna Maria van Giersbergen	is singer	songwriter became
+1.0	guitarist	became	known
+1.0	Anna Maria van Giersbergen	is Dutch singer	songwriter became
+1.0	Anna Maria van Giersbergen	is	Dutch singer
+1.0	Anna Maria van Giersbergen	is	singer
+1.0	pianist	became	known
+1.0	songwriter	became	known
+1.0	Anna Maria van Giersbergen known	is Dutch singer	songwriter became
+1.0	Anna Maria van Giersbergen known	is singer	songwriter became

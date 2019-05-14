@@ -1,0 +1,12 @@
+1.0	He	teaches	American Indian studies
+1.0	He	teaches	literature
+1.0	He	teaches	medieval literature
+1.0	He	teaches	mythology
+1.0	He	is	professor of English at Central Michigan University
+1.0	He	is	professor
+1.0	He	teaches	studies
+1.0	He	is professor of	English
+1.0	He	teaches	folklore
+1.0	He	teaches	American studies
+1.0	He	teaches	Indian studies
+1.0	He	is professor at	Central Michigan University

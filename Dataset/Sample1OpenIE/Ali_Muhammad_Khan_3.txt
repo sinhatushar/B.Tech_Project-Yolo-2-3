@@ -1,0 +1,12 @@
+1.0	he	was member from	June 2013
+1.0	he	was	member
+1.0	he	was	member of National Assembly from June 2013
+1.0	he	was	Previously member of National Assembly from June 2013 to May 2018
+1.0	he	was	member of National Assembly from June 2013 to May 2018
+1.0	he	was member from	June 2013 to May 2018
+1.0	he	Previously was member of	National Assembly
+1.0	he	was	Previously member of National Assembly from June 2013
+1.0	he	was	Previously member
+1.0	he	was member of	National Assembly
+1.0	he	Previously was member from	June 2013
+1.0	he	Previously was member from	June 2013 to May 2018

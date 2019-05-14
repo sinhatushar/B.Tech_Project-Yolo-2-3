@@ -1,0 +1,6 @@
+1.0	it	was	In beginning of 2012 covered by pop rock band Grace Potter
+1.0	it	was covered by	pop rock band Grace Potter
+1.0	it	was	covered
+1.0	it	was covered In	beginning
+1.0	it	was covered In	beginning of 2012
+1.0	it	was	In beginning covered by pop rock band Grace Potter

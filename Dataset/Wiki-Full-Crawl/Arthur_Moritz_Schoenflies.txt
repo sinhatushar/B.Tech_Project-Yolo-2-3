@@ -1,0 +1,18 @@
+Arthur Moritz Schoenflies (German: [nflis]; 17 April 1853  27 May 1928), sometimes written as Schnflies, was a German mathematician, known for his contributions to the application of group theory to crystallography, and for work in topology.
+Schoenflies was born in Landsberg an der Warthe (modern Gorzw, Poland). He studied under Ernst Kummer and Karl Weierstrass, and was influenced by Felix Klein.
+The Schoenflies problem is to prove that an 
+  
+    
+      
+        (
+        n
+        
+        1
+        )
+      
+    
+    {\displaystyle (n-1)}
+  -sphere in Euclidean n-space bounds a topological ball, however embedded. This question is much more subtle than it initially appears.
+He studied at the University of Berlin from 18701875. He obtained a doctorate in 1877, and in 1878 he was a teacher at a school in Berlin. In 1880, he went to Colmar to teach.
+Schoenflies was a frequent contributor to Klein's encyclopedia: In 1898 he wrote on set theory, in 1902 on kinematics, and on projective geometry in 1910.
+He was a great-uncle of Walter Benjamin.

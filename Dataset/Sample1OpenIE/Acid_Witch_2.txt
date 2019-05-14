@@ -1,0 +1,5 @@
+1.0	They	released	their first album
+1.0	their	album	Witchtanic Hellucinations
+1.0	They	released	their album
+1.0	They	released	Hellucinations
+1.0	They	released	Witchtanic Hellucinations

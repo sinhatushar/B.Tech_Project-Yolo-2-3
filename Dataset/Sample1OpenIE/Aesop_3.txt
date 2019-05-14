@@ -1,0 +1,6 @@
+1.0	tales	generally have	characteristics
+1.0	tales	are characterized by	animals
+1.0	tales	are	characterized
+1.0	tales	have	characteristics
+1.0	tales	generally have	human characteristics
+1.0	tales	have	human characteristics

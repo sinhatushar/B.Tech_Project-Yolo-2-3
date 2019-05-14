@@ -1,0 +1,8 @@
+0.5502515533884856	Beatles	produced for	ITV/Rediffusion London
+0.5502515533884856	Beatles	produced by	Jack Good
+1.0	Beatles	featuring	Beatles produced for ITV/Rediffusion London
+1.0	Beatles	featuring	Beatles produced by Jack Good
+1.0	Beatles	featuring	Beatles produced by Jack Good for ITV/Rediffusion London
+1.0	Beatles	featuring	Beatles produced
+1.0	Beatles	featuring	Beatles
+1.0	Beatles	was	1964 television special

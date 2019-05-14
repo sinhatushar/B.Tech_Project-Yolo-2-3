@@ -1,0 +1,28 @@
+1.0	he	served	appointed to Minister
+1.0	he	being appointed from	1933 to 1936
+1.0	he	being appointed to	Minister for Agriculture
+1.0	he	being appointed as	Secretary
+1.0	he	served	appointed as Secretary from 1933 to 1936
+1.0	he	Promoted to	Class 2 officer
+1.0	he	being	appointed
+1.0	he	served	appointed as Secretary to Minister from 1933 to 1936
+1.0	he	being	appointed to Minister from 1933 to 1936
+1.0	he	served as	Assistant Government Agent
+1.0	he	served	appointed as Secretary to Minister for Agriculture
+1.0	he	served as	Additional Assistant Government Agent
+1.0	he	served	appointed
+1.0	he	served	appointed to Minister for Agriculture
+1.0	he	being	appointed as Secretary from 1933 to 1936
+1.0	he	served	appointed as Secretary to Minister for Agriculture from 1933 to 1936
+1.0	he	served	appointed from 1933 to 1936
+1.0	he	being appointed to	Minister
+1.0	he	being	appointed as Secretary to Minister for Agriculture from 1933 to 1936
+1.0	he	served	appointed as Secretary
+1.0	he	being	appointed to Minister for Agriculture from 1933 to 1936
+1.0	he	being	appointed as Secretary to Minister
+1.0	he	served	appointed to Minister from 1933 to 1936
+1.0	he	served	appointed to Minister for Agriculture from 1933 to 1936
+1.0	he	was appointed	Public Trustee
+1.0	he	being	appointed as Secretary to Minister from 1933 to 1936
+1.0	he	being	appointed as Secretary to Minister for Agriculture
+1.0	he	served	appointed as Secretary to Minister

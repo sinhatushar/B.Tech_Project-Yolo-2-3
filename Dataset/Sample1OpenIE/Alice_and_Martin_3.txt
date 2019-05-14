@@ -1,0 +1,14 @@
+1.0	It	is	Tchin 's collaboration with Binoche after 1985 film Rendez-vous
+1.0	It	is	Tchin 's collaboration after 1985 film Rendez-vous
+1.0	Tchin	has	second collaboration with Binoche after 1985 film Rendez-vous
+1.0	It	is	Tchin 's collaboration with Binoche after 1985 film
+1.0	Tchin 's second collaboration	is with	Binoche
+1.0	It	is	Tchin 's collaboration with Binoche
+1.0	It	is	Tchin 's collaboration after 1985 film
+1.0	It	is	Tchin 's collaboration
+1.0	It	is	Tchin 's second collaboration with Binoche
+1.0	It	is	Tchin 's second collaboration after 1985 film Rendez-vous
+1.0	It	is	Tchin 's second collaboration with Binoche after 1985 film Rendez-vous
+1.0	It	is	Tchin 's second collaboration
+1.0	It	is	Tchin 's second collaboration with Binoche after 1985 film
+1.0	It	is	Tchin 's second collaboration after 1985 film

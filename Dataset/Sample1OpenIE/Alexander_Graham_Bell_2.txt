@@ -1,0 +1,22 @@
+1.0	He	founded American Telephone in	1885
+1.0	He	founded Telegraph Company in	1885
+1.0	He	founded	American Telephone
+1.0	He	also founded American Telephone in	1885
+1.0	He	founded	AT&T
+1.0	He	also founded Telegraph Company in	1885
+1.0	He	also founded	American Telephone
+1.0	He	founded	Telegraph Company
+1.0	He	also founded	Telegraph Company
+1.0	He	also founded	AT&T
+1.0	Bell 's father	had	had associated with work
+1.0	wife	profoundly influencing	Bell 's life 's work
+1.0	Bell 's father	had	had associated with work on elocution
+1.0	Bell 's father	had	had all associated with work
+1.0	wife	influencing	Bell 's life 's work
+1.0	wife	were	deaf
+1.0	life	has	work
+1.0	Bell	has	life
+1.0	Bell	has	father
+1.0	Bell 's father	had	had all associated with work on elocution
+1.0	Bell 's father	had	had all associated
+1.0	Bell 's father	had	had associated

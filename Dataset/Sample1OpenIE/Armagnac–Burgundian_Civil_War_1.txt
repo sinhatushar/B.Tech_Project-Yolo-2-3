@@ -1,0 +1,7 @@
+1.0	1407	from House is	Armagnac faction
+1.0	ArmagnacBurgundian Civil War	was conflict between	two cadet branches
+1.0	ArmagnacBurgundian Civil War	was conflict between	two cadet branches of French royal family
+1.0	Orlans	of House is	Armagnac faction
+1.0	ArmagnacBurgundian Civil War	was	conflict
+1.0	ArmagnacBurgundian Civil War	was conflict between	two cadet branches of royal family
+1.0	Burgundy	of House is	Burgundian faction

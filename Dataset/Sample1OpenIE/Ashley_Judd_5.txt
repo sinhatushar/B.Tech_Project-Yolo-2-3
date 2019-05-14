@@ -1,0 +1,16 @@
+1.0	roles	Kiss	Jeopardy
+1.0	leading roles	is in	films
+0.5045218690457978	Girls	leading roles in	films including Ruby
+1.0	leading roles	Kiss	Girls
+1.0	leading roles	Kiss	Jeopardy
+1.0	roles	Kiss	1997
+0.5045218690457978	Girls	roles in	films including Ruby in Paradise
+1.0	Paradise	in Ruby is	Time Kill
+0.5045218690457978	Girls	roles in	films
+1.0	leading roles	Kiss	1997
+1.0	roles	Kiss	Girls
+1.0	Ruby	is in	Paradise
+1.0	Paradise	in Ruby is	1993
+0.5045218690457978	Girls	leading roles in	films including Ruby in Paradise
+0.5045218690457978	Girls	leading roles in	films
+0.5045218690457978	Girls	roles in	films including Ruby

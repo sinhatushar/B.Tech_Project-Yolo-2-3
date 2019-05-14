@@ -1,0 +1,6 @@
+1.0	It	is domestic hub for	Air New Zealand
+1.0	It	is hub for	Air New Zealand
+1.0	It	is	domestic
+1.0	It	is domestic and international hub for	Air New Zealand
+1.0	It	is	hub
+1.0	It	is	domestic hub

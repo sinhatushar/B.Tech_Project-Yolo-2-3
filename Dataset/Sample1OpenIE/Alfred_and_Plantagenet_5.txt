@@ -1,0 +1,7 @@
+1.0	Species	include	pink lady
+1.0	Species	include	slipper copper butterflies
+1.0	Species	include	ebony boghaunter dragonfly
+1.0	Species	include	lady
+1.0	Species	include	pitcher-plant
+1.0	Species	include	northern pitcher-plant
+1.0	Species	include	palm warbler

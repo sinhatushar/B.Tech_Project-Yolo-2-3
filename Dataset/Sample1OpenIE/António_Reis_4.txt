@@ -1,0 +1,4 @@
+1.0	films	influenced	subsequent directors
+1.0	films	influenced	directors
+1.0	His work	influenced	directors
+1.0	His work	influenced	subsequent directors

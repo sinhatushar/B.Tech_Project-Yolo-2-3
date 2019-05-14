@@ -1,0 +1,5 @@
+1.0	he	Convicted as	war criminal
+1.0	he	was	held
+1.0	he	was held until	October 1955
+1.0	war criminal	is in	Soviet Union
+1.0	he	Convicted as	war criminal in Soviet Union

@@ -1,0 +1,6 @@
+Navtex (Navigational Telex) is an international automated medium frequency direct-printing service for delivery of navigational and meteorological warnings and forecasts, as well as urgent maritime safety information (MSI) to ships.
+Navtex was developed to provide a low-cost, simple, and automated means of receiving this information aboard ships at sea within approximately 370 km (200 nautical miles) off shore.
+There are no user fees associated with receiving navtex broadcasts, as the transmissions are typically transmitted from the National Weather Authority (Italy) or Navy or Coast Guard (as in the US) or national navigation authority (Canada).
+Where the messages contain weather forecasts, an abbreviated format very similar to the shipping forecast is used.
+Navtex is a component of the International Maritime Organization/International Hydrographic Organization Worldwide Navigation Warning Service (WWNWS). Navtex is also a major element of the Global Maritime Distress Safety System (GMDSS). SOLAS Convention mandated certain classes of vessels must carry navtex, beginning August 1, 1993.
+

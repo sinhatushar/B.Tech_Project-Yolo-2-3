@@ -1,0 +1,27 @@
+1.0	Acid Witch	is	American metal band formed in 2007
+1.0	Acid Witch	is	American heavy metal band
+1.0	Acid Witch	is	metal band formed in 2007
+1.0	American heavy metal band	is in	2007
+1.0	Acid Witch	is	American metal band formed in Detroit in 2007
+1.0	Acid Witch	is	metal band formed
+1.0	Acid Witch	is	metal band formed in Detroit
+1.0	Acid Witch	is	American heavy metal band formed in Detroit
+1.0	Acid Witch	is	heavy metal band formed in Detroit in 2007
+1.0	Witch	is	heavy
+1.0	Acid Witch	is	American heavy metal band formed in Detroit in 2007
+1.0	Acid Witch	is	American metal band formed
+1.0	Acid Witch	is	heavy metal band
+1.0	Acid Witch	is	American metal band in 2007
+1.0	Acid Witch	is	heavy metal band formed in Detroit
+1.0	Acid Witch	is	metal band in 2007
+1.0	Acid Witch	is	American metal band
+1.0	Acid Witch	is	metal band
+1.0	Acid Witch	is	heavy metal band formed in 2007
+1.0	Acid Witch	is	American heavy metal band formed in 2007
+1.0	Acid Witch	is	American metal band formed in Detroit
+1.0	Acid Witch	is	American heavy metal band in 2007
+1.0	Witch	is	American
+1.0	Acid Witch	is	heavy metal band in 2007
+1.0	Acid Witch	is	heavy metal band formed
+1.0	Acid Witch	is	metal band formed in Detroit in 2007
+1.0	Acid Witch	is	American heavy metal band formed

@@ -1,0 +1,3 @@
+1.0	team	was	dissolved
+1.0	team	was dissolved in	summer
+1.0	team	was dissolved in	summer of 2015

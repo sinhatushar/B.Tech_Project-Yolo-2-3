@@ -1,0 +1,11 @@
+1.0	Life	is	song written by Brian
+1.0	Life	is	song written
+1.0	Your Life	recorded by	country music group
+1.0	Your Life	recorded by	American country music group
+1.0	song	written by	Brian
+1.0	Your Life	is	song written by Brian
+1.0	Life	recorded by	American country music group
+1.0	Your Life	is	song written
+1.0	Life	is	song
+1.0	Your Life	is	song
+1.0	Life	recorded by	country music group

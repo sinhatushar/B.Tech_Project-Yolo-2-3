@@ -1,0 +1,9 @@
+1.0	film series	be huge success for	Disney
+1.0	film series	be	success
+1.0	film series	be success for	Disney
+1.0	series	be	huge
+1.0	film series	proved	success
+1.0	film series	proved	success for Disney
+1.0	film series	proved	huge success for Disney
+1.0	film series	be	huge success
+1.0	film series	proved	huge success

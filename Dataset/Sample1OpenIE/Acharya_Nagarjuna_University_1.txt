@@ -1,0 +1,4 @@
+1.0	Acharya Nagarjuna University	is	university
+1.0	Acharya Nagarjuna University	is university in	region
+1.0	university	is in	region
+1.0	Acharya Nagarjuna University	is university in	region of Namburu

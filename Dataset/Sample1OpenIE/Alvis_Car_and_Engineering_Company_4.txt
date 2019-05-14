@@ -1,0 +1,11 @@
+1.0	Alvis	part of	Leyland
+1.0	Alvis	became	part of British Leyland
+1.0	Alvis	became	part of Leyland
+1.0	Alvis	was	then in 1982 sold to United Scientific Holdings
+1.0	Alvis	was	then in 1982 sold
+1.0	Alvis	was	then sold
+1.0	Alvis	was	then sold to United Scientific Holdings
+1.0	Alvis	was	sold
+1.0	Alvis	became	part
+1.0	Alvis	was sold to	United Scientific Holdings
+1.0	Alvis	part of	British Leyland

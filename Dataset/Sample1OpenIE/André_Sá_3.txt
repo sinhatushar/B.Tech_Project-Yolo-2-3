@@ -1,0 +1,2 @@
+1.0	17	doubles	titles
+1.0	titles	winning	11

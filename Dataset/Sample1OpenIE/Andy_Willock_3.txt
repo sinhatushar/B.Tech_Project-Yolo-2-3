@@ -1,0 +1,3 @@
+1.0	He	played in	1983
+1.0	He	played in	New Zealand
+1.0	He	played for	University-Mount Wellington

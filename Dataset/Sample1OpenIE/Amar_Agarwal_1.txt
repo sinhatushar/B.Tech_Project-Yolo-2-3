@@ -1,0 +1,10 @@
+1.0	Dr. Agarwal	of	Hospital
+1.0	F.R.C.Ophth	Director of	Dr. Agarwal 's Eye Hospital
+1.0	F.R.C.Ophth	Managing Director of	Dr. Agarwal 's Eye Hospital
+1.0	F.R.C.Ophth	is	Indian ophthalmologist
+1.0	F.R.C.Ophth	Director of	Dr. Agarwal 's Eye Hospital in India
+1.0	F.R.C.Ophth	Managing Director of	Dr. Agarwal 's Eye Hospital in India
+1.0	F.R.C.Ophth	is	ophthalmologist
+1.0	F.R.C.Ophth	is	Indian
+1.0	Hospital	is in	India
+1.0	Eye Research Centre	includes	67 eye hospitals

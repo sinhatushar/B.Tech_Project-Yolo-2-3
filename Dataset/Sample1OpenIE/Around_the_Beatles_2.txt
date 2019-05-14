@@ -1,0 +1,17 @@
+1.0	It	broadcast internationally with	its initial airing
+1.0	It	was	taped in Wembley Park Studios in London on 28 April 1964
+1.0	It	broadcast internationally with	its airing on 6 May 1964
+1.0	broadcast	is with	its initial airing on 6 May 1964
+1.0	It	was	taped in Wembley Park Studios in London
+1.0	It	was	taped in Wembley Park Studios on 28 April 1964
+1.0	It	broadcast with	its airing on 6 May 1964
+1.0	It	was taped in	Wembley Park Studios
+1.0	It	was taped on	28 April 1964
+1.0	It	broadcast with	its initial airing
+1.0	It	broadcast internationally with	its airing
+1.0	It	broadcast with	its airing
+1.0	It	broadcast internationally with	its initial airing on 6 May 1964
+1.0	It	was	taped
+1.0	It	was taped in	London
+1.0	It	was	taped in London on 28 April 1964
+1.0	It	broadcast with	its initial airing on 6 May 1964

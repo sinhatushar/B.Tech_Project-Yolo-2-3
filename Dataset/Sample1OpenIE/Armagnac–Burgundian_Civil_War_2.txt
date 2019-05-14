@@ -1,0 +1,9 @@
+1.0	It	overlapped with	Western Schism of papacy
+1.0	It	began during	lull
+1.0	It	overlapped with	Western Schism
+1.0	It	overlapped with	Schism of papacy
+1.0	It	overlapped with	Schism
+1.0	It	began during	lull in Hundred Years ' War against English
+1.0	It	began during	lull against English
+1.0	It	began during	lull in Hundred Years ' War
+1.0	lull	is in	Hundred Years ' War

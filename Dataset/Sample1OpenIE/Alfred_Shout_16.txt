@@ -1,0 +1,7 @@
+1.0	he	took part in	Anzac landings
+1.0	he	took part at	Gallipoli
+1.0	he	took	part
+1.0	he	took part on	25 April 1915
+1.0	he	took part After	training
+1.0	training	is in	Egypt
+1.0	he	took part After	training in Egypt

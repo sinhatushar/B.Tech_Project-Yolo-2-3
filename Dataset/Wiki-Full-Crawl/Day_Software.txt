@@ -1,0 +1,4 @@
+Day Software was an enterprise content management software company headquartered in Basel, Switzerland and Boston, Massachusetts. Day Software was founded in 1993 in Basel, Switzerland.
+Day creates content management infrastructure software in the Day CRX product line and enterprise content management applications in the Day Communiqu product line. Its most important product is Day Communiqu WCM, a Web content management system that is used for public-facing websites and intranets of large corporations such as McDonald's, Avanza and Daimler.
+Day is engaged in the content repository API for Java standardization process and contributes to open source software projects such as Apache Jackrabbit and Apache Sling.
+Day Software was acquired by Adobe Systems on 28 July 2010 for US$240 million.

@@ -1,0 +1,19 @@
+1.0	A. Robinson	was American civil engineer	rose
+1.0	railroad	has	vice president
+1.0	A. Robinson	was engineer	rose through ranks
+1.0	A. Robinson	was civil engineer	rose through ranks
+1.0	A. Robinson	was American civil engineer	rose through ranks of Atchison Fe Railway
+1.0	A. Robinson	was	engineer
+1.0	A. Robinson	was	American civil engineer
+1.0	A. Robinson	was	American engineer
+1.0	A. Robinson	was American engineer	rose through ranks of Atchison Fe Railway
+1.0	Robinson	was	civil
+1.0	A. Robinson	was civil engineer	rose through ranks of Atchison Fe Railway
+1.0	A. Robinson	was American engineer	rose through ranks
+1.0	A. Robinson	was American civil engineer	rose through ranks
+1.0	A. Robinson	was engineer	rose
+1.0	A. Robinson	was American engineer	rose
+1.0	Robinson	was	American
+1.0	A. Robinson	was engineer	rose through ranks of Atchison Fe Railway
+1.0	A. Robinson	was	civil engineer
+1.0	A. Robinson	was civil engineer	rose

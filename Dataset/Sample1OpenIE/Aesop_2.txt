@@ -1,0 +1,15 @@
+0.669338500024731	tales	credited to	him
+1.0	numerous tales	were	gathered across centuries in languages in storytelling tradition
+0.669338500024731	numerous tales	credited to	him
+1.0	numerous tales	were	gathered in languages in storytelling tradition
+1.0	tales	were	gathered across centuries in many languages
+1.0	numerous tales	were gathered in	languages
+1.0	numerous tales	were	gathered across centuries in languages
+1.0	tales	were gathered in	many languages
+1.0	tales	were	gathered in languages in storytelling tradition
+1.0	tales	were	gathered across centuries in languages in storytelling tradition
+1.0	his existence	remains	unclear
+1.0	numerous tales	were	gathered across centuries in many languages
+1.0	tales	were gathered in	languages
+1.0	numerous tales	were gathered in	many languages
+1.0	tales	were	gathered across centuries in languages

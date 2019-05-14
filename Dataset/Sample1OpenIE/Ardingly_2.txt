@@ -1,0 +1,14 @@
+1.0	school	is member of	Woodard Corporation of schools
+1.0	school	has tradition as	such
+1.0	school	is	member of Headmasters ' Conference of Woodard Corporation of independent schools
+1.0	school	has	Anglo-Catholic tradition
+1.0	school	has	tradition
+1.0	school	is	member
+1.0	school	is member of	Headmasters ' Conference
+1.0	school	is member of	Woodard Corporation of independent schools
+1.0	Headmasters	of	Conference
+1.0	school	is	member of Headmasters ' Conference of Woodard Corporation
+1.0	school	is	member of Headmasters ' Conference of Woodard Corporation of schools
+1.0	school	is member of	Woodard Corporation
+1.0	school	has	strong Anglo-Catholic tradition
+1.0	school	has	strong tradition

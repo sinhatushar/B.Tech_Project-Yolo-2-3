@@ -1,0 +1,12 @@
+1.0	notable species	are	Angelica-tree devil 's walking-stick
+1.0	Other species	are	devil 's walking-stick
+1.0	devil	has	club
+1.0	devil	's club is	Oplopanax horridus
+1.0	devil	's walking-stick is	club
+1.0	species	are	Angelica-tree devil 's walking-stick
+1.0	Other notable species	are	Angelica-tree devil 's walking-stick
+1.0	species	are	devil 's walking-stick
+1.0	Angelica-tree walking-stick	club 's	devil
+1.0	Other notable species	are	devil 's walking-stick
+1.0	Other species	are	Angelica-tree devil 's walking-stick
+1.0	notable species	are	devil 's walking-stick

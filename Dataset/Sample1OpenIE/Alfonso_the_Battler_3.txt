@@ -1,0 +1,7 @@
+1.0	his	father-in-law	Alfonso VI
+1.0	queen regnant	Emperor of	Spain
+1.0	queen regnant	is with	justification
+1.0	Castile	of regnant is	grandiose title Emperor
+1.0	1109	in regnant is	grandiose title Emperor of Spain
+1.0	justification	with regnant is	grandiose title Emperor of Spain
+1.0	queen regnant	is in	1109

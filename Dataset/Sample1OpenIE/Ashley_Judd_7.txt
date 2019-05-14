@@ -1,0 +1,6 @@
+1.0	she	earned	one-year master 's degree
+1.0	Harvard	from	Kennedy School of Government
+1.0	she	earned	one-year mid-career master 's degree
+1.0	she	earned	master 's degree
+1.0	one-year mid-career master	has	degree
+1.0	she	earned	mid-career master 's degree

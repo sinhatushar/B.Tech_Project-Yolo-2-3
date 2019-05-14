@@ -1,0 +1,32 @@
+1.0	term Indian	is commonly used than	Asian
+1.0	term Indian	is more commonly used	can found
+1.0	term Indian	is used than	Asian in South Africa
+1.0	term	is far more commonly used than	Asian
+1.0	term Indian	is more commonly used than	Asian
+1.0	term	is used	can found
+1.0	term	is commonly used than	Asian in South Africa
+1.0	term Indian	is used than	Asian
+1.0	term	is commonly used	can found
+1.0	term Indian	is commonly used	can found
+1.0	term Indian	is far more commonly used than	Asian in South Africa
+1.0	term	is	far more commonly used
+1.0	term	is more commonly used than	Asian
+1.0	term	is more commonly used	can found
+1.0	term Indian	is commonly used than	Asian in South Africa
+1.0	term	is commonly used than	Asian
+1.0	term Indian	is	commonly used
+1.0	term	is far more commonly used than	Asian in South Africa
+1.0	term Indian	is more commonly used than	Asian in South Africa
+1.0	term Indian	is far more commonly used	can found
+1.0	term Indian	is far more commonly used than	Asian
+1.0	term Indian	is	far more commonly used
+1.0	term	is used than	Asian
+1.0	term	is used than	Asian in South Africa
+1.0	term Indian	is used	can found
+1.0	term Indian	is	used
+1.0	term	is	used
+1.0	term	is far more commonly used	can found
+1.0	term Indian	is	more commonly used
+1.0	term	is more commonly used than	Asian in South Africa
+1.0	term	is	more commonly used
+1.0	term	is	commonly used

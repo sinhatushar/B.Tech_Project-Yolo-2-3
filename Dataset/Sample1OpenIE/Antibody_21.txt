@@ -1,0 +1,8 @@
+1.0	IgE 's Fab paratope	binds to	allergic antigen
+1.0	IgE	has	Fab paratope
+1.0	IgE 's Fab paratope	binds for	example house dust mite particles
+1.0	its Fc region	binds to	Fc receptor
+1.0	IgE 's Fab paratope	binds for	example house dust particles
+1.0	IgE 's Fab paratope	binds to	antigen
+1.0	IgE 's Fab paratope	binds	its Fc region binds to Fc receptor
+1.0	IgE 's Fab paratope	binds	its Fc region binds

@@ -1,0 +1,10 @@
+1.0	region	extends along	southern part of coast
+1.0	region	extends along	southern part of coast of Madagascar
+1.0	region	extends along	part of coast
+1.0	region	extends along	southern part
+1.0	region	extends along	part of east coast of Madagascar
+1.0	region	extends along	part of coast of Madagascar
+1.0	region	extends along	part
+1.0	region	extends along	southern part of east coast
+1.0	region	extends along	part of east coast
+1.0	region	extends along	southern part of east coast of Madagascar

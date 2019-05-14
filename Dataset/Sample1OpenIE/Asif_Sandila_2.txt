@@ -1,0 +1,14 @@
+1.0	Sandila briefly	Prior tenured in	Pakistan Navy
+1.0	Sandila briefly	tenured as	Vice Chief
+1.0	Sandila briefly	Prior tenured as	Vice Chief of Staff
+1.0	he	assumed in	2010
+1.0	Sandila briefly	Prior tenured as	Vice Chief
+1.0	Sandila briefly	tenured in	Pakistan Navy
+1.0	Sandila briefly	tenured as	Vice Chief of Staff
+1.0	President Asif Ali Zardari	promoted	Sandila
+1.0	President Asif Ali Zardari	promoted Sandila to	admiral
+1.0	President Asif Ali Zardari	promoted Sandila In	2011
+1.0	President Asif Ali Zardari	promoted Sandila on	request
+1.0	President Asif Ali Zardari	promoted Sandila to	four-star admiral
+1.0	President Asif Ali Zardari	appointed	him
+1.0	President Asif Ali Zardari	promoted Sandila on	request of Prime Minister Yousaf Raza Gillani

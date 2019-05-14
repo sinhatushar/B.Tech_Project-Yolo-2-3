@@ -1,0 +1,12 @@
+1.0	death	contributed to	their rival
+1.0	death	contributed towards	clan 's fall
+1.0	death	significantly damaged	Amago clan
+1.0	clan	towards	fall
+1.0	death	damaged Amago clan Regardless of	motive
+1.0	death	arguably contributed towards	clan 's fall
+1.0	death	damaged	Amago clan
+1.0	death	arguably contributed to	their rival
+1.0	death	damaged Amago clan Regardless of	motive for act
+1.0	death	significantly damaged Amago clan Regardless of	motive
+1.0	Mri clan	is in	1570s
+1.0	death	significantly damaged Amago clan Regardless of	motive for act

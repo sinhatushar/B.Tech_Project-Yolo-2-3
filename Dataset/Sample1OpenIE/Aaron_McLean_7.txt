@@ -1,0 +1,15 @@
+1.0	He	became	player for Grays
+1.0	He	quickly became	regular player
+1.0	He	quickly became	regular player for Grays
+1.0	He	regular player for	Grays
+1.0	He	became	regular player for Grays
+1.0	He	became	regular player
+1.0	He	player for	Grays
+1.0	He	became	player
+1.0	He	became on	loan
+1.0	He	quickly became	player
+1.0	He	quickly became on	initially loan
+1.0	He	making	59 league appearances
+1.0	He	quickly became	player for Grays
+1.0	He	became on	initially loan
+1.0	He	quickly became on	loan

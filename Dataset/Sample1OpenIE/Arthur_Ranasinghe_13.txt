@@ -1,0 +1,6 @@
+1.0	he	was appointed	Deputy Secretary
+1.0	he	was appointed	Cabinet Secretary
+1.0	he	was appointed Deputy Secretary In	1950
+1.0	he	was appointed Cabinet Secretary In	1950
+1.0	he	was appointed Cabinet Secretary to	Treasury
+1.0	he	was appointed Deputy Secretary to	Treasury

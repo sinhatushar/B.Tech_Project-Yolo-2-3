@@ -1,0 +1,4 @@
+1.0	band	has released	one DVD
+1.0	Breathing	Identity on	Fire
+1.0	band	has released	one EP
+1.0	band	has released	five studio albums

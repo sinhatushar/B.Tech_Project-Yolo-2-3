@@ -1,0 +1,6 @@
+1.0	They	participate as	member of Patriot League
+1.0	They	participate as	member
+1.0	They	participate in	NCAA Division I-A
+1.0	National Intercollegiate Women	has	Fencing Association
+1.0	They	participate as	non-football member of Patriot League
+1.0	They	participate as	non-football member

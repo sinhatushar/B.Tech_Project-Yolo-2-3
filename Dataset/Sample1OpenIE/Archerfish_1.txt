@@ -1,0 +1,7 @@
+1.0	archerfish	form	family
+1.0	archerfish	form	family of fish
+1.0	archerfish	form	family of fish known
+1.0	fish	of family is	Toxotidae
+1.0	archerfish	form	family of fish known for their habit preying
+1.0	archerfish	form	family of fish known for their habit preying on land-based insects
+1.0	archerfish	form	family of fish known for their habit preying on insects

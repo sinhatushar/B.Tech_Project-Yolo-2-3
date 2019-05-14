@@ -1,0 +1,7 @@
+1.0	He	was officially appointed Prime Minister by	President Sauli Niinist
+1.0	He	was officially appointed Prime Minister on	24 June
+1.0	He	was appointed Prime Minister on	24 June
+1.0	He	was appointed Prime Minister by	President Sauli Niinist
+1.0	He	was appointed	Prime Minister
+1.0	He	form	five party government coalition
+1.0	He	was officially appointed	Prime Minister

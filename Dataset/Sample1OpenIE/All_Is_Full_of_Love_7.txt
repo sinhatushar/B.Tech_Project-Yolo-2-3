@@ -1,0 +1,11 @@
+1.0	video	is	cited
+1.0	it	was on	display at Museum in New York City
+1.0	milestone	is in	computer animation
+1.0	video	is	often cited
+1.0	it	was on	display at Museum
+1.0	it	was on	display
+1.0	it	was on	display at Museum of Modern Art
+1.0	it	was on	display at Museum of Modern Art in New York City
+1.0	it	has	has displayed
+1.0	Museum	is in	New York City
+1.0	it	has	has displayed in art exhibitions

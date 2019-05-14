@@ -1,0 +1,8 @@
+1.0	it	was	third film collaboration
+1.0	it	was	film collaboration
+1.0	it	was	third film collaboration between Kumar
+1.0	it	stars	Akshay Kumar
+1.0	it	Produced by	Subhash Ghai
+1.0	it	stars	Priyanka Chopra
+1.0	it	was	film collaboration between Kumar
+1.0	it	stars	Kareena Kapoor

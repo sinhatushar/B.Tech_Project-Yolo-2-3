@@ -1,0 +1,7 @@
+0.8348012795091782	its timeslot	had performance in	October
+1.0	its ratings	started After	July
+1.0	its ratings	had regularly winning	its timeslot
+0.8348012795091782	its timeslot	had	best performance
+0.8348012795091782	its timeslot	had	performance
+1.0	its ratings	had winning	its timeslot
+1.0	its ratings	started	increasing

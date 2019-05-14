@@ -1,0 +1,14 @@
+1.0	album	starring	American rock musician Suzi Quatro
+1.0	album	starring American rock musician Suzi Quatro as	Annie Oakley
+1.0	Annie Get	is album from	London revival of Irving Berlin 's Annie
+1.0	Annie Get	is album from	first London revival of Irving Berlin 's musical Annie
+1.0	Annie Get	is album from	London revival
+1.0	Annie Get	is	album
+1.0	album	starring rock musician Suzi Quatro as	Frank Butler
+1.0	album	starring American rock musician Suzi Quatro as	Frank Butler
+1.0	album	starring	rock musician Suzi Quatro
+1.0	Irving Berlin	of	musical Annie
+1.0	Annie Get	is album from	first London revival of Irving Berlin 's Annie
+1.0	album	starring rock musician Suzi Quatro as	Annie Oakley
+1.0	Annie Get	is album from	first London revival
+1.0	Annie Get	is album from	London revival of Irving Berlin 's musical Annie

@@ -1,0 +1,40 @@
+0.914577040006295	series	is	based on group of celebrities in Farm
+0.914577040006295	series	is	based on group of celebrities living twenty-four hours day in Farm isolated
+0.914577040006295	series	is based in	Farm isolated from world
+0.914577040006295	series	is	based on group of celebrities living twenty-four hours day in Farm isolated from world
+0.914577040006295	series	is based on	group of celebrities
+0.914577040006295	series	is	based on group of celebrities living together in Farm isolated
+0.914577040006295	series	is	based on group of celebrities living together in Farm isolated from world
+0.914577040006295	series	is	based on group in Farm isolated
+0.914577040006295	series	is based on	group of celebrities living together twenty-four hours day
+0.914577040006295	series	is based in	Farm isolated
+0.914577040006295	series	is based on	group of celebrities living twenty-four hours day
+0.914577040006295	series	is	based on group of celebrities living twenty-four hours in Farm
+1.0	celebrity	remains at	end of season
+0.914577040006295	series	is	based on group of celebrities living in Farm
+0.914577040006295	series	is	based on group of celebrities living in Farm isolated from world
+0.914577040006295	series	is	based on group in Farm
+1.0	last celebrity	remains at	end of season
+0.914577040006295	series	is based on	group of celebrities living twenty-four hours
+0.914577040006295	series	is	based on group of celebrities living twenty-four hours day in Farm
+0.914577040006295	series	is	based on group of celebrities living together twenty-four hours in Farm isolated
+1.0	last celebrity	remains at	end
+0.914577040006295	series	is based on	group of celebrities living together
+0.914577040006295	series	is based on	group
+0.914577040006295	series	is	based on group of celebrities living in Farm isolated
+0.914577040006295	series	is	based on group in Farm isolated from world
+0.914577040006295	series	is	based on group of celebrities living together twenty-four hours in Farm
+0.914577040006295	series	is	based on group of celebrities living together twenty-four hours in Farm isolated from world
+0.914577040006295	series	is	based on group of celebrities living together twenty-four hours day in Farm isolated from world
+0.914577040006295	series	is	based on group of celebrities living twenty-four hours in Farm isolated
+0.914577040006295	series	is based on	group of celebrities living together twenty-four hours
+0.914577040006295	series	is	based on group of celebrities living together twenty-four hours day in Farm isolated
+0.914577040006295	series	is	based on group of celebrities in Farm isolated
+0.914577040006295	series	is	based
+0.914577040006295	series	is	based on group of celebrities living together twenty-four hours day in Farm
+0.914577040006295	series	is based in	Farm
+0.914577040006295	series	is	based on group of celebrities living together in Farm
+0.914577040006295	series	is	based on group of celebrities living twenty-four hours in Farm isolated from world
+0.914577040006295	series	is based on	group of celebrities living
+0.914577040006295	series	is	based on group of celebrities in Farm isolated from world
+1.0	celebrity	remains at	end

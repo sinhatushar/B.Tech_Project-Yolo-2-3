@@ -1,0 +1,8 @@
+1.0	medal	was	created on November 6 1942 by Executive Order 9265 issued by President Franklin D. Roosevelt
+1.0	medal	was created by	Executive Order 9265
+1.0	medal	was created by	Executive Order 9265 issued by President Franklin D. Roosevelt
+1.0	medal	was created on	November 6 1942
+1.0	medal	was	created on November 6 1942 by Executive Order 9265 issued
+1.0	medal	was	created on November 6 1942 by Executive Order 9265
+1.0	medal	was created by	Executive Order 9265 issued
+1.0	medal	was	created

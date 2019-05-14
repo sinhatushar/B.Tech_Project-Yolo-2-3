@@ -1,0 +1,5 @@
+1.0	Trouble	originating from	England
+1.0	Trouble	originating from	Crewe
+1.0	Trouble	are	British
+1.0	Trouble	are	rock band
+1.0	Trouble	are	British rock band

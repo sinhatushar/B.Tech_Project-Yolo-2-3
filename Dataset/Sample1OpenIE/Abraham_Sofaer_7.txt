@@ -1,0 +1,5 @@
+1.0	he	gained attention on	Broadway portraying Prime Minister Benjamin Disraeli
+1.0	he	gained	widespread attention
+1.0	he	gained	attention
+1.0	he	gained attention in	Victoria Regina
+1.0	he	gained attention In	1935

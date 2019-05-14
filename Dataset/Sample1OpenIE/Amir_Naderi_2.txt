@@ -1,0 +1,4 @@
+1.0	He	is	known
+1.0	He	is best known for	Runner
+1.0	He	is known for	Runner
+1.0	He	is	best known

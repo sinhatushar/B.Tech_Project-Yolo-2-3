@@ -1,0 +1,2 @@
+1.0	county	is subdivided into	two districts
+1.0	county	is	subdivided

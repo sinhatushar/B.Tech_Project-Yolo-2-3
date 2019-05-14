@@ -1,0 +1,6 @@
+1.0	Al-Karak	is city in	Jordan known
+1.0	Al-Karak	is city in	Jordan known for its Crusader castle
+1.0	Al-Karak	is	city
+1.0	Al-Karak	is city in	Jordan
+1.0	Jordan	in city is	Kerak Castle
+1.0	city	is in	Jordan known for its Crusader castle

@@ -1,0 +1,66 @@
+1.0	Alstom SA	is	French company operating worldwide in rail transport markets
+1.0	Alstom SA	is	French multinational company operating with products including AGV trains
+1.0	Alstom SA	is	multinational company operating in rail transport markets
+1.0	Alstom SA	is	French multinational company operating
+1.0	Alstom SA	is	French company operating
+1.0	Alstom SA	is	French multinational company operating worldwide with products
+1.0	Alstom SA	is	multinational company operating in rail transport markets with products including AGV trains
+1.0	Alstom SA	is	company
+1.0	Alstom SA	is	company operating
+1.0	Alstom SA	is	company operating with products including AGV trains
+1.0	Alstom SA	is	company operating with products
+1.0	Alstom SA	is French company with	products including AGV trains
+1.0	Alstom SA	is	multinational company operating worldwide with products
+1.0	Alstom SA	is	company operating in rail transport markets with products
+1.0	Alstom SA	is	multinational company operating worldwide in rail transport markets
+1.0	Alstom SA	is	French multinational company operating worldwide
+1.0	Alstom SA	is multinational company with	products
+1.0	Alstom SA	is French company with	products
+1.0	Alstom SA	is company with	products
+1.0	SA	is	multinational
+1.0	Alstom SA	is	French company operating in rail transport markets with products including AGV trains
+1.0	Alstom SA	is	French multinational company operating in rail transport markets
+1.0	Alstom SA	is	company operating worldwide
+0.759397279972094	Alstom SA	operating worldwide in	rail transport markets
+1.0	Alstom SA	is	French multinational company operating with products
+1.0	Alstom SA	is	French multinational company
+1.0	Alstom SA	is	French multinational company operating in rail transport markets with products including AGV trains
+1.0	Alstom SA	is	company operating worldwide in rail transport markets with products
+1.0	Alstom SA	is	multinational company operating worldwide in rail transport markets with products including AGV trains
+1.0	Alstom SA	is company with	products including AGV trains
+1.0	Alstom SA	is	French company operating in rail transport markets
+1.0	SA	is	French
+1.0	Alstom SA	is	multinational company operating
+1.0	Alstom SA	is	French multinational company operating worldwide in rail transport markets with products including AGV trains
+1.0	French multinational company active	is with	products including AGV high-speed trains in suburban trains
+1.0	Alstom SA	is	French company
+1.0	Alstom SA	is	French company operating worldwide in rail transport markets with products including AGV trains
+1.0	SA	is	active
+0.759397279972094	Alstom SA	operating in	rail transport markets
+1.0	Alstom SA	is	company operating in rail transport markets
+1.0	Alstom SA	is	French company operating with products including AGV trains
+1.0	Alstom SA	is	multinational company operating worldwide with products including AGV trains
+1.0	Alstom SA	is multinational company with	products including AGV trains
+1.0	Alstom SA	is	French company operating with products
+1.0	Alstom SA	is	multinational company operating worldwide
+1.0	Alstom SA	is	French multinational company operating worldwide in rail transport markets with products
+1.0	Alstom SA	is	French company operating worldwide with products including AGV trains
+1.0	Alstom SA	is	multinational company operating in rail transport markets with products
+1.0	Alstom SA	is	French multinational company operating worldwide in rail transport markets
+1.0	Alstom SA	is	French company operating worldwide in rail transport markets with products
+1.0	Alstom SA	is	multinational company operating worldwide in rail transport markets with products
+1.0	Alstom SA	is	company operating worldwide in rail transport markets with products including AGV trains
+1.0	Alstom SA	is	company operating worldwide in rail transport markets
+1.0	Alstom SA	is	French company operating worldwide with products
+1.0	Alstom SA	is	French company operating in rail transport markets with products
+1.0	Alstom SA	is	company operating worldwide with products
+1.0	Alstom SA	is	multinational company operating with products including AGV trains
+1.0	Alstom SA	is	French multinational company operating worldwide with products including AGV trains
+1.0	Alstom SA	is	multinational company operating with products
+1.0	Alstom SA	is	French multinational company operating in rail transport markets with products
+1.0	Alstom SA	is	multinational company
+1.0	Alstom SA	is	company operating in rail transport markets with products including AGV trains
+1.0	Alstom SA	is French multinational company with	products
+1.0	Alstom SA	is French multinational company with	products including AGV trains
+1.0	Alstom SA	is	French company operating worldwide
+1.0	Alstom SA	is	company operating worldwide with products including AGV trains

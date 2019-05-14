@@ -1,0 +1,15 @@
+1.0	Brazilian television sitcom	created by	Oduvaldo Vianna Filho
+1.0	Grande Famlia	is	Brazilian television sitcom
+1.0	Grande Famlia	is	television sitcom created
+1.0	Grande Famlia	is	Brazilian television sitcom created by Oduvaldo Vianna Filho
+1.0	Famlia	is	Brazilian
+1.0	Grande Famlia	is	Brazilian television sitcom created
+1.0	Grande Famlia	is	television sitcom created by Oduvaldo Vianna Filho
+1.0	Armando Costa	aired on	Rede Globo
+1.0	Grande Famlia	is	television sitcom
+1.0	Armando Costa	originally aired from	March 29 2001
+1.0	Armando Costa	aired from	March 29 2001 to September 11 2014
+1.0	Armando Costa	aired from	March 29 2001
+1.0	Armando Costa	originally aired on	Rede Globo
+1.0	television sitcom	created by	Oduvaldo Vianna Filho
+1.0	Armando Costa	originally aired from	March 29 2001 to September 11 2014

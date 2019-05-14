@@ -1,0 +1,4 @@
+1.0	Ambrose Everett Burnside	politician from	Rhode Island
+1.0	Burnside	was	American
+1.0	Ambrose Everett Burnside	was	soldier
+1.0	Ambrose Everett Burnside	was	American soldier

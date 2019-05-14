@@ -1,0 +1,12 @@
+1.0	They	later worked on	Tales
+1.0	They	worked closely on	Tales of series
+1.0	They	later worked on	Tales of series
+1.0	They	later worked closely on	Tales
+1.0	They	worked on	Tales
+1.0	They	worked with	Sony Computer Entertainment
+1.0	They	later worked closely with	Sony Computer Entertainment
+1.0	They	later worked closely on	Tales of series
+1.0	They	later worked with	Sony Computer Entertainment
+1.0	They	worked closely on	Tales
+1.0	They	worked closely with	Sony Computer Entertainment
+1.0	They	worked on	Tales of series

@@ -1,0 +1,5 @@
+1.0	telenovela	created by	Alberto Gmez
+1.0	Alma	is	telenovela created by Alberto Gmez
+1.0	Alma	is	telenovela
+1.0	Alma	is	telenovela created
+0.49638165292214337	Alma	produced by	Venevisin International

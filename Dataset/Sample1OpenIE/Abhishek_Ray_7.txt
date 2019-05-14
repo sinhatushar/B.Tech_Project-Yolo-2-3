@@ -1,0 +1,20 @@
+1.0	He	has composed	music for numerous documentaries like Maharaja Of Jodhpur
+1.0	he	received	2006 Indian Telly Award for best Music
+1.0	he	received	2006 Telly Award for Music
+1.0	He	has composed	music
+1.0	he	received	2006 Telly Award for best Music
+1.0	He	has composed	music for numerous documentaries like Maharaja
+1.0	he	received	2006 Indian Telly Award for Music
+1.0	He	has also composed	music for documentaries like Maharaja
+1.0	He	has composed	music for documentaries
+1.0	He	has also composed	music for documentaries
+1.0	He	has also composed	music for numerous documentaries like Maharaja
+1.0	He	has composed	music for documentaries like Maharaja Of Jodhpur
+1.0	He	has also composed	music
+1.0	He	has composed	music for numerous documentaries
+1.0	He	has composed	music for documentaries like Maharaja
+1.0	he	received	2006 Indian Telly Award
+1.0	he	received	2006 Telly Award
+1.0	He	has also composed	music for numerous documentaries
+1.0	He	has also composed	music for documentaries like Maharaja Of Jodhpur
+1.0	He	has also composed	music for numerous documentaries like Maharaja Of Jodhpur

@@ -1,0 +1,5 @@
+1.0	Atari Games Corporation	was producer of	arcade games
+1.0	Corporation	was	American
+1.0	Atari Games Corporation	was	American producer
+1.0	Atari Games Corporation	was	producer
+1.0	Atari Games Corporation	was American producer of	arcade games

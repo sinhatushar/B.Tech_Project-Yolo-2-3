@@ -1,0 +1,21 @@
+1.0	scar Adrin Lucero	is footballer	plays for Greek club Panetolikos
+1.0	scar Adrin Lucero	is footballer	plays as Left winger
+1.0	scar Adrin Lucero	is Argentine footballer	plays for club Panetolikos as winger
+1.0	scar Adrin Lucero	is Argentine footballer	plays
+1.0	Lucero	is	Argentine
+1.0	scar Adrin Lucero	is footballer	plays
+1.0	scar Adrin Lucero	is Argentine footballer	plays as winger
+1.0	scar Adrin Lucero	is footballer	plays for Greek club Panetolikos as winger
+1.0	scar Adrin Lucero	is Argentine footballer	plays as Left winger
+1.0	scar Adrin Lucero	is footballer	plays for club Panetolikos as winger
+1.0	scar Adrin Lucero	is Argentine footballer	plays for club Panetolikos as Left winger
+1.0	scar Adrin Lucero	is footballer	plays as winger
+1.0	scar Adrin Lucero	is Argentine footballer	plays for Greek club Panetolikos as winger
+1.0	scar Adrin Lucero	is footballer	plays for Greek club Panetolikos as Left winger
+1.0	scar Adrin Lucero	is footballer	plays for club Panetolikos
+1.0	scar Adrin Lucero	is	Argentine footballer
+1.0	scar Adrin Lucero	is Argentine footballer	plays for Greek club Panetolikos
+1.0	scar Adrin Lucero	is Argentine footballer	plays for club Panetolikos
+1.0	scar Adrin Lucero	is Argentine footballer	plays for Greek club Panetolikos as Left winger
+1.0	scar Adrin Lucero	is footballer	plays for club Panetolikos as Left winger
+1.0	scar Adrin Lucero	is	footballer

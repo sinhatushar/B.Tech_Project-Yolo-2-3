@@ -1,0 +1,7 @@
+1.0	Alstom	was in	In 2004 financial crisis
+1.0	Alstom	was in	In 2004 crisis
+1.0	losses	is in	other areas of business
+1.0	ABB Group	of	turbine business
+1.0	Alstom	was in	crisis
+1.0	financial crisis	is In	2004
+1.0	Alstom	was in	financial crisis

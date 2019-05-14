@@ -1,0 +1,12 @@
+1.0	Hen	aired according to	Nielsen Media Research
+1.0	4.36 million viewers	is in	its original airing
+1.0	Hen	originally aired on	October 21 2014
+0.8381310031752705	Hen	was watched by	4.36 million viewers
+1.0	Hen	is in	Wolf House
+1.0	Hen	aired on	ABC
+0.8381310031752705	Hen	was	watched
+0.8381310031752705	Hen	was watched by	4.36 million viewers in its original airing
+0.8381310031752705	Hen	was watched by	4.36 million viewers in its airing
+1.0	Hen	originally aired on	ABC
+1.0	Hen	originally aired according to	Nielsen Media Research
+1.0	Hen	aired on	October 21 2014

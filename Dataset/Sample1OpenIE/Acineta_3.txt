@@ -1,0 +1,26 @@
+1.0	orchids	occur at	altitudes up to 2,000 m
+1.0	orchids	occur in	forests
+1.0	epiphytic orchids	occur to	South America
+1.0	epiphytic orchids	occur in	forests
+1.0	orchids	occur in	tropical forests
+1.0	orchids	occur in	forests from Mexico
+1.0	orchids	occur in	mountainous forests from Mexico
+1.0	epiphytic orchids	occur to	western South America
+1.0	orchids	occur to	western South America
+1.0	orchids	occur in	tropical mountainous forests
+1.0	orchids	occur in	tropical forests from Mexico
+1.0	epiphytic orchids	occur in	mountainous forests
+1.0	orchids	occur in	mountainous forests
+1.0	epiphytic orchids	occur in	tropical forests from Mexico
+1.0	epiphytic orchids	occur in	tropical mountainous forests from Mexico
+1.0	epiphytic orchids	occur at	altitudes up to 2,000 m
+1.0	orchids	occur to	South America
+1.0	epiphytic orchids	occur in	tropical forests
+1.0	epiphytic orchids	occur in	tropical mountainous forests
+1.0	orchids	occur in	tropical mountainous forests from Mexico
+1.0	epiphytic orchids	occur in	forests from Mexico
+1.0	epiphytic orchids	occur in	mountainous forests from Mexico
+1.0	They	found on	steep embankments
+1.0	They	are	lithophytic
+1.0	They	are	sometimes lithophytic
+1.0	They	found on	embankments

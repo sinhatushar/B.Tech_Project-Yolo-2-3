@@ -1,0 +1,8 @@
+1.0	Acmaeopsoides rufula	is species in	family Cerambycidae
+1.0	Acmaeopsoides rufula	is species of	beetle
+1.0	species	is in	family Cerambycidae
+1.0	only species	is in	genus Acmaeopsoides
+1.0	Acmaeopsoides rufula	species in	genus Acmaeopsoides
+1.0	Acmaeopsoides rufula	only species in	genus Acmaeopsoides
+1.0	Acmaeopsoides rufula	is	species of beetle in family Cerambycidae
+1.0	Acmaeopsoides rufula	is	species

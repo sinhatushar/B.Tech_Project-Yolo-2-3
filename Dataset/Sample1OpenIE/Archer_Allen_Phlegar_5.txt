@@ -1,0 +1,4 @@
+1.0	he	was admitted In	1869
+1.0	he	was	In 1869 admitted to bar
+1.0	he	was	admitted
+1.0	he	was admitted to	bar

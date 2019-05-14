@@ -1,0 +1,15 @@
+1.0	Franklin	earned acclaim at_time	year
+1.0	Franklin	earned acclaim for	her performance
+1.0	acclaim	filling in at	last minute
+1.0	Franklin	earned	international acclaim
+1.0	Franklin	earned	acclaim
+1.0	Franklin	earned acclaim at_time	same year
+1.0	acclaim	filling in at	minute
+1.0	Franklin	earned acclaim for	her performance of Nessun dorma at Grammy Awards
+1.0	Franklin	earned acclaim for	her performance of Nessun dorma
+1.0	international acclaim	filling in at	minute
+1.0	acclaim	filling in at	last minute for Luciano Pavarotti
+1.0	international acclaim	filling in at	last minute for Luciano Pavarotti
+1.0	international acclaim	filling in at	last minute
+1.0	acclaim	filling in at	minute for Luciano Pavarotti
+1.0	international acclaim	filling in at	minute for Luciano Pavarotti

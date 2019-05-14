@@ -1,0 +1,5 @@
+1.0	molecules	Generally have	weights
+1.0	molecules	have	weights
+1.0	molecules	Generally have	molecular weights
+0.6786274738635546	molecules	meeting	specification
+1.0	molecules	have	molecular weights

@@ -1,0 +1,18 @@
+1.0	He	was proponent of	position in nature
+1.0	genetics	play role in	behavioral traits
+1.0	He	was	major
+1.0	He	was proponent of	position
+1.0	He	was proponent of	hereditarian position
+1.0	He	was major proponent of	hereditarian position
+1.0	genetics	play	role
+1.0	He	was proponent of	hereditarian position in nature
+1.0	genetics	play	significant role
+1.0	hereditarian position	of proponent is	position
+1.0	He	nurture	debate
+1.0	He	was major proponent of	hereditarian position in nature
+1.0	genetics	play role in	traits
+1.0	He	was	major proponent
+1.0	He	was major proponent of	position in nature
+1.0	hereditarian position	is in	nature
+1.0	He	was major proponent of	position
+1.0	He	was	proponent

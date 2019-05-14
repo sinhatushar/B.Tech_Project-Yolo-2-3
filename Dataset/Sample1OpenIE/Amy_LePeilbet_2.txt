@@ -1,0 +1,5 @@
+1.0	She	was	Olympic
+1.0	She	was	Olympic gold medalist
+1.0	She	was	Olympic gold medalist at 2012 London Olympics
+1.0	She	was	gold medalist at 2012 London Olympics
+1.0	She	was	gold medalist

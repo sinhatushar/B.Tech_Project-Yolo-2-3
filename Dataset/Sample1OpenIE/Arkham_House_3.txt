@@ -1,0 +1,6 @@
+1.0	company 's name	is	derived
+1.0	company 's name	is derived from	Arkham
+1.0	company 's name	is derived from	Lovecraft 's fictional New England city
+1.0	Lovecraft	from	fictional New England city
+1.0	company	has	name
+1.0	Lovecraft	's city is	Arkham

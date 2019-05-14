@@ -1,0 +1,2 @@
+1.0	show	featured	performers
+1.0	show	featured	other performers

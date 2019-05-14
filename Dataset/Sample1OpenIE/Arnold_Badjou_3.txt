@@ -1,0 +1,4 @@
+1.0	He	played	3 matches
+1.0	Belgium national football team squads	is in	1930
+1.0	He	was in	Belgium national football team squads
+1.0	He	was in	Belgium football team squads

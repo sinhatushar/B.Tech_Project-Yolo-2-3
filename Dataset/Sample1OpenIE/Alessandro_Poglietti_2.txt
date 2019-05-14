@@ -1,0 +1,5 @@
+1.0	Leopold I	of	favorite composers
+1.0	he	attained	high reputation
+1.0	he	attained	extremely high reputation
+1.0	he	attained	reputation
+1.0	Poglietti	settled in	Vienna

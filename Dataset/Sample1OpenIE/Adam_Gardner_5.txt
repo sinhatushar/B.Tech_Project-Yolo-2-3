@@ -1,0 +1,13 @@
+1.0	Its album	consists of	humorous original songs about holiday
+1.0	Its album	consists of	humorous songs about Jewish holiday
+1.0	Its album	consists of	original songs about Jewish holiday
+1.0	Its album	consists of	songs about holiday
+1.0	Its album	consists of	humorous original songs about Jewish holiday
+1.0	Its album	consists of	humorous songs
+1.0	Its album	consists of	original songs
+1.0	Its album	consists of	songs
+1.0	Its album	consists of	humorous songs about holiday
+1.0	Its	album	Hanukkah Rocks
+1.0	Its album	consists of	songs about Jewish holiday
+1.0	Its album	consists of	original songs about holiday
+1.0	Its album	consists of	humorous original songs

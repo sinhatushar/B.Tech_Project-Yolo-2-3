@@ -1,0 +1,5 @@
+1.0	Pug	has	battle with Belasco
+1.0	book	continues	events of previous novel
+1.0	book	continues	events
+1.0	Pug 's battle	is with	Belasco
+1.0	book	continues	events of novel

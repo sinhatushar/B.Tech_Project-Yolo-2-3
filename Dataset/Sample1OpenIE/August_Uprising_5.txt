@@ -1,0 +1,19 @@
+1.0	Soviet rule	is in	Georgia
+1.0	its defeat	marked	establishment of Soviet rule
+0.5436908265475425	its defeat	definitive establishment of	rule in Georgia
+0.5436908265475425	its defeat	establishment of	Soviet rule
+1.0	its defeat	marked	establishment of rule in Georgia
+0.5436908265475425	its defeat	definitive establishment of	Soviet rule
+0.5436908265475425	its defeat	establishment of	rule
+0.5436908265475425	its defeat	definitive establishment of	rule
+0.5436908265475425	its defeat	definitive establishment of	Soviet rule in Georgia
+0.5436908265475425	its defeat	establishment of	rule in Georgia
+1.0	its defeat	marked	definitive establishment of Soviet rule
+1.0	its defeat	marked	definitive establishment of rule
+1.0	its defeat	marked	establishment of Soviet rule in Georgia
+1.0	its defeat	marked	definitive establishment of Soviet rule in Georgia
+0.5436908265475425	its defeat	establishment of	Soviet rule in Georgia
+1.0	its defeat	marked	establishment
+1.0	its defeat	marked	establishment of rule
+1.0	its defeat	marked	definitive establishment
+1.0	its defeat	marked	definitive establishment of rule in Georgia

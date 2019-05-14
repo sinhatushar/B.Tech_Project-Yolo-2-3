@@ -1,0 +1,9 @@
+1.0	name	is derived from	Greek word akinetos
+1.0	name	referring to	lip
+1.0	name	is derived	referring to rigid labellum
+1.0	name	referring to	labellum
+1.0	name	referring to	rigid labellum
+1.0	name	is derived from	word akinetos
+1.0	name	is	derived
+1.0	name	is derived	referring
+1.0	name	is derived	referring to labellum

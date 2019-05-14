@@ -1,0 +1,6 @@
+1.0	it	was home of	royal court
+1.0	it	was once home of	royal court
+1.0	it	was home of	French royal court
+1.0	it	was	once home
+1.0	it	was once home of	French royal court
+1.0	it	was	home

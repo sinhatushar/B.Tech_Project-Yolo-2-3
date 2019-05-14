@@ -1,0 +1,10 @@
+1.0	lex Dario Aguinaga Garzn	is	retired football midfielder
+1.0	lex Dario Aguinaga Garzn	is	Ecuadorian football midfielder of Categora Primera team Itag
+1.0	Garzn	is	Ecuadorian
+1.0	lex Dario Aguinaga Garzn	is	retired football midfielder of Categora Primera team Itag
+1.0	lex Dario Aguinaga Garzn	is	Ecuadorian football midfielder
+1.0	lex Dario Aguinaga Garzn	is	football midfielder
+1.0	lex Dario Aguinaga Garzn	is	football midfielder of Categora Primera team Itag
+1.0	Garzn	is	retired
+1.0	lex Dario Aguinaga Garzn	is	Ecuadorian retired football midfielder
+1.0	lex Dario Aguinaga Garzn	is	Ecuadorian retired football midfielder of Categora Primera team Itag

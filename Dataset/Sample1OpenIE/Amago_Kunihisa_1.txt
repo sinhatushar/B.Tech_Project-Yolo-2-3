@@ -1,0 +1,33 @@
+0.578949356770138	1492 November 25	was	warlord
+0.578949356770138	1492 November	was	warlord
+1.0	November	was	Japanese
+0.578949356770138	1492 November	was Japanese warlord during	Sengoku period of western Honshu
+0.578949356770138	1492 November 25 1554	was warlord during	Sengoku period of western Honshu
+0.578949356770138	1492 November 25 1554	was warlord during	Sengoku period of Honshu
+0.578949356770138	1492 November 25 1554	was Japanese warlord during	Sengoku period of Honshu
+0.578949356770138	1492 November 25 1554	was	Japanese warlord
+0.578949356770138	1492 November 1554	was Japanese warlord during	Sengoku period
+0.578949356770138	1492 November	was warlord during	Sengoku period of western Honshu
+0.578949356770138	1492 November 25	was warlord during	Sengoku period
+0.578949356770138	1492 November 1554	was	warlord
+0.578949356770138	1492 November 25	was warlord during	Sengoku period of Honshu
+0.578949356770138	1492 November 1554	was Japanese warlord during	Sengoku period of western Honshu
+0.578949356770138	1492 November 25	was Japanese warlord during	Sengoku period of Honshu
+0.578949356770138	1492 November 1554	was warlord during	Sengoku period of western Honshu
+0.578949356770138	1492 November	was warlord during	Sengoku period
+0.578949356770138	1492 November 25	was Japanese warlord during	Sengoku period of western Honshu
+0.578949356770138	1492 November 1554	was	Japanese warlord
+0.578949356770138	1492 November 25 1554	was	warlord
+0.578949356770138	1492 November 25 1554	was warlord during	Sengoku period
+0.578949356770138	1492 November 25	was Japanese warlord during	Sengoku period
+0.578949356770138	1492 November 25	was	Japanese warlord
+0.578949356770138	1492 November	was Japanese warlord during	Sengoku period
+0.578949356770138	1492 November 1554	was warlord during	Sengoku period of Honshu
+0.578949356770138	1492 November 25 1554	was Japanese warlord during	Sengoku period
+0.578949356770138	1492 November	was warlord during	Sengoku period of Honshu
+0.578949356770138	1492 November 1554	was Japanese warlord during	Sengoku period of Honshu
+0.578949356770138	1492 November 25 1554	was Japanese warlord during	Sengoku period of western Honshu
+0.578949356770138	1492 November	was Japanese warlord during	Sengoku period of Honshu
+0.578949356770138	1492 November 25	was warlord during	Sengoku period of western Honshu
+0.578949356770138	1492 November	was	Japanese warlord
+0.578949356770138	1492 November 1554	was warlord during	Sengoku period

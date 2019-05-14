@@ -1,0 +1,12 @@
+1.0	It	is currently only known member of	its genus
+1.0	It	is	currently known member
+1.0	It	is	member
+1.0	It	is	currently only known member
+1.0	It	is	currently member
+1.0	It	is currently member of	its genus
+1.0	It	is only known member of	its genus
+1.0	It	is member of	its genus
+1.0	It	is currently known member of	its genus
+1.0	It	is known member of	its genus
+1.0	It	is	only known member
+1.0	It	is	known member

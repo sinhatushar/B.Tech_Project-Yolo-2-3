@@ -1,0 +1,4 @@
+1.0	S	reached respectively	semifinals of ATP tournaments
+1.0	S	reached	semifinals of ATP tournaments
+1.0	S	reached	semifinals
+1.0	S	reached respectively	semifinals

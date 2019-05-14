@@ -1,0 +1,11 @@
+1.0	film	tells	story of man accused
+1.0	film	tells	story of man accused by his female superior
+1.0	film	tells	story of man accused of harassment by his superior
+1.0	film	tells	story of man accused of harassment
+1.0	film	tells	story of man accused by his superior
+1.0	film	tells	story
+1.0	film	tells	story of man accused of harassment by his female superior
+1.0	film	tells	story of man
+1.0	film	tells	story of man accused of sexual harassment by his superior
+1.0	film	tells	story of man accused of sexual harassment by his female superior
+1.0	film	tells	story of man accused of sexual harassment

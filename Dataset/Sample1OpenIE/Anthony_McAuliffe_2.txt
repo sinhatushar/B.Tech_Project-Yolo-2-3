@@ -1,0 +1,4 @@
+1.0	McAuliffe	was promoted After	battle
+1.0	he	led from	January 1945 to July 1945
+1.0	McAuliffe	was	promoted
+1.0	he	led from	January 1945

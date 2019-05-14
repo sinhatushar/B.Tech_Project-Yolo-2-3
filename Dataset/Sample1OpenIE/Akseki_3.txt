@@ -1,0 +1,10 @@
+1.0	Akseki	Known for	its snowdrops
+1.0	Akseki	is located in	Taurus Mountains
+1.0	Akseki	is located at	elevation of 1500m
+1.0	Akseki	is	located in Taurus Mountains at elevation
+1.0	Akseki	is	located in western Taurus Mountains at elevation
+1.0	Akseki	is	located
+1.0	Akseki	is	located in Taurus Mountains at elevation of 1500m
+1.0	Akseki	is	located in western Taurus Mountains at elevation of 1500m
+1.0	Akseki	is located in	western Taurus Mountains
+1.0	Akseki	is located at	elevation

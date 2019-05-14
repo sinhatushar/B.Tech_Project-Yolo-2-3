@@ -1,0 +1,6 @@
+1.0	company	ranks on	Fortune 500 list
+1.0	company	ranks on	Fortune Global 500 list
+1.0	company	ranks	57th
+1.0	company	ranks As of	2017
+1.0	company	ranks on	Fortune 500 list of companies
+1.0	company	ranks on	Fortune Global 500 list of companies

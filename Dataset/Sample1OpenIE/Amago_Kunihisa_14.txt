@@ -1,0 +1,6 @@
+1.0	His third son Takehisa	would commit suicide at_time	day
+1.0	His son Takehisa	would commit suicide at_time	day
+1.0	His third son Takehisa	would commit suicide at_time	next day
+1.0	His son Takehisa	would commit	suicide
+1.0	His third son Takehisa	would commit	suicide
+1.0	His son Takehisa	would commit suicide at_time	next day

@@ -1,0 +1,14 @@
+1.0	she	was nominated in	Miniseries
+1.0	she	was nominated for	Primetime Emmy Award
+1.0	she	was	nominated for Primetime Emmy Award for Outstanding Actress in Miniseries
+1.0	she	was nominated for	Primetime Emmy Award for Lead Actress
+1.0	she	was	nominated for Primetime Emmy Award in Miniseries
+1.0	she	was	nominated
+1.0	she	was nominated for	Primetime Emmy Award for Outstanding Lead Actress
+1.0	she	was	nominated for Primetime Emmy Award for Lead Actress in Miniseries
+1.0	she	was nominated for	Primetime Emmy Award for Outstanding Actress
+1.0	she	was nominated for	Primetime Emmy Award for Actress
+1.0	she	was	nominated for Primetime Emmy Award for Actress in Miniseries
+1.0	She	starred as	Rebecca Winstone
+1.0	she	was	nominated for Primetime Emmy Award for Outstanding Lead Actress in Miniseries
+1.0	She	starred in	2012 television series Missing

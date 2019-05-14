@@ -1,0 +1,5 @@
+1.0	Valente 's collection	is	historically important
+1.0	Valente	has	second collection
+1.0	Valente 's second collection	is	historically important
+1.0	Valente 's second collection	is	important
+1.0	Valente 's collection	is	important

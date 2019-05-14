@@ -1,0 +1,5 @@
+1.0	Katainen	stepped down in	2014
+1.0	Katainen	stepped down as	Prime Minister
+1.0	Katainen	stepped down as	Prime Minister of National Coalition Party
+1.0	Stubb	was elected as	party chairman
+1.0	Stubb	was	elected

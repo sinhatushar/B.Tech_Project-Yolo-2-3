@@ -1,0 +1,13 @@
+1.0	It	is	considered
+1.0	It	is considered	fastest member of huge Lacertidae family
+1.0	It	be	fastest member
+1.0	It	be member of	Lacertidae family
+1.0	It	be member of	huge Lacertidae family
+1.0	It	is considered	member of huge Lacertidae family
+1.0	It	is considered	member
+1.0	It	be	member
+1.0	It	is considered	fastest member of Lacertidae family
+1.0	It	be fastest member of	Lacertidae family
+1.0	It	be fastest member of	huge Lacertidae family
+1.0	It	is considered	fastest member
+1.0	It	is considered	member of Lacertidae family

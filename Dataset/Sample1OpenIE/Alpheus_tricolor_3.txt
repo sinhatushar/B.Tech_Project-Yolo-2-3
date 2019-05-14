@@ -1,0 +1,14 @@
+1.0	shallow adrostral	basicerite with	ventrolateral tooth
+1.0	It	counts with	rostrum
+1.0	It	counts with	adrostral furrows
+1.0	It	counts with	shallow adrostral furrows
+1.0	shallow adrostral	basicerite with	strong ventrolateral tooth
+1.0	adrostral	basicerite with	tooth
+1.0	shallow adrostral	basicerite with	strong tooth
+1.0	adrostral	basicerite with	strong tooth
+1.0	adrostral	basicerite with	ventrolateral tooth
+1.0	It	counts with	setose carapace
+1.0	basicerite	is with	strong ventrolateral tooth
+1.0	adrostral	basicerite with	strong ventrolateral tooth
+1.0	shallow adrostral	basicerite with	tooth
+1.0	It	counts with	acute rostrum

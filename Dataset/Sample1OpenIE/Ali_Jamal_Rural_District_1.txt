@@ -1,0 +1,11 @@
+1.0	Ali Jamal Rural District	is district in	Central District of Boshruyeh County
+1.0	Ali Jamal Rural District	is district in	Central District
+1.0	District	is	rural
+1.0	rural district	is in	Central District of Boshruyeh County
+1.0	Central District	in district is	dehestan
+1.0	Ali Jamal Rural District	is	district
+1.0	Ali Jamal Rural District	is rural district in	South Khorasan Province
+1.0	Ali Jamal Rural District	is rural district in	Central District
+1.0	Ali Jamal Rural District	is	rural district
+1.0	Ali Jamal Rural District	is rural district in	Central District of Boshruyeh County
+1.0	Ali Jamal Rural District	is district in	South Khorasan Province

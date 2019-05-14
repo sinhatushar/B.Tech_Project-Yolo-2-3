@@ -1,0 +1,27 @@
+1.0	He	appeared from	its days on radio
+1.0	He	also appeared from	its earliest days in late 1930s on radio
+1.0	He	appeared on	television
+1.0	He	appeared from	its days in 1930s
+1.0	He	also appeared from	its earliest days in 1930s
+1.0	He	appeared from	its days in 1930s on radio
+1.0	He	also appeared from	its days in 1930s on radio
+1.0	He	appeared from	its days in late 1930s on radio
+1.0	He	also appeared from	its days in late 1930s
+1.0	He	also appeared from	its earliest days
+1.0	He	also appeared from	its days in 1930s
+1.0	He	appeared from	its earliest days in late 1930s
+1.0	He	also appeared from	its earliest days in 1930s on radio
+1.0	He	appeared from	its earliest days on radio
+1.0	He	also appeared from	its days in late 1930s on radio
+1.0	He	appeared from	its days in late 1930s
+1.0	He	also appeared from	its days
+1.0	He	appeared from	its earliest days in late 1930s on radio
+1.0	He	appeared from	its earliest days in 1930s on radio
+1.0	He	also appeared on	television
+1.0	days	is in	late 1930s
+1.0	He	appeared from	its days
+1.0	He	appeared from	its earliest days
+1.0	He	also appeared from	its days on radio
+1.0	He	also appeared from	its earliest days in late 1930s
+1.0	He	appeared from	its earliest days in 1930s
+1.0	He	also appeared from	its earliest days on radio

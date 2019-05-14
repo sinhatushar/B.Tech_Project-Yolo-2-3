@@ -1,0 +1,12 @@
+1.0	Robinson	became	resigning
+1.0	Robinson	president of	Mexican Central Railway
+1.0	Robinson	became	resigning from Santa Fe
+1.0	Robinson	president of	Railway
+1.0	Robinson	became	president of Mexican Railway
+1.0	Robinson	became	president of Railway
+1.0	Robinson	became	president of Central Railway
+1.0	Robinson	resigning from	Santa Fe
+1.0	Robinson	president of	Central Railway
+1.0	Robinson	became	president of Mexican Central Railway
+1.0	Robinson	became	president
+1.0	Robinson	president of	Mexican Railway

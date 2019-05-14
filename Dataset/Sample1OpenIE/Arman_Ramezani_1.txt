@@ -1,0 +1,6 @@
+1.0	Arman Ramezani	is	football
+1.0	Ramezani	is	Iranian
+1.0	Arman Ramezani	is	football forward
+1.0	Arman Ramezani	is	Iranian football forward
+1.0	Iranian football club Saipa	is in	Persian Gulf Pro League
+1.0	Arman Ramezani	is	Iranian football

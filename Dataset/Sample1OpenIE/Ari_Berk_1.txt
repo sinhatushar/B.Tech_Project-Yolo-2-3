@@ -1,0 +1,4 @@
+1.0	Ari Berk	is	writer
+1.0	Berk	is	American
+1.0	Ari Berk	scholar of	literature
+1.0	Ari Berk	is	American writer

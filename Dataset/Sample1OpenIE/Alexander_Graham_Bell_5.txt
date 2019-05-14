@@ -1,0 +1,4 @@
+1.0	he	serving as	second president
+1.0	he	serving as	president
+1.0	he	serving from	January 7 1898 until 1903
+1.0	he	serving from	January 7 1898

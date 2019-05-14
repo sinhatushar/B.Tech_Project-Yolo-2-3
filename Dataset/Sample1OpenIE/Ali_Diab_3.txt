@@ -1,0 +1,2 @@
+1.0	He	plays as	defender
+1.0	he	wears	number

@@ -1,0 +1,4 @@
+1.0	Ministry	admits	qualified students
+1.0	Ministry	admits	qualified students to AAU
+1.0	Ministry	admits	students
+1.0	Ministry	admits	students to AAU

@@ -1,0 +1,11 @@
+1.0	Canterbury Tale	takes	its title
+1.0	Canterbury Tale	encourage	Anglo-American friendship
+1.0	Chaucer	has	theme of eccentric characters
+1.0	Canterbury Tale	loosely uses	Chaucer 's theme of eccentric characters
+1.0	Canterbury Tale	uses	Chaucer 's theme of characters
+1.0	Canterbury Tale	loosely uses	Chaucer 's theme of characters
+1.0	Canterbury Tale	uses	Chaucer 's theme
+1.0	Canterbury Tale	loosely uses	Chaucer 's theme
+1.0	Canterbury Tale	uses	Chaucer 's theme of eccentric characters
+1.0	Canterbury Tale	encourage	understanding
+1.0	Canterbury Tale	encourage	wartime Anglo-American friendship

@@ -1,0 +1,7 @@
+1.0	full medal	was	authorized
+1.0	medal	was	authorized
+1.0	first	was presented to	General
+1.0	first	was	presented
+1.0	first	was presented to	General of Army Douglas MacArthur
+1.0	medal	was authorized in	1947
+1.0	full medal	was authorized in	1947

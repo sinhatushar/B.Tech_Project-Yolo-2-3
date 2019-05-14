@@ -1,0 +1,4 @@
+1.0	Battle	is in	World War II
+1.0	General Anthony Clement Nuts McAuliffe	was	senior United States Army officer
+1.0	McAuliffe	was	senior
+1.0	General Anthony Clement Nuts McAuliffe	was	United States Army officer

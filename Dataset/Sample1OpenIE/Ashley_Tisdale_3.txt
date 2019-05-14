@@ -1,0 +1,4 @@
+1.0	She	achieved mainstream success as	Maddie Fitzpatrick
+1.0	Maddie Fitzpatrick	is in	Disney Channel series
+1.0	She	achieved mainstream success as	Maddie Fitzpatrick in Disney Channel series
+1.0	She	achieved	mainstream success

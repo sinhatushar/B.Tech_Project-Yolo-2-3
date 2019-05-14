@@ -1,0 +1,4 @@
+1.0	Franklin	began	her career
+1.0	her father C. L. Franklin	was	where minister
+1.0	her father C. L. Franklin	was	minister
+1.0	New Bethel Baptist Church	is in	Detroit

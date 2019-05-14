@@ -1,0 +1,4 @@
+1.0	He	was born	Soviet Union
+1.0	He	was born	then Soviet Union
+1.0	He	was	born
+1.0	He	was born in	Moscow

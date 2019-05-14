@@ -1,0 +1,7 @@
+1.0	Alberto Pedro Demicheli Lizaso	August at_time	1980
+1.0	Alberto Pedro Demicheli Lizaso	was	figure
+1.0	Alberto Pedro Demicheli Lizaso	was	Uruguayan figure
+1.0	Lizaso	was	political
+1.0	Alberto Pedro Demicheli Lizaso	was	political figure
+1.0	Lizaso	was	Uruguayan
+1.0	Alberto Pedro Demicheli Lizaso	was	Uruguayan political figure

@@ -1,0 +1,10 @@
+1.0	string	causes	soundboard box
+1.0	they	amplify more strongly	string harmonics
+1.0	they	amplify	string harmonics
+1.0	string harmonics	hence affecting	timbre
+1.0	string harmonics	affecting	timbre produced by instrument
+1.0	string harmonics	hence affecting	timbre produced by instrument
+1.0	string harmonics	affecting	timbre
+1.0	they	amplify strongly	string harmonics
+1.0	string harmonics	affecting	timbre produced
+1.0	string harmonics	hence affecting	timbre produced

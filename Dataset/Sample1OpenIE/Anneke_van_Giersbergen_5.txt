@@ -1,0 +1,5 @@
+0.8236744567685695	titled	Diary	released
+1.0	they	collaborated on	project
+0.8236744567685695	titled	Diary	released in 2015
+1.0	they	collaborated In	2014
+1.0	they	collaborated on	project called

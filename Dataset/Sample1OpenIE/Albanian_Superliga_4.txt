@@ -1,0 +1,5 @@
+1.0	Seasons	run with	teams
+1.0	Seasons	run from	August
+0.8297949069613187	each	playing	team
+1.0	Seasons	run to	May
+0.8297949069613187	each	playing team in	league

@@ -1,0 +1,14 @@
+1.0	IgE	is	For example responsible for allergic response consisting
+1.0	IgE	is responsible for	allergic response
+1.0	IgE	is	For example responsible for response consisting
+1.0	IgE	is	For example responsible for response consisting of mast cell degranulation
+1.0	IgE	is responsible for	response
+1.0	IgE	is	For example responsible for response
+1.0	IgE	is responsible for	response consisting
+1.0	IgE	is	For example responsible for allergic response consisting of mast cell degranulation
+1.0	IgE	is	responsible
+1.0	IgE	is	For example responsible for allergic response
+1.0	IgE	is responsible for	allergic response consisting
+1.0	IgE	is responsible For	example
+1.0	IgE	is responsible for	response consisting of mast cell degranulation
+1.0	IgE	is responsible for	allergic response consisting of mast cell degranulation

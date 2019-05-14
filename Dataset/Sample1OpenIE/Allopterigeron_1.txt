@@ -1,0 +1,13 @@
+1.0	Allopterigeron	is genus in	daisy family described
+1.0	Allopterigeron	is genus in	daisy family described as genus
+1.0	Allopterigeron	is genus in	daisy family described as genus in 1981
+1.0	genus	is in	daisy family described as genus
+1.0	Allopterigeron	is	genus of flowering plants in daisy family described
+1.0	Allopterigeron	is	genus of flowering plants in daisy family described as genus in 1981
+1.0	Allopterigeron	is genus in	daisy family described in 1981
+1.0	Allopterigeron	is	genus of flowering plants in daisy family described as genus
+1.0	Allopterigeron	is	genus
+1.0	Allopterigeron	is	genus of flowering plants in daisy family described in 1981
+1.0	Allopterigeron	is	genus of flowering plants in daisy family
+1.0	Allopterigeron	is genus of	flowering plants
+1.0	Allopterigeron	is genus in	daisy family

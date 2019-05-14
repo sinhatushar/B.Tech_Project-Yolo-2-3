@@ -1,0 +1,9 @@
+1.0	He	was member in	Croatian Government from January 2000 to December 2003
+1.0	member	is in	Croatian Government from January 2000 to December 2003
+1.0	He	was	member of Croatian Parliament in Croatian Government from January 2000
+1.0	He	was	member
+1.0	He	was member in	Croatian Government from January 2000
+1.0	He	was	member of Croatian Parliament in Croatian Government
+1.0	He	was member in	Croatian Government
+1.0	He	was member of	Croatian Parliament
+1.0	He	was	member of Croatian Parliament in Croatian Government from January 2000 to December 2003

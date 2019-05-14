@@ -1,0 +1,11 @@
+1.0	Tisdale	announced	work on her studio album
+1.0	Tisdale	announced	work in 2013
+1.0	Tisdale	announced	work on her third studio album
+1.0	Tisdale	releasing	Here
+1.0	Tisdale	releasing	promotional Always Here
+1.0	Tisdale	announced	work on her studio album in 2013
+1.0	Tisdale	releasing	promotional Here
+1.0	work	is in	2013
+1.0	Tisdale	releasing	Always Here
+1.0	Tisdale	announced	work on her third studio album in 2013
+1.0	Tisdale	announced	work

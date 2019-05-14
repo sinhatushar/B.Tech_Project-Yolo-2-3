@@ -1,0 +1,5 @@
+1.0	She	has since released	six studio albums
+1.0	first two	were	composed
+1.0	She	has released	six studio albums
+1.0	first two	written by	Mylne Farmer
+1.0	first two	were composed by	Laurent Boutonnat

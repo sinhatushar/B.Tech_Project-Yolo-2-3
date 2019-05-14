@@ -1,0 +1,12 @@
+1.0	airport	was rated Around	2008
+1.0	airport	was rated in	top 3 worldwide
+1.0	airport	was	rated in 3 worldwide for airports
+1.0	airport	was	Around 2008 rated in top 3 worldwide for airports
+1.0	airport	was	rated
+1.0	airport	was rated in	3 worldwide
+1.0	airport	was	Around 2008 rated in top 3 worldwide
+1.0	airport	was	Around 2008 rated in 3 worldwide for airports
+1.0	airport	was	rated in top 3 worldwide for airports
+1.0	airport	was	Around 2008 rated for airports
+1.0	airport	was	Around 2008 rated in 3 worldwide
+1.0	airport	was rated for	airports

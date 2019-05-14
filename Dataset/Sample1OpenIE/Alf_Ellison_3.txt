@@ -1,0 +1,2 @@
+1.0	name	originally had	two Rs
+1.0	name	had	two Rs

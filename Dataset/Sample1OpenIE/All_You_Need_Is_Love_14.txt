@@ -1,0 +1,5 @@
+1.0	group 's finest moment	as Band is	their manager
+1.0	Pepper	has	Lonely Hearts Club Band as finest moment
+1.0	Lonely Hearts Club Band	manager	their
+1.0	Pepper	's Band is	manager
+1.0	group	as	finest moment

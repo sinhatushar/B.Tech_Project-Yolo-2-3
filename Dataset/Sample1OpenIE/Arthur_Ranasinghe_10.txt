@@ -1,0 +1,6 @@
+1.0	he	was	In 1944 promoted to class 1 officer
+1.0	he	was promoted to	class 1 officer
+1.0	he	Superintendent of	Census
+1.0	he	was	promoted
+1.0	he	appointed Superintendent of	Census
+1.0	he	was promoted In	1944

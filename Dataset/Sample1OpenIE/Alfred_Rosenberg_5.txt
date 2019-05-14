@@ -1,0 +1,14 @@
+1.0	He	is	known
+1.0	He	played role in	development of Christianity
+1.0	He	played role in	development of German Nationalist Christianity
+1.0	He	played role in	development of Nationalist Positive Christianity
+1.0	He	played role in	development of German Christianity
+1.0	He	played role in	development of Positive Christianity
+1.0	He	is known for	his rejection
+1.0	He	played role in	development of German Positive Christianity
+1.0	He	played role in	development of German Nationalist Positive Christianity
+1.0	He	played role in	development of Nationalist Christianity
+1.0	He	is known for	his rejection of for Christianity
+1.0	He	played role in	development
+1.0	He	played	important role
+1.0	He	played	role

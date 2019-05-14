@@ -1,0 +1,14 @@
+1.0	they	set up	small studio
+1.0	two	decided	move to French Riviera
+1.0	they	made films on	location
+1.0	they	made	films
+1.0	two	move to	Riviera
+1.0	two	move to	French Riviera
+1.0	they	made	several films
+1.0	two	decided	move
+1.0	they	set up	studio
+1.0	they	made films for	MGM
+1.0	they	made films in	North Africa
+1.0	they	made films in	Spain
+1.0	two	decided	move to Riviera
+1.0	they	set up studio in	Nice

@@ -1,0 +1,11 @@
+1.0	He	was founder of	dynasty
+1.0	He	was founder of	American dynasty
+1.0	He	father of	President
+1.0	He	was	founder
+1.0	He	was founder of	political dynasty
+1.0	He	was founder of	American political dynasty
+1.0	He	was	also founder
+1.0	He	was also founder of	dynasty
+1.0	He	was also founder of	American dynasty
+1.0	He	was also founder of	political dynasty
+1.0	He	was also founder of	American political dynasty

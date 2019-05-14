@@ -1,0 +1,34 @@
+1.0	Abu Dhabi Investment Authority	is	wealth fund owned by Emirate of Abu Dhabi
+1.0	Abu Dhabi Investment Authority	is	wealth fund owned by Emirate of Abu Dhabi in United Arab Emirates founded
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund owned by Emirate
+1.0	Authority	is	sovereign
+1.0	sovereign wealth fund	owned by	Emirate United Arab Emirates
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund owned by Emirate founded
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund owned founded
+1.0	wealth fund	owned by	Emirate Abu Dhabi
+1.0	wealth fund	owned by	Emirate United Arab Emirates
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund owned by Emirate of Abu Dhabi founded
+1.0	Abu Dhabi Investment Authority	is	wealth fund owned by Emirate founded
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund owned by Emirate of Abu Dhabi
+1.0	Emirate	is in	United Arab Emirates
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund owned
+1.0	Abu Dhabi Investment Authority	is	wealth fund owned by Emirate in United Arab Emirates founded
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund founded
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund owned by Emirate of Abu Dhabi in United Arab Emirates founded
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund owned by Emirate in United Arab Emirates
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund owned by Emirate of Abu Dhabi in United Arab Emirates
+1.0	Abu Dhabi Investment Authority	is	wealth fund founded
+1.0	wealth fund	owned by	Emirate
+1.0	Abu Dhabi Investment Authority	is	wealth fund
+1.0	wealth fund	owned by	Emirate Abu Dhabi United Arab Emirates
+1.0	Abu Dhabi Investment Authority	is	wealth fund owned by Emirate in United Arab Emirates
+1.0	sovereign wealth fund	owned by	Emirate
+1.0	Abu Dhabi Investment Authority	is	wealth fund owned by Emirate
+1.0	Abu Dhabi Investment Authority	is	wealth fund owned
+1.0	Abu Dhabi Investment Authority	is	sovereign wealth fund owned by Emirate in United Arab Emirates founded
+1.0	sovereign wealth fund	owned by	Emirate Abu Dhabi United Arab Emirates
+1.0	Abu Dhabi Investment Authority	is	wealth fund owned by Emirate of Abu Dhabi founded
+1.0	Abu Dhabi Investment Authority	is	wealth fund owned founded
+1.0	sovereign wealth fund	owned by	Emirate Abu Dhabi
+1.0	Abu Dhabi Investment Authority	is	wealth fund owned by Emirate of Abu Dhabi in United Arab Emirates

@@ -1,0 +1,22 @@
+1.0	concept	would became	notable trope for novelists from 1960s onwards
+1.0	concept	would became	trope
+1.0	concept	notable trope for	British novelists from 1960s onwards
+1.0	past	always haunts	present
+1.0	concept	trope for	novelists from 1960s onwards
+1.0	concept	notable trope for	British novelists
+1.0	past	haunts	present in English landscape
+1.0	concept	would became	notable trope
+1.0	concept	trope for	British novelists from 1960s onwards
+1.0	concept	notable trope for	novelists from 1960s onwards
+1.0	concept	would became	trope for British novelists
+1.0	concept	would became	notable trope for British novelists
+1.0	concept	trope for	novelists
+1.0	concept	would became	notable trope for British novelists from 1960s onwards
+1.0	concept	would became	trope for British novelists from 1960s onwards
+1.0	concept	would became	trope for novelists from 1960s onwards
+1.0	concept	would became	notable trope for novelists
+1.0	past	always haunts	present in English landscape
+1.0	concept	notable trope for	novelists
+1.0	past	haunts	present
+1.0	concept	trope for	British novelists
+1.0	concept	would became	trope for novelists

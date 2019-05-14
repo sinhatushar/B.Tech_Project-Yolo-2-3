@@ -1,0 +1,50 @@
+1.0	Light	Storm of is	American heavy metal band formed
+1.0	Storm	is	metal band formed in 2008
+1.0	Light	Storm of is	American heavy metal band
+1.0	Light	Storm of is	metal band from New York City formed in 2008
+1.0	Storm	is	American metal band from New York City formed
+1.0	Storm	is	American heavy metal band from New York City
+1.0	Storm	is	American heavy metal band from New York City formed in 2008
+1.0	Storm	is	American heavy metal band formed in 2008
+1.0	Storm	is	heavy metal band formed in 2008
+1.0	Light	Storm of is	American heavy metal band from New York City formed
+1.0	Light	Storm of is	heavy metal band from New York City formed in 2008
+1.0	Storm	is	heavy metal band
+1.0	Light	Storm of is	metal band from New York City
+1.0	Light	Storm of is	metal band
+1.0	Storm	is	American metal band from New York City
+1.0	Storm	is	American metal band formed in 2008
+1.0	Light	Storm of is	heavy metal band
+1.0	Storm	is	American heavy metal band from New York City formed
+1.0	Storm	is	heavy metal band from New York City formed
+1.0	Storm	is	American metal band formed
+1.0	Storm	is	metal band from New York City
+1.0	Light	Storm of is	heavy metal band from New York City formed
+1.0	Light	Storm of is	metal band formed
+1.0	Light	Storm of is	American metal band
+1.0	Storm	is	American metal band
+1.0	Storm	is	heavy metal band formed
+1.0	Light	Storm of is	metal band formed in 2008
+1.0	Storm	is	American
+1.0	Light	Storm of is	American heavy metal band from New York City
+1.0	Storm	is	metal band formed
+1.0	Light	Storm of is	heavy metal band formed
+1.0	Light	Storm of is	metal band from New York City formed
+1.0	Storm	is	heavy metal band from New York City
+1.0	Storm	is	heavy metal band from New York City formed in 2008
+1.0	Light	Storm of is	heavy metal band from New York City
+1.0	Storm	is	metal band
+1.0	Light	Storm of is	American metal band formed in 2008
+1.0	Storm	is	metal band from New York City formed in 2008
+1.0	Light	Storm of is	American metal band formed
+1.0	Light	Storm of is	American metal band from New York City formed in 2008
+1.0	Light	Storm of is	American heavy metal band formed in 2008
+1.0	Light	Storm of is	American heavy metal band from New York City formed in 2008
+1.0	Light	Storm of is	American metal band from New York City formed
+1.0	Storm	is	metal band from New York City formed
+1.0	Light	Storm of is	American metal band from New York City
+1.0	Storm	is	American metal band from New York City formed in 2008
+1.0	Storm	is	American heavy metal band
+1.0	Light	Storm of is	heavy metal band formed in 2008
+1.0	Storm	is	heavy
+1.0	Storm	is	American heavy metal band formed

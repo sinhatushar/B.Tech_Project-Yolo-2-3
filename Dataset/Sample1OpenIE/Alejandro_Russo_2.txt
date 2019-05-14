@@ -1,0 +1,7 @@
+1.0	He	also represented	Argentina
+1.0	1988 Summer Olympics	is in	Seoul
+1.0	He	also represented Argentina at	1988 Summer Olympics
+1.0	He	represented Argentina at	1988 Summer Olympics
+1.0	He	also represented Argentina at	1988 Summer Olympics in Seoul
+1.0	He	represented	Argentina
+1.0	He	represented Argentina at	1988 Summer Olympics in Seoul

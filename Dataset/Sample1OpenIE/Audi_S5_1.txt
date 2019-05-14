@@ -1,0 +1,5 @@
+1.0	Audi	of	A5
+1.0	Audi S5	is	variant
+1.0	Audi S5	is variant of	Audi 's A5
+1.0	Audi S5	is	high-performance variant
+1.0	Audi S5	is high-performance variant of	Audi 's A5

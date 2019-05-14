@@ -1,0 +1,8 @@
+0.7561552888696021	Alag Alag	produced by	Rajesh Khanna
+1.0	Alag Alag	is	1985 Hindi film
+1.0	1985 Hindi film	starring	Rajesh Khanna
+1.0	1985 Hindi film	starring Shashi Kapoor in	lead roles
+1.0	1985 Hindi film	starring	Shashi Kapoor
+1.0	1985 Hindi film	starring	Tina Munim
+1.0	1985 Hindi film	starring Tina Munim in	lead roles
+1.0	1985 Hindi film	starring Rajesh Khanna in	lead roles

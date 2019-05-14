@@ -1,0 +1,4 @@
+1.0	Commercial pineapple plantations	were	established
+1.0	Commercial pineapple plantations	were established in	Hawaii
+1.0	pineapple plantations	were established in	Hawaii
+1.0	pineapple plantations	were	established

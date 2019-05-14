@@ -1,0 +1,11 @@
+1.0	Adairsville	is	exurban
+1.0	Adairsville	is exurban city at	northwest edge
+1.0	Adairsville	is	exurban city
+1.0	Adairsville	is	city
+1.0	Adairsville	is exurban city at	edge of metro Atlanta
+1.0	Adairsville	is city at	northwest edge of metro Atlanta
+1.0	Adairsville	is exurban city at	edge
+1.0	Adairsville	is city at	northwest edge
+1.0	Adairsville	is exurban city at	northwest edge of metro Atlanta
+1.0	Adairsville	is city at	edge of metro Atlanta
+1.0	Adairsville	is city at	edge

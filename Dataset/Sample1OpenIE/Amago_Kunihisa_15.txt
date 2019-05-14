@@ -1,0 +1,8 @@
+1.0	Kunihisa	been too arrogant towards	Haruhisa
+1.0	Mri Motonari	tricked	Haruhisa
+1.0	Kunihisa	been arrogant towards	Haruhisa
+1.0	Kunihisa	been	too arrogant
+1.0	Kunihisa	been	arrogant
+1.0	Kunihisa	been arrogant towards	young Haruhisa
+1.0	Mri Motonari	tricked Haruhisa	believing
+1.0	Kunihisa	been too arrogant towards	young Haruhisa

@@ -1,0 +1,27 @@
+1.0	Acorn Barrera Reyes known	is Spanish footballer	plays for Cypriot club AEK Larnaca FC as midfielder
+1.0	Acorn Barrera Reyes	is	footballer
+1.0	Acorn Barrera Reyes	is	Spanish footballer
+1.0	Acorn Barrera Reyes	is footballer	plays as midfielder
+1.0	Reyes	is	Spanish
+1.0	Acorn Barrera Reyes known	is	Spanish footballer
+1.0	Acorn Barrera Reyes known	is footballer	plays for Cypriot club AEK Larnaca FC as attacking midfielder
+1.0	Acorn Barrera Reyes known	is footballer	plays for Cypriot club AEK Larnaca FC as midfielder
+1.0	Acorn Barrera Reyes	is Spanish footballer	plays for Cypriot club AEK Larnaca FC as midfielder
+1.0	Acorn Barrera Reyes	is footballer	plays for Cypriot club AEK Larnaca FC
+1.0	Acorn Barrera Reyes known	is footballer	plays for Cypriot club AEK Larnaca FC
+1.0	Acorn Barrera Reyes known	is Spanish footballer	plays as attacking midfielder
+1.0	Acorn Barrera Reyes	is Spanish footballer	plays for Cypriot club AEK Larnaca FC
+1.0	Acorn Barrera Reyes	is footballer	plays
+1.0	Acorn Barrera Reyes known	is Spanish footballer	plays
+1.0	Acorn Barrera Reyes known	is footballer	plays as attacking midfielder
+1.0	Acorn Barrera Reyes	is footballer	plays for Cypriot club AEK Larnaca FC as attacking midfielder
+1.0	Acorn Barrera Reyes	is footballer	plays for Cypriot club AEK Larnaca FC as midfielder
+1.0	Acorn Barrera Reyes known	is Spanish footballer	plays as midfielder
+1.0	Acorn Barrera Reyes known	is footballer	plays
+1.0	Acorn Barrera Reyes	is Spanish footballer	plays as attacking midfielder
+1.0	Acorn Barrera Reyes known	is	footballer
+1.0	Acorn Barrera Reyes known	is footballer	plays as midfielder
+1.0	Acorn Barrera Reyes	is footballer	plays as attacking midfielder
+1.0	Acorn Barrera Reyes	is Spanish footballer	plays
+1.0	Acorn Barrera Reyes known	is Spanish footballer	plays for Cypriot club AEK Larnaca FC
+1.0	Acorn Barrera Reyes	is Spanish footballer	plays as midfielder

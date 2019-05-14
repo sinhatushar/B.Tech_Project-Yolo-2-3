@@ -1,0 +1,4 @@
+1.0	song	live in	Rome
+1.0	song	live on	November 18 2004
+1.0	song	live during	2004 MTV Europe Music Awards
+1.0	song	live on	November 18 2004 at Tor di Valle Hippodrome

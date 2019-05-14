@@ -1,0 +1,9 @@
+1.0	It	featured	programming about food
+1.0	It	featured	programming about food including programmes
+1.0	It	featured	programming
+1.0	It	programming about	food including programmes
+1.0	It	featured	programming about food including programmes about cuisine
+1.0	It	featured	programming about food including programmes about Pakistani cuisine
+1.0	It	programming about	food
+1.0	It	programming about	food including programmes about cuisine
+1.0	It	programming about	food including programmes about Pakistani cuisine

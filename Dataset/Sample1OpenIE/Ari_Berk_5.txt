@@ -1,0 +1,15 @@
+1.0	program	is	author
+1.0	doctoral program	is in	United States.Berk
+1.0	program	is author of	numerous books
+0.747005851229648	His dissertation	was	directed
+1.0	doctoral program	is	author
+1.0	doctoral program	is author of	numerous books for children
+1.0	doctoral program	is author of	books for children
+1.0	program	is author of	books for children
+1.0	directed	was	appointed
+0.747005851229648	His dissertation	was directed by	Pulitzer Prize winner N. Scott Momaday
+1.0	program	is author of	books
+1.0	program	is author of	numerous books for children
+1.0	directed	was appointed to	committee
+1.0	doctoral program	is author of	books
+1.0	doctoral program	is author of	numerous books

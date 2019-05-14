@@ -1,0 +1,14 @@
+1.0	He	died after	battle with Muslims
+1.0	He	died after	unsuccessful battle
+1.0	He	died in	September 1134
+1.0	He	died after	unsuccessful battle with Muslims
+1.0	He	died after	battle at Battle of Fraga
+1.0	He	died after	battle
+1.0	He	died after	unsuccessful battle with Muslims at Battle of Fraga
+1.0	He	died after	unsuccessful battle at Battle of Fraga
+1.0	He	died after	battle at Battle
+1.0	He	died after	unsuccessful battle at Battle
+1.0	He	died after	battle with Muslims at Battle
+1.0	unsuccessful battle	is with	Muslims
+1.0	He	died after	unsuccessful battle with Muslims at Battle
+1.0	He	died after	battle with Muslims at Battle of Fraga

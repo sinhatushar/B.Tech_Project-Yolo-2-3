@@ -1,0 +1,8 @@
+0.3239295221123589	Jensen	was known for	his work
+0.3239295221123589	Jensen	was	known
+0.3239295221123589	Jensen	was known for	his work in psychometrics
+1.0	Jensen	was known	study individuals differ
+1.0	Jensen	was known	study individuals differ behaviorally
+1.0	Jensen	was known	study how individuals differ behaviorally
+1.0	his work	is in	psychometrics
+1.0	Jensen	was known	study how individuals differ

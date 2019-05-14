@@ -1,0 +1,7 @@
+1.0	His last club	was	FK Rga
+1.0	he	retired in	2001
+1.0	His club	was	FK Rga
+1.0	arando	played as	professional in Russia
+1.0	arando	also played as	professional
+1.0	arando	played as	professional
+1.0	arando	also played as	professional in Russia

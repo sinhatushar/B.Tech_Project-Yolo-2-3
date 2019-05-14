@@ -1,0 +1,1 @@
+These gene segments are then joined together using random genetic recombination to produce the paratope

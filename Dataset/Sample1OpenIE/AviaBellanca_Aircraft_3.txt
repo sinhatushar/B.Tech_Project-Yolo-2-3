@@ -1,0 +1,4 @@
+1.0	company	was	founded
+1.0	company	was	founded in 1927 by Giuseppe Mario Bellanca
+1.0	company	was founded by	Giuseppe Mario Bellanca
+1.0	company	was founded in	1927

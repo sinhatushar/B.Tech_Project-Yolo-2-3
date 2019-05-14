@@ -1,0 +1,8 @@
+1.0	Aretha Franklin	had come	known as Queen of Soul
+1.0	Aretha Franklin	be known as	Queen
+1.0	Aretha Franklin	had come	known
+1.0	Aretha Franklin	had come By	end of 1960s
+1.0	Aretha Franklin	had come By	end
+1.0	Aretha Franklin	had come	known as Queen
+1.0	Aretha Franklin	be	known
+1.0	Aretha Franklin	be known as	Queen of Soul

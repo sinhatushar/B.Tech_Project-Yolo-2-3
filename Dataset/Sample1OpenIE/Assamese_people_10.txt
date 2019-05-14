@@ -1,0 +1,10 @@
+1.0	minority	are	Muslims
+1.0	majority	are	Hindus
+1.0	majority	are Hindus Out of	people
+1.0	people	are Christians by	religion
+1.0	majority	are Hindus According to	2011 census
+1.0	majority	are Hindus Out of	Assamese people
+1.0	people	are	Christians
+1.0	Assamese people	are	Christians
+1.0	Assamese people	are Christians by	religion
+1.0	largest minority	are	Muslims

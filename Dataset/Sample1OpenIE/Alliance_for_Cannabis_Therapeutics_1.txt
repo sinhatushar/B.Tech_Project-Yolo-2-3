@@ -1,0 +1,3 @@
+1.0	Alliance	is	organization
+1.0	organization	supporting	marijuana
+1.0	organization	supporting	medical marijuana

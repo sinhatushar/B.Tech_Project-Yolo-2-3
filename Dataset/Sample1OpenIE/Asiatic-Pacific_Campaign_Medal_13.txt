@@ -1,0 +1,498 @@
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection south along 60th meridian longitude
+1.0	boundary	is from	North Pole south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection then south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran south along 60th meridian east longitude
+1.0	boundary	is from	North Pole then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary then south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude then south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary south
+1.0	boundary	is from	North Pole south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection
+1.0	boundary	is from	North Pole along meridian longitude south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran then south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary then south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran then south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary then south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection then south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary south
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran south
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran then south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran south along meridian east longitude
+1.0	boundary	is from	North Pole south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary south
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary
+1.0	boundary	is from	North Pole along 60th meridian longitude south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran then south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection south
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran then south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran then south
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary south
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary then south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary then south
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude then south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran then south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary then south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran south
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary south along 60th meridian east longitude
+1.0	boundary	is from	North Pole then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary then south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary then south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude south
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary then south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran then south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran
+1.0	western boundary	is from	North Pole along meridian east longitude south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran then south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary south along meridian east longitude
+1.0	western boundary	is from	North Pole south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary then south
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran then south
+1.0	boundary	is from	North Pole along 60th meridian east longitude south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection then south
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection then south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary south along 60th meridian longitude
+1.0	boundary	is from	North Pole then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary
+1.0	western boundary	is from	North Pole along meridian longitude then south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary then south
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran south
+1.0	boundary	is from	North Pole along meridian longitude to its intersection south
+1.0	western boundary	is from	North Pole along meridian east longitude then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection then south
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude then south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude then south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran then south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection then south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary then south
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary then south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary south along meridian longitude
+1.0	western boundary	is from	North Pole then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran
+1.0	western boundary	is from	North Pole along meridian east longitude south
+1.0	boundary	is from	North Pole along 60th meridian east longitude south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran then south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary then south
+1.0	boundary	is from	North Pole along 60th meridian longitude south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary then south along meridian east longitude
+1.0	its intersection	is with	east boundary of Iran
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection south
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary then south
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary south
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude then south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection then south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude then south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude south
+1.0	boundary	is from	North Pole along meridian east longitude south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude then south
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection then south
+1.0	western boundary	is from	North Pole then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary
+1.0	western boundary	is from	North Pole along 60th meridian east longitude south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran
+1.0	boundary	is from	North Pole south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection then south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary then south
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran then south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude south
+1.0	western boundary	is from	North Pole along 60th meridian longitude south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran then south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran south
+1.0	boundary	is from	North Pole along meridian longitude to its intersection south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude then south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran then south
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary then south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection south
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran then south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran then south
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary south
+1.0	boundary	is from	North Pole
+1.0	western boundary	is from	North Pole south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran then south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary then south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran south
+1.0	western boundary	is from	North Pole along meridian east longitude south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary then south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude south along meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran south
+1.0	boundary	is from	North Pole along 60th meridian longitude south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole south
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary then south
+1.0	boundary	is from	North Pole along meridian east longitude then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary then south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran then south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran then south along meridian east longitude
+1.0	boundary	is from	North Pole then south
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude then south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary then south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary south
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary south
+1.0	boundary	is from	North Pole south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude then south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary then south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection
+1.0	boundary	is from	North Pole along meridian east longitude south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude then south
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary then south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary south
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary then south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary south along meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection then south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude
+1.0	western boundary	is from	North Pole then south
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection south
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran south
+1.0	western boundary	is from	North Pole along meridian longitude then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran then south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude then south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary south along meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection south along meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude then south along meridian longitude
+1.0	western boundary	is from	North Pole
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection then south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran south
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary of Iran then south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary then south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran south
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary then south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude then south
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary of Iran south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian east longitude south along meridian longitude
+1.0	western boundary	is from	North Pole south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary south along meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude then south along meridian east longitude
+1.0	boundary	is from	North Pole along meridian longitude then south along 60th meridian longitude
+1.0	western boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran then south along meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran south along 60th meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary then south
+1.0	western boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran south along 60th meridian longitude
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with east boundary of Iran then south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along 60th meridian east longitude to its intersection south along meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary then south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary of Iran south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran then south along meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with boundary of Iran south along meridian longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary south
+1.0	boundary	is from	North Pole along 60th meridian longitude to its intersection with boundary then south along meridian east longitude
+1.0	western boundary	is from	North Pole along meridian east longitude to its intersection with boundary south
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with east boundary then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with boundary of Iran south along 60th meridian longitude
+1.0	western boundary	is from	North Pole then south along 60th meridian longitude
+1.0	boundary	is from	North Pole along meridian longitude to its intersection with east boundary then south along meridian east longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary of Iran south along 60th meridian east longitude
+1.0	boundary	is from	North Pole along meridian east longitude to its intersection with east boundary of Iran then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude to its intersection with boundary then south along meridian longitude
+1.0	western boundary	is from	North Pole along 60th meridian east longitude south

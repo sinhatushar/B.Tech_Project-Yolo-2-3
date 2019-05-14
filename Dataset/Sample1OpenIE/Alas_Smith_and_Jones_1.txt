@@ -1,0 +1,25 @@
+1.0	Jones	as Smith from	1989
+1.0	Jones	as Smith to	1998
+1.0	Jones	later Smith on	BBC1
+1.0	Jones	Smith on	BBC1
+1.0	Jones	is	comedy sketch television series
+1.0	Jones	later Smith for	six series
+1.0	Smith	is	British
+1.0	Jones	later as Smith from	1989
+1.0	Jones	later as Smith for	six series
+1.0	Jones	Smith for	six series
+1.0	Jones	as Smith on	BBC1
+1.0	Alas Smith	is	comedy sketch television series
+1.0	Griff Rhys Jones	ran for	four series
+1.0	Jones	later as Smith on	BBC1
+1.0	Jones	later Smith from	1989
+1.0	Jones	as Smith for	six series
+1.0	Griff Rhys Jones	ran for	four series on BBC2
+1.0	Jones	Smith from	1989
+1.0	Jones	is	British comedy sketch television series
+1.0	Jones	Smith to	1998
+1.0	Alas Smith	is	British comedy sketch television series
+1.0	Jones	is	British
+1.0	Jones	later as Smith to	1998
+1.0	Jones	later Smith to	1998
+1.0	Griff Rhys Jones	ran from	1984 to 1988

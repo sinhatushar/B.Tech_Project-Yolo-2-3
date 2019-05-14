@@ -1,0 +1,23 @@
+1.0	He	is co-starring with	his brother in his mother 's film Stella 's Last Weekend in his directorial debut
+1.0	brother	is in	his mother 's film Stella 's Last Weekend
+1.0	He	is co-starring with	his brother in his mother 's film Stella 's Last Weekend
+1.0	He	is co-starring with	his brother in his directorial debut
+1.0	He	is also co-starring with	his brother in his mother 's film Stella 's Weekend in his debut
+1.0	mother	has	film Stella
+1.0	He	is co-starring with	his brother in his debut
+1.0	He	is also co-starring with	his brother in his mother 's film Stella 's Weekend in his directorial debut
+1.0	He	is co-starring with	his brother in his mother 's film Stella 's Weekend
+1.0	He	is also co-starring with	his brother in his directorial debut
+1.0	He	is also co-starring with	his brother in his mother 's film Stella 's Weekend
+1.0	He	is co-starring with	his brother in his mother 's film Stella 's Weekend in his debut
+1.0	film Stella	in	Last Weekend
+1.0	He	is co-starring with	his brother in his mother 's film Stella 's Last Weekend in his debut
+1.0	He	is co-starring with	his brother in his mother 's film Stella 's Weekend in his directorial debut
+1.0	brother	is in	his directorial debut
+1.0	He	is also co-starring with	his brother in his debut
+1.0	He	is also co-starring with	his brother in his mother 's film Stella 's Last Weekend in his directorial debut
+1.0	He	is also co-starring with	his brother in his mother 's film Stella 's Last Weekend
+1.0	He	is also co-starring with	his brother in his mother 's film Stella 's Last Weekend in his debut
+1.0	film Stella	's Weekend is	2018
+1.0	He	is co-starring with	his brother
+1.0	He	is also co-starring with	his brother

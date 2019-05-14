@@ -1,0 +1,4 @@
+1.0	Resch	for	Brewery
+1.0	Shout	worked for	Resch 's Brewery
+1.0	Shout	worked as	carpenter
+1.0	family	settled in	Darlington

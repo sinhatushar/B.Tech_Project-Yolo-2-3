@@ -1,0 +1,8 @@
+1.0	He	re-joined cabinet after	Benazir re-election
+1.0	He	went on	serve until 1997
+1.0	He	went on	serve as Minister for Law
+1.0	He	went on	serve as Minister until 1997
+1.0	He	re-joined	cabinet
+1.0	He	went on	serve as Minister
+1.0	He	went on	serve as Minister for Law until 1997
+1.0	He	went on	serve

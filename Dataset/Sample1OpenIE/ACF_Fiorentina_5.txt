@@ -1,0 +1,18 @@
+1.0	They	also came	finishing as runners-up against Juventus
+1.0	They	came	finishing as runners-up
+1.0	runners-up	losing against	Madrid
+1.0	They	also came close	finishing as runners-up against Juventus
+1.0	They	also came	finishing
+1.0	They	also came	finishing as runners-up
+1.0	They	also came close	finishing as runners-up
+1.0	They	also came close	finishing
+1.0	runners-up	losing against	Real Madrid
+1.0	They	came close	finishing
+1.0	They	came close	finishing as runners-up
+1.0	leg	drawing in	second one in Avellino
+1.0	They	finished	runners-up
+1.0	They	came	finishing as runners-up against Juventus
+1.0	first leg	drawing in	second one in Avellino
+1.0	They	came close	finishing as runners-up against Juventus
+1.0	first leg	is in	Turin
+1.0	They	came	finishing

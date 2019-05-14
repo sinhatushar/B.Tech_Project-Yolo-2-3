@@ -1,0 +1,9 @@
+1.0	he	fought Under	his father
+1.0	he	fought in	campaigns in Aki
+1.0	he	fought in	campaigns
+1.0	he	fought during	1520s at Siege
+1.0	campaigns	is in	Aki
+1.0	he	fought during	1520s at Siege of Koriyama Castle
+1.0	he	fought during	1520s
+1.0	he	fought alongside	Amago Haruhisa
+1.0	he	fought in	1540

@@ -1,0 +1,6 @@
+1.0	Chandler	reaching	rank
+1.0	Chandler	eventually reaching	rank of vice-admiral
+1.0	Chandler	reaching	rank of vice-admiral
+1.0	Chandler	Prior served in	United States Navy
+1.0	Chandler	served in	United States Navy
+1.0	Chandler	eventually reaching	rank

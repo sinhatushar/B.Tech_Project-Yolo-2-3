@@ -1,0 +1,8 @@
+1.0	lip	is	bright green
+1.0	upper lip	is	often bright green
+1.0	lip	is	often bright green
+1.0	upper lip	is	green
+1.0	lip	is	green
+1.0	males	have	yellow throats
+1.0	upper lip	is	bright green
+1.0	males	have	throats

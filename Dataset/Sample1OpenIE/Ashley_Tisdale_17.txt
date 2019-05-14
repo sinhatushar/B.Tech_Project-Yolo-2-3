@@ -1,0 +1,11 @@
+0.5425682436898807	joining	cast of	Clipped
+1.0	Tisdale	appear in	television roles
+1.0	Tisdale	has continued	appear in television roles
+1.0	Tisdale	joining	cast of Clipped
+1.0	Tisdale	joining	main cast
+1.0	Tisdale	joining	cast
+0.5425682436898807	joining	main cast of	2015
+1.0	Tisdale	joining	main cast of Clipped
+1.0	Tisdale	has continued	appear
+0.5425682436898807	joining	cast of	2015
+0.5425682436898807	joining	main cast of	Clipped

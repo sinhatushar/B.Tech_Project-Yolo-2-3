@@ -1,0 +1,34 @@
+1.0	Amber Louise Shepherd	is	singer
+1.0	singer	best known for	her collaborations Dutch music producer
+1.0	singer	known for	her collaborations
+1.0	Amber Louise Shepherd	is	Australian singer best known for her collaborations with music producer
+1.0	Amber Louise Shepherd	is	Australian singer known for her collaborations
+1.0	Amber Louise Shepherd	is	Australian singer best known
+1.0	singer	best known for	her collaborations music producer
+1.0	Amber Louise Shepherd	is	singer known
+1.0	Amber Louise Shepherd	is	Australian singer known
+1.0	Amber Louise Shepherd	is	Australian singer best known for her collaborations
+1.0	Amber Louise Shepherd	is	Australian singer known for her collaborations with Dutch music producer
+1.0	Amber Louise Shepherd	is	Australian singer
+0.4772403270374215	Amber Louise Shepherd	better known by	her stage name Amba Shepherd
+1.0	Amber Louise Shepherd	is	singer known for her collaborations with Dutch music producer
+1.0	Amber Louise Shepherd	is	singer best known for her collaborations
+1.0	Amber Louise Shepherd	is	Australian singer known for her collaborations with music producer
+1.0	Amber Louise Shepherd	is	singer known for her collaborations with music producer
+1.0	Amber Louise Shepherd	is	singer known for her collaborations
+1.0	Amber Louise Shepherd	is	Australian singer best known for her collaborations with Dutch music producer
+1.0	singer	best known for	her collaborations
+1.0	singer	known for	her collaborations Dutch music producer
+1.0	Australian singer	known for	her collaborations Dutch music producer
+1.0	Shepherd	is	Australian
+1.0	singer	known for	her collaborations music producer
+1.0	Amber Louise Shepherd	is	singer best known
+1.0	Australian singer	best known for	her collaborations Dutch music producer
+1.0	Australian singer	best known for	her collaborations music producer
+1.0	Amber Louise Shepherd	is	singer best known for her collaborations with music producer
+1.0	Australian singer	known for	her collaborations music producer
+1.0	her collaborations	is with	Dutch music producer
+0.4772403270374215	Amber Louise Shepherd	known by	her stage name Amba Shepherd
+1.0	Amber Louise Shepherd	is	singer best known for her collaborations with Dutch music producer
+1.0	Australian singer	best known for	her collaborations
+1.0	Australian singer	known for	her collaborations

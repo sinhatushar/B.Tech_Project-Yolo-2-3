@@ -1,0 +1,4 @@
+1.0	McLachlan businessman	working in	financial services industry
+1.0	McLachlan	was	Prior lawyer
+1.0	McLachlan	was	lawyer
+1.0	McLachlan businessman	working in	services industry

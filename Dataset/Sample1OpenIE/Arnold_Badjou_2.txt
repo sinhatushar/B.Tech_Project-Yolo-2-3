@@ -1,0 +1,4 @@
+1.0	He	played	his career
+1.0	He	played	19291938
+1.0	He	played	his entire career
+1.0	his	career	19291938

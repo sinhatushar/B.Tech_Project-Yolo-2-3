@@ -1,0 +1,7 @@
+1.0	has main character	is In	majority of his roles
+1.0	he	has	In majority has main character
+1.0	he	has	In majority has character
+1.0	he	has	has main character
+1.0	he	has	has character
+1.0	he	has	In majority of his roles has character
+1.0	he	has	In majority of his roles has main character

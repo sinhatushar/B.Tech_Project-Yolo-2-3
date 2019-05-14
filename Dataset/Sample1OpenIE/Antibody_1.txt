@@ -1,0 +1,13 @@
+1.0	large protein	produced by	plasma cells
+1.0	large protein	produced by	mainly plasma cells
+1.0	protein	produced by	plasma cells
+1.0	antibody	is	large protein produced mainly by plasma cells
+1.0	antibody	is	large
+1.0	antibody	is	large protein produced by plasma cells
+1.0	antibody	is	large protein produced
+1.0	antibody	is	protein produced by plasma cells
+1.0	protein	produced by	mainly plasma cells
+1.0	antibody	is	protein produced mainly by plasma cells
+1.0	antibody	is	protein produced
+1.0	antibody	is	protein
+1.0	antibody	is	large protein

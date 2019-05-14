@@ -1,0 +1,5 @@
+1.0	Poet	is in	New York
+1.0	Poet	is	drama television film
+1.0	Poet	is	British
+1.0	Poet	is	British drama television film
+1.0	first broadcast	is in	60-minute version

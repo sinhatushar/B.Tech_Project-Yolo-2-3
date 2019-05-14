@@ -1,0 +1,3 @@
+The bacterial order Chlamydiales includes only obligately intracellular bacteria that have a chlamydia-like developmental cycle of replication and at least 80% 16S rRNA or 23S rRNA gene sequence identity with other members of Chlamydiales.  Chlamydiales live in animals, insects, and protozoa.  The order Chlamydiales belongs to the class Chlamydiae, phylum Chlamydiae, domain Bacteria.
+At present, Chlamydiae and Chlamydiales are essentially synonymous.
+Currently, the order Chlamydiales includes the families Chlamydiaceae, Simkaniaceae, and Waddliaceae, which have Gram-negative extracellular infectious bodies (EBs), and Parachlamydiaceae, which has variable Gram staining of EBs.  The family Rhabdochlamydiaceae has been proposed.

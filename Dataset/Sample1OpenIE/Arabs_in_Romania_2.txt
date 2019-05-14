@@ -1,0 +1,4 @@
+1.0	Arab Romanians	are of	Lebanese origin
+1.0	Most Arab Romanians	are of	Lebanese origin
+1.0	Arab Romanians	are of	origin
+1.0	Most Arab Romanians	are of	origin

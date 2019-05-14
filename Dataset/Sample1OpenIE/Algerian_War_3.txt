@@ -1,0 +1,30 @@
+1.0	conflict	became	civil war between communities
+1.0	conflict	also became	civil war between communities
+1.0	conflict	civil war between	different communities
+1.0	conflict	became	civil war between communities within communities
+1.0	conflict	also became	war between communities
+1.0	conflict	also became	civil war between different communities within communities
+1.0	conflict	also became	war between different communities within communities
+1.0	conflict	became	civil war within communities
+1.0	conflict	war between	communities
+1.0	conflict	became	war
+1.0	conflict	war between	different communities
+1.0	conflict	became	war between different communities
+1.0	conflict	also became	war between different communities
+1.0	conflict	also became	war within communities
+1.0	conflict	became	civil war
+1.0	conflict	became	war between communities within communities
+1.0	conflict	also became	war between communities within communities
+1.0	conflict	also became	civil war between communities within communities
+1.0	conflict	also became	civil war
+1.0	conflict	became	war within communities
+1.0	conflict	civil war between	communities
+1.0	conflict	became	war between communities
+1.0	conflict	also became	civil war between different communities
+1.0	conflict	also became	civil war within communities
+1.0	conflict	also became	war
+1.0	conflict	became	civil war between different communities
+1.0	conflict	civil war within	communities
+1.0	conflict	became	war between different communities within communities
+1.0	conflict	war within	communities
+1.0	conflict	became	civil war between different communities within communities

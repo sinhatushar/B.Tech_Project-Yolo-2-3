@@ -1,0 +1,6 @@
+1.0	recipients	are	ordered
+1.0	recipients	are ordered by	name
+1.0	recipients	are	ordered alphabetically
+1.0	recipients	are ordered alphabetically by	last name
+1.0	recipients	are ordered alphabetically by	name
+1.0	recipients	are ordered by	last name

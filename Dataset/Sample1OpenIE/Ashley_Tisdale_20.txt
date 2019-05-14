@@ -1,0 +1,8 @@
+1.0	Tisdale	was named	creative director of Signorelli
+1.0	Tisdale	was	named
+1.0	Tisdale	creative director of	Signorelli
+1.0	Tisdale	director of	Signorelli
+1.0	Tisdale	was named In	September 2015
+1.0	Tisdale	was named	director of Signorelli
+1.0	Tisdale	was named	director
+1.0	Tisdale	was named	creative director

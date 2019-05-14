@@ -1,0 +1,3 @@
+1.0	medal	was	intended
+1.0	medal	recognize	military members
+1.0	medal	recognize	members

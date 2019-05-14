@@ -1,0 +1,7 @@
+1.0	movie 's plot	is	loosely adapted
+1.0	movie 's plot	is	adapted
+1.0	movie	has	plot
+1.0	movie 's plot	is adapted from	comic Asterix
+1.0	movie 's plot	is loosely adapted from	comic Asterix
+1.0	movie 's plot	is adapted from	Asterix
+1.0	movie 's plot	is loosely adapted from	Asterix

@@ -1,0 +1,7 @@
+1.0	Nepomniaschy	graduated from	AFI Conservatory 's cinematography program with Master of Arts
+1.0	AFI Conservatory 's cinematography program	is with	Master of Fine Arts
+1.0	Nepomniaschy	graduated from	AFI Conservatory 's cinematography program
+1.0	Nepomniaschy	graduated from	AFI Conservatory 's cinematography program with Master of Fine Arts
+1.0	AFI Conservatory	from	cinematography program with Master of Fine Arts
+1.0	Nepomniaschy	graduated in	1982
+1.0	Nepomniaschy	graduated from	AFI Conservatory 's cinematography program with Master

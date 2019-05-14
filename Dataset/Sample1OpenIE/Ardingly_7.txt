@@ -1,0 +1,2 @@
+1.0	pupils	enrolled	aged
+1.0	pupils	enrolled at	school

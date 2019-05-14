@@ -1,0 +1,5 @@
+1.0	It	is one of	only two airports in New Zealand
+1.0	It	is one of	only two airports
+1.0	two airports	is in	New Zealand
+1.0	It	is one	only two airports
+1.0	It	is one	only two airports in New Zealand

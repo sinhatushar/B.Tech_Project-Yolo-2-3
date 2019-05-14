@@ -1,0 +1,23 @@
+1.0	uprising	was led by	bloc of anti-Soviet organisations chaired by Social Democratic
+1.0	uprising	was led by	bloc of political organisations
+1.0	uprising	was led by	bloc of organisations chaired by Social Democratic
+1.0	uprising	was led by	bloc of anti-Soviet political organisations
+1.0	uprising	was led by	Committee for Independence of Georgia
+1.0	Independence	for Committee is	bloc of anti-Soviet political organisations chaired by Georgian Social Democratic
+1.0	uprising	was led by	bloc
+1.0	uprising	was led by	bloc of political organisations chaired
+1.0	uprising	was led by	Committee
+1.0	uprising	was led by	bloc of organisations
+1.0	uprising	was led by	bloc of anti-Soviet political organisations chaired by Georgian Social Democratic
+1.0	uprising	was led by	bloc of organisations chaired by Georgian Social Democratic
+1.0	uprising	was led by	Committee for Independence
+1.0	uprising	was led by	bloc of political organisations chaired by Social Democratic
+1.0	uprising	was led by	bloc of organisations chaired
+1.0	uprising	was led by	bloc of anti-Soviet organisations chaired by Georgian Social Democratic
+1.0	uprising	was led by	bloc of anti-Soviet political organisations chaired by Social Democratic
+1.0	uprising	was led by	bloc of anti-Soviet organisations chaired
+1.0	Committee	bloc of	anti-Soviet political organisations chaired by Georgian Social Democratic
+1.0	uprising	was led by	bloc of political organisations chaired by Georgian Social Democratic
+1.0	uprising	was led by	bloc of anti-Soviet political organisations chaired
+1.0	uprising	was	led
+1.0	uprising	was led by	bloc of anti-Soviet organisations

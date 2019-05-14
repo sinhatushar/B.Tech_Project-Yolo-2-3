@@ -1,0 +1,18 @@
+1.0	oldest register	seems	included
+0.6733003069877491	Christopher Columbus	plants of	genus
+0.6733003069877491	Christopher Columbus	plants of	genus in Guadeloupe
+1.0	oldest register	be included in	Cascajal Block
+1.0	oldest register	is with	representation of fruit
+1.0	register	seems	included
+1.0	register	be included in	Cascajal Block
+1.0	Christopher Columbus	saw	plants
+1.0	Christopher Columbus	first saw	plants of genus in Guadeloupe
+1.0	Christopher Columbus	saw	plants of genus
+1.0	genus	is in	Guadeloupe
+1.0	Christopher Columbus	first saw	plants
+1.0	Christopher Columbus	first saw	plants of genus
+1.0	register	be	included
+1.0	oldest register	seems	included in Cascajal Block
+1.0	Christopher Columbus	saw	plants of genus in Guadeloupe
+1.0	register	seems	included in Cascajal Block
+1.0	oldest register	be	included

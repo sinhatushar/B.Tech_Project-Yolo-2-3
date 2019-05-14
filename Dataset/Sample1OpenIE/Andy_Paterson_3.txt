@@ -1,0 +1,2 @@
+1.0	He	was educated at	Bolton School
+1.0	He	was	educated

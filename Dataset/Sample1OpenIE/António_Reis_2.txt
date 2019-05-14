@@ -1,0 +1,6 @@
+1.0	He	was	married
+1.0	He	was married to	co-director of most
+1.0	He	was married to	Margarida Cordeiro
+1.0	Margarida Cordeiro	co-director of	most
+1.0	He	was married to	co-director
+1.0	He	was married to	co-director of most of his films

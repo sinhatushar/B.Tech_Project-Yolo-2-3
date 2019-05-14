@@ -1,0 +1,78 @@
+1.0	McNicoll	was decorated As	officer of Submarine Flotilla
+1.0	McNicoll	was decorated As	officer of Submarine Flotilla in Mediterranean theatre
+1.0	McNicoll	was	As torpedo officer of Submarine Flotilla in Mediterranean theatre decorated with George Medal
+1.0	McNicoll	was decorated As	torpedo officer in theatre
+1.0	McNicoll	was decorated As	torpedo officer of Submarine Flotilla
+1.0	McNicoll	was	As torpedo officer in Mediterranean theatre decorated with George Medal
+1.0	McNicoll	was decorated in	1941
+1.0	McNicoll	was decorated As	officer in theatre
+1.0	McNicoll	was	As officer of Submarine Flotilla decorated with George Medal
+1.0	McNicoll	was	As officer in theatre decorated with George Medal
+1.0	McNicoll	was	As officer of Submarine Flotilla in theatre decorated with George Medal in 1941
+1.0	McNicoll	was decorated As	officer
+1.0	McNicoll	was	As officer decorated in 1941
+1.0	McNicoll	was	As officer in theatre decorated in 1941
+1.0	McNicoll	was	As torpedo officer of 1st Submarine Flotilla decorated with George Medal in 1941
+1.0	McNicoll	was	decorated
+1.0	McNicoll	was decorated As	officer in Mediterranean theatre
+1.0	McNicoll	was	As officer in Mediterranean theatre decorated with George Medal
+1.0	McNicoll	was	As torpedo officer of 1st Submarine Flotilla in Mediterranean theatre decorated in 1941
+1.0	McNicoll	was decorated As	officer of 1st Submarine Flotilla in Mediterranean theatre
+1.0	McNicoll	was decorated As	torpedo officer of 1st Submarine Flotilla
+1.0	McNicoll	was	As torpedo officer of Submarine Flotilla in Mediterranean theatre decorated in 1941
+1.0	McNicoll	was decorated As	torpedo officer
+1.0	McNicoll	was	As officer of Submarine Flotilla in Mediterranean theatre decorated with George Medal in 1941
+1.0	McNicoll	was	As torpedo officer of 1st Submarine Flotilla in theatre decorated in 1941
+1.0	McNicoll	was	As torpedo officer of Submarine Flotilla in theatre decorated with George Medal in 1941
+1.0	McNicoll	was	As torpedo officer of 1st Submarine Flotilla decorated with George Medal
+1.0	McNicoll	was	As officer decorated with George Medal
+1.0	McNicoll	was decorated As	officer of Submarine Flotilla in theatre
+1.0	McNicoll	was	As officer of 1st Submarine Flotilla in theatre decorated in 1941
+1.0	torpedo officer	is in	Mediterranean theatre
+1.0	McNicoll	was	As officer of Submarine Flotilla in theatre decorated in 1941
+1.0	McNicoll	was	As torpedo officer of 1st Submarine Flotilla in Mediterranean theatre decorated with George Medal in 1941
+1.0	McNicoll	was	As torpedo officer decorated in 1941
+1.0	McNicoll	was decorated with	George Medal
+1.0	McNicoll	was	As torpedo officer of 1st Submarine Flotilla decorated in 1941
+1.0	McNicoll	was	As officer of 1st Submarine Flotilla in Mediterranean theatre decorated with George Medal in 1941
+1.0	McNicoll	was	As officer of Submarine Flotilla in theatre decorated with George Medal
+1.0	McNicoll	was	As officer of 1st Submarine Flotilla decorated with George Medal in 1941
+1.0	McNicoll	was decorated As	torpedo officer of 1st Submarine Flotilla in theatre
+1.0	McNicoll	was	As officer of 1st Submarine Flotilla decorated with George Medal
+1.0	McNicoll	was	As officer of Submarine Flotilla decorated with George Medal in 1941
+1.0	McNicoll	was decorated As	officer of 1st Submarine Flotilla in theatre
+1.0	McNicoll	was	As torpedo officer in theatre decorated with George Medal
+1.0	McNicoll	was	As officer of 1st Submarine Flotilla in Mediterranean theatre decorated with George Medal
+1.0	McNicoll	was	As torpedo officer of Submarine Flotilla decorated with George Medal in 1941
+1.0	McNicoll	was	As officer of 1st Submarine Flotilla in theatre decorated with George Medal in 1941
+1.0	McNicoll	was decorated As	torpedo officer of Submarine Flotilla in Mediterranean theatre
+1.0	McNicoll	was	As torpedo officer decorated with George Medal
+1.0	McNicoll	was	As torpedo officer of 1st Submarine Flotilla in theatre decorated with George Medal in 1941
+1.0	McNicoll	was	As officer in Mediterranean theatre decorated in 1941
+1.0	McNicoll	was	As torpedo officer decorated with George Medal in 1941
+1.0	McNicoll	was	As officer of 1st Submarine Flotilla in theatre decorated with George Medal
+1.0	McNicoll	was	As officer decorated with George Medal in 1941
+1.0	McNicoll	was	As torpedo officer in theatre decorated with George Medal in 1941
+1.0	McNicoll	was	As officer of 1st Submarine Flotilla in Mediterranean theatre decorated in 1941
+1.0	McNicoll	was	As officer of Submarine Flotilla decorated in 1941
+1.0	McNicoll	was decorated As	torpedo officer of Submarine Flotilla in theatre
+1.0	McNicoll	was	As torpedo officer of Submarine Flotilla in theatre decorated with George Medal
+1.0	McNicoll	was	As officer of Submarine Flotilla in Mediterranean theatre decorated with George Medal
+1.0	McNicoll	was	As officer in Mediterranean theatre decorated with George Medal in 1941
+1.0	McNicoll	was	As torpedo officer in theatre decorated in 1941
+1.0	McNicoll	was	As torpedo officer of 1st Submarine Flotilla in Mediterranean theatre decorated with George Medal
+1.0	McNicoll	was	As officer in theatre decorated with George Medal in 1941
+1.0	McNicoll	was decorated As	torpedo officer in Mediterranean theatre
+1.0	McNicoll	was	As torpedo officer of 1st Submarine Flotilla in theatre decorated with George Medal
+1.0	McNicoll	was	As officer of Submarine Flotilla in Mediterranean theatre decorated in 1941
+1.0	McNicoll	was	As torpedo officer of Submarine Flotilla in Mediterranean theatre decorated with George Medal in 1941
+1.0	McNicoll	was decorated As	torpedo officer of 1st Submarine Flotilla in Mediterranean theatre
+1.0	McNicoll	was	As torpedo officer of Submarine Flotilla in theatre decorated in 1941
+1.0	McNicoll	was	As torpedo officer of Submarine Flotilla decorated in 1941
+1.0	McNicoll	was decorated As	officer of 1st Submarine Flotilla
+1.0	McNicoll	was	As officer of 1st Submarine Flotilla decorated in 1941
+1.0	McNicoll	disarming	enemy ordnance
+1.0	McNicoll	was	As torpedo officer in Mediterranean theatre decorated in 1941
+1.0	McNicoll	was	As torpedo officer in Mediterranean theatre decorated with George Medal in 1941
+1.0	McNicoll	was	As torpedo officer of Submarine Flotilla decorated with George Medal
+1.0	McNicoll	was	decorated with George Medal in 1941

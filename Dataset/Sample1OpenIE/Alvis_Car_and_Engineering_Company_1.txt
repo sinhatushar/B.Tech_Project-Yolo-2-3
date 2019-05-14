@@ -1,0 +1,19 @@
+1.0	Alvis Car	was	British manufacturing company from 1919 to 1967
+1.0	Engineering Company Ltd	was	British manufacturing company
+1.0	British manufacturing company	is in	Coventry
+1.0	Car	was	British
+1.0	Engineering Company Ltd	was	British manufacturing company in Coventry
+1.0	Alvis Car	was	British manufacturing company in Coventry
+1.0	Alvis Car	was	British manufacturing company in Coventry from 1919 to 1967
+1.0	Engineering Company Ltd	was	manufacturing company in Coventry from 1919 to 1967
+1.0	Engineering Company Ltd	was	manufacturing company in Coventry
+1.0	Alvis Car	was	manufacturing company in Coventry
+1.0	Engineering Company Ltd	was	British manufacturing company in Coventry from 1919 to 1967
+1.0	Engineering Company Ltd	was	British manufacturing company from 1919 to 1967
+1.0	Alvis Car	was	manufacturing company in Coventry from 1919 to 1967
+1.0	Ltd	was	British
+1.0	Engineering Company Ltd	was	manufacturing company from 1919 to 1967
+1.0	Engineering Company Ltd	was	manufacturing company
+1.0	Alvis Car	was	British manufacturing company
+1.0	Alvis Car	was	manufacturing company from 1919 to 1967
+1.0	Alvis Car	was	manufacturing company

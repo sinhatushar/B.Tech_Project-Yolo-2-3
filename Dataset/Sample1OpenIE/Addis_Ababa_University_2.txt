@@ -1,0 +1,11 @@
+1.0	university	is oldest school of	education in Ethiopia
+1.0	university	is school of	higher education in Ethiopia
+1.0	university	is school of	education
+1.0	higher education	is in	Ethiopia
+1.0	university	is	school
+1.0	university	is oldest school of	education
+1.0	university	is oldest school of	higher education in Ethiopia
+1.0	university	is school of	higher education
+1.0	university	is school of	education in Ethiopia
+1.0	university	is oldest school of	higher education
+1.0	university	is	oldest school

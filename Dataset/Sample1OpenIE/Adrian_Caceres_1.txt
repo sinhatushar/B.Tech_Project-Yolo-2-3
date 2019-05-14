@@ -1,0 +1,22 @@
+1.0	Claudio Adrin Cceres	is Argentine-born footballer	plays
+1.0	Claudio Adrin Cceres	is Australian footballer	plays for Balcatta FC
+1.0	Cceres	is	Australian
+1.0	Claudio Adrin Cceres	is	Argentine-born footballer
+1.0	Claudio Adrin Cceres	is	Argentine-born Australian footballer
+1.0	Claudio Adrin Cceres	is Argentine-born footballer	plays for Balcatta FC
+1.0	Claudio Adrin Cceres	is Argentine-born Australian footballer	currently plays for Balcatta FC
+1.0	Claudio Adrin Cceres	is Argentine-born Australian footballer	plays for Balcatta FC
+1.0	Claudio Adrin Cceres	is Argentine-born footballer	currently plays for Balcatta FC
+1.0	Cceres	is	Argentine-born
+1.0	Claudio Adrin Cceres	is	footballer
+1.0	Claudio Adrin Cceres	is Argentine-born footballer	currently plays
+1.0	Claudio Adrin Cceres	is footballer	plays for Balcatta FC
+1.0	Claudio Adrin Cceres	is footballer	currently plays for Balcatta FC
+1.0	Claudio Adrin Cceres	is Argentine-born Australian footballer	currently plays
+1.0	Claudio Adrin Cceres	is Argentine-born Australian footballer	plays
+1.0	Claudio Adrin Cceres	is Australian footballer	currently plays for Balcatta FC
+1.0	Claudio Adrin Cceres	is	Australian footballer
+1.0	Claudio Adrin Cceres	is Australian footballer	plays
+1.0	Claudio Adrin Cceres	is Australian footballer	currently plays
+1.0	Claudio Adrin Cceres	is footballer	plays
+1.0	Claudio Adrin Cceres	is footballer	currently plays

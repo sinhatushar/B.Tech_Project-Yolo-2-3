@@ -1,0 +1,7 @@
+1.0	He	served as	titular head of government
+1.0	He	served as	titular head
+1.0	He	served as	head
+1.0	He	served as	titular head of Albanian government
+1.0	He	served as	head of Albanian government
+1.0	He	served as	head of government
+1.0	He	served in	years

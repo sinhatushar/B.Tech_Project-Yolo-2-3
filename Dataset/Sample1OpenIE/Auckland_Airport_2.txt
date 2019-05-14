@@ -1,0 +1,4 @@
+1.0	airport	is located near	Mangere
+1.0	airport	is located near	suburb
+1.0	airport	is located near	residential suburb
+1.0	airport	is	located

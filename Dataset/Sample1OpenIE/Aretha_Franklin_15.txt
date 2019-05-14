@@ -1,0 +1,25 @@
+1.0	Franklin	becoming	charted artist
+1.0	Franklin	becoming	charted artist in history
+1.0	Franklin	becoming	charted female artist
+1.0	Franklin	becoming	artist in history
+1.0	Franklin	becoming	female artist
+1.0	Franklin	becoming	most charted artist
+1.0	Franklin	recorded	112 singles on Billboard including 77 100 entries
+1.0	Franklin	becoming	artist
+1.0	Franklin	recorded	112 singles on Billboard including 77 Hot 100 entries
+1.0	Franklin	recorded	112 singles including 77 100 entries
+1.0	Franklin	recorded	112 charted singles on Billboard including 77 100 entries
+1.0	Franklin	becoming	charted female artist in history
+1.0	Franklin	recorded	112 charted singles including 77 100 entries
+1.0	Franklin	becoming	most charted female artist in history
+1.0	Franklin	recorded	112 singles
+1.0	Franklin	becoming	most charted artist in history
+1.0	Franklin	recorded	112 charted singles on Billboard
+1.0	Franklin	recorded	112 singles including 77 Hot 100 entries
+1.0	Franklin	becoming	female artist in history
+1.0	Franklin	recorded	112 charted singles
+1.0	Franklin	recorded	112 singles on Billboard
+1.0	charted female artist	is in	history
+1.0	Franklin	recorded	112 charted singles including 77 Hot 100 entries
+1.0	Franklin	recorded	112 charted singles on Billboard including 77 Hot 100 entries
+1.0	Franklin	becoming	most charted female artist

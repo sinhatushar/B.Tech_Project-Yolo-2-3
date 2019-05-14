@@ -1,0 +1,4 @@
+1.0	Kosove	is	American
+1.0	Andrew A. Kosove	is	American film
+1.0	television producer	has produced	35 films
+1.0	Andrew A. Kosove	is	film

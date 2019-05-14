@@ -1,0 +1,4 @@
+1.0	name	starts with	L
+1.0	last name	starts with	L
+1.0	majority	had received	award
+1.0	nominations	is in	various stages of approval process.Listed here

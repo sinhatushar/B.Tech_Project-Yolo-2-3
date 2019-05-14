@@ -1,0 +1,5 @@
+1.0	towns	were	Tekirda
+1.0	principal towns	were Tekirda in	about 80,000
+1.0	Tekirda	is in	1905
+1.0	towns	were Tekirda in	about 80,000
+1.0	principal towns	were	Tekirda

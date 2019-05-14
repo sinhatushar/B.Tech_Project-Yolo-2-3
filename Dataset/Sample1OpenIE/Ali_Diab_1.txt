@@ -1,0 +1,11 @@
+1.0	born May 1982	is	Syrian association football player
+1.0	23 May 1982	born at_time	Rif Dimashq
+1.0	born 23 May 1982	is	association football player
+1.0	born	is	professional
+1.0	born May 1982	is	association football player
+1.0	born 23 May 1982	is	Syrian professional association football player
+1.0	born 23 May 1982	is	Syrian association football player
+1.0	born 23 May 1982	is	professional association football player
+1.0	born May 1982	is	professional association football player
+1.0	born	is	Syrian
+1.0	born May 1982	is	Syrian professional association football player

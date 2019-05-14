@@ -1,0 +1,10 @@
+0.6601024944897336	I	propelled	her past her peers
+0.7469313625384992	Prayer	propelled	her past her peers
+1.0	I	Say	Prayer
+0.6601024944897336	I	propelled	her past her musical peers
+0.7469313625384992	Prayer	propelled	her past her musical peers
+0.7469313625384992	Little Prayer	propelled	her past her peers
+1.0	Me	Feel Like	Natural Woman
+0.7469313625384992	Little Prayer	propelled	her past her musical peers
+1.0	Me	Feel Like	Woman
+1.0	I	Say	Little Prayer

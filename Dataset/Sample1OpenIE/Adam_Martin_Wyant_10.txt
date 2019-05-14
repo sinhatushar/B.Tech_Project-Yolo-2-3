@@ -1,0 +1,6 @@
+1.0	He	was elected into	College Football Hall
+1.0	He	was	elected
+1.0	He	was elected in	1962
+1.0	He	was	elected into College Football Hall of Fame in 1962
+1.0	He	was elected into	College Football Hall of Fame
+1.0	He	was	elected into College Football Hall in 1962

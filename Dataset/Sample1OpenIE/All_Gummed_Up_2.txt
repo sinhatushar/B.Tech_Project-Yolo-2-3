@@ -1,0 +1,4 @@
+1.0	comedians	released	190 films
+1.0	comedians	released	190 short films
+1.0	comedians	released	190 short films for studio
+1.0	comedians	released	190 films for studio

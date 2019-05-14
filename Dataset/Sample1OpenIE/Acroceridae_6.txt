@@ -1,0 +1,18 @@
+1.0	they	also are sometimes known	parasitoids
+1.0	they	are sometimes known	parasitoids of spiders
+1.0	they	are known as	spider flies
+1.0	they	are	parasitoids
+1.0	they	are parasitoids of	spiders
+1.0	they	are	also known
+1.0	they	also are known as	spider flies
+1.0	they	are	sometimes known
+1.0	they	are	also sometimes known
+1.0	they	also are sometimes known	parasitoids of spiders
+1.0	they	are sometimes known as	spider flies
+1.0	they	are known	parasitoids
+1.0	they	also are known	parasitoids
+1.0	they	also are known	parasitoids of spiders
+1.0	they	are sometimes known	parasitoids
+1.0	they	also are sometimes known as	spider flies
+1.0	they	are known	parasitoids of spiders
+1.0	they	are	known

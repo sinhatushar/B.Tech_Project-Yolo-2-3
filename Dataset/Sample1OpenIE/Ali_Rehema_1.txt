@@ -1,0 +1,10 @@
+1.0	Ali Hussein Rehema Al-Mutairi	is Iraqi footballer	Defender
+1.0	Defender	playing for	Al-Zawraa
+1.0	Ali Hussein Rehema Al-Mutairi	is	footballer
+1.0	Ali Hussein Rehema Al-Mutairi	is Iraqi footballer	Defender playing
+1.0	Ali Hussein Rehema Al-Mutairi	is	Iraqi footballer
+1.0	Ali Hussein Rehema Al-Mutairi	is footballer	Defender playing
+1.0	Ali Hussein Rehema Al-Mutairi	is footballer	Defender
+1.0	Ali Hussein Rehema Al-Mutairi	is Iraqi footballer	Defender playing for Al-Zawraa
+1.0	Ali Hussein Rehema Al-Mutairi	is footballer	Defender playing for Al-Zawraa
+1.0	Al-Mutairi	is	Iraqi

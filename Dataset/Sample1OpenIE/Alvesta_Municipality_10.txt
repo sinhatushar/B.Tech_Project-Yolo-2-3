@@ -1,0 +1,4 @@
+1.0	churches	scattered around	municipality
+0.8335187602532732	churches	scattered around	municipality
+0.8335187602532732	old churches	scattered around	municipality
+1.0	old churches	scattered around	municipality

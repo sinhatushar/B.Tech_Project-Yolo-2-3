@@ -1,0 +1,10 @@
+1.0	she	relocating to	D.C.
+1.0	she	married	Sr.
+1.0	she	relocating to	Washington
+1.0	she	married	Gaye 's father
+1.0	she	relocating in	her twenties
+1.0	Gaye	has	father
+0.5124949472549427	she	Born in	North Carolina
+0.5124949472549427	she	Born in	Rocky Mount
+1.0	Gaye	's father is	Sr.
+1.0	she	relocating in	her early twenties

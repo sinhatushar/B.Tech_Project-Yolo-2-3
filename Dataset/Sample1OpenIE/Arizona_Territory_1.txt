@@ -1,0 +1,5 @@
+1.0	Territory	was territory	existed
+1.0	Territory	was territory	existed from February 24 1863 until February 14 1912
+1.0	Territory	was territory of	United States
+1.0	Territory	was territory	existed from February 24 1863
+1.0	Territory	was	territory

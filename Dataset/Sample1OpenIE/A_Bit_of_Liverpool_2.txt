@@ -1,0 +1,8 @@
+1.0	Berry Gordy	is with	Hal Davis
+1.0	album	missed	Top 20 in U.S.
+0.6675108383998307	they	were at	time
+1.0	It	was produced by	Berry Gordy
+0.4998871721966306	mixing.As	indication at	time
+1.0	It	was	produced
+1.0	It	was produced by	Berry Gordy with Hal Davis
+1.0	album	just missed	Top 20 in U.S.

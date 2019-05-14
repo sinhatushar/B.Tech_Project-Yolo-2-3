@@ -1,0 +1,7 @@
+1.0	Tisdale	returned with	shows
+1.0	Tisdale	began	appearing in more films
+1.0	Tisdale	began During	time
+1.0	Tisdale	appearing in	films
+1.0	Tisdale	appearing in	more films
+1.0	Tisdale	began	appearing in films
+1.0	Tisdale	returned to	television

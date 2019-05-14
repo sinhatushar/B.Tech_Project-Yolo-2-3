@@ -1,0 +1,8 @@
+1.0	Atagema intecta	is species of	marine gastropod mollusk in family Discodorididae
+1.0	Atagema intecta	is species of	gastropod mollusk
+1.0	Atagema intecta	is species of	sea slug
+1.0	Atagema intecta	is species of	gastropod mollusk in family Discodorididae
+1.0	Atagema intecta	is species of	marine gastropod mollusk
+1.0	marine gastropod mollusk	is in	family Discodorididae
+1.0	Atagema intecta	is	species
+1.0	sea slug	mollusk in	family Discodorididae

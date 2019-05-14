@@ -1,0 +1,6 @@
+1.0	ana t	is	tennis player
+1.0	ana t	is	Georgian-American professional tennis player
+1.0	ana t	is	Georgian-American tennis player
+1.0	t	is	Georgian-American
+1.0	ana t	is	professional tennis player
+1.0	t	is	professional

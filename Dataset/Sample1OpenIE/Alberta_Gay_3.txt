@@ -1,0 +1,32 @@
+1.0	She	was	person present at murder of her son committed
+1.0	She	was	only person present at murder
+1.0	She	was	other person present
+1.0	She	was	other person present at murder committed by his father
+1.0	She	was	only person present at murder of her son committed
+1.0	She	was	person present
+1.0	She	was	person present at murder of her son committed by his father
+1.0	She	was	other person present at murder of her son committed
+1.0	She	was	person present at murder
+1.0	She	was	only other person present at murder committed
+1.0	She	was	only other person present at murder of her son committed by his father
+1.0	She	was	only person present
+1.0	She	was	only other person present
+1.0	She	was	only other person present at murder committed by his father
+1.0	She	was	other person present at murder committed
+1.0	She	was	only other person present at murder of her son
+1.0	She	was	only person present at murder committed by his father
+1.0	She	was	only person present at murder of her son committed by his father
+1.0	She	was	person present at murder committed
+1.0	She	was	only person
+1.0	She	was	only person present at murder of her son
+1.0	She	was	only other person present at murder of her son committed
+1.0	She	was	other person present at murder of her son
+1.0	She	was	other person
+1.0	She	was	only other person
+1.0	She	was	person present at murder committed by his father
+1.0	She	was	other person present at murder
+1.0	She	was	only other person present at murder
+1.0	She	was	only person present at murder committed
+1.0	She	was	person present at murder of her son
+1.0	She	was	other person present at murder of her son committed by his father
+1.0	She	was	person

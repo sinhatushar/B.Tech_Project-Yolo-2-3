@@ -1,0 +1,4 @@
+1.0	She	finishing	5th
+1.0	She	is	known
+1.0	She	is	best known
+1.0	She	finishing 5th at	Junior Eurovision Song Contest 2003

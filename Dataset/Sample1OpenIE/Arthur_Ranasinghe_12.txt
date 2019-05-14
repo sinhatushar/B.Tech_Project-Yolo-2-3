@@ -1,0 +1,6 @@
+1.0	he	acting Superintendent of	Census
+1.0	he	was appointed Permanent Secretary to	Ministry
+1.0	he	was appointed Permanent Secretary to	Ministry of Agriculture
+1.0	he	was appointed	Permanent Secretary
+1.0	he	Superintendent of	Census
+1.0	he	was appointed Permanent Secretary In	1947

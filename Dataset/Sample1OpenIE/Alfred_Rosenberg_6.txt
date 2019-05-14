@@ -1,0 +1,6 @@
+1.0	he	was sentenced to	death
+1.0	he	was	sentenced
+1.0	he	was sentenced At	Nuremberg
+1.0	he	executed	hanging for war crimes
+1.0	he	was	At Nuremberg sentenced to death
+1.0	he	executed	hanging

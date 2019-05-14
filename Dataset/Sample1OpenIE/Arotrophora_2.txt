@@ -1,0 +1,9 @@
+1.0	they	are	where associated
+1.0	they	are	where strongly associated
+1.0	they	are	associated
+1.0	they	are	strongly associated
+1.0	they	are associated with	plant family Proteaceae
+1.0	They	occur in	Australia
+1.0	they	are	where associated with plant family Proteaceae
+1.0	they	are strongly associated with	plant family Proteaceae
+1.0	they	are	where strongly associated with plant family Proteaceae

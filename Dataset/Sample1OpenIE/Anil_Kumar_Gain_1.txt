@@ -1,0 +1,11 @@
+1.0	Indian mathematician	is with	his colleague Ronald Fisher
+1.0	mathematician	known for	his works Pearson product-moment correlation coefficient
+1.0	Indian mathematician	known for	his works Pearson product-moment correlation coefficient
+1.0	Indian mathematician	known for	his works Pearson product-moment correlation coefficient field
+1.0	Gain	was	Indian
+1.0	mathematician	known for	his works
+1.0	mathematician	known for	his works Pearson product-moment correlation coefficient field statistics
+1.0	Pearson product-moment correlation coefficient	is in	field of applied statistics
+1.0	Indian mathematician	known for	his works Pearson product-moment correlation coefficient field statistics
+1.0	Indian mathematician	known for	his works
+1.0	mathematician	known for	his works Pearson product-moment correlation coefficient field

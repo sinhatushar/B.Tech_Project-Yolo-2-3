@@ -1,0 +1,6 @@
+0.5456713569066095	sire	owned by	partnership Ellison
+1.0	Star Kingdom	brought	great acclaim
+1.0	Star Kingdom	brought acclaim to	Baramul
+1.0	Star Kingdom	brought acclaim From	1951
+0.5456713569066095	sire	owned by	partnership
+1.0	Star Kingdom	brought	acclaim

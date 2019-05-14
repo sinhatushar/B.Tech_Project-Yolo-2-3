@@ -1,0 +1,4 @@
+1.0	He	played for	Libya football team
+1.0	He	played for	Libya national football team
+1.0	He	played at	2012 Africa Cup of Nations qualification
+1.0	He	played at	2012 Africa Cup

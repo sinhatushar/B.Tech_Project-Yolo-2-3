@@ -1,0 +1,10 @@
+1.0	project	plagued by	political problems
+1.0	construction	was	project plagued by various political problems
+1.0	construction	was	project plagued by various problems
+1.0	project	plagued by	problems
+1.0	construction	was	project
+1.0	construction	was	project plagued by problems
+1.0	construction	was	project plagued
+1.0	project	plagued by	various political problems
+1.0	project	plagued by	various problems
+1.0	construction	was	project plagued by political problems

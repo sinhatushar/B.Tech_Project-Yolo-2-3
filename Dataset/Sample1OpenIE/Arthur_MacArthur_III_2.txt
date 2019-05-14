@@ -1,0 +1,6 @@
+1.0	He	was elder brother of	18801964
+1.0	He	was	brother
+1.0	He	was elder brother of	General Douglas MacArthur
+1.0	He	was brother of	18801964
+1.0	He	was	elder brother
+1.0	He	was brother of	General Douglas MacArthur

@@ -1,0 +1,13 @@
+1.0	1944 film	starring	Eric Portman
+1.0	Canterbury Tale	is	1944 British film by Michael Powell
+1.0	1944 British film	starring	Eric Portman
+1.0	1944 film	starring	Sheila Sim
+1.0	1944 film	starring	Dennis Price
+1.0	Canterbury Tale	is	1944 film by Michael Powell
+1.0	1944 British film	starring	Dennis Price
+1.0	1944 film	starring	Sgt.
+1.0	1944 British film	starring	Sgt.
+1.0	Tale	is	British
+1.0	Canterbury Tale	is	1944 film
+1.0	1944 British film	starring	Sheila Sim
+1.0	Canterbury Tale	is	1944 British film

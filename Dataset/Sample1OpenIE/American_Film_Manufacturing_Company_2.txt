@@ -1,0 +1,8 @@
+1.0	name	was	In 1915 changed to American Film Company
+1.0	formal name	was	In 1915 changed to American Film Company
+1.0	formal name	was changed In	1915
+1.0	name	was changed to	American Film Company
+1.0	name	was changed In	1915
+1.0	name	was	changed
+1.0	formal name	was changed to	American Film Company
+1.0	formal name	was	changed

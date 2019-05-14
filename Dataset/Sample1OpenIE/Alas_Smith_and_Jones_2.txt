@@ -1,0 +1,26 @@
+1.0	show	also had run on	CBS
+1.0	show	had run on	CBS in early 1990s
+1.0	show	had run on	CBS in early 1990s during their block
+1.0	show	also had run on	CBS in early 1990s during their late-night block
+1.0	show	also had	run
+0.300896652635251	show	brief run in	United States
+1.0	show	had run on	CBS during their block
+1.0	show	had	run
+1.0	brief run	is in	United States
+1.0	show	had	run in United States
+1.0	show	also had	brief run in United States
+1.0	show	had run on	CBS in early 1990s during their late-night block
+1.0	show	also had run on	CBS in early 1990s during their block
+1.0	show	had run on	CBS during their late-night block
+0.300896652635251	show	run in	United States
+1.0	show	also had	brief run
+1.0	show	also had run on	CBS during their block
+1.0	show	had run on	A&E
+1.0	show	had	brief run
+1.0	show	had run on	CBS
+1.0	show	also had run on	CBS in early 1990s
+1.0	show	also had run on	CBS during their late-night block
+1.0	CBS	is in	early 1990s
+1.0	show	also had run on	A&E
+1.0	show	had	brief run in United States
+1.0	show	also had	run in United States

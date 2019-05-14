@@ -1,0 +1,16 @@
+1.0	result	was	91 % in favor
+1.0	Accords	were	subject
+1.0	result	was	91 %
+1.0	Accords	were	on 1 July subject to second referendum
+1.0	second referendum	is in	Algeria
+1.0	final result	was	91 %
+1.0	final result	was	91 % in favor
+1.0	Accords	were subject to	second referendum
+1.0	Accords	were subject to	referendum in Algeria
+1.0	Accords	were subject to	second referendum in Algeria
+1.0	91 %	is in	favor of ratification of agreement
+1.0	Accords	were	on 1 July subject to second referendum in Algeria
+1.0	Accords	were subject to	referendum
+1.0	Accords	were	on 1 July subject to referendum in Algeria
+1.0	Accords	were subject on	1 July
+1.0	Accords	were	on 1 July subject to referendum

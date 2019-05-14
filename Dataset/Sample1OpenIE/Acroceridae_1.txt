@@ -1,0 +1,7 @@
+1.0	Acroceridae	are small family of	odd-looking flies
+1.0	Acroceridae	are	family
+1.0	Acroceridae	are small family of	flies
+1.0	Acroceridae	are	small
+1.0	Acroceridae	are family of	flies
+1.0	Acroceridae	are	small family
+1.0	Acroceridae	are family of	odd-looking flies

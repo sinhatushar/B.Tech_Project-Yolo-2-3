@@ -1,0 +1,9 @@
+0.7055865531448298	he	host of	clubs
+1.0	he	represented	host of clubs
+1.0	He	competed in	Russia
+1.0	He	competed professionally in	Russia
+0.06221292408889589	He	added in	Segunda Divisin B
+1.0	He	also competed in	Russia
+1.0	He	added	122/5
+1.0	He	also competed professionally in	Russia
+1.0	he	represented	host

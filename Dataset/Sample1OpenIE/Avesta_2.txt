@@ -1,0 +1,9 @@
+1.0	recited	takes	its name
+1.0	Yasna	act 's	Zoroastrianism
+1.0	Zoroastrianism	has	primary act of worship
+1.0	Yasna	act of	worship
+0.8413641114504246	Yasna text	is	at which recited
+1.0	principal text	is in	liturgical group
+1.0	text	is	Yasna
+1.0	principal text	is	Yasna
+0.8413641114504246	Yasna text	is	recited

@@ -1,0 +1,20 @@
+1.0	teams	are	In sports contexts referred to as simply Army
+1.0	teams	are	referred
+1.0	teams	are commonly referred In	sports contexts
+1.0	teams	are commonly referred to	as simply Army
+1.0	teams	are	commonly referred
+1.0	teams	are referred to	Army
+1.0	teams	are	In sports contexts referred to as Army
+1.0	teams	are	In sports contexts commonly referred to Army
+1.0	teams	are referred to	as simply Army
+1.0	teams	are	In sports contexts commonly referred to as simply Army
+1.0	teams	are referred to	simply Army
+1.0	teams	are referred In	sports contexts
+1.0	teams	are commonly referred to	Army
+1.0	teams	are commonly referred to	simply Army
+1.0	teams	are	In sports contexts referred to simply Army
+1.0	teams	are	In sports contexts commonly referred to as Army
+1.0	teams	are referred to	as Army
+1.0	teams	are commonly referred to	as Army
+1.0	teams	are	In sports contexts commonly referred to simply Army
+1.0	teams	are	In sports contexts referred to Army

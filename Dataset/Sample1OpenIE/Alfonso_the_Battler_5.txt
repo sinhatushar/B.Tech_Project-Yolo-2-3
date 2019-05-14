@@ -1,0 +1,22 @@
+1.0	He	won	his greatest successes
+1.0	He	won	his successes in Ebro
+1.0	He	won	his greatest successes in Ebro
+1.0	He	won	his military successes in middle Ebro
+1.0	He	won	his greatest military successes in Ebro
+1.0	He	won	his greatest successes in middle Ebro
+1.0	he	took	Calatayud
+1.0	He	won	his greatest military successes
+1.0	he	took	Borja
+1.0	his greatest military successes	is in	middle Ebro
+1.0	He	won	his military successes in Ebro
+1.0	he	took	Daroca
+1.0	he	took	Tarazona
+1.0	he	conquered Zaragoza in	1118
+1.0	He	won	his successes
+1.0	he	took	Tudela
+1.0	he	took	Ejea
+1.0	He	won	his greatest military successes in middle Ebro
+1.0	He	won	his military successes
+1.0	he	took	Monreal del Campo
+1.0	He	won	his successes in middle Ebro
+1.0	he	conquered	Zaragoza

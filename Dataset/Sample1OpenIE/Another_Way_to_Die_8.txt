@@ -1,0 +1,14 @@
+1.0	version	was also used	used
+1.0	version	was	also used
+1.0	version	was used	used
+1.0	instrumental version	was also used in	Coca-Cola commercial
+1.0	version	was also used in	Coca-Cola commercial
+1.0	Coca-Cola Zero	was	used
+1.0	version	was	used
+1.0	instrumental version	was	used
+1.0	instrumental version	was also used	used
+1.0	instrumental version	was	also used
+1.0	version	was used in	Coca-Cola commercial
+1.0	Coca-Cola Zero	promote	film
+1.0	instrumental version	was used in	Coca-Cola commercial
+1.0	instrumental version	was used	used

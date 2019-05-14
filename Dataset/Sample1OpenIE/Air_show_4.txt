@@ -1,0 +1,14 @@
+1.0	biggest military airshow	is in	world
+1.0	airshow	is	Royal International Air Tattoo at RAF Fairford in England
+1.0	biggest airshow	is	Royal International Air Tattoo at RAF Fairford in England
+1.0	biggest airshow	is	Royal International Air Tattoo
+1.0	military airshow	is	Royal International Air Tattoo at RAF Fairford
+1.0	military airshow	is	Royal International Air Tattoo at RAF Fairford in England
+1.0	biggest military airshow	is	Royal International Air Tattoo at RAF Fairford
+1.0	biggest airshow	is	Royal International Air Tattoo at RAF Fairford
+1.0	biggest military airshow	is	Royal International Air Tattoo
+1.0	airshow	is	Royal International Air Tattoo at RAF Fairford
+1.0	military airshow	is	Royal International Air Tattoo
+1.0	RAF Fairford	is in	England
+1.0	biggest military airshow	is	Royal International Air Tattoo at RAF Fairford in England
+1.0	airshow	is	Royal International Air Tattoo

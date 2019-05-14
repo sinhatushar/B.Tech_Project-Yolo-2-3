@@ -1,0 +1,8 @@
+1.0	helicopter	was initially designated	WAH-64
+1.0	helicopter	was designated by	Westland Helicopters
+1.0	helicopter	was	initially designated
+1.0	helicopter	was designated	WAH-64
+1.0	helicopter	was given	designation Apache AH Mk 1
+1.0	helicopter	was	designated
+1.0	helicopter	was later given	designation Apache AH Mk 1
+1.0	helicopter	was initially designated by	Westland Helicopters

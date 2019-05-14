@@ -1,0 +1,25 @@
+1.0	He	is also representative of	town
+1.0	Aguila Saleh Issa 's residence	was target by	ISIL militants
+1.0	town	is in	east of country.On February 20 2015
+1.0	He	is also representative of	town in east
+1.0	ISIL militants	is in	town of Al Qubbah
+1.0	Aguila Saleh Issa 's residence	was target by	ISIL militants in town of Al Qubbah
+1.0	Aguila Saleh Issa 's residence	was target of	bombing
+1.0	He	is also representative of	town of Al Qubbah in east of country.On February 20 2015
+1.0	He	is	also representative
+1.0	He	is	representative
+1.0	He	is representative of	town of Al Qubbah
+1.0	Aguila Saleh Issa 's residence	was target by	ISIL militants in town
+1.0	Aguila Saleh Issa 's residence	was	target of bombing by ISIL militants in town of Al Qubbah
+1.0	He	is representative of	town in east
+1.0	He	is also representative of	town of Al Qubbah
+1.0	He	is representative of	town in east of country.On February 20 2015
+1.0	He	is representative of	town
+1.0	Aguila Saleh Issa 's residence	was	target of bombing by ISIL militants in town
+1.0	He	is representative of	town of Al Qubbah in east
+1.0	Aguila Saleh Issa	has	residence
+1.0	He	is representative of	town of Al Qubbah in east of country.On February 20 2015
+1.0	Aguila Saleh Issa 's residence	was	target of bombing by ISIL militants
+1.0	He	is also representative of	town in east of country.On February 20 2015
+1.0	Aguila Saleh Issa 's residence	was	target
+1.0	He	is also representative of	town of Al Qubbah in east

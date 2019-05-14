@@ -1,0 +1,22 @@
+1.0	she	has formed	new band VUUR with members of Gentle Storm band
+1.0	she	has formed	band VUUR with members of Storm band
+1.0	she	focus on	heavier side
+1.0	she	has formed	new band VUUR with members
+1.0	she	has formed	new band VUUR with members of Storm live band
+1.0	she	has formed band VUUR	focus
+1.0	she	has formed band VUUR	focus on side of her music
+1.0	she	has formed	band VUUR with members of Storm live band
+1.0	she	has formed	new band VUUR with members of Gentle Storm live band
+1.0	she	has formed	band VUUR with members of Gentle Storm band
+1.0	she	has formed	new band VUUR
+1.0	she	has formed	band VUUR
+1.0	she	focus on	side
+1.0	she	focus on	side of her music
+1.0	new band VUUR	is with	members of Gentle Storm live band
+1.0	she	has formed band VUUR	focus on heavier side
+1.0	she	has formed	band VUUR with members
+1.0	she	has formed band VUUR	focus on side
+1.0	she	has formed	band VUUR with members of Gentle Storm live band
+1.0	she	focus on	heavier side of her music
+1.0	she	has formed band VUUR Since	2016
+1.0	she	has formed	new band VUUR with members of Storm band

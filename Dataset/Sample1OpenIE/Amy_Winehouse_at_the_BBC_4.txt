@@ -1,0 +1,24 @@
+1.0	It	features	live songs performed
+1.0	It	features	songs performed by Winehouse at BBC specials during 2004 to 2009
+1.0	It	features	live songs performed during 2004 to 2009
+1.0	It	features	live songs performed by Winehouse
+1.0	It	features	live songs performed at BBC specials during 2004 to 2009
+0.9955680070061137	songs	performed during	2004 to 2009
+1.0	It	features	songs performed
+1.0	It	features	live songs performed by Winehouse at BBC specials during 2004 to 2009
+1.0	It	features	songs
+1.0	It	features	songs performed at BBC specials during 2004 to 2009
+1.0	It	features	songs performed by Winehouse during 2004 to 2009
+0.9955680070061137	songs	performed by	Winehouse
+1.0	It	features	songs performed at BBC specials
+0.9955680070061137	live songs	performed by	Winehouse
+1.0	It	features	songs performed by Winehouse at BBC specials
+1.0	It	features	live songs performed by Winehouse during 2004 to 2009
+0.9955680070061137	live songs	performed during	2004 to 2009
+1.0	It	features	songs performed during 2004 to 2009
+0.9955680070061137	live songs	performed at	BBC specials
+1.0	It	features	live songs
+0.9955680070061137	songs	performed at	BBC specials
+1.0	It	features	live songs performed by Winehouse at BBC specials
+1.0	It	features	songs performed by Winehouse
+1.0	It	features	live songs performed at BBC specials

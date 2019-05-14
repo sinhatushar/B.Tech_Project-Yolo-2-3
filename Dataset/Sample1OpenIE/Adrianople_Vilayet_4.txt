@@ -1,0 +1,14 @@
+1.0	it	had area In	century
+1.0	it	had area In	19th century
+1.0	it	reportedly had area In	late century
+1.0	it	had	area of 26,160 miles
+1.0	it	reportedly had area In	century
+1.0	it	reportedly had area In	late 19th century
+1.0	it	had area In	late 19th century
+1.0	it	reportedly had area In	19th century
+1.0	it	reportedly had	area of 26,160 miles
+1.0	it	had	area of 26,160 square miles
+1.0	it	had area In	late century
+1.0	it	reportedly had	area
+1.0	it	had	area
+1.0	it	reportedly had	area of 26,160 square miles

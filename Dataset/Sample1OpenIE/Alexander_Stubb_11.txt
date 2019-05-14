@@ -1,0 +1,9 @@
+1.0	Stubb	went on After	declining positions
+1.0	Stubb	went on After	declining ministerial positions
+1.0	Stubb	went on	continue as Member
+1.0	Stubb	went on After	ministerial positions
+1.0	Stubb	went on	continue as Member of Parliament
+1.0	Stubb	continue as	Member
+1.0	Stubb	went on	continue
+1.0	Stubb	continue as	Member of Parliament
+1.0	Stubb	went on After	positions

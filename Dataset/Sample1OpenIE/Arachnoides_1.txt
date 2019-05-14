@@ -1,0 +1,16 @@
+1.0	Arachnoides	is	genus
+1.0	Arachnoides	is	genus within family Clypeasteridae found in oceans
+1.0	Arachnoides	is genus within	family Clypeasteridae
+1.0	Arachnoides	is	genus within family Clypeasteridae found in Indo-Pacific oceans
+1.0	Arachnoides	is genus of	sea urchin
+1.0	Arachnoides	is	genus found in Indo-Pacific oceans
+1.0	Arachnoides	is	genus found
+1.0	Arachnoides	is	genus of sea urchin within family Clypeasteridae found in Indo-Pacific oceans
+1.0	Arachnoides	is	genus of sea urchin found in Indo-Pacific oceans
+1.0	Arachnoides	is	genus of sea urchin found
+1.0	Arachnoides	is	genus of sea urchin within family Clypeasteridae
+1.0	Arachnoides	is	genus of sea urchin within family Clypeasteridae found in oceans
+1.0	Arachnoides	is	genus found in oceans
+1.0	Arachnoides	is	genus of sea urchin within family Clypeasteridae found
+1.0	Arachnoides	is	genus within family Clypeasteridae found
+1.0	Arachnoides	is	genus of sea urchin found in oceans

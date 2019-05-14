@@ -1,0 +1,7 @@
+1.0	main source	is string	plucked
+1.0	sound	main source of is	string
+1.0	source	is string	plucked
+1.0	main source	is in	acoustic guitar
+1.0	sound	source of is	string
+1.0	source	is	string
+1.0	main source	is	string

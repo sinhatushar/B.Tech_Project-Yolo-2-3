@@ -1,0 +1,26 @@
+1.0	Alstom	was formed from	merger between Compagnie Franaise Thomson Houston
+1.0	Alstom	was	formed from merger between Compagnie Franaise Thomson Houston in 1928
+1.0	Alstom	was formed in	1928
+1.0	significant acquisitions	included	shipbuilder Chantiers l'Atlantique
+1.0	acquisitions	included	parts
+0.9932244883731985	shipbuilder Chantiers l'Atlantique	parts of	ACEC SA
+1.0	Alstom	was	formed from merger in 1928
+1.0	significant acquisitions	included	parts
+0.8747212340444962	acquisitions	parts of	ACEC SA
+1.0	acquisitions	included	shipbuilder Chantiers l'Atlantique
+1.0	acquisitions	included	parts of ACEC SA
+1.0	significant acquisitions	included	Constructions Electriques France
+0.9932244883731985	shipbuilder Chantiers de l'Atlantique	parts of	ACEC SA
+1.0	significant acquisitions	included	1932
+1.0	significant acquisitions	included	1976
+1.0	significant acquisitions	included	shipbuilder Chantiers de l'Atlantique
+1.0	significant acquisitions	included	parts of ACEC SA
+1.0	acquisitions	included	Constructions Electriques France
+1.0	acquisitions	included	1932
+1.0	acquisitions	included	1976
+1.0	acquisitions	included	Constructions Electriques de France
+0.8747212340444962	significant acquisitions	parts of	ACEC SA
+1.0	Alstom	was	formed
+1.0	significant acquisitions	included	Constructions Electriques de France
+1.0	acquisitions	included	shipbuilder Chantiers de l'Atlantique
+1.0	Alstom	was formed from	merger

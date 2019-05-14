@@ -1,0 +1,22 @@
+1.0	Archie Goldie	was Scottish footballer	played as right back
+1.0	Archie Goldie	was Scottish footballer	played as right back for Liverpool in Football League
+1.0	Archie Goldie	was footballer	played as right back in Football League
+1.0	Archie Goldie	was Scottish footballer	played as back for Liverpool
+1.0	Archie Goldie	was footballer	played as right back for Liverpool
+1.0	Archie Goldie	was Scottish footballer	played as right back in Football League
+1.0	Archie Goldie	was footballer	played as back for Liverpool
+1.0	Goldie	was	Scottish
+1.0	Archie Goldie	was Scottish footballer	played as back in Football League
+1.0	Archie Goldie	was	footballer
+1.0	Archie Goldie	was	Scottish footballer
+1.0	Archie Goldie	was Scottish footballer	played as back for Liverpool in Football League
+1.0	Archie Goldie	was Scottish footballer	played
+1.0	Archie Goldie	was footballer	played
+1.0	Archie Goldie	was footballer	played as back in Football League
+1.0	Archie Goldie	was footballer	played as back
+1.0	Archie Goldie	was footballer	played as back for Liverpool in Football League
+1.0	Archie Goldie	was footballer	played as right back
+1.0	right back	is in	Football League
+1.0	Archie Goldie	was Scottish footballer	played as right back for Liverpool
+1.0	Archie Goldie	was footballer	played as right back for Liverpool in Football League
+1.0	Archie Goldie	was Scottish footballer	played as back

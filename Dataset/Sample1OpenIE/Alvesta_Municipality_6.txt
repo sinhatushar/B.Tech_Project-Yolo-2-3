@@ -1,0 +1,6 @@
+1.0	arms	depict	winged wheel
+1.0	municipal arms	depict	winged wheel
+1.0	municipal arms	depict	three bees
+1.0	arms	depict	wheel
+1.0	arms	depict	three bees
+1.0	municipal arms	depict	wheel

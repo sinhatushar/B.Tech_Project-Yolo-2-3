@@ -1,0 +1,4 @@
+1.0	Shout	immigrated in	1907
+1.0	Shout	immigrated to	Sydney
+1.0	Shout	immigrated With	his Australian-born wife
+1.0	Shout	immigrated With	his wife

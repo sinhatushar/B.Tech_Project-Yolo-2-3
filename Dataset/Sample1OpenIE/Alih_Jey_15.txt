@@ -1,0 +1,6 @@
+1.0	Alih Jey	in	homeland
+1.0	tour	ended in	Dominican Republic
+1.0	Alih Jey	's homeland is	Dominican Republic
+1.0	tour	ended in	Alih Jey 's homeland
+1.0	tour	Coincidentally ended in	Dominican Republic
+1.0	tour	Coincidentally ended in	Alih Jey 's homeland

@@ -1,0 +1,5 @@
+1.0	Potts	playing Mary Jo Jackson Shively on	198693
+1.0	Potts	playing	Mary Jo Jackson Shively
+1.0	Potts	is	also known
+1.0	Potts	is	known
+1.0	Potts	playing Mary Jo Jackson Shively on	CBS sitcom Designing Women

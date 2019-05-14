@@ -1,0 +1,4 @@
+1.0	Their CD Animal	was	released
+1.0	Their first CD Animal	was released in	September 2000
+1.0	Their CD Animal	was released in	September 2000
+1.0	Their first CD Animal	was	released

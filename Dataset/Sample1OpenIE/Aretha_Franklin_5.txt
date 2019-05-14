@@ -1,0 +1,13 @@
+1.0	She	found acclaim	signing in 1966
+1.0	She	signing with	Atlantic Records
+1.0	She	found	success
+1.0	She	signing in	1966
+1.0	She	found	acclaim
+1.0	She	found success	signing in 1966
+1.0	She	found success	signing with Atlantic Records in 1966
+1.0	She	found	commercial success
+1.0	She	found acclaim	signing with Atlantic Records
+1.0	She	found acclaim	signing with Atlantic Records in 1966
+1.0	She	found success	signing with Atlantic Records
+1.0	She	found success	signing
+1.0	She	found acclaim	signing

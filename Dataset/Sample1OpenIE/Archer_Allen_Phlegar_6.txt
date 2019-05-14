@@ -1,0 +1,15 @@
+1.0	he	was elected in	1877
+1.0	he	was	elected to Virginia State Senate in 1877
+1.0	he	was appointed	Commonwealths Attorney
+1.0	he	was appointed Commonwealths Attorney for	Montgomery County
+1.0	he	remained there	elected to Virginia State Senate
+1.0	he	was	elected
+1.0	he	remained there	elected
+1.0	he	remained	elected to Virginia State Senate in 1877
+1.0	he	was elected to	Virginia State Senate
+1.0	he	was appointed Commonwealths Attorney In	1870
+1.0	he	remained	elected in 1877
+1.0	he	remained there	elected in 1877
+1.0	he	remained there	elected to Virginia State Senate in 1877
+1.0	he	remained	elected
+1.0	he	remained	elected to Virginia State Senate

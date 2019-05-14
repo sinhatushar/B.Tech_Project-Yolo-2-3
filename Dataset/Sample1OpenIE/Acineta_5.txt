@@ -1,0 +1,7 @@
+1.0	species	bearing	racemes of fragrant cup-shaped
+1.0	species	bearing	racemes
+1.0	species	bearing	racemes of many fragrant cup-shaped
+1.0	species	produce	pendent inflorescence
+1.0	species	produce	inflorescence
+1.0	species	bearing	racemes of many cup-shaped
+1.0	species	bearing	racemes of cup-shaped

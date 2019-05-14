@@ -1,0 +1,47 @@
+1.0	Arnold Meri	was	Army veteran
+1.0	Arnold Meri	was	Soviet Army veteran of World War II
+1.0	Arnold Meri	was	Red Army veteran of World War II of Soviet Union
+1.0	Hero	was charged for	his role to inhospitable regions
+1.0	Hero	was	charged with genocide for his role in deportation of Estonians to regions of USSR
+1.0	Hero	was charged for	his role in deportation of Estonians to inhospitable regions
+1.0	Hero	was charged for	his role in deportation to inhospitable regions
+1.0	Arnold Meri	was	Soviet Red Army veteran
+1.0	Arnold Meri	was	Soviet Red Army veteran of World War II
+1.0	Hero	was charged for	his role in deportation
+1.0	Arnold Meri	was	Army veteran of World War II
+1.0	Hero	was	charged with genocide for his role in deportation to inhospitable regions of USSR
+1.0	Hero	was	charged with genocide for his role in deportation of Estonians to inhospitable regions of USSR
+1.0	Hero	was	charged with genocide for his role in deportation of Estonians to regions
+1.0	Arnold Meri	was	Red Army veteran of World War II
+1.0	Hero	was	charged with genocide for his role in deportation to regions of USSR
+1.0	Hero	was charged for	his role in deportation to regions of USSR
+1.0	Hero	was	charged with genocide for his role in deportation to inhospitable regions
+1.0	Hero	was	charged with genocide for his role to regions of USSR
+1.0	Hero	was	charged with genocide for his role to regions
+1.0	Hero	was	charged with genocide for his role in deportation of Estonians
+1.0	Hero	was	charged with genocide for his role in deportation
+1.0	Arnold Meri	was	Soviet Army veteran
+1.0	his role	is in	deportation of Estonians
+1.0	Hero	was charged for	his role
+1.0	Hero	was charged for	his role in deportation to inhospitable regions of USSR
+1.0	Hero	was	charged with genocide for his role in deportation of Estonians to inhospitable regions
+1.0	Hero	was charged for	his role in deportation of Estonians to regions
+1.0	Meri	was	Red
+1.0	Hero	was	charged with genocide for his role to inhospitable regions
+1.0	Hero	was	charged with genocide for his role in deportation to regions
+1.0	Hero	was charged with	genocide
+1.0	Hero	was charged for	his role in deportation of Estonians to regions of USSR
+1.0	Hero	was charged for	his role in deportation of Estonians
+1.0	Arnold Meri	was	Red Army veteran
+1.0	Hero	was charged for	his role to inhospitable regions of USSR
+1.0	Hero	was charged for	his role in deportation of Estonians to inhospitable regions of USSR
+1.0	Meri	was	Soviet
+1.0	Hero	was	charged with genocide for his role
+1.0	Hero	was charged for	his role in deportation to regions
+1.0	Hero	was charged for	his role to regions of USSR
+1.0	Arnold Meri	was	Army veteran of World War II of Soviet Union
+1.0	Arnold Meri	was	Soviet Red Army veteran of World War II of Soviet Union
+1.0	Hero	was	charged
+1.0	Hero	was charged for	his role to regions
+1.0	Hero	was	charged with genocide for his role to inhospitable regions of USSR
+1.0	Arnold Meri	was	Soviet Army veteran of World War II of Soviet Union

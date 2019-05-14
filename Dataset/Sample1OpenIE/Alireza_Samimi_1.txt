@@ -1,0 +1,6 @@
+1.0	Samimi	is	Iranian
+1.0	Alireza Samimi	is	player
+1.0	Alireza Samimi	is	Iranian player
+1.0	Alireza Samimi	is	Iranian futsal player
+1.0	Samimi	is	futsal
+1.0	Alireza Samimi	is	futsal player

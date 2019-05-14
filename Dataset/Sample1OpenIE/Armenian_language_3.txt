@@ -1,0 +1,10 @@
+1.0	Armenian	is	widely spoken
+1.0	Historically	being spoken throughout	today
+1.0	Armenian	is spoken throughout	diaspora
+1.0	Armenian	is widely spoken throughout	Armenian diaspora
+1.0	Armenian	is widely spoken throughout	diaspora
+1.0	Historically	being spoken throughout	Armenian Highlands
+1.0	Historically	being spoken throughout	Highlands
+1.0	Armenian	is	spoken
+1.0	Historically	being	spoken
+1.0	Armenian	is spoken throughout	Armenian diaspora

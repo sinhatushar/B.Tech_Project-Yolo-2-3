@@ -1,0 +1,7 @@
+1.0	Amer Sports	announced	buyout negotiations with consortium
+1.0	Amer Sports	announced	buyout negotiations
+1.0	company shares	are listed on	Nasdaq Helsinki stock exchange.On December 7 2018
+1.0	Amer Sports	announced	buyout negotiations with consortium led
+1.0	company shares	are	listed
+1.0	buyout negotiations	is with	consortium led by Anta Sports
+1.0	Amer Sports	announced	buyout negotiations with consortium led by Anta Sports

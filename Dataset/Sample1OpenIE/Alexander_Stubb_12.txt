@@ -1,0 +1,6 @@
+1.0	he	was	In June 2017 chosen as Vice-President of European Investment Bank
+1.0	he	was	In June 2017 chosen as Vice-President
+1.0	he	was chosen In	June 2017
+1.0	he	was chosen as	Vice-President of European Investment Bank
+1.0	he	was	chosen
+1.0	he	was chosen as	Vice-President

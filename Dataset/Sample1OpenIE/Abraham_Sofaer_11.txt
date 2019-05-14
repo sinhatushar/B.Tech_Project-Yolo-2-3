@@ -1,0 +1,5 @@
+1.0	he	have guest roles throughout	1960s
+1.0	his film appearances	diminished after	1950s
+1.0	he	continued	his film appearances diminished after 1950s
+1.0	he	continued	his film appearances diminished
+1.0	he	have	guest roles

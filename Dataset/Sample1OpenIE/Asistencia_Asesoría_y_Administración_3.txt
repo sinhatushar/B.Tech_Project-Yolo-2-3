@@ -1,0 +1,17 @@
+1.0	promotion	occasionally uses	hexagonal wrestling ring
+1.0	promotion	occasionally uses wrestling ring In addition to	squared circle
+1.0	promotion	uses wrestling ring In addition to	circle
+1.0	promotion	uses wrestling ring In addition to	squared circle
+1.0	promotion	has	reputation
+1.0	promotion	has	reputation for its gimmicks
+1.0	promotion	uses	wrestling ring
+1.0	promotion	uses wrestling ring In addition to	conventional squared circle
+0.8196829051927836	has	reputation for	its gimmicks
+1.0	promotion	occasionally uses	wrestling ring
+1.0	promotion	has	reputation for its outlandish gimmicks
+0.8196829051927836	has	reputation for	its outlandish gimmicks
+1.0	promotion	uses	hexagonal wrestling ring
+1.0	promotion	occasionally uses wrestling ring In addition to	conventional squared circle
+1.0	promotion	uses wrestling ring In addition to	conventional circle
+1.0	promotion	occasionally uses wrestling ring In addition to	conventional circle
+1.0	promotion	occasionally uses wrestling ring In addition to	circle

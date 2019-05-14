@@ -1,0 +1,5 @@
+1.0	Mutu	decided After	2006 Italian football scandal
+1.0	he	played for	five years
+1.0	Mutu	decided After	2006 football scandal
+1.0	Mutu	join	Fiorentina
+1.0	he	played consistently for	five years

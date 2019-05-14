@@ -1,0 +1,8 @@
+1.0	Ancillista	is genus of	marine gastropod mollusks
+1.0	Ancillista	is genus of	marine gastropod mollusks in family Olividae
+1.0	Ancillista	is genus of	sea snails
+1.0	Ancillista	is genus of	gastropod mollusks
+1.0	marine gastropod mollusks	is in	family Olividae
+1.0	sea snails	mollusks in	family Olividae
+1.0	Ancillista	is	genus
+1.0	Ancillista	is genus of	gastropod mollusks in family Olividae

@@ -1,0 +1,23 @@
+0.7181934925793327	Francisco Xavier Fabri	building in	modern neoclassical style
+1.0	Francisco Xavier Fabri	planned	magnificent building in style
+1.0	Francisco Xavier Fabri	planned	building in neoclassical style
+1.0	it	was	entrusted
+0.7181934925793327	Francisco Xavier Fabri	building in	neoclassical style
+1.0	Francisco Xavier Fabri	planned	magnificent building in modern style
+1.0	magnificent building	is in	modern neoclassical style
+0.7181934925793327	Francisco Xavier Fabri	magnificent building in	style
+1.0	it	was entrusted to	Jos da Costa e Silva
+1.0	it	was	Later entrusted
+1.0	Francisco Xavier Fabri	planned	building
+0.7181934925793327	Francisco Xavier Fabri	magnificent building in	modern neoclassical style
+1.0	Francisco Xavier Fabri	planned	building in style
+1.0	Francisco Xavier Fabri	planned	magnificent building
+1.0	it	Later was entrusted to	Jos da Costa e Silva
+0.7181934925793327	Francisco Xavier Fabri	magnificent building in	neoclassical style
+1.0	Francisco Xavier Fabri	planned	building in modern neoclassical style
+0.7181934925793327	Francisco Xavier Fabri	building in	style
+0.7181934925793327	Francisco Xavier Fabri	magnificent building in	modern style
+1.0	Francisco Xavier Fabri	planned	building in modern style
+1.0	Francisco Xavier Fabri	planned	magnificent building in modern neoclassical style
+0.7181934925793327	Francisco Xavier Fabri	building in	modern style
+1.0	Francisco Xavier Fabri	planned	magnificent building in neoclassical style

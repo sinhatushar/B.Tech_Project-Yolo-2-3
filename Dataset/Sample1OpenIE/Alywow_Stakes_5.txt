@@ -1,0 +1,4 @@
+1.0	She	was inducted in	Canadian Horse
+1.0	She	was	inducted
+1.0	Racing Hall	is in	2009
+1.0	She	was inducted in	Horse

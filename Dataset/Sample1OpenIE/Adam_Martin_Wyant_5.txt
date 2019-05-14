@@ -1,0 +1,6 @@
+1.0	He	is	also known
+1.0	He	is	known
+1.0	He	playing	football
+1.0	He	playing football for	Bucknell University
+1.0	He	playing	collegiate football
+1.0	He	playing football from	1890 through 1893

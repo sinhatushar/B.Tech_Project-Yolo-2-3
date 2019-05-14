@@ -1,0 +1,9 @@
+1.0	pair	known is of	calls
+1.0	pair	being	repeated over again
+1.0	pair	is	well known
+1.0	pair	is	known
+1.0	pair	most well known is of	calls
+1.0	pair	being	repeated over
+1.0	pair	being	repeated
+1.0	pair	is	most well known
+1.0	pair	well known is of	calls

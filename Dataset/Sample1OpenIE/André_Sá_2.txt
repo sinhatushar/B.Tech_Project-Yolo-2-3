@@ -1,0 +1,8 @@
+1.0	he	reached	a career-high
+1.0	Wimbledon quarterfinalist	is In	singles
+1.0	he	was	Wimbledon quarterfinalist in 2002
+1.0	he	was	In singles Wimbledon quarterfinalist in 2002
+1.0	Wimbledon quarterfinalist	is in	2002
+1.0	he	was	In singles Wimbledon quarterfinalist
+1.0	he	was	Wimbledon quarterfinalist
+1.0	he	reached	a

@@ -1,0 +1,12 @@
+1.0	He	is	known
+1.0	He	is known	losing
+1.0	He	losing to	Bayern Munich
+1.0	He	is best known	losing
+1.0	He	is best known as	member of Girondins Bordeaux team
+1.0	He	is best known	losing to Bayern Munich
+1.0	He	is best known as	member
+1.0	UEFA Cup	final in	1996
+1.0	He	is known as	member of Girondins Bordeaux team
+1.0	He	is	best known
+1.0	He	is known as	member
+1.0	He	is known	losing to Bayern Munich

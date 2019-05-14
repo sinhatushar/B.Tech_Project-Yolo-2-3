@@ -1,0 +1,2 @@
+This is a list of cities in Chile.
+A city is defined by Chile's National Statistics Institute (INE) as an "urban entity" with more than 5,000 inhabitants. This list is based on a June 2005 report by the INE based on the 2002 census which registered 239 cities across the country.

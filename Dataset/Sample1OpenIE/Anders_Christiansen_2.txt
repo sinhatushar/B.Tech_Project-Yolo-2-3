@@ -1,0 +1,9 @@
+1.0	He	used	play
+1.0	He	used	play with nickname AC on back
+1.0	He	used	play with nickname AC on back of his shirt
+1.0	He	play on	back
+1.0	He	used	play with nickname AC
+1.0	He	play on	back of his shirt
+1.0	He	play with	nickname AC
+1.0	He	used	play on back
+1.0	He	used	play on back of his shirt

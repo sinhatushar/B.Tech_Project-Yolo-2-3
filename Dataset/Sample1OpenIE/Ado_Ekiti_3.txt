@@ -1,0 +1,8 @@
+1.0	people	are of	Ekiti sub-ethnic group
+1.0	people	are of	Ekiti group of Yoruba
+1.0	people	are of	mainly Ekiti sub-ethnic group of Yoruba
+1.0	people	are of	mainly Ekiti group of Yoruba
+1.0	people	are of	Ekiti group
+1.0	people	are of	Ekiti sub-ethnic group of Yoruba
+1.0	people	are of	mainly Ekiti group
+1.0	people	are of	mainly Ekiti sub-ethnic group

@@ -1,0 +1,10 @@
+1.0	fourth tier	is in	French football league system
+1.0	They	are based in	fourth tier
+1.0	Andrzieux-Bouthon	tier in	French football league system
+1.0	They	are based in	tier in French football league system
+1.0	They	are based in	fourth tier in French football league system
+1.0	They	are	based
+1.0	They	are based in	Andrzieux-Bouthon
+1.0	They	are based in	tier
+1.0	They	are based in	fourth tier in football league system
+1.0	They	are based in	tier in football league system

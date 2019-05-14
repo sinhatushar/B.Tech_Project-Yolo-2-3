@@ -1,0 +1,3 @@
+1.0	he	studying	law
+1.0	he	also studying	law
+1.0	he	worked on	farm

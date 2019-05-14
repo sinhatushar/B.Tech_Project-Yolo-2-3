@@ -1,0 +1,30 @@
+1.0	songwhich	was	nominated for Best Short Form Music Video at 2009 Grammy Awards with director P. R. Brown
+1.0	songwhich	features White on	vocals
+1.0	songwhich	was	nominated for Form Music Video at 2009 Grammy Awards
+1.0	songwhich	was	nominated for Best Short Form Music Video at 2009 Grammy Awards
+1.0	songwhich	features White on	vocals on vocals
+1.0	songwhich	was nominated for	Best Short Form Music Video
+1.0	songwhich	was	nominated
+1.0	songwhich	was nominated with	director P. R. Brown
+1.0	songwhich	was	nominated at 2009 Grammy Awards with director P. R. Brown
+1.0	songwhich	pianois	first duet
+1.0	songwhich	was	nominated for Short Form Music Video with director P. R. Brown
+1.0	songwhich	was nominated at	2009 Grammy Awards
+1.0	first duet	is in	Bond film series
+1.0	songwhich	pianois	first duet in Bond film series
+1.0	songwhich	was	nominated for Best Short Form Music Video with director P. R. Brown
+0.594841102727916	pianois	first duet in	Bond film series
+1.0	songwhich	pianois	duet in Bond film series
+1.0	songwhich	features	White
+1.0	songwhich	was nominated for	Short Form Music Video
+0.594841102727916	pianois	duet in	Bond film series
+1.0	songwhich	was	nominated for Best Form Music Video with director P. R. Brown
+1.0	songwhich	was	nominated for Best Form Music Video at 2009 Grammy Awards
+1.0	songwhich	was	nominated for Form Music Video at 2009 Grammy Awards with director P. R. Brown
+1.0	songwhich	pianois	duet
+1.0	songwhich	was	nominated for Short Form Music Video at 2009 Grammy Awards with director P. R. Brown
+1.0	songwhich	was nominated for	Form Music Video
+1.0	songwhich	was	nominated for Best Form Music Video at 2009 Grammy Awards with director P. R. Brown
+1.0	songwhich	was	nominated for Form Music Video with director P. R. Brown
+1.0	songwhich	was nominated for	Best Form Music Video
+1.0	songwhich	was	nominated for Short Form Music Video at 2009 Grammy Awards

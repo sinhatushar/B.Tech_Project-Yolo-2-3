@@ -1,0 +1,3 @@
+5200 's controllers
+have
+analog joystick

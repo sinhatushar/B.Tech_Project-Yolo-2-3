@@ -1,0 +1,8 @@
+1.0	He	was elected	President of Institute of Engineers
+1.0	He	was elected President in	1933
+1.0	He	was elected	President of Institute of Mechanical Engineers
+1.0	He	was elected	President
+1.0	He	was elected	President of Institute
+1.0	Chorlton	was elected	MP
+1.0	Chorlton	was elected MP At	1935 election
+1.0	Chorlton	was elected	MP for Bury

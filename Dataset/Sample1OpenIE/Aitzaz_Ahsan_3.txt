@@ -1,0 +1,4 @@
+1.0	Ahsan	became in	1975
+1.0	Ahsan	Planning for	Punjab
+1.0	Ahsan	became	Planning
+1.0	Ahsan	became	Planning for Punjab

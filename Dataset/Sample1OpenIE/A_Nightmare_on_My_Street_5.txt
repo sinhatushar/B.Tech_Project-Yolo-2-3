@@ -1,0 +1,5 @@
+1.0	song	was	considered
+1.0	song	was considered for	inclusion in movie Nightmare
+1.0	inclusion	is in	movie A Nightmare on Elm Street 4
+1.0	song	was considered for	inclusion in movie Nightmare on Elm Street 4
+1.0	song	was considered for	inclusion

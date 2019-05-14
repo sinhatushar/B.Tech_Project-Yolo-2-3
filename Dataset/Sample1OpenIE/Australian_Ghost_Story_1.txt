@@ -1,0 +1,6 @@
+1.0	Ghost Story	is album by	Australian group
+1.0	Ghost Story	is	album
+1.0	Australian Ghost Story	is album by	Australian group
+1.0	Australian Ghost Story	is album by	group
+1.0	Ghost Story	is album by	group
+1.0	Australian Ghost Story	is	album

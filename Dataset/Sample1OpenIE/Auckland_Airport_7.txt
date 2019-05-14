@@ -1,0 +1,8 @@
+1.0	airport	is busiest in	Australasia
+1.0	airport	is	busiest in Australasia after Sydney
+1.0	airport	is	busiest
+1.0	airport	is busiest after	Sydney
+1.0	airport	is fourth busiest after	Sydney
+1.0	airport	is fourth busiest in	Australasia
+1.0	airport	is	fourth busiest
+1.0	airport	is	fourth busiest in Australasia after Sydney

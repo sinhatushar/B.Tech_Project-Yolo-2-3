@@ -1,0 +1,8 @@
+1.0	Abacab	is	Genesis album recorded
+0.6373219878304592	recording studio	bought by	group
+1.0	Abacab	is	first Genesis album
+1.0	Abacab	is	first Genesis album recorded
+0.6373219878304592	recording studio	bought in	Chiddingfold
+1.0	Abacab	is	Genesis album
+1.0	Abacab	is	Genesis album recorded at Farm
+1.0	Abacab	is	first Genesis album recorded at Farm

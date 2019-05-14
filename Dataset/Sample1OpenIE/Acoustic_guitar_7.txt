@@ -1,0 +1,1 @@
+1.0	frequencies	can depend on	string length

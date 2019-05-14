@@ -1,0 +1,4 @@
+1.0	chemical compound	has	smell
+1.0	compound	has	smell
+1.0	compound	has	odor
+1.0	chemical compound	has	odor

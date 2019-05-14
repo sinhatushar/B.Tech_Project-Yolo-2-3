@@ -1,0 +1,12 @@
+0.6948923688326764	municipality	was amalgamated with	four surrounding municipalities
+0.6948923688326764	municipality	was amalgamated with	four municipalities
+0.6948923688326764	municipality	was amalgamated with	four rural municipalities
+0.6948923688326764	present municipality	was amalgamated with	four surrounding municipalities
+0.6948923688326764	municipality	was	amalgamated
+0.6948923688326764	present municipality	was amalgamated with	four municipalities
+0.6948923688326764	present municipality	was	amalgamated
+0.6948923688326764	present municipality	was amalgamated with	four surrounding rural municipalities
+0.6948923688326764	present municipality	was amalgamated with	four rural municipalities
+1.0	municipality	was	created
+0.6948923688326764	municipality	was amalgamated with	four surrounding rural municipalities
+1.0	present municipality	was	created

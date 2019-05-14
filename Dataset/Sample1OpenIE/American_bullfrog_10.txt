@@ -1,0 +1,5 @@
+1.0	trade	occurs for	human consumption
+1.0	trade	occurs for	consumption
+1.0	international trade	is in	frog legs
+1.0	international trade	occurs for	human consumption
+1.0	international trade	occurs for	consumption

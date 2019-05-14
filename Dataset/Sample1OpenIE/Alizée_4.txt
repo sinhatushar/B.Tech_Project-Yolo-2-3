@@ -1,0 +1,4 @@
+1.0	she	collaborating with	Mylne Farmer
+1.0	mainstream popular music	is in	her music videos
+1.0	lyrical content	is in	mainstream popular music
+1.0	she	followed	it

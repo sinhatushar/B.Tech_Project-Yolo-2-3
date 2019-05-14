@@ -1,0 +1,4 @@
+1.0	Most	are of	Indian origin
+1.0	Most	are of	origin
+1.0	Most	are of	Asian origin
+1.0	Most	are of	Indian Asian origin

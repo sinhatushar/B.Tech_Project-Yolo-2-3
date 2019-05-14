@@ -1,0 +1,9 @@
+1.0	Acanthodactylus erythrurus	is species of	lacertid lizard endemic
+0.5528586635291262	Acanthodactylus erythrurus	commonly known as	spiny-footed lizard
+1.0	Acanthodactylus erythrurus	is species of	lacertid lizard endemic to northwestern Africa
+0.5528586635291262	Acanthodactylus erythrurus	known as	lizard
+1.0	Acanthodactylus erythrurus	is species of	lacertid lizard endemic to Africa
+1.0	Acanthodactylus erythrurus	is species of	lacertid lizard
+1.0	Acanthodactylus erythrurus	is	species
+0.5528586635291262	Acanthodactylus erythrurus	known as	spiny-footed lizard
+0.5528586635291262	Acanthodactylus erythrurus	commonly known as	lizard

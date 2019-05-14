@@ -1,0 +1,10 @@
+1.0	Schoenflies	was	frequent
+1.0	he	wrote in	1902 on kinematics
+1.0	he	wrote on	set theory
+1.0	Klein	to	encyclopedia
+1.0	Schoenflies	was frequent contributor to	Klein 's encyclopedia
+1.0	projective geometry	is in	1910
+1.0	Schoenflies	was contributor to	Klein 's encyclopedia
+1.0	he	wrote In	1898
+1.0	Schoenflies	was	contributor
+1.0	Schoenflies	was	frequent contributor

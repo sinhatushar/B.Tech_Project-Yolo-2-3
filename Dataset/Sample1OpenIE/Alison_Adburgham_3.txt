@@ -1,0 +1,30 @@
+1.0	her work	is in	journalism
+1.0	she	Settle of	Observer
+0.9006941599325046	she	influence on	public perception
+1.0	she	was pioneer of	British fashion journalism
+1.0	she	was author of	books
+1.0	she	had	influence on public perception of trends in clothing
+1.0	she	was author of	several books
+1.0	she	was author of	books about social history
+1.0	trends	is in	clothing
+1.0	she	was author of	several books about social history
+1.0	she	Settle Along with	Prudence Glynn
+1.0	she	had influence as	columnist
+1.0	she	had influence as	bylined columnist
+1.0	she	had	influence on public perception
+1.0	she	was	pioneer
+1.0	she	had	influence
+1.0	she	had	influence on perception of trends in clothing
+1.0	she	was	author
+1.0	she	had	influence on perception
+1.0	she	had	influence on perception of trends
+1.0	she	was author of	several books about history
+0.9006941599325046	she	influence on	perception of trends in clothing
+0.9006941599325046	she	influence on	public perception of trends in clothing
+0.9006941599325046	she	influence on	perception
+1.0	she	was author of	books about history
+0.9006941599325046	she	influence on	public perception of trends
+1.0	she	Settle Along with	Prudence Glynn of Times
+0.9006941599325046	she	influence on	perception of trends
+1.0	she	had	influence on public perception of trends
+1.0	she	was pioneer of	fashion journalism

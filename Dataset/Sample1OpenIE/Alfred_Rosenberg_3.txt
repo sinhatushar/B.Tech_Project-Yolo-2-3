@@ -1,0 +1,33 @@
+1.0	Rosenberg	was first introduced to	Adolf Hitler
+1.0	Rosenberg	later held	posts
+1.0	Rosenberg	later held	several posts in Nazi government
+1.0	Rosenberg	was introduced to	Adolf Hitler
+1.0	Rosenberg	later held	important posts
+1.0	Rosenberg	held	posts in Nazi government
+1.0	Rosenberg	held	posts
+1.0	Rosenberg	later held	important posts in government
+1.0	several important posts	is in	Nazi government
+1.0	Rosenberg	was introduced by	Dietrich Eckart
+1.0	Rosenberg	held	important posts in government
+1.0	Rosenberg	later held	several important posts in Nazi government
+1.0	Rosenberg	held	important posts
+1.0	Rosenberg	was	first introduced
+1.0	Rosenberg	later held	several important posts
+1.0	Rosenberg	later held	posts in government
+1.0	Rosenberg	was	introduced to Adolf Hitler by Dietrich Eckart
+1.0	Rosenberg	was first introduced by	Dietrich Eckart
+1.0	Rosenberg	was	first introduced to Adolf Hitler by Dietrich Eckart
+1.0	Rosenberg	held	posts in government
+1.0	Rosenberg	later held	several posts
+1.0	Rosenberg	held	several important posts in government
+1.0	Rosenberg	was	introduced
+1.0	Rosenberg	held	important posts in Nazi government
+1.0	Rosenberg	held	several important posts in Nazi government
+1.0	Rosenberg	later held	several posts in government
+1.0	Rosenberg	held	several posts in government
+1.0	Rosenberg	held	several posts
+1.0	Rosenberg	held	several important posts
+1.0	Rosenberg	held	several posts in Nazi government
+1.0	Rosenberg	later held	several important posts in government
+1.0	Rosenberg	later held	important posts in Nazi government
+1.0	Rosenberg	later held	posts in Nazi government

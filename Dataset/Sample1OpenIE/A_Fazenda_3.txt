@@ -1,0 +1,8 @@
+1.0	show	was	presented
+1.0	show	was	originally presented
+1.0	show	was originally presented by	news reporter Britto Junior
+1.0	he	held throughout	seven seasons
+1.0	he	held throughout	first seven seasons
+1.0	show	was presented by	news reporter Britto Junior
+1.0	show	was presented by	position
+1.0	show	was originally presented by	position

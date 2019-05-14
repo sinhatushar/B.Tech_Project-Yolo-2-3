@@ -1,0 +1,12 @@
+1.0	It	became in	1982
+1.0	It	was originally boarding school for	boys
+1.0	It	became	fully co-educational
+1.0	It	was originally school for	boys
+1.0	It	was	originally school
+1.0	It	was boarding school for	boys
+1.0	It	was	originally boarding school
+1.0	It	was	boarding school
+1.0	It	was school for	boys
+1.0	It	became	co-educational
+1.0	It	was	boarding
+1.0	It	was	school

@@ -1,0 +1,11 @@
+1.0	him	highly decorated member for	campaign
+1.0	him	highly decorated member of	AIF
+1.0	him	decorated member of	AIF
+1.0	him	decorated member for	campaign
+1.0	him	member of	AIF
+1.0	him	most highly decorated member for	campaign
+1.0	him	most highly decorated member of	AIF
+1.0	Shout	has	three gallantry awards at Gallipoli
+1.0	him	member for	campaign
+1.0	him	most decorated member of	AIF
+1.0	him	most decorated member for	campaign

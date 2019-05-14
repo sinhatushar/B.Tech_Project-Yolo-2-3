@@ -1,0 +1,11 @@
+1.0	Admiral Mohammad Asif Sandila	is	retired rank admiral
+1.0	Sandila	is	retired
+1.0	Sandila	is	four-star
+1.0	Admiral Mohammad Asif Sandila	is	four-star rank admiral in Pakistan Navy
+1.0	Admiral Mohammad Asif Sandila	is	rank admiral in Pakistan Navy
+1.0	Admiral Mohammad Asif Sandila	is	retired four-star rank admiral in Pakistan Navy
+1.0	retired four-star rank admiral	is in	Pakistan Navy
+1.0	Admiral Mohammad Asif Sandila	is	four-star rank admiral
+1.0	Admiral Mohammad Asif Sandila	is	retired rank admiral in Pakistan Navy
+1.0	Admiral Mohammad Asif Sandila	is	retired four-star rank admiral
+1.0	Admiral Mohammad Asif Sandila	is	rank admiral

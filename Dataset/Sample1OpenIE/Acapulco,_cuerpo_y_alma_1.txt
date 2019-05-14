@@ -1,0 +1,17 @@
+1.0	Acapulco	is	telenovela
+0.5909620118798997	Acapulco	produced in	1995 for Televisa
+1.0	telenovela	produced in	1995 Televisa
+1.0	Mexican telenovela	produced in	1995 Televisa
+1.0	Acapulco	is	telenovela produced in 1995 for Televisa
+1.0	Acapulco	is	telenovela produced by Jos Alberto Castro
+1.0	Acapulco	is	telenovela produced
+1.0	Acapulco	is	Mexican telenovela produced by Jos Alberto Castro in 1995 for Televisa
+1.0	Acapulco	is	Mexican
+1.0	telenovela	produced by	Jos Alberto Castro
+0.5909620118798997	Acapulco	produced by	Jos Alberto Castro
+1.0	Acapulco	is	telenovela produced by Jos Alberto Castro in 1995 for Televisa
+1.0	Acapulco	is	Mexican telenovela
+1.0	Mexican telenovela	produced by	Jos Alberto Castro
+1.0	Acapulco	is	Mexican telenovela produced
+1.0	Acapulco	is	Mexican telenovela produced in 1995 for Televisa
+1.0	Acapulco	is	Mexican telenovela produced by Jos Alberto Castro

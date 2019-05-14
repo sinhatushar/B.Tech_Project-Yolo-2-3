@@ -1,0 +1,14 @@
+1.0	Alex W. Widmer	was Swiss banker	had executive officer
+1.0	Widmer	was	Swiss
+1.0	Alex W. Widmer	was Swiss banker	had chief executive officer of Julius Baer Group
+1.0	Alex W. Widmer	was Swiss banker	had chief executive officer
+1.0	Alex W. Widmer	was banker	had executive officer of Julius Baer Group
+1.0	world	of	largest providers of private banking services
+1.0	Julius Baer Group	one of	world 's largest providers
+1.0	Alex W. Widmer	was banker	had chief executive officer of Julius Baer Group
+1.0	Alex W. Widmer	was Swiss banker	had executive officer of Julius Baer Group
+1.0	Alex W. Widmer	was banker	had chief executive officer
+1.0	Alex W. Widmer	was	banker
+1.0	Alex W. Widmer	was banker	had executive officer
+1.0	Alex W. Widmer	was	Swiss banker
+1.0	Alex W. Widmer	May at_time	2008

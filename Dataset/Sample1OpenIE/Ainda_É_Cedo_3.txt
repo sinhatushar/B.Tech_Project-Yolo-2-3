@@ -1,0 +1,17 @@
+1.0	guitar rhythm	is	heavily reminiscent
+1.0	guitar rhythm	is	reminiscent
+1.0	acoustic guitar rhythm	is	reminiscent
+1.0	fast-paced acoustic guitar rhythm	is	heavily reminiscent
+1.0	guitar rhythm	is reminiscent of	Buzzcocks
+1.0	fast-paced guitar rhythm	is	reminiscent
+1.0	fast-paced guitar rhythm	is heavily reminiscent of	Buzzcocks
+1.0	British punk bands	of influence is	particularly single Gerao Coca-Cola
+1.0	fast-paced acoustic guitar rhythm	is heavily reminiscent of	Buzzcocks
+1.0	acoustic guitar rhythm	is heavily reminiscent of	Buzzcocks
+1.0	fast-paced acoustic guitar rhythm	is	reminiscent
+1.0	acoustic guitar rhythm	is reminiscent of	Buzzcocks
+1.0	guitar rhythm	is heavily reminiscent of	Buzzcocks
+1.0	fast-paced guitar rhythm	is	heavily reminiscent
+1.0	acoustic guitar rhythm	is	heavily reminiscent
+1.0	fast-paced acoustic guitar rhythm	is reminiscent of	Buzzcocks
+1.0	fast-paced guitar rhythm	is reminiscent of	Buzzcocks

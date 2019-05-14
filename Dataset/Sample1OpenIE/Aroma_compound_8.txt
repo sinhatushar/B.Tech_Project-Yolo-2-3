@@ -1,0 +1,12 @@
+1.0	aroma compounds	Also play role in	production
+1.0	aroma compounds	Also play	role
+1.0	aroma compounds	Also play role in	production of flavorants
+0.8021974875779101	improve	generally increase	appeal of their products
+0.8021974875779101	improve	generally increase	appeal
+1.0	aroma compounds	play role in	production
+1.0	aroma compounds	play role in	production of flavorants
+1.0	aroma compounds	play	significant role
+1.0	aroma compounds	Also play	significant role
+0.8021974875779101	improve	increase	appeal
+0.8021974875779101	improve	increase	appeal of their products
+1.0	aroma compounds	play	role

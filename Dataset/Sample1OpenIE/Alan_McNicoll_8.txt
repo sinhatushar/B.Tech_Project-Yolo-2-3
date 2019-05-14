@@ -1,0 +1,5 @@
+1.0	McNicoll	was made officer in	September 1945
+1.0	McNicoll	was made	officer
+1.0	McNicoll	was made	executive officer
+1.0	McNicoll	was made	officer of HMAS Hobart
+1.0	McNicoll	was made	executive officer of HMAS Hobart

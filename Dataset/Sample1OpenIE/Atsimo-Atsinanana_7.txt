@@ -1,0 +1,14 @@
+1.0	It	is among	regions in country
+1.0	It	is among	poorest regions with poverty rate
+1.0	It	is among	poorest regions
+1.0	It	is among	regions with poverty rate
+1.0	It	is among	poorest regions in country with poverty rate
+1.0	poorest regions	is with	poverty rate of 83.9 % according 2005 government report
+1.0	It	is among	poorest regions in country
+1.0	It	is among	regions with poverty rate of 83.9 %
+1.0	It	is among	regions in country with poverty rate
+1.0	It	is among	poorest regions with poverty rate of 83.9 %
+1.0	poorest regions	is in	country
+1.0	It	is among	regions in country with poverty rate of 83.9 %
+1.0	It	is among	regions
+1.0	It	is among	poorest regions in country with poverty rate of 83.9 %

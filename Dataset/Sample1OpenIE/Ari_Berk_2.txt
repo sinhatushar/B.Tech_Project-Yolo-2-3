@@ -1,0 +1,4 @@
+1.0	Berk	holds	degrees in Ancient History
+1.0	Berk	holds	degrees
+1.0	degrees	is in	Ancient History
+1.0	Berk	holds	degrees in History

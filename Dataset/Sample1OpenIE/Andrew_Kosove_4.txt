@@ -1,0 +1,6 @@
+1.0	Kosove	is	marathon runner
+1.0	his career	is in	entertainment industry
+1.0	Kosove	is	accomplished
+1.0	Kosove	is	also marathon runner
+1.0	Kosove	is	also accomplished marathon runner
+1.0	Kosove	is	accomplished marathon runner

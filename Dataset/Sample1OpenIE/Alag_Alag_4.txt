@@ -1,0 +1,12 @@
+1.0	Ram Awatar Agnihotri	wrote In	1992
+1.0	Munim	showed	first sparks of dedicated actress
+0.8772591613464272	Munim	first sparks of	actress
+1.0	Munim	showed	first sparks of actress
+1.0	Munim	showed	sparks of actress
+1.0	Munim	showed	sparks of dedicated actress
+0.8772591613464272	Munim	sparks of	actress
+0.8772591613464272	Munim	first sparks of	dedicated actress
+1.0	it	was in	film
+1.0	Munim	showed	first sparks
+0.8772591613464272	Munim	sparks of	dedicated actress
+1.0	Munim	showed	sparks

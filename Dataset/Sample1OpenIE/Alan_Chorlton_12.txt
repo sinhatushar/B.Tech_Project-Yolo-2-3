@@ -1,0 +1,5 @@
+1.0	He	remained	Bury 's member
+1.0	Bury	has	member of parliament
+1.0	he	stood down at	next election
+1.0	He	remained	Bury 's member of parliament
+1.0	he	stood down at	election

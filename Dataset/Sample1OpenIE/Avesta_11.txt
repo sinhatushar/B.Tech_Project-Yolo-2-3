@@ -1,0 +1,48 @@
+1.0	lesser texts	include	various fragments
+1.0	lesser texts	include Siroza Aside from	Yashts
+1.0	texts	include	Nyayesh texts
+1.0	texts	include	Siroza
+1.0	other lesser texts	include	various other fragments
+1.0	other lesser texts	include texts Aside from	Yashts
+1.0	other texts	include	other fragments
+1.0	texts	include	texts
+1.0	other texts	include	various fragments
+1.0	other texts	include	Gah texts
+1.0	other texts	include fragments Aside from	Yashts
+1.0	other texts	include Siroza Aside from	Yashts
+1.0	other lesser texts	include	fragments
+1.0	lesser texts	include	texts
+1.0	other lesser texts	include	Siroza
+1.0	other texts	include Gah texts Aside from	Yashts
+1.0	other lesser texts	include fragments Aside from	Yashts
+1.0	lesser texts	include	Siroza
+1.0	other lesser texts	include	Gah texts
+1.0	lesser texts	include	other fragments
+1.0	other lesser texts	include Gah texts Aside from	Yashts
+1.0	texts	include fragments Aside from	Yashts
+1.0	lesser texts	include	Gah texts
+1.0	other texts	include	fragments
+1.0	lesser texts	include	Nyayesh texts
+1.0	texts	include Gah texts Aside from	Yashts
+1.0	texts	include Siroza Aside from	Yashts
+1.0	lesser texts	include	various other fragments
+1.0	other lesser texts	include Siroza Aside from	Yashts
+1.0	texts	include	Gah texts
+1.0	other texts	include	Siroza
+1.0	lesser texts	include texts Aside from	Yashts
+1.0	other lesser texts	include	texts
+1.0	lesser texts	include	fragments
+1.0	other texts	include texts Aside from	Yashts
+1.0	other texts	include	Nyayesh texts
+1.0	texts	include	other fragments
+1.0	texts	include	fragments
+1.0	other lesser texts	include	other fragments
+1.0	other lesser texts	include	various fragments
+1.0	other lesser texts	include	Nyayesh texts
+1.0	texts	include texts Aside from	Yashts
+1.0	texts	include	various fragments
+1.0	other texts	include	various other fragments
+1.0	texts	include	various other fragments
+1.0	other texts	include	texts
+1.0	lesser texts	include fragments Aside from	Yashts
+1.0	lesser texts	include Gah texts Aside from	Yashts

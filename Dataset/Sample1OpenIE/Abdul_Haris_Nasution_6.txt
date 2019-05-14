@@ -1,0 +1,4 @@
+1.0	museum	houses	collection
+1.0	Abdul Haris Nasution	from collection is	30 September 1965
+1.0	museum	houses	collection from Abdul Haris Nasution
+1.0	museum	houses	30 September 1965
