@@ -1,0 +1,9 @@
+1.0	Alberta Cooper Gay	mother of	recording artist Marvin Gaye
+1.0	Alberta Cooper Gay	was	American worker
+1.0	Alberta Cooper Gay	mother of	American recording artist Marvin Gaye
+1.0	Alberta Cooper Gay	was	American domestic worker
+1.0	Alberta Cooper Gay	January at_time	1987
+1.0	Gay	was	American
+1.0	Alberta Cooper Gay	was	worker
+1.0	Gay	was	domestic
+1.0	Alberta Cooper Gay	was	domestic worker

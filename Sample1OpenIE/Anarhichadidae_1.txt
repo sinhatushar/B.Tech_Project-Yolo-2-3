@@ -1,0 +1,6 @@
+1.0	wolffish	are family of	fish
+1.0	perciform fish	of family is	Anarhichadidae
+1.0	wolffish	are family of	perciform fish
+1.0	wolffish	are	family
+0.7275100298046938	wolffish	also known as	sea wolves
+0.7275100298046938	wolffish	known as	sea wolves

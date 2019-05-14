@@ -1,0 +1,12 @@
+0.7363246011047252	Man	is	song written by Ronnie Dunn
+1.0	Man Lonely	recorded by	American country music duo Brooks
+0.7363246011047252	Man	is	song written
+0.7363246011047252	Man	is	song
+0.7363246011047252	Man Lonely	is	song
+0.7363246011047252	Man Lonely	is	song written
+1.0	Man	recorded by	country music duo Brooks
+1.0	Man	recorded by	American country music duo Brooks
+1.0	Man Lonely	recorded by	country music duo Brooks
+0.7363246011047252	Man Lonely	is	song written by Ronnie Dunn
+0.6893807769297073	Man Lonely	written by	Ronnie Dunn
+0.6893807769297073	Man	written by	Ronnie Dunn

@@ -1,0 +1,5 @@
+1.0	Andrs Kuttik	was	Hungarian football player from Budapest
+1.0	Kuttik	was	Hungarian
+1.0	Andrs Kuttik	was	football player
+1.0	Andrs Kuttik	was	Hungarian football player
+1.0	Andrs Kuttik	was	football player from Budapest

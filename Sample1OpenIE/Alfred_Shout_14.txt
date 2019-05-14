@@ -1,0 +1,13 @@
+1.0	He	was active in	part-time Citizens ' Forces
+1.0	He	being	commissioned prior to outbreak
+1.0	He	being	commissioned just prior to outbreak of First World War
+1.0	He	was active in	Citizens ' Forces
+1.0	He	was also active in	part-time Citizens ' Forces
+1.0	He	being	commissioned
+1.0	He	being	commissioned prior
+1.0	He	being	commissioned just prior
+1.0	He	being	commissioned just prior to outbreak
+1.0	He	was	active
+1.0	He	was	also active
+1.0	He	being	commissioned prior to outbreak of First World War
+1.0	He	was also active in	Citizens ' Forces

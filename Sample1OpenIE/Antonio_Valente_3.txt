@@ -1,0 +1,6 @@
+1.0	Nilo	is in	156580
+1.0	Nilo	is in	Naples
+1.0	He	served as	organist
+1.0	He	was blind from	childhood
+1.0	He	was	blind
+1.0	He	served as	organist of Sant Angelo

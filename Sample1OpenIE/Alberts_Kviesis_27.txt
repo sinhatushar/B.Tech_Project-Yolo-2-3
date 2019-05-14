@@ -1,0 +1,16 @@
+1.0	ship	was at	still harbor
+1.0	he	boarded	ship leave with retreating army
+1.0	he	died In	August 1944
+1.0	he	boarded	ship leave
+1.0	he	boarded	German ship leave with army
+1.0	he	boarded	ship leave with retreating German army
+1.0	he	boarded	German ship leave with retreating German army
+1.0	he	boarded	ship leave with army
+1.0	he	boarded	German ship leave
+1.0	ship	was at	harbor
+1.0	he	boarded	German ship leave with retreating army
+1.0	he	died of	heart attack
+1.0	he	died at	harbor
+1.0	he	died at	still harbor
+1.0	he	boarded	ship leave with German army
+1.0	he	boarded	German ship leave with German army

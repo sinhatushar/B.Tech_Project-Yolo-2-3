@@ -1,0 +1,9 @@
+1.0	American Defense Service Medal	was	awarded for duty service before United States entry into World War II
+1.0	American Defense Service Medal	was awarded before	United States entry
+1.0	American Defense Service Medal	was	awarded
+1.0	American Defense Service Medal	was	awarded for active duty service before United States entry into World War II
+1.0	American Defense Service Medal	was awarded before	United States entry into World War II
+1.0	American Defense Service Medal	was	awarded for duty service before United States entry
+1.0	American Defense Service Medal	was awarded for	active duty service
+1.0	American Defense Service Medal	was	awarded for active duty service before United States entry
+1.0	American Defense Service Medal	was awarded for	duty service

@@ -1,0 +1,6 @@
+1.0	Chamber	is	Australia 's largest business association
+1.0	Chamber	is	Australia 's business association
+1.0	Australian Chamber	is	Australia 's largest business association
+1.0	Australia	has	largest business association
+1.0	Australian Chamber	is	Australia 's business association
+1.0	Commerce	of Chamber is	Australian Chamber

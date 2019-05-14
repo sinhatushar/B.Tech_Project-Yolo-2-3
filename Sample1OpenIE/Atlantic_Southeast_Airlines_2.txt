@@ -1,0 +1,10 @@
+1.0	It	was wholly owned subsidiary of	Inc.
+1.0	It	was	owned subsidiary
+1.0	It	was subsidiary of	Inc.
+1.0	It	was	subsidiary
+1.0	It	was owned subsidiary of	SkyWest
+1.0	It	was wholly owned subsidiary of	SkyWest
+1.0	It	was	owned
+1.0	It	was owned subsidiary of	Inc.
+1.0	It	was	wholly owned subsidiary
+1.0	It	was subsidiary of	SkyWest

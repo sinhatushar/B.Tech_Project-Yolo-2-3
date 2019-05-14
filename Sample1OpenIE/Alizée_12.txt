@@ -1,0 +1,13 @@
+1.0	song	was	in UK acclaimed by New Express
+1.0	several countries	is in	Europe
+1.0	song	was acclaimed in	UK
+1.0	song	was	in UK acclaimed by New Musical Express
+1.0	album	featured	successful single Moi Lolita
+1.0	song	was acclaimed by	New Express
+1.0	album	featured	single Moi Lolita
+1.0	song	was acclaimed by	New Musical Express
+1.0	album	featured	most successful single Moi Lolita
+1.0	song	was	acclaimed
+1.0	album	featured	successful Moi Lolita
+1.0	album	featured	Moi Lolita
+1.0	album	featured	most successful Moi Lolita

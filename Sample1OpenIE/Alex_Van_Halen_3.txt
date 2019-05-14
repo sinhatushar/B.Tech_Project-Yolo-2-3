@@ -1,0 +1,11 @@
+1.0	Alex	formed	band
+1.0	Alex	became at	drums
+1.0	Alex	spending	time
+1.0	Alex	became	called
+1.0	Alex	became	skilled
+0.524607081580468	time	playing	Eddie 's drum kit
+1.0	Alex	became at	drums than Eddie.In 1974
+1.0	Eddie	has	drum kit
+1.0	Alex	simply called	Van Halen
+1.0	Alex	became	simply called
+1.0	Alex	called	Van Halen

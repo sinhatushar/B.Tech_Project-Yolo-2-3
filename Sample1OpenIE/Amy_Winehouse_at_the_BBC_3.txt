@@ -1,0 +1,5 @@
+1.0	album	Hidden Treasures along with	Winehouse 's record Lioness
+1.0	album	Treasures along with	Winehouse 's record Lioness
+1.0	Winehouse	along with	previous record Lioness
+1.0	album	Hidden Treasures along with	Winehouse 's previous record Lioness
+1.0	album	Treasures along with	Winehouse 's previous record Lioness

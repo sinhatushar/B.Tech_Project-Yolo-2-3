@@ -1,0 +1,7 @@
+1.0	project	underwent	periods
+1.0	construction	was	when stopped
+1.0	construction	slowed down due to	financial constraints
+1.0	construction	slowed down due to	constraints
+1.0	project	underwent periods Over	time
+1.0	construction	was	stopped
+1.0	project	underwent	several periods

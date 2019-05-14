@@ -1,0 +1,35 @@
+1.0	Aitraaz	is	Hindi-language
+1.0	2004 romantic thriller film	directed by	AbbasMustan
+1.0	Aitraaz	is	2004 romantic thriller film directed by AbbasMustan
+1.0	2004 Hindi-language romantic thriller film	directed by	AbbasMustan
+1.0	Aitraaz	is	2004 Hindi-language romantic thriller film directed
+1.0	Aitraaz	is	2004 Indian romantic thriller film
+1.0	2004 Indian Hindi-language thriller film	directed by	AbbasMustan
+1.0	Aitraaz	is	2004 thriller film
+1.0	2004 Indian Hindi-language romantic thriller film	directed by	AbbasMustan
+1.0	2004 Indian romantic thriller film	directed by	AbbasMustan
+1.0	Aitraaz	is	2004 Hindi-language thriller film directed
+1.0	Aitraaz	is	2004 Hindi-language romantic thriller film
+1.0	Aitraaz	is	2004 Indian thriller film directed by AbbasMustan
+1.0	Aitraaz	is	2004 Indian romantic thriller film directed by AbbasMustan
+1.0	Aitraaz	is	romantic
+1.0	Aitraaz	is	2004 Hindi-language romantic thriller film directed by AbbasMustan
+1.0	2004 Hindi-language thriller film	directed by	AbbasMustan
+1.0	Aitraaz	is	2004 Indian Hindi-language thriller film
+1.0	Aitraaz	is	2004 romantic thriller film directed
+1.0	Aitraaz	is	2004 Indian Hindi-language romantic thriller film
+1.0	Aitraaz	is	2004 thriller film directed by AbbasMustan
+1.0	Aitraaz	is	2004 Hindi-language thriller film directed by AbbasMustan
+1.0	2004 thriller film	directed by	AbbasMustan
+1.0	Aitraaz	is	2004 Indian Hindi-language romantic thriller film directed by AbbasMustan
+1.0	Aitraaz	is	2004 romantic thriller film
+1.0	Aitraaz	is	Indian
+1.0	Aitraaz	is	2004 Indian romantic thriller film directed
+1.0	Aitraaz	is	2004 Indian thriller film directed
+1.0	Aitraaz	is	2004 Indian thriller film
+1.0	2004 Indian thriller film	directed by	AbbasMustan
+1.0	Aitraaz	is	2004 Indian Hindi-language thriller film directed by AbbasMustan
+1.0	Aitraaz	is	2004 Hindi-language thriller film
+1.0	Aitraaz	is	2004 thriller film directed
+1.0	Aitraaz	is	2004 Indian Hindi-language thriller film directed
+1.0	Aitraaz	is	2004 Indian Hindi-language romantic thriller film directed

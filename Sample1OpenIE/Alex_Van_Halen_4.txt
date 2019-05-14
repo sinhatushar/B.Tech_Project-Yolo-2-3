@@ -1,0 +1,5 @@
+1.0	They	were	signed to Warner Brothers in 1977
+1.0	They	were signed in	1977
+1.0	They	were signed to	Warner Brothers
+1.0	They	were	signed
+1.0	They	released	their debut album

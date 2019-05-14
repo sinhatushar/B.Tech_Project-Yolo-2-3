@@ -1,0 +1,8 @@
+1.0	Anonymity	is derived from	word
+1.0	Anonymity	is derived from	Greek word
+1.0	Anonymity	is derived from	Greek word meaning
+1.0	Anonymity	is derived from	Greek word meaning without name
+1.0	Anonymity	is derived from	word meaning without name
+1.0	Anonymity	is derived from	word meaning
+1.0	Anonymity	is derived from	anonymia
+1.0	Anonymity	is	derived

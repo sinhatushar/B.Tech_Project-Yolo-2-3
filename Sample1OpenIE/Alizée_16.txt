@@ -1,0 +1,6 @@
+1.0	she	recorded	duet
+1.0	she	recorded duet for	his new album Elle
+1.0	she	recorded	duet with Alain Chamfort
+1.0	duet	is with	Alain Chamfort
+1.0	she	recorded duet for	his album Elle
+1.0	she	recorded duet In	early 2011

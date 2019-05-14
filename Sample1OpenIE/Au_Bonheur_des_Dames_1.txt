@@ -1,0 +1,9 @@
+1.0	Au Bonheur des Dames	is eleventh novel by	mile Zola
+1.0	Au Bonheur des Dames	is	novel
+1.0	Au Bonheur des Dames	is	eleventh novel in Rougon-Macquart series by mile Zola
+1.0	Au Bonheur des Dames	is novel in	Rougon-Macquart series
+1.0	Au Bonheur des Dames	is novel by	mile Zola
+1.0	eleventh novel	is in	Rougon-Macquart series
+1.0	Au Bonheur des Dames	is eleventh novel in	Rougon-Macquart series
+1.0	Au Bonheur des Dames	is	eleventh novel
+1.0	Au Bonheur des Dames	is	novel in Rougon-Macquart series by mile Zola

@@ -1,0 +1,7 @@
+1.0	Amentotaxus	is genus of	conifers treated
+1.0	Amentotaxus	is genus of	conifers treated in Cephalotaxaceae in Taxaceae
+1.0	Amentotaxus	is genus of	conifers treated in Cephalotaxaceae
+1.0	Amentotaxus	is genus of	catkin-yews
+1.0	Amentotaxus	is genus of	conifers
+1.0	Amentotaxus	is	genus
+1.0	Amentotaxus	is genus of	conifers treated in Taxaceae

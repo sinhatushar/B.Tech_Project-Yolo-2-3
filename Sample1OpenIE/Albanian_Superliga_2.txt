@@ -1,0 +1,8 @@
+1.0	it	is	country 's football competition
+1.0	it	is	country 's primary football competition
+1.0	it	is	At top of Albanian football league system country 's primary football competition
+1.0	it	is	At top of football league system country 's football competition
+1.0	it	is	At top of football league system country 's primary football competition
+1.0	it	is	At top country 's football competition
+1.0	it	is	At top country 's primary football competition
+1.0	it	is	At top of Albanian football league system country 's football competition

@@ -1,0 +1,5 @@
+1.0	He	graduated from	DePauw University in Greencastle
+1.0	He	began	his military career
+1.0	He	graduated from	DePauw University
+1.0	He	began	his career
+1.0	DePauw University	is in	Greencastle

@@ -1,0 +1,4 @@
+1.0	its foundation Ellison	bred Alister at	Baramul
+1.0	its foundation Ellison	Soon bred Alister at	Baramul
+1.0	its foundation Ellison	Soon bred	Alister
+1.0	its foundation Ellison	bred	Alister

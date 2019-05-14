@@ -1,0 +1,18 @@
+1.0	she	was	At seventeen signed by Latin American division of Universal Music
+1.0	she	was	At seventeen signed by Latin division of Universal Music
+1.0	she	was signed by	division
+1.0	she	was signed by	Latin division
+1.0	she	was	At seventeen signed by Latin American division
+1.0	she	was signed by	American division of Universal Music
+1.0	she	was signed by	Latin American division of Universal Music
+1.0	she	was	signed
+1.0	she	was signed At	seventeen
+1.0	she	was	At seventeen signed by division
+1.0	she	was signed by	American division
+1.0	she	was	At seventeen signed by division of Universal Music
+1.0	she	was	At seventeen signed by American division of Universal Music
+1.0	she	was	At seventeen signed by Latin division
+1.0	she	was	At seventeen signed by American division
+1.0	she	was signed by	division of Universal Music
+1.0	she	was signed by	Latin division of Universal Music
+1.0	she	was signed by	Latin American division

@@ -1,0 +1,7 @@
+1.0	Beatles	perform	song
+1.0	Beatles	perform	song entirely live on Our World
+1.0	Beatles	perform	song live on Our World
+1.0	Beatles	perform	song entirely live
+1.0	Beatles	perform	song live
+1.0	Beatles	played to	pre-recorded backing track
+1.0	Beatles	played to	backing track

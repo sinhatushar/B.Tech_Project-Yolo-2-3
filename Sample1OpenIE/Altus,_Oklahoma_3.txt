@@ -1,0 +1,6 @@
+1.0	It	is also home to	Western Oklahoma State College
+1.0	It	is	home
+1.0	It	is home to	Western Oklahoma State College
+1.0	It	is also home to	Oklahoma State College
+1.0	It	is home to	Oklahoma State College
+1.0	It	is	also home

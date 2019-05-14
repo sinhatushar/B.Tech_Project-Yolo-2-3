@@ -1,0 +1,4 @@
+1.0	Portuguese nobleman	Donatary-Captain of	Praia
+1.0	Anto Martins Homem	was	nobleman
+1.0	Anto Martins Homem	was	Portuguese nobleman
+1.0	Homem	was	Portuguese

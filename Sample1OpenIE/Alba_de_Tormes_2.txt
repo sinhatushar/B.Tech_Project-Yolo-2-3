@@ -1,0 +1,4 @@
+1.0	town	is on	River Tormes upstream from city
+1.0	town	is on	River Tormes upstream
+1.0	town	is on	River Tormes
+1.0	town	is on	River Tormes upstream from city of Salamanca

@@ -1,0 +1,8 @@
+1.0	song	won	song at Mirchi Music Awards 2017
+1.0	song	won	best song
+1.0	song	won	song
+1.0	song	won	song of year at Mirchi Music Awards 2017
+1.0	song	won	best song of year at Mirchi Music Awards 2017
+1.0	song	won	best song of year
+1.0	song	won	best song at Mirchi Music Awards 2017
+1.0	song	won	song of year

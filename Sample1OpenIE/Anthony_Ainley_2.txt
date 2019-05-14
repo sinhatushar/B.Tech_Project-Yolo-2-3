@@ -1,0 +1,4 @@
+1.0	He	was	actor
+1.0	He	was	fourth actor
+1.0	He	play	role of Master
+1.0	He	play	role

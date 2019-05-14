@@ -1,0 +1,4 @@
+1.0	club	has slipped to	division play
+1.0	club	has slipped to	third division play
+1.0	club	has since slipped to	division play
+1.0	club	has since slipped to	third division play

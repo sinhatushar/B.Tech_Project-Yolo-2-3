@@ -1,0 +1,10 @@
+1.0	Stubb	was appointed Minister After	coalition negotiations
+1.0	Stubb	was appointed Minister After	coalition negotiations between winning Center Party
+1.0	Stubb	was appointed Minister by	elected Prime Minister Juha Sipil
+1.0	Stubb	was appointed Minister by	newly elected Prime Minister Juha Sipil
+1.0	Stubb	was appointed	Minister
+1.0	Stubb	was appointed Minister by	Prime Minister Juha Sipil
+1.0	Stubb	was appointed Minister on	29 May 2015
+1.0	Stubb	was appointed Minister After	coalition negotiations between Center Party
+0.29598956933359477	Stubb	Minister of	Finance
+1.0	Stubb	was appointed	Minister of Finance

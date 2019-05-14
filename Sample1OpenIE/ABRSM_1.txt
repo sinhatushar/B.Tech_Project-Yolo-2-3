@@ -1,0 +1,16 @@
+1.0	Associated Board	is	examinations board based in London
+1.0	Associated Board	is	examinations board based
+1.0	charity	provides examinations at	centres around world
+1.0	charity	provides	examinations
+1.0	charity	provides	examinations in music
+1.0	Music	of Schools is	ABRSM
+1.0	Associated Board	is	examinations board
+0.8287470922663336	charity	examinations in	music
+0.8287470922663336	registered charity	examinations in	music
+1.0	registered charity	provides	examinations in music
+1.0	registered charity	provides examinations at	centres around world
+1.0	registered charity	provides	examinations
+1.0	registered charity	provides examinations at	centres
+1.0	charity	provides examinations at	centres
+1.0	examinations board	based in	London
+1.0	examinations	is in	music

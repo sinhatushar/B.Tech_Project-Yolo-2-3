@@ -1,0 +1,4 @@
+1.0	She	was beatified by	Catholic Church
+1.0	She	was	beatified by Catholic Church in 1947
+1.0	She	was beatified in	1947
+1.0	She	was	beatified

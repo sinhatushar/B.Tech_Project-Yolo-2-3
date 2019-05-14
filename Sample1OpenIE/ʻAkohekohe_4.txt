@@ -1,0 +1,6 @@
+1.0	It	is	honeycreeper
+1.0	It	is	largest honeycreeper
+1.0	length	in inches is	17 18 cm
+1.0	It	is largest honeycreeper on	island
+1.0	It	is honeycreeper on	island
+1.0	6.5 7 inches	is in	length

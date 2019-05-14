@@ -1,0 +1,6 @@
+1.0	film	Set in	1956
+1.0	film	follows gang	it tries
+1.0	film	follows	gang
+1.0	it	rob army pay convoy during	Suez Crisis
+1.0	it	rob	army pay convoy
+1.0	film	follows	criminal gang

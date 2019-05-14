@@ -1,0 +1,6 @@
+1.0	Its founder	had	racing
+1.0	he	produced	camellias
+1.0	interest	is in	horticulture
+1.0	Its founder	had	interest
+1.0	Its founder	had	interest in horticulture
+1.0	he	produced	prize-winning camellias

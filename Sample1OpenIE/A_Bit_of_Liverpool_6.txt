@@ -1,0 +1,5 @@
+1.0	album	sold over	850,000 copies.For
+1.0	its release	is in	UK
+1.0	album	eventually sold According to	Motown data
+1.0	album	eventually sold over	850,000 copies.For
+1.0	album	sold According to	Motown data

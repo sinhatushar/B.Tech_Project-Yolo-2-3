@@ -1,0 +1,8 @@
+1.0	Alvin Duke Chandler	was president of	College of William
+1.0	Alvin Duke Chandler	was	twenty-first president
+1.0	Alvin Duke Chandler	was twenty-first president of	College
+1.0	Alvin Duke Chandler	was	president
+1.0	Alvin Duke Chandler	August at_time	1987
+1.0	Alvin Duke Chandler	serving from	1951 to 1960
+1.0	Alvin Duke Chandler	was president of	College
+1.0	Alvin Duke Chandler	was twenty-first president of	College of William

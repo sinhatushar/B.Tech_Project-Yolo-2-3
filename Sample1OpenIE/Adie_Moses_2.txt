@@ -1,0 +1,13 @@
+1.0	he	played for	Barnsley having also featured for Huddersfield Town
+1.0	He	made over	300 appearances in Premier League
+1.0	he	notably played for	Barnsley having featured for Huddersfield Town
+1.0	he	notably played for	Barnsley
+1.0	He	made over	300 appearances
+1.0	he	played for	Barnsley having also featured
+1.0	he	notably played for	Barnsley having featured
+1.0	he	played for	Barnsley
+1.0	he	played for	Barnsley having featured
+1.0	he	notably played for	Barnsley having also featured
+1.0	300 appearances	is in	Premier League
+1.0	he	notably played for	Barnsley having also featured for Huddersfield Town
+1.0	he	played for	Barnsley having featured for Huddersfield Town

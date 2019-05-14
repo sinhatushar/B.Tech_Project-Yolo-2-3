@@ -1,0 +1,23 @@
+1.0	Amagertorv	is	described
+1.0	Amagertorv	is described as	square
+1.0	Amagertorv	is often described as	central square in central Copenhagen
+1.0	Amagertorv	is often described as	square
+1.0	Amagertorv	is often described as	most central square in Copenhagen
+1.0	Amagertorv	is described as	most central square
+1.0	Amagertorv	is often described as	most central square
+1.0	Amagertorv	is	often described
+1.0	Amagertorv	is described as	most central square in Copenhagen
+1.0	central square	is in	central Copenhagen
+1.0	Amagertorv	is described as	square in Copenhagen
+1.0	Amagertorv	part at_time	today
+1.0	Amagertorv	is described as	central square
+1.0	Amagertorv	part of	Strget pedestrian zone
+1.0	Amagertorv	is described as	most central square in central Copenhagen
+1.0	Amagertorv	is often described as	most central square in central Copenhagen
+1.0	Amagertorv	is described as	central square in central Copenhagen
+1.0	Amagertorv	is often described as	central square
+1.0	Amagertorv	is often described as	square in Copenhagen
+1.0	Amagertorv	is described as	central square in Copenhagen
+1.0	Amagertorv	is described as	square in central Copenhagen
+1.0	Amagertorv	is often described as	central square in Copenhagen
+1.0	Amagertorv	is often described as	square in central Copenhagen

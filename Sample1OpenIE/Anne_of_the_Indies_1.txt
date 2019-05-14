@@ -1,0 +1,6 @@
+1.0	Anne	is	1951 Technicolor adventure film made
+1.0	Anne	is	1951 Technicolor adventure film made by Century Fox
+1.0	1951 Technicolor adventure film	made by	20th Century Fox
+1.0	Anne	is	1951 Technicolor adventure film
+1.0	Anne	is	1951 Technicolor adventure film made by 20th Century Fox
+1.0	1951 Technicolor adventure film	made by	Century Fox

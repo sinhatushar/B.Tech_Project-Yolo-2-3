@@ -1,0 +1,6 @@
+1.0	Antonio Perduca	was	football player
+1.0	Perduca	was	Italian
+1.0	Antonio Perduca	was	Italian professional football player
+1.0	Antonio Perduca	was	Italian football player
+1.0	Perduca	was	professional
+1.0	Antonio Perduca	was	professional football player

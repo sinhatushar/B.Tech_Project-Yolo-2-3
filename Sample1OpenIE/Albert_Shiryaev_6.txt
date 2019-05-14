@@ -1,0 +1,8 @@
+1.0	He	is professor of	department of mechanics
+1.0	He	is professor of	department
+1.0	He	is	professor of department of mechanics of Moscow State University since 1971
+1.0	He	is	professor of department since 1971
+1.0	He	is	professor of department of mechanics since 1971
+1.0	He	is professor since	1971
+1.0	He	is professor of	department of mechanics of Moscow State University
+1.0	He	is	professor

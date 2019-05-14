@@ -1,0 +1,32 @@
+1.0	he	was	nominated
+1.0	he	was nominated as	candidate for constituency
+1.0	engines	had	applications ranging
+1.0	he	was nominated as	Conservative candidate for parliamentary constituency of Manchester Platting
+1.0	engines	had	various applications ranging from use in railcars
+1.0	use	is in	railcars
+0.5276585098827086	applications	ranging from	use
+1.0	engines	had	applications ranging from use in railcars to R101 airship.In 1929
+1.0	he	was nominated as	candidate for constituency of Manchester Platting
+1.0	he	was nominated as	Conservative candidate for constituency
+0.5276585098827086	applications	ranging from	use in railcars
+1.0	engines	had	applications ranging from use to R101 airship.In 1929
+1.0	he	was nominated as	Conservative candidate
+1.0	engines	had	various applications ranging from use to R101 airship.In 1929
+0.5276585098827086	various applications	ranging from	use
+1.0	he	was nominated as	candidate for parliamentary constituency
+1.0	engines	had	various applications ranging from use
+0.5276585098827086	various applications	ranging from	use to R101 airship.In 1929
+1.0	engines	had	applications ranging from use in railcars
+1.0	engines	had	applications
+0.5276585098827086	various applications	ranging from	use in railcars to R101 airship.In 1929
+0.5276585098827086	applications	ranging from	use in railcars to R101 airship.In 1929
+0.5276585098827086	applications	ranging from	use to R101 airship.In 1929
+1.0	he	was nominated as	Conservative candidate for parliamentary constituency
+1.0	he	was nominated as	candidate for parliamentary constituency of Manchester Platting
+1.0	engines	had	applications ranging from use
+1.0	engines	had	various applications ranging
+1.0	engines	had	various applications
+1.0	he	was nominated as	candidate
+0.5276585098827086	various applications	ranging from	use in railcars
+1.0	he	was nominated as	Conservative candidate for constituency of Manchester Platting
+1.0	engines	had	various applications ranging from use in railcars to R101 airship.In 1929

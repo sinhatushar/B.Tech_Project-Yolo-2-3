@@ -1,0 +1,17 @@
+0.8330771236985227	Rajesh Khanna	interest in	music
+1.0	his songs	are written by	friend
+1.0	Rajesh Khanna	sense too of	melody
+1.0	his songs	are	written
+1.0	movie	revolves around	rich city boy
+1.0	his songs	are written by	poor friend
+1.0	Rajesh Khanna	sense of	melody
+1.0	Rajesh Khanna	had	great interest in music
+1.0	Rajesh Khanna	terrific sense of	melody
+1.0	Rajesh Khanna	terrific sense too of	melody
+0.8330771236985227	Rajesh Khanna	great interest in	music
+1.0	Rajesh Khanna	had	great interest
+1.0	great interest	is in	music
+1.0	Rajesh Khanna	had	interest in music
+1.0	father	against	wishes
+1.0	movie	revolves around	city boy
+1.0	Rajesh Khanna	had	interest

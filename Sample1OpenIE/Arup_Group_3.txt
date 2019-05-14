@@ -1,0 +1,7 @@
+1.0	beneficiaries	are	Arup 's past
+1.0	Arup	has participated in	over 160 countries.Arup
+0.4763766529271824	Arup	is	owned
+1.0	Arup	has	past
+0.4763766529271824	Arup	is owned by	trusts
+1.0	firm	of	operating profit
+1.0	Arup	has participated in	projects

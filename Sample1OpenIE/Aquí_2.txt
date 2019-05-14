@@ -1,0 +1,4 @@
+1.0	It	was received by	public
+1.0	It	was	well received
+1.0	It	was well received by	public
+1.0	It	was	received

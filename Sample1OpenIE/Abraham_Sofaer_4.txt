@@ -1,0 +1,7 @@
+1.0	he	worked in	Burma
+1.0	he	was educated as	gentleman
+1.0	he	initially worked in	Burma
+1.0	he	was	educated
+1.0	he	was educated as	British gentleman
+1.0	he	worked as	school teacher
+1.0	he	initially worked as	school teacher

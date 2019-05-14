@@ -1,0 +1,7 @@
+0.010717726303177022	Anonymity	is seen as	technique
+1.0	Anonymity	is seen values as	technique
+1.0	Anonymity	is seen	values
+1.0	Anonymity	is seen	other values
+1.0	Anonymity	is seen	certain values
+1.0	Anonymity	is seen	certain other values
+0.010717726303177022	Anonymity	is	seen

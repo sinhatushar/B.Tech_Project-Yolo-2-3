@@ -1,0 +1,7 @@
+1.0	song	became	top-five hit in Austria
+1.0	song	reached	number one
+1.0	song	became	hit in Austria
+1.0	song	Commercially reached	number one
+1.0	song	became	top-five hit
+1.0	song	became	hit
+1.0	top-five hit	is in	Austria

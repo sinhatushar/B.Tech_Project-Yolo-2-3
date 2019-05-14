@@ -1,0 +1,17 @@
+1.0	tourist areas	include	Tata Somba houses
+1.0	Natitingou	include	Tata Somba houses
+1.0	Natitingou	include	waterfalls
+1.0	tourist areas	include	various waterfalls
+1.0	major tourist areas	include	various waterfalls
+1.0	Major towns	is in	Atakora
+1.0	Natitingou	include	various waterfalls
+1.0	major tourist areas	include	waterfalls
+1.0	Natitingou	include	Pendjari National Park
+1.0	Tanguita	include	waterfalls
+1.0	major tourist areas	include	Pendjari National Park
+1.0	tourist areas	include	waterfalls
+1.0	Tanguita	include	various waterfalls
+1.0	Tanguita	include	Pendjari National Park
+1.0	Tanguita	include	Tata Somba houses
+1.0	tourist areas	include	Pendjari National Park
+1.0	major tourist areas	include	Tata Somba houses

@@ -1,0 +1,16 @@
+1.0	It	was	distributed to Pacific Islands by Spanish
+1.0	It	was distributed to	Pacific Islands
+1.0	It	was distributed from	there
+1.0	It	was brought from	Brazil
+1.0	It	was distributed by	Spanish
+1.0	It	was brought to	Europe
+1.0	It	was	brought from Brazil by Portuguese
+1.0	It	was	brought to Europe by Portuguese
+1.0	It	was	from there distributed to Pacific Islands
+1.0	It	was	distributed
+1.0	It	was	from there distributed by Spanish
+1.0	It	was	brought
+1.0	It	was	brought from Brazil to Europe by Portuguese
+1.0	It	was brought by	Portuguese
+1.0	It	was	brought from Brazil to Europe
+1.0	It	was	from there distributed to Pacific Islands by Spanish

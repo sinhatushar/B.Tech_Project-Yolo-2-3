@@ -1,0 +1,4 @@
+1.0	Adolphe Jean Menjou	February at_time	1963
+1.0	Adolphe Jean Menjou	was	American actor
+1.0	Adolphe Jean Menjou	was	actor
+1.0	Menjou	was	American

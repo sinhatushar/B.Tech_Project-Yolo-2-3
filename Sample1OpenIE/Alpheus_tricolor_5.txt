@@ -1,0 +1,20 @@
+1.0	Its third maxilliped counts	is with	epipodial plate bearing
+1.0	Its counts	has ischium	found with their merus
+1.0	Its counts	has ischium	found
+1.0	its pereiopod	has ischium	found
+1.0	its first chelipeds	are found with	their merus
+1.0	Its maxilliped counts	has ischium	found
+1.0	its chelipeds	are	found
+1.0	Its third maxilliped counts	has	ischium
+1.0	Its third maxilliped counts	has ischium	found
+1.0	Its third maxilliped counts	has ischium	found with their merus
+1.0	Its third counts	has ischium	found
+1.0	its first chelipeds	are	found
+1.0	its chelipeds	are found with	their merus
+1.0	Its third counts	has	ischium
+1.0	Its maxilliped counts	has	ischium
+1.0	Its maxilliped counts	has ischium	found with their merus
+1.0	Its third counts	has ischium	found with their merus
+1.0	its pereiopod	has ischium	found with their merus
+1.0	its pereiopod	has	ischium
+1.0	Its counts	has	ischium

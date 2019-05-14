@@ -1,0 +1,10 @@
+1.0	genus	was	discovered
+1.0	species	is	found
+1.0	one species	is	found
+1.0	genus	was recently discovered from	region
+1.0	genus	was	recently discovered
+1.0	genus	was discovered from	region
+1.0	genus	was discovered from	Oriental region
+1.0	species	is found on	Papua
+1.0	genus	was recently discovered from	Oriental region
+1.0	one species	is found on	Papua

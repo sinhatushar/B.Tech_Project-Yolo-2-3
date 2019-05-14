@@ -1,0 +1,18 @@
+1.0	Safi	joined	team playing
+1.0	Abdelfatah Safi	had played for	several clubs
+1.0	Abdelfatah Safi	had played As	midfielder
+1.0	Abdelfatah Safi	had played As	attacking midfielder
+1.0	Abdelfatah Safi	had played in	countries
+1.0	team playing	is in	Malaysia Super League
+1.0	Safi	joined	Kedah FA
+1.0	AS Poissy	is in	France
+1.0	Abdelfatah Safi	had played for	clubs
+1.0	Saudi Arabia	SC in	Bahrain.After
+1.0	Kedah FA	playing in	Malaysia Super League
+1.0	Najran	is in	Saudi Arabia
+1.0	Safi	joined	team playing in Malaysia Super League
+1.0	France	in Poissy is	successful trial
+1.0	Saudi Arabia	SC in	Kuwait
+1.0	Safi	joined Kedah FA in	2012
+1.0	Al-Salmiya SC	is in	Kuwait
+1.0	Al-Salmiya SC	is in	Bahrain.After

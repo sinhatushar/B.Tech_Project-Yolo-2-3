@@ -1,0 +1,21 @@
+1.0	species	inhabiting deserts with	substrates
+1.0	common species	inhabiting dry shrublands with	sandy substrates
+1.0	common species	inhabiting shrublands with	substrates
+1.0	species	inhabiting dry shrublands with	substrates
+1.0	It	is	species
+1.0	species	inhabiting	dry shrublands
+1.0	species	inhabiting shrublands with	substrates
+1.0	common species	inhabiting	shrublands
+1.0	It	is	common species
+1.0	common species	inhabiting	deserts
+1.0	species	inhabiting	deserts
+1.0	common species	inhabiting shrublands with	sandy substrates
+1.0	common species	inhabiting deserts with	sandy substrates
+1.0	It	is	common
+1.0	common species	inhabiting	dry shrublands
+1.0	species	inhabiting dry shrublands with	sandy substrates
+1.0	common species	inhabiting deserts with	substrates
+1.0	species	inhabiting shrublands with	sandy substrates
+1.0	species	inhabiting	shrublands
+1.0	species	inhabiting deserts with	sandy substrates
+1.0	common species	inhabiting dry shrublands with	substrates

@@ -1,0 +1,14 @@
+1.0	anonymous letters	are	In countries protected by law
+1.0	letters	are protected In	many countries
+1.0	anonymous letters	are	In many countries protected by law
+1.0	anonymous letters	be delivered as	regular letters
+1.0	letters	be	delivered
+1.0	anonymous letters	be	delivered
+1.0	letters	be delivered as	letters
+1.0	letters	are	In many countries protected by law
+1.0	letters	are protected In	countries
+1.0	letters	are	In countries protected by law
+1.0	anonymous letters	are protected In	many countries
+1.0	anonymous letters	be delivered as	letters
+1.0	anonymous letters	are protected In	countries
+1.0	letters	be delivered as	regular letters

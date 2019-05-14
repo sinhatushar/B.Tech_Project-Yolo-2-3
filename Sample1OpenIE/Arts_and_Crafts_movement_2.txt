@@ -1,0 +1,6 @@
+1.0	It	used	medieval
+1.0	It	using	forms
+1.0	It	using	simple forms
+1.0	It	often used	medieval
+1.0	It	stood for	traditional craftsmanship
+1.0	It	stood for	craftsmanship

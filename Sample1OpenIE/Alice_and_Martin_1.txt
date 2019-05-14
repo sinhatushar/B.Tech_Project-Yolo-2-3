@@ -1,0 +1,9 @@
+1.0	Martin	is	French
+1.0	Alice et Martin	is	1998 film directed by Andr Tchin
+1.0	Alice et Martin	is	1998 French film directed
+1.0	Alice et Martin	is	1998 film directed
+1.0	Alice et Martin	is	1998 French film
+1.0	1998 French film	directed by	Andr Tchin
+1.0	Alice et Martin	is	1998 film
+1.0	1998 film	directed by	Andr Tchin
+1.0	Alice et Martin	is	1998 French film directed by Andr Tchin

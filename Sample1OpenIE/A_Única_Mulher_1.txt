@@ -1,0 +1,4 @@
+1.0	Mulher	is	Portuguese
+1.0	nica Mulher	is	telenovela broadcast
+1.0	nica Mulher	produced by	TVI
+1.0	nica Mulher	is	Portuguese telenovela broadcast

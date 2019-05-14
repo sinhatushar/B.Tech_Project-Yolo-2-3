@@ -1,0 +1,8 @@
+1.0	video	depicts Bjrk	assembled
+1.0	robot	being assembled in	factory
+1.0	video	depicts Bjrk	assembled in factory
+1.0	Bjrk	has	original mix
+1.0	robot	being	assembled
+1.0	video	uses	Bjrk 's original mix
+1.0	video	depicts	Bjrk
+1.0	video	uses	Bjrk 's mix

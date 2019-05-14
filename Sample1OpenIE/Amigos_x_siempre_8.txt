@@ -1,0 +1,15 @@
+1.0	Julia	has	school
+1.0	Ana 's father	has taken advantage	try
+1.0	Ana	has	unscrupulous father
+1.0	Ana 's father	has taken	advantage
+1.0	Ana 's unscrupulous father	however has taken	advantage
+1.0	Ana 's unscrupulous father	has taken	advantage
+1.0	Ana 's father	has taken	advantage of situation
+1.0	Ana 's father	however has taken	advantage
+1.0	Ana 's unscrupulous father	has taken advantage	try
+1.0	Ana	's father is	Francisco Capistrn
+1.0	Ana 's unscrupulous father	has taken	advantage of situation
+1.0	Ana 's father	however has taken	advantage of situation
+1.0	Ana 's father	however has taken advantage	try
+1.0	Ana 's unscrupulous father	however has taken advantage	try
+1.0	Ana 's unscrupulous father	however has taken	advantage of situation

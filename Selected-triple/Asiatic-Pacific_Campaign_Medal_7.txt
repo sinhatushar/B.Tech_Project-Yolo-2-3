@@ -1,0 +1,3 @@
+flag colors
+are visible in
+ribbon

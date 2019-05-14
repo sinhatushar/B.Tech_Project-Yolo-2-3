@@ -1,0 +1,13 @@
+1.0	children	are	placed
+1.0	children	are	After their parents ' death placed in custody of relative
+1.0	children	are placed in	custody of murderous relative
+1.0	children	are placed in	custody
+1.0	children	are	After their parents ' death in fire placed in custody of murderous relative
+1.0	children	are	After their parents ' death in fire placed in custody of relative
+1.0	children	are	After their parents ' death placed in custody
+1.0	children	are	After their parents ' death in fire placed in custody
+1.0	children	are	After their parents ' death placed in custody of murderous relative
+1.0	children	are placed After	their parents ' death in fire
+1.0	their parents ' death	is in	fire
+1.0	children	are placed After	their parents ' death
+1.0	children	are placed in	custody of relative

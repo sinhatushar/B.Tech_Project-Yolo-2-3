@@ -1,0 +1,14 @@
+1.0	He	was	founding
+1.0	He	was founding member of	hip-hop group Gravediggaz
+1.0	He	was	member
+1.0	He	was	founding member
+1.0	He	was also founding member of	group Gravediggaz
+1.0	He	was founding member of	group Gravediggaz
+1.0	He	was member of	hip-hop group Gravediggaz
+1.0	He	was also member of	group Gravediggaz
+1.0	He	was member of	group Gravediggaz
+1.0	He	was	also member
+1.0	He	was also founding member of	hip-hop group Gravediggaz
+1.0	He	was	also founding member
+1.0	He	was also member of	hip-hop group Gravediggaz
+1.0	he	used	alias Grym Reaper

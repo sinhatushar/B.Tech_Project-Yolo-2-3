@@ -1,0 +1,23 @@
+1.0	mechanised agriculture	advent of is	part how fed
+1.0	agriculture	advent of is	part fed
+1.0	mechanised agriculture	advent of is	indispensable part how fed
+1.0	advent	is part	fed
+1.0	agriculture	Especially advent of is	indispensable part fed
+1.0	advent	is indispensable part	fed
+1.0	mechanised agriculture	advent of is	part fed
+1.0	agriculture	Especially advent of is	part how fed
+1.0	agriculture	Especially advent of is	indispensable part how fed
+0.788709455060528	world	is	fed
+1.0	agriculture	Especially advent of is	part fed
+1.0	mechanised agriculture	Especially advent of is	part how fed
+1.0	agriculture	advent of is	part how fed
+1.0	mechanised agriculture	Especially advent of is	indispensable part fed
+1.0	agriculture	advent of is	indispensable part how fed
+1.0	advent	is	indispensable
+0.788709455060528	world	is	how fed
+1.0	mechanised agriculture	Especially advent of is	part fed
+1.0	advent	is indispensable part	how fed
+1.0	mechanised agriculture	Especially advent of is	indispensable part how fed
+1.0	advent	is part	how fed
+1.0	mechanised agriculture	advent of is	indispensable part fed
+1.0	agriculture	advent of is	indispensable part fed

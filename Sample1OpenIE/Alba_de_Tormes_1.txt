@@ -1,0 +1,6 @@
+1.0	Alba de Tormes	is municipality in	province
+1.0	Alba de Tormes	is	municipality
+1.0	municipality	is in	province of Salamanca
+1.0	province	in municipality is	part of autonomous community of Castile
+1.0	municipality	part of	autonomous community
+1.0	Alba de Tormes	is municipality in	province of Salamanca

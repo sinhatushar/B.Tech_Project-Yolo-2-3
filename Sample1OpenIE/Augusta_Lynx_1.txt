@@ -1,0 +1,14 @@
+1.0	Augusta Lynx	were	minor-league professional ice hockey team based
+1.0	Augusta Lynx	were	minor-league ice hockey team based in Augusta
+1.0	Augusta Lynx	were	ice hockey team based
+1.0	Lynx	were	professional
+1.0	Augusta Lynx	were	minor-league professional ice hockey team based in Augusta
+1.0	Augusta Lynx	were	minor-league ice hockey team
+1.0	Augusta Lynx	were	minor-league professional ice hockey team
+1.0	Augusta Lynx	were	minor-league ice hockey team based
+1.0	Lynx	were	minor-league
+1.0	Augusta Lynx	were	professional ice hockey team based
+1.0	Augusta Lynx	were	professional ice hockey team
+1.0	Augusta Lynx	were	professional ice hockey team based in Augusta
+1.0	Augusta Lynx	were	ice hockey team based in Augusta
+1.0	Augusta Lynx	were	ice hockey team

@@ -1,0 +1,8 @@
+1.0	Andrius Velika	is	association footballer
+1.0	Velika	is	Lithuanian
+1.0	Kaunas	in born is	Soviet Union
+1.0	Andrius Velika	is	Lithuanian professional association footballer
+1.0	Velika	is	professional
+1.0	5 April 1979	born at_time	Soviet Union
+1.0	Andrius Velika	is	Lithuanian association footballer
+1.0	Andrius Velika	is	professional association footballer

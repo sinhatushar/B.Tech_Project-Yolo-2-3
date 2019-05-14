@@ -1,0 +1,2 @@
+1.0	antibodies	be	grouped
+1.0	antibodies	be grouped into	five isotypes

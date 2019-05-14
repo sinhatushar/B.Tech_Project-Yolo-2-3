@@ -1,0 +1,14 @@
+1.0	Ottoman forces	had counterattacked	large stretch of Australians ' line
+1.0	Shout	gathered	party of men
+0.902305368947783	Ottoman forces	stretch of	Australians ' front line
+1.0	Ottoman forces	had counterattacked	large stretch of Australians ' front line
+1.0	Ottoman forces	had counterattacked	stretch of Australians ' line
+1.0	Ottoman forces	had counterattacked	stretch of Australians ' front line
+1.0	Shout	gathered	small party
+1.0	Ottoman forces	had counterattacked	stretch
+1.0	Ottoman forces	had counterattacked	large stretch
+1.0	Shout	gathered	small party of men
+0.902305368947783	Ottoman forces	stretch of	Australians ' line
+0.902305368947783	Ottoman forces	large stretch of	Australians ' front line
+0.902305368947783	Ottoman forces	large stretch of	Australians ' line
+1.0	Shout	gathered	party

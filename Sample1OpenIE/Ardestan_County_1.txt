@@ -1,0 +1,5 @@
+1.0	Ardestan County	is county in	Isfahan Province in Iran
+1.0	county	is in	Isfahan Province
+1.0	Ardestan County	is county in	Isfahan Province
+1.0	Isfahan Province	is in	Iran
+1.0	Ardestan County	is	county

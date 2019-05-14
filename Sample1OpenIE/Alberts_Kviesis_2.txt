@@ -1,0 +1,28 @@
+1.0	he	finished law at	Tartu University he graduated
+1.0	he	thereafter finished	studied law
+1.0	he	finished law at	Tartu University he graduated in 1907
+1.0	he	thereafter finished Jelgava Gymnasium at	Tartu University he graduated in 1907
+1.0	he	thereafter finished law at	Tartu University where he graduated
+1.0	he	finished Jelgava Gymnasium at	Tartu University he graduated in 1907
+1.0	he	thereafter finished	law
+1.0	he	thereafter finished	from 1902 law
+1.0	he	thereafter finished	Jelgava Gymnasium
+1.0	he	thereafter finished law at	Tartu University he graduated in 1907
+1.0	he	thereafter finished	from 1902 studied law
+1.0	he	finished law at	Tartu University where he graduated
+1.0	he	finished Jelgava Gymnasium at	Tartu University where he graduated in 1907
+1.0	he	finished Jelgava Gymnasium at	Tartu University he graduated
+1.0	he	thereafter finished law at	Tartu University he graduated
+1.0	he	thereafter finished law at	Tartu University where he graduated in 1907
+1.0	he	finished	law
+1.0	he	thereafter finished Jelgava Gymnasium at	Tartu University he graduated
+1.0	he	finished law at	Tartu University where he graduated in 1907
+1.0	he	finished	Jelgava Gymnasium
+1.0	he	finished	from 1902 studied law
+1.0	he	thereafter finished Jelgava Gymnasium at	Tartu University where he graduated
+1.0	he	received	his education
+1.0	he	received	his primary education
+1.0	he	finished	from 1902 law
+1.0	he	finished	studied law
+1.0	he	finished Jelgava Gymnasium at	Tartu University where he graduated
+1.0	he	thereafter finished Jelgava Gymnasium at	Tartu University where he graduated in 1907

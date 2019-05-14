@@ -1,0 +1,4 @@
+1.0	Great General DR. Abdul Haris Nasution Museum	is	museum
+1.0	museum	is in	Jakarta
+1.0	Great General DR. Abdul Haris Nasution Museum	is museum in	Indonesia
+1.0	Great General DR. Abdul Haris Nasution Museum	is museum in	Jakarta

@@ -1,0 +1,3 @@
+1.0	Great General Abdul Haris Nasution	figure 's	country
+1.0	country	has	figure
+1.0	museum	showcases	works

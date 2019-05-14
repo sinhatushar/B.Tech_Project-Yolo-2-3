@@ -1,0 +1,17 @@
+1.0	Beatles	also acknowledging Greg Howe as	favorite guitarist
+1.0	Beatles	also acknowledging Greg Howe as	guitarist
+1.0	Beatles	acknowledging Greg Howe as	favorite guitarist
+1.0	Beatles	also publicly acknowledging Greg Howe as	favorite guitarist
+1.0	Beatles	played role in	his development
+1.0	Beatles	played	role
+1.0	Beatles	publicly acknowledging Greg Howe as	favorite guitarist
+1.0	Beatles	played	hugely influential role
+1.0	Beatles	also publicly acknowledging	Greg Howe
+1.0	Beatles	also publicly acknowledging Greg Howe as	guitarist
+1.0	Beatles	acknowledging Greg Howe as	guitarist
+1.0	Beatles	publicly acknowledging	Greg Howe
+1.0	Beatles	also acknowledging	Greg Howe
+1.0	Beatles	acknowledging	Greg Howe
+1.0	Beatles	publicly acknowledging Greg Howe as	guitarist
+1.0	Beatles	played	influential role
+1.0	Beatles	played role in	his musical development

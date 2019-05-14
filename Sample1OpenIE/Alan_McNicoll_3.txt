@@ -1,0 +1,19 @@
+1.0	he	was	attached to Royal Navy at outbreak of Second World War
+1.0	he	was	Following training attached at outbreak of Second World War
+1.0	he	was	Following training in Australia attached at outbreak of Second World War
+1.0	he	was	Following training in Australia attached to Royal Navy
+1.0	he	was	Following training attached to Royal Navy at outbreak
+1.0	he	was	Following training in Australia attached to Royal Navy at outbreak
+1.0	he	was	Following training attached at outbreak
+1.0	he	was attached Following	training in Australia
+1.0	he	was	attached
+1.0	he	was attached at	outbreak
+1.0	he	was	Following training in Australia attached to Royal Navy at outbreak of Second World War
+1.0	he	was attached Following	training
+1.0	he	was	Following training in Australia attached at outbreak
+1.0	he	was	attached to Royal Navy at outbreak
+1.0	training	is in	Australia
+1.0	he	was attached at	outbreak of Second World War
+1.0	he	was attached to	Royal Navy
+1.0	he	was	Following training attached to Royal Navy
+1.0	he	was	Following training attached to Royal Navy at outbreak of Second World War

@@ -1,0 +1,7 @@
+1.0	It	is	surrounded on three sides by valley
+1.0	It	is surrounded by	valley
+1.0	It	is	situated
+1.0	It	is situated on	hilltop
+1.0	It	is	surrounded
+1.0	It	is surrounded on	three sides
+1.0	It	is situated on	hilltop about 1,000 metres above

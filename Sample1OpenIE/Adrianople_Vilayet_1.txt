@@ -1,0 +1,11 @@
+1.0	Vilayet	was	division
+1.0	Vilayet	was division of	Ottoman Empire
+1.0	Vilayet	was	first-level
+1.0	Ottoman Empire	of division is	vilayet
+1.0	Vilayet	was	administrative
+1.0	Vilayet	was	administrative division
+1.0	Vilayet	was first-level division of	Ottoman Empire
+1.0	Vilayet	was first-level administrative division of	Ottoman Empire
+1.0	Vilayet	was	first-level division
+1.0	Vilayet	was	first-level administrative division
+1.0	Vilayet	was administrative division of	Ottoman Empire

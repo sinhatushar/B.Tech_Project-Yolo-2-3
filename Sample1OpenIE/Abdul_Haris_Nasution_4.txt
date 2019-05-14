@@ -1,0 +1,6 @@
+0.06747068488575703	troops	attempted On	30 September 1965
+1.0	troops	attempted	kidnapping of Nasution
+1.0	troops	attempted	kidnapping
+1.0	troops	attempted kidnapping On	30 September 1965
+1.0	troops	attempted killing On	30 September 1965
+1.0	troops	attempted	killing

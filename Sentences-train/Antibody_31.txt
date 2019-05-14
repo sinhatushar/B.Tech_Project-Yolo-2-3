@@ -1,0 +1,1 @@
+The regions where the genes are randomly recombined together is the hyper variable region used to recognise different antigens on a clonal basis

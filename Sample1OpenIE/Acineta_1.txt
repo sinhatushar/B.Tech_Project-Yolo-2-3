@@ -1,0 +1,16 @@
+1.0	Acineta	is	genus
+0.9605582698804409	Acineta	abbreviated in	trade
+1.0	Acineta	is	small genus belonging
+1.0	Acineta	is	genus belonging
+0.9605582698804409	Acineta	abbreviated as	Acn
+1.0	Acineta	is	small genus belonging to orchid family
+1.0	small genus	belonging to	family
+1.0	genus	belonging to	family
+1.0	Acineta	is	genus belonging to orchid family
+0.9605582698804409	Acineta	abbreviated in	horticultural trade
+1.0	Acineta	is	small
+1.0	Acineta	is	small genus belonging to family
+1.0	small genus	belonging to	orchid family
+1.0	Acineta	is	small genus
+1.0	Acineta	is	genus belonging to family
+1.0	genus	belonging to	orchid family

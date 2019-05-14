@@ -1,0 +1,14 @@
+1.0	Alphas	is	science fiction television series created
+1.0	Alphas	is	science fiction dramatic television series
+1.0	Alphas	is	American science fiction television series created
+1.0	Alphas	is	science fiction dramatic television series created
+1.0	Alphas	is	science fiction television series
+1.0	Alphas	is	American
+1.0	Alphas	is	dramatic
+1.0	Alphas	is	American science fiction dramatic television series created by Zak Penn
+1.0	Alphas	is	American science fiction television series created by Zak Penn
+1.0	Alphas	is	American science fiction dramatic television series
+1.0	Alphas	is	science fiction dramatic television series created by Zak Penn
+1.0	Alphas	is	American science fiction television series
+1.0	Alphas	is	American science fiction dramatic television series created
+1.0	Alphas	is	science fiction television series created by Zak Penn

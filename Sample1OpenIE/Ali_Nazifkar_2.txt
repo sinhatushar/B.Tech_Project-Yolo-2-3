@@ -1,0 +1,2 @@
+1.0	He	usually plays at	defender position
+1.0	He	plays at	defender position

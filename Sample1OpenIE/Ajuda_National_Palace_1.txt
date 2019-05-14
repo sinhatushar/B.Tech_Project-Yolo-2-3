@@ -1,0 +1,30 @@
+1.0	Palace	is monument in	civil parish of Ajuda
+1.0	Palace	is monument in	civil parish in city of Lisbon
+1.0	Palace	is monument in	civil parish in city
+1.0	Palace	is neoclassical monument in	civil parish in city of Lisbon
+1.0	Palace	is monument in	parish in city
+1.0	Palace	is neoclassical monument in	civil parish of Ajuda in city
+1.0	Palace	is monument in	civil parish of Ajuda in city
+1.0	Palace	is neoclassical monument in	parish of Ajuda in city of Lisbon
+1.0	Palace	is	neoclassical monument
+1.0	Palace	is monument in	parish in city of Lisbon
+1.0	Palace	is monument in	parish of Ajuda
+1.0	civil parish	in monument is	central Portugal
+1.0	Palace	is	monument
+1.0	Palace	is neoclassical monument in	civil parish of Ajuda in city of Lisbon
+1.0	Palace	is neoclassical monument in	parish in city of Lisbon
+1.0	Palace	is neoclassical monument in	parish
+1.0	Palace	is neoclassical monument in	civil parish in city
+1.0	civil parish	is in	city of Lisbon
+1.0	Palace	is neoclassical monument in	parish of Ajuda
+1.0	Palace	is monument in	parish
+1.0	Palace	is neoclassical monument in	parish of Ajuda in city
+1.0	Palace	is monument in	parish of Ajuda in city of Lisbon
+1.0	Palace	is neoclassical monument in	civil parish
+1.0	Palace	is monument in	civil parish
+1.0	Palace	is monument in	parish of Ajuda in city
+1.0	Palace	is	neoclassical
+1.0	Palace	is neoclassical monument in	civil parish of Ajuda
+1.0	neoclassical monument	is in	civil parish of Ajuda
+1.0	Palace	is monument in	civil parish of Ajuda in city of Lisbon
+1.0	Palace	is neoclassical monument in	parish in city

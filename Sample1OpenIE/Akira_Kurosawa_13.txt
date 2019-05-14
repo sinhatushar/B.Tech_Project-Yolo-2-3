@@ -1,0 +1,6 @@
+1.0	he	was named	Asian
+1.0	he	was named	Asian of Century
+1.0	improvement	is in	20th century
+1.0	he	Posthumously was named	Asian of Century
+0.18981051788434655	he	Asian of	Century
+1.0	he	Posthumously was named	Asian

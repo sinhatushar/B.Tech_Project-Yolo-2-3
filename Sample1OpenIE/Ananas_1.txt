@@ -1,0 +1,15 @@
+1.0	pineapple.This genus	was brought by	Carib natives
+1.0	pineapple.This genus	was brought to	Caribbean Islands
+1.0	Ananas	is	native
+1.0	pineapple.This genus	was	brought to Caribbean Islands by Carib natives
+1.0	Ananas	is	plant genus of bromeliad family native to South America
+1.0	pineapple.This genus	originated in	Mesoamerica
+1.0	pineapple.This genus	was brought by	natives
+1.0	Ananas	is	plant genus of bromeliad family native
+1.0	Ananas	is	plant genus native to South America
+1.0	Ananas	is	plant genus native
+1.0	Ananas	is	plant genus
+1.0	Central America	includes	species Ananas comosus
+1.0	Ananas	is	plant genus of bromeliad family
+1.0	pineapple.This genus	was	brought to Caribbean Islands by natives
+1.0	pineapple.This genus	was	brought

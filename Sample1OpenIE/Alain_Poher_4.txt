@@ -1,0 +1,7 @@
+1.0	he	was defeated in	second round
+1.0	he	was defeated in	round
+1.0	he	was defeated by	Georges Pompidou
+1.0	he	was	defeated by Georges Pompidou in second round
+1.0	he	was	defeated
+1.0	he	was	defeated by Georges Pompidou in round
+1.0	leading candidate	is in	1969 presidential election

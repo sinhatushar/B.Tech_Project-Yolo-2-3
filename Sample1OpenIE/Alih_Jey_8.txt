@@ -1,0 +1,5 @@
+1.0	Her single	became	hit
+1.0	Her first single	became	hit
+1.0	Her single	became	instant hit
+1.0	Her first single	became	instant hit
+0.93158517100976	It	has	ok

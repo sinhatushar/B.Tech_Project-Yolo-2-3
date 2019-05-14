@@ -1,0 +1,2 @@
+1.0	Commander-in-Chief	for	Trophy
+1.0	previous winner	is in	event of three-way tie

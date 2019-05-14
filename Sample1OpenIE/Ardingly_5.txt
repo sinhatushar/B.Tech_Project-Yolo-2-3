@@ -1,0 +1,12 @@
+1.0	It	is school in	sense
+1.0	It	is public school in	British sense of term
+1.0	It	is public school in	sense of term
+1.0	It	is public school in	sense
+1.0	It	is	public school
+1.0	public school	is in	British sense of term
+1.0	It	is school in	British sense of term
+1.0	It	is school in	British sense
+1.0	It	is	school
+1.0	It	is	public
+1.0	It	is public school in	British sense
+1.0	It	is school in	sense of term

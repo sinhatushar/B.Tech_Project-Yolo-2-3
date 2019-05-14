@@ -1,0 +1,12 @@
+1.0	film	stars	Ambika
+1.0	film	stars Kaviyoor Ponnamma in	lead roles
+1.0	film	stars	Kaviyoor Ponnamma
+1.0	film	stars Jayan in	roles
+1.0	film	stars Jayan in	lead roles
+1.0	film	stars	Prem Nazir
+1.0	film	stars Prem Nazir in	roles
+1.0	film	stars Ambika in	lead roles
+1.0	film	stars Ambika in	roles
+1.0	film	stars	Jayan
+1.0	film	stars Kaviyoor Ponnamma in	roles
+1.0	film	stars Prem Nazir in	lead roles

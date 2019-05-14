@@ -1,0 +1,7 @@
+1.0	Manavgat River	passes through	valley
+1.0	Manavgat River	passes through	valley in centre of district
+1.0	Manavgat River	passes through	large valley in centre
+1.0	Manavgat River	passes through	valley in centre
+1.0	large valley	is in	centre of district
+1.0	Manavgat River	passes through	large valley in centre of district
+1.0	Manavgat River	passes through	large valley

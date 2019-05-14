@@ -1,0 +1,9 @@
+1.0	Ahsan	was elected in	2012
+1.0	Ahsan	was elected in	2015
+1.0	Ahsan	was	elected to senate in 2012
+1.0	Ahsan	was elected to	senate
+1.0	Ahsan	was	elected to senate in 2015
+1.0	Ahsan	was	elected
+1.0	Ahsan	was	elected in 2012 in 2015
+1.0	elected	became	minority leader
+1.0	Ahsan	was	elected to senate in 2012 in 2015

@@ -1,0 +1,5 @@
+1.0	Alvesta Municipality	is	municipality
+1.0	Alvesta Municipality	is municipality in	Sweden
+1.0	Alvesta Municipality	is municipality in	Kronoberg County
+1.0	municipality	is in	Kronoberg County
+1.0	Alvesta Municipality	is municipality in	southern Sweden

@@ -1,0 +1,14 @@
+1.0	Association	is group of	engineering colleges established
+1.0	Association	is group of	private engineering colleges established in 1957
+1.0	Association	is group of	private American engineering colleges established
+1.0	Association	is group of	private engineering colleges
+1.0	Association	is group of	private American engineering colleges
+1.0	Association	is group of	American engineering colleges established in 1957
+1.0	Association	is group of	engineering colleges established in 1957
+1.0	Association	is group of	American engineering colleges established
+1.0	Association	is group of	private engineering colleges established
+1.0	Association	is group of	private American engineering colleges established in 1957
+1.0	Independent Technological Universities	Association of is	group
+1.0	Association	is group of	engineering colleges
+1.0	Association	is group of	American engineering colleges
+1.0	Association	is	group

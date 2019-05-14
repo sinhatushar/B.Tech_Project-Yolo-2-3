@@ -1,0 +1,8 @@
+1.0	she	However achieved	only modest success
+1.0	she	However achieved	only success
+1.0	she	However achieved	modest success
+1.0	she	However achieved	success
+1.0	she	achieved	modest success
+1.0	she	achieved	only success
+1.0	she	achieved	success
+1.0	she	achieved	only modest success

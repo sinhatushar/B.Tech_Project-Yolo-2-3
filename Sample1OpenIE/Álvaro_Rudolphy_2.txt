@@ -1,0 +1,8 @@
+1.0	his role	is in	Alguien te mira
+1.0	Apes Prize	is in	2001
+1.0	He	has obtained awards among	them
+1.0	his role	is in	2008
+1.0	Apes Prize	is in	his role for his role
+1.0	his role	is in	Amores de mercado
+1.0	He	has obtained	awards
+1.0	He	has obtained	numerous awards

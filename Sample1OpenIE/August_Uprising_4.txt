@@ -1,0 +1,8 @@
+1.0	Red Army	suppressed insurrection under	orders of Georgian Bolsheviks Joseph Stalin
+1.0	Red Army	suppressed insurrection under	orders of Bolsheviks Joseph Stalin
+1.0	Cheka troops	suppressed insurrection under	orders of Bolsheviks Joseph Stalin
+1.0	Red Army	suppressed	insurrection
+1.0	Cheka troops	suppressed	insurrection
+1.0	Cheka troops	suppressed insurrection under	orders
+1.0	Red Army	suppressed insurrection under	orders
+1.0	Cheka troops	suppressed insurrection under	orders of Georgian Bolsheviks Joseph Stalin

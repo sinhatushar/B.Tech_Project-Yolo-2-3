@@ -1,0 +1,43 @@
+1.0	They	are made of	basic structural unitseach
+1.0	They	are typically made of	unitseach with two large heavy chains
+1.0	They	are made of	unitseach with two large heavy chains
+1.0	They	are made of	basic unitseach with two chains
+1.0	They	are typically made of	basic unitseach
+1.0	They	are made of	structural unitseach
+1.0	They	are typically made of	unitseach with two heavy chains
+1.0	They	are made of	unitseach with two chains
+1.0	They	are made of	basic structural unitseach with two heavy chains
+1.0	They	are typically made of	unitseach
+1.0	They	are made of	basic structural unitseach with two chains
+1.0	They	are typically made of	basic structural unitseach with two large chains
+1.0	They	are typically made of	structural unitseach with two large heavy chains
+1.0	They	are typically made of	basic structural unitseach
+1.0	They	are typically made of	basic unitseach with two large heavy chains
+1.0	They	are typically made of	structural unitseach
+1.0	They	are made of	basic unitseach with two heavy chains
+1.0	They	are typically made of	basic unitseach with two heavy chains
+1.0	They	are	made
+1.0	They	are	typically made
+1.0	They	are made of	basic unitseach with two large heavy chains
+1.0	basic structural unitseach	is with	two large heavy chains
+1.0	They	are typically made of	basic unitseach with two large chains
+1.0	They	are made of	structural unitseach with two large chains
+1.0	They	are made of	basic unitseach with two large chains
+1.0	They	are made of	basic unitseach
+1.0	They	are typically made of	basic structural unitseach with two heavy chains
+1.0	They	are typically made of	structural unitseach with two chains
+1.0	They	are made of	unitseach
+1.0	They	are made of	unitseach with two large chains
+1.0	They	are typically made of	structural unitseach with two large chains
+1.0	They	are typically made of	basic unitseach with two chains
+1.0	They	are made of	basic structural unitseach with two large heavy chains
+1.0	They	are typically made of	basic structural unitseach with two large heavy chains
+1.0	They	are typically made of	unitseach with two chains
+1.0	They	are typically made of	unitseach with two large chains
+1.0	They	are made of	structural unitseach with two heavy chains
+1.0	They	are made of	basic structural unitseach with two large chains
+1.0	They	are made of	structural unitseach with two large heavy chains
+1.0	They	are typically made of	basic structural unitseach with two chains
+1.0	They	are made of	structural unitseach with two chains
+1.0	They	are typically made of	structural unitseach with two heavy chains
+1.0	They	are made of	unitseach with two heavy chains

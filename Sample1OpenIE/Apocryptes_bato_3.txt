@@ -1,0 +1,10 @@
+1.0	It	is of	importance to local fisheries
+1.0	It	is of	importance to local commercial fisheries
+1.0	It	is of	minor importance to commercial fisheries
+1.0	It	is of	minor importance to local commercial fisheries
+1.0	It	is of	importance
+1.0	It	is of	importance to commercial fisheries
+1.0	It	is of	minor importance
+1.0	It	is of	importance to fisheries
+1.0	It	is of	minor importance to fisheries
+1.0	It	is of	minor importance to local fisheries

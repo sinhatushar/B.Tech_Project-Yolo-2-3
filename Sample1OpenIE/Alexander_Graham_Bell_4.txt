@@ -1,0 +1,8 @@
+1.0	Bell	considered as	scientist
+1.0	Bell	considered	his invention intrusion on his real work
+1.0	his invention	intrusion on	his real work
+1.0	marked Bell	has	later life including groundbreaking work in optical telecommunications
+1.0	Bell	considered	his invention intrusion
+1.0	Bell	considered	his invention intrusion on his work
+1.0	his invention	intrusion on	his work
+1.0	groundbreaking work	is in	optical telecommunications

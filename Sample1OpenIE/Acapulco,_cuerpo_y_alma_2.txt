@@ -1,0 +1,12 @@
+1.0	It	is remake of	telenovela
+1.0	It	is remake of	telenovela produced in 1985
+1.0	It	is remake of	telenovela produced by Televisa in 1985
+1.0	Mexican telenovela	of remake is	T o nadie
+1.0	It	is remake of	Mexican telenovela produced by Televisa
+1.0	It	is remake of	telenovela produced by Televisa
+1.0	It	is remake of	Mexican telenovela produced by Televisa in 1985
+1.0	It	is remake of	Mexican telenovela
+1.0	It	is remake of	Mexican telenovela produced
+1.0	It	is	remake
+1.0	It	is remake of	telenovela produced
+1.0	It	is remake of	Mexican telenovela produced in 1985

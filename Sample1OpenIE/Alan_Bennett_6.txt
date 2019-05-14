@@ -1,0 +1,9 @@
+1.0	Alice	of	Adventures in Wonderland
+1.0	Alice 's Adventures	is in	Wonderland
+1.0	His work	includes	Madness
+1.0	His work	includes	Madness of George III including his readings of Alice 's Adventures
+1.0	His work	includes	Madness of George III
+0.9578407332117868	film	Heads of	History Boys
+0.9578407332117868	subsequent film	Heads of	History Boys
+1.0	His work	includes	Madness of George III including his readings of Alice 's Adventures in Wonderland
+1.0	His work	includes	Madness of George III including his readings

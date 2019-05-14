@@ -1,0 +1,10 @@
+1.0	He	was honoured as	Fellow
+1.0	honoured	head of	Department of Mathematics
+1.0	honoured	head at	Indian Institute of Technology Kharagpur
+1.0	honoured	head of	Department
+1.0	honoured	was president of	statistics section
+1.0	honoured	was	president
+1.0	honoured	was president of	statistics section of Indian Science Congress Association
+1.0	He	was honoured as	Fellow of Royal Statistical Society
+1.0	He	was	honoured
+1.0	honoured	head at	Indian Institute

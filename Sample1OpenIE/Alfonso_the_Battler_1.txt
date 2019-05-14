@@ -1,0 +1,15 @@
+1.0	Alfonso I	called	Warrior Spanish
+0.9070053644301364	Alfonso I	was	king from 1104 until his death
+0.9070053644301364	Alfonso I	was	king of Aragon until his death
+1.0	Alfonso I	called	Battler
+0.9070053644301364	Alfonso I	was king until	his death in 1134
+0.9070053644301364	Alfonso I	was	king of Aragon from 1104
+0.9070053644301364	Alfonso I	was king from	1104
+0.9070053644301364	Alfonso I	was	king from 1104 until his death in 1134
+0.9070053644301364	Alfonso I	was	king of Aragon from 1104 until his death
+0.9070053644301364	Alfonso I	was	king of Aragon until his death in 1134
+0.9070053644301364	Alfonso I	was king until	his death
+0.9070053644301364	Alfonso I	was	king
+0.9070053644301364	Alfonso I	was king of	Aragon
+1.0	his death	is in	1134
+0.9070053644301364	Alfonso I	was	king of Aragon from 1104 until his death in 1134

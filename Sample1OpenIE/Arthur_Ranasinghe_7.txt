@@ -1,0 +1,6 @@
+1.0	he	was Promoted to	Class 3 officer
+1.0	he	was	In 1928 Promoted to Class 3 officer
+1.0	he	served as	District Judge
+1.0	he	was	Promoted
+1.0	he	served in	Avissawella
+1.0	he	was Promoted In	1928

@@ -1,0 +1,7 @@
+1.0	He	is	avid birder called
+1.0	He	is	birder called
+1.0	He	runs	his own wildlife reserve
+1.0	He	is	birder
+1.0	He	runs	his wildlife reserve
+1.0	He	is	avid
+1.0	He	is	avid birder

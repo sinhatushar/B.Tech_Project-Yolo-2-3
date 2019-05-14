@@ -1,0 +1,5 @@
+1.0	music quiz	show	Specks
+0.4718637412299035	Specks	hosted	Leg
+1.0	music quiz	show	Spicks
+1.0	he	hosted In	Australia
+0.4718637412299035	Specks	hosted	Last Leg

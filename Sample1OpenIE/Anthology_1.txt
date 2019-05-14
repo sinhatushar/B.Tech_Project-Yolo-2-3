@@ -1,0 +1,15 @@
+1.0	anthology	is collection of	works chosen by compiler
+1.0	anthology	is collection of	literary works chosen by compiler
+1.0	anthology	is	In book publishing collection of works chosen
+1.0	anthology	is	In book publishing collection of works chosen by compiler
+1.0	anthology	is	In book publishing collection of literary works
+1.0	anthology	is	collection
+1.0	collection	is In	book publishing
+1.0	anthology	is collection of	literary works chosen
+1.0	anthology	is	In book publishing collection of works
+1.0	anthology	is	In book publishing collection of literary works chosen
+1.0	anthology	is collection of	works chosen
+1.0	anthology	is	In book publishing collection of literary works chosen by compiler
+1.0	anthology	is collection of	literary works
+1.0	anthology	is collection In	book publishing
+1.0	anthology	is collection of	works

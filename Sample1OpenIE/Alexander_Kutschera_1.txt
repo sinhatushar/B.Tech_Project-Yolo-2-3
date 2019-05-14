@@ -1,0 +1,6 @@
+1.0	Alexander Kutschera born 21 March 1968	is	former German footballer
+1.0	Alexander Kutschera	born at_time	21 March 1968
+1.0	Alexander Kutschera born 21 March 1968	is	former footballer
+1.0	Alexander Kutschera born	is	former German footballer
+1.0	Alexander Kutschera	born in	Freising
+1.0	Alexander Kutschera born	is	former footballer

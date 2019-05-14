@@ -1,0 +1,26 @@
+1.0	Ali	is followed	celebrity in Kannywood industry
+1.0	Ali	is followed	indigenous celebrity in Africa
+1.0	Ali	is most followed	Also indigenous celebrity
+1.0	Ali	is followed	male celebrity in Kannywood industry
+1.0	Ali	is most followed	indigenous celebrity
+1.0	Ali	is followed	Also indigenous celebrity in Africa
+1.0	Ali	is followed	indigenous celebrity
+1.0	Ali	is followed	Also indigenous celebrity
+1.0	Ali	is most followed	indigenous celebrity in Africa
+1.0	Ali	is most followed	Also celebrity
+1.0	Ali	is most followed	celebrity
+1.0	Ali	is most followed	celebrity
+1.0	Ali	is most followed	celebrity in Africa
+1.0	Ali	is followed	male celebrity
+1.0	celebrity	is in	Kannywood industry
+1.0	indigenous celebrity	is in	Africa
+1.0	Ali	is followed	Also celebrity
+1.0	Ali	is followed	celebrity
+1.0	Ali	is followed	celebrity
+1.0	Ali	is followed	celebrity in Africa
+1.0	Ali	is most followed	Also celebrity in Africa
+1.0	Ali	is most followed	Also indigenous celebrity in Africa
+1.0	Ali	is followed	Also celebrity in Africa
+1.0	Ali	is most followed	celebrity in Kannywood industry
+1.0	Ali	is most followed	male celebrity
+1.0	Ali	is most followed	male celebrity in Kannywood industry

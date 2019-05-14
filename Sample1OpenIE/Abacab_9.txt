@@ -1,0 +1,9 @@
+1.0	album	was certified platinum by	Recording Industry Association of America
+1.0	album	was certified	double platinum
+1.0	album	was certified platinum for	two million copies sold
+1.0	album	was certified platinum for	two million copies sold in US
+1.0	album	was certified platinum in	1988
+1.0	album	was certified platinum for	two million copies
+1.0	album	was certified	platinum
+1.0	album	continued	sell
+1.0	album	was certified platinum by	Recording Industry Association

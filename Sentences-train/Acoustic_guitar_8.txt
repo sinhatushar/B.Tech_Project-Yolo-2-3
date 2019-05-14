@@ -1,0 +1,1 @@
+The string causes the soundboard and sound box to vibrate and as these have their own resonances at certain frequencies they amplify some string harmonics more strongly than others hence affecting the timbre produced by the instrument

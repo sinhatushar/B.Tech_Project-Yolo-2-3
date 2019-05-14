@@ -1,0 +1,8 @@
+1.0	stud	is now owned by	Gerry Harvey
+1.0	stud	is	owned
+1.0	stud	is	now owned
+1.0	stud	was	purchased
+1.0	stud	was purchased In	1984
+1.0	stud	is owned by	Gerry Harvey
+1.0	stud	was	In 1984 purchased by Sir Tristan Antico
+1.0	stud	was purchased by	Sir Tristan Antico

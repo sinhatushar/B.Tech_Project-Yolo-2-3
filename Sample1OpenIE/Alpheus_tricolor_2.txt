@@ -1,0 +1,4 @@
+1.0	It	was first isolated in	Indonesia
+1.0	It	was isolated in	Indonesia
+1.0	It	was	isolated
+1.0	It	was	first isolated

@@ -1,0 +1,6 @@
+1.0	each	have	their sepals
+1.0	flowers	have	their sepals
+1.0	flowers	have	their own sepals
+1.0	each	arising from	heart of rosette
+1.0	each	have	their own sepals
+1.0	each	arising from	heart

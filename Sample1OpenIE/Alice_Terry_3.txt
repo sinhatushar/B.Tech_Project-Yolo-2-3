@@ -1,0 +1,19 @@
+1.0	Francelia Billington	actress in	film
+1.0	she	put on	her blonde wig
+1.0	she	put in	Hearts
+1.0	she	was	brunette
+1.0	Terry	has	trademark look
+1.0	she	put	look
+1.0	she	was brunette	her hair
+1.0	she	put at_time	Are Trumps
+1.0	she	put at_time	1920
+1.0	Terry 's trademark look	was	her hair
+1.0	she	put on	her first wig
+1.0	she	was brunette	her blonde hair
+1.0	she	put on	her first blonde wig
+1.0	other actress	is in	film
+1.0	she	was	actually brunette
+1.0	she	was actually brunette	her hair
+1.0	she	was actually brunette	her blonde hair
+1.0	she	put on	her wig
+1.0	Terry 's trademark look	was	her blonde hair

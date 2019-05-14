@@ -1,0 +1,48 @@
+1.0	there protests	concerning	international-financial reforms to French railway infrastructure
+1.0	popular protests	concerning	reforms
+1.0	there protests	concerning	international-financial reforms
+1.0	popular protests	concerning	international-financial reforms to territorial railway infrastructure
+1.0	protests	concerning	reforms to French territorial railway infrastructure
+1.0	protests	concerning	international-financial reforms
+1.0	there protests	concerning	reforms to French territorial railway infrastructure
+1.0	protests	concerning	reforms
+1.0	protests	concerning	reforms to railway infrastructure
+1.0	protests	concerning	reforms to French railway infrastructure
+1.0	there popular protests	concerning	international-financial reforms to French territorial railway infrastructure
+1.0	there popular protests	concerning	international-financial reforms to French railway infrastructure
+1.0	popular protests	concerning	international-financial reforms to railway infrastructure
+1.0	protests	concerning	international-financial reforms to French railway infrastructure
+0.8224167688426843	concerning	reforms to	French railway infrastructure
+1.0	protests	concerning	international-financial reforms to territorial railway infrastructure
+0.8224167688426843	concerning	reforms to	railway infrastructure
+1.0	popular protests	concerning	international-financial reforms
+1.0	there protests	concerning	reforms to territorial railway infrastructure
+1.0	there popular protests	concerning	international-financial reforms to railway infrastructure
+1.0	there protests	concerning	reforms
+0.8224167688426843	concerning	reforms to	territorial railway infrastructure
+1.0	popular protests	concerning	reforms to French railway infrastructure
+1.0	there protests	concerning	international-financial reforms to railway infrastructure
+1.0	there protests	concerning	reforms to French railway infrastructure
+0.8224167688426843	concerning	international-financial reforms to	French territorial railway infrastructure
+1.0	there popular protests	concerning	reforms to French railway infrastructure
+0.8224167688426843	concerning	international-financial reforms to	territorial railway infrastructure
+1.0	protests	concerning	international-financial reforms to railway infrastructure
+1.0	there popular protests	concerning	international-financial reforms
+0.8224167688426843	concerning	international-financial reforms to	French railway infrastructure
+0.8224167688426843	concerning	reforms to	French territorial railway infrastructure
+1.0	there popular protests	concerning	international-financial reforms to territorial railway infrastructure
+1.0	popular protests	concerning	international-financial reforms to French railway infrastructure
+0.8224167688426843	concerning	international-financial reforms to	railway infrastructure
+1.0	popular protests	concerning	international-financial reforms to French territorial railway infrastructure
+1.0	popular protests	concerning	reforms to territorial railway infrastructure
+1.0	there popular protests	concerning	reforms to territorial railway infrastructure
+1.0	popular protests	concerning	reforms to French territorial railway infrastructure
+1.0	protests	concerning	reforms to territorial railway infrastructure
+1.0	protests	concerning	international-financial reforms to French territorial railway infrastructure
+1.0	there protests	concerning	international-financial reforms to French territorial railway infrastructure
+1.0	there protests	concerning	reforms to railway infrastructure
+1.0	there popular protests	concerning	reforms to railway infrastructure
+1.0	there protests	concerning	international-financial reforms to territorial railway infrastructure
+1.0	there popular protests	concerning	reforms
+1.0	popular protests	concerning	reforms to railway infrastructure
+1.0	there popular protests	concerning	reforms to French territorial railway infrastructure

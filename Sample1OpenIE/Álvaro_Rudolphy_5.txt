@@ -1,0 +1,4 @@
+1.0	he	opted for	theater
+1.0	he	finally opted for	theater
+1.0	he	finally opted After	year
+1.0	he	opted After	year

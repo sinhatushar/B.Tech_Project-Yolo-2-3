@@ -1,0 +1,8 @@
+1.0	It	was published in	1975
+1.0	It	was first published in	1975
+1.0	It	was published by	DAW Books
+1.0	It	was	published by DAW Books in 1975
+1.0	It	was	first published by DAW Books in 1975
+1.0	It	was	first published
+1.0	It	was first published by	DAW Books
+1.0	It	was	published

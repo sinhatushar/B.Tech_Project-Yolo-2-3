@@ -1,0 +1,6 @@
+1.0	she	participated in	popular Chinese singing contest Singer 2018
+1.0	she	participated in	singing contest Singer 2018
+1.0	she	participated in	popular singing contest Singer 2018
+1.0	she	participated In	2018
+1.0	she	participated in	Chinese singing contest Singer 2018
+1.0	she	participated as	host

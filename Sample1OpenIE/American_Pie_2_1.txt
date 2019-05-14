@@ -1,0 +1,10 @@
+1.0	second film	is in	American Pie film series
+1.0	American Pie	sequel to	1999 film American Pie
+1.0	American Pie 2	sequel to	1999 film American Pie
+1.0	American Pie	sequel to	1999 film Pie
+1.0	Pie	is	American
+1.0	American Pie 2	is	2001 American sex comedy film
+1.0	American Pie	is	2001 American sex comedy film
+1.0	American Pie	is	2001 sex comedy film
+1.0	American Pie 2	sequel to	1999 film Pie
+1.0	American Pie 2	is	2001 sex comedy film

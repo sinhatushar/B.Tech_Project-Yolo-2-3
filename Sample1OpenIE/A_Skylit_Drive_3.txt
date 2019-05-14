@@ -1,0 +1,4 @@
+1.0	band	has toured	headliner
+1.0	band	has toured	supporting act
+1.0	band	has toured	as headliner
+1.0	band	has toured	act

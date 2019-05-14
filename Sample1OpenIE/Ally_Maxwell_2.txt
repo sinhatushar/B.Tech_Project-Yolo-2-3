@@ -1,0 +1,7 @@
+1.0	He	is	youth coach
+1.0	He	is	currently youth coach for SC Del Sol Soccer Club in United States
+1.0	He	is	youth coach for SC Del Sol Soccer Club
+1.0	He	is	currently youth coach for SC Del Sol Soccer Club
+1.0	He	is	youth coach for SC Del Sol Soccer Club in United States
+1.0	SC Del Sol Soccer Club	is in	United States
+1.0	He	is	currently youth coach

@@ -1,0 +1,6 @@
+1.0	Tatishvili	has won	eleven singles
+1.0	ITF tour	is in	her career
+1.0	Tatishvili	has won	seven doubles titles
+1.0	Tatishvili	has won eleven singles on	ITF tour
+1.0	Tatishvili	has won eleven singles on	ITF tour in her career
+1.0	Tatishvili	has won	seven titles

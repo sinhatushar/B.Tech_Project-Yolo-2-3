@@ -1,0 +1,7 @@
+0.5299283426376042	colored feathers	coming from	eyes
+1.0	feathers	have	stream
+1.0	feathers	have	stream of cream
+0.5299283426376042	feathers	coming from	eyes
+1.0	feathers	are	reddish
+1.0	feathers	are	color
+1.0	feathers	are	reddish color

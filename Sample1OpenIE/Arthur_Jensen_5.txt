@@ -1,0 +1,8 @@
+1.0	He	was	author
+1.0	He	was author of	over 400 scientific papers
+1.0	He	was author of	over 400 papers published
+1.0	sat	was	rated
+1.0	He	was author of	over 400 scientific papers published
+1.0	He	was author of	over 400 scientific papers published in refereed journals
+1.0	He	was author of	over 400 papers published in refereed journals
+1.0	He	was author of	over 400 papers

@@ -1,0 +1,4 @@
+1.0	Greek	is	In King James Bible translated as Andrew
+1.0	Greek	is translated as	Andrew
+1.0	Greek	is	translated
+1.0	Greek	is translated In	King James Bible

@@ -1,0 +1,20 @@
+1.0	Egoyan 's films	often follow	plot structures
+1.0	events	elicit	specific emotional reactions
+1.0	events	elicit	specific reactions from audience
+1.0	Egoyan	received Dan David Prize for	Creative Rendering
+1.0	Egoyan	received Dan David Prize for	Rendering of Past
+1.0	Egoyan 's films	follow	plot structures
+1.0	Egoyan 's films	often follow	non-linear plot structures
+1.0	events	elicit	specific reactions
+1.0	Egoyan	received	Dan David Prize
+1.0	events	elicit	emotional reactions from audience
+1.0	events	elicit	specific emotional reactions from audience
+1.0	events	are	placed
+1.0	Egoyan	received Dan David Prize for	Rendering
+1.0	Egoyan 's films	follow	non-linear plot structures
+1.0	events	elicit	reactions
+1.0	events	are placed out of	sequence
+1.0	Egoyan	has	films
+1.0	events	elicit	emotional reactions
+1.0	events	elicit	reactions from audience
+1.0	Egoyan	received Dan David Prize for	Creative Rendering of Past

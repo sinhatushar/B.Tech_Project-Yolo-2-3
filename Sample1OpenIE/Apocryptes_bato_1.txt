@@ -1,0 +1,16 @@
+1.0	Apocryptes bato	is species	where can found in rivers
+1.0	Apocryptes bato	is	species
+1.0	it	can	where can found in rivers
+1.0	it	can	where can found in tropical rivers
+1.0	Apocryptes bato	is species	can found in tropical rivers
+1.0	Apocryptes bato	is species of	mudskipper native to India
+1.0	Apocryptes bato	is species	can found
+1.0	Apocryptes bato	is species	where can found
+1.0	Apocryptes bato	is species	can found in rivers
+1.0	it	can	can found in rivers
+1.0	Apocryptes bato	is species	where can found in tropical rivers
+1.0	Apocryptes bato	is species of	mudskipper
+1.0	it	can	can found in tropical rivers
+1.0	it	can	where can found
+1.0	it	can	can found
+1.0	Apocryptes bato	is species of	mudskipper native

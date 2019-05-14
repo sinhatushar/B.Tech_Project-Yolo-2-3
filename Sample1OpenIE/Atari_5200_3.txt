@@ -1,0 +1,4 @@
+1.0	5200 's controllers	have	analog joystick
+1.0	5200 's controllers	have	keypad
+1.0	5200	has	controllers
+1.0	5200 's controllers	have	numeric keypad

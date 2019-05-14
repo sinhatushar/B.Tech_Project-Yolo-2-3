@@ -1,0 +1,14 @@
+1.0	eastern boundary	is	coincident
+1.0	eastern boundary	is coincident with	western boundary of American Theater
+1.0	eastern boundary	is coincident with	boundary of American Theater
+1.0	boundary	is coincident with	boundary
+1.0	boundary	is coincident with	western boundary of American Theater
+1.0	boundary	is coincident with	western boundary
+1.0	eastern boundary	is coincident with	western boundary
+1.0	eastern boundary	is coincident with	boundary of Theater
+1.0	eastern boundary	is coincident with	boundary
+1.0	boundary	is	coincident
+1.0	boundary	is coincident with	boundary of Theater
+1.0	boundary	is coincident with	boundary of American Theater
+1.0	boundary	is coincident with	western boundary of Theater
+1.0	eastern boundary	is coincident with	western boundary of Theater

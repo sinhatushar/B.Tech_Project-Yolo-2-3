@@ -1,0 +1,10 @@
+0.9675230385836268	they	form	part
+0.9675230385836268	their descendants	form	part of Algerian-French population
+0.9675230385836268	they	form part as of	2016
+0.9675230385836268	they	form	part of Algerian-French population
+0.9675230385836268	their descendants	form part as of	2016
+0.9675230385836268	their descendants	form	significant part
+0.9675230385836268	they	form	significant part
+0.9675230385836268	their descendants	form	part
+0.9675230385836268	their descendants	form	significant part of Algerian-French population
+0.9675230385836268	they	form	significant part of Algerian-French population

@@ -1,0 +1,5 @@
+1.0	His signature style	combines	baritone vocals akin
+0.7942802857489359	baritone vocals	akin to	David Bowie
+1.0	His signature style	combines baritone vocals with	instrumentation
+1.0	His signature style	combines	baritone vocals akin to David Bowie
+1.0	His signature style	combines	baritone vocals

@@ -1,0 +1,3 @@
+1.0	song	peaked on	UK charts
+1.0	song	peaked in	US
+1.0	song	peaked at	# 29

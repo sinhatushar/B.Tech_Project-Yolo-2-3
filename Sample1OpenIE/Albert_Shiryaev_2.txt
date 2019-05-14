@@ -1,0 +1,4 @@
+1.0	He	is	known
+1.0	his work	is in	probability theory
+1.0	He	is known for	his work in probability theory
+1.0	He	is known for	his work

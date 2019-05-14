@@ -1,0 +1,5 @@
+1.0	order	belongs to	group
+1.0	order	belongs to	group of angiosperms
+1.0	basal angiosperms	of group is	ANA grade
+1.0	order	belongs to	ANA grade
+1.0	order	belongs to	group of basal angiosperms

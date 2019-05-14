@@ -1,0 +1,10 @@
+1.0	Aldo Antonio Bobadilla valos	is	football goalkeeper of Club Libertad
+1.0	Aldo Antonio Bobadilla valos	is	Paraguayan football goalkeeper
+1.0	Aldo Antonio Bobadilla valos	is	football goalkeeper
+1.0	Aldo Antonio Bobadilla valos	is	Paraguayan retired football goalkeeper of Club Libertad
+1.0	Aldo Antonio Bobadilla valos	is	retired football goalkeeper
+1.0	Aldo Antonio Bobadilla valos	is	retired football goalkeeper of Club Libertad
+1.0	valos	is	retired
+1.0	Aldo Antonio Bobadilla valos	is	Paraguayan football goalkeeper of Club Libertad
+1.0	valos	is	Paraguayan
+1.0	Aldo Antonio Bobadilla valos	is	Paraguayan retired football goalkeeper

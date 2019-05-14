@@ -1,0 +1,7 @@
+0.7573647299851478	You	Now 're Gone	Album
+0.35640244693480255	You	're	Now Gone
+0.7573647299851478	You	're Gone	Album
+1.0	Angel	is in	Night
+1.0	Angel	is	third single
+0.35640244693480255	You	're	Gone
+1.0	Angel	is	single

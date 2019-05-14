@@ -1,0 +1,12 @@
+1.0	Brazilians	are	Brazilian citizens
+1.0	Brazilians	are Brazilian citizens of	Arab ethnic
+1.0	Brazilians	are citizens of	Arab ethnic
+1.0	Arab Brazilians	are Brazilian citizens of	Arab ethnic
+1.0	Arab Brazilians	are	citizens
+1.0	Arab Brazilians	are citizens of	ethnic
+1.0	Arab Brazilians	are citizens of	Arab ethnic
+1.0	Brazilians	are Brazilian citizens of	ethnic
+1.0	Arab Brazilians	are Brazilian citizens of	ethnic
+1.0	Brazilians	are	citizens
+1.0	Arab Brazilians	are	Brazilian citizens
+1.0	Brazilians	are citizens of	ethnic

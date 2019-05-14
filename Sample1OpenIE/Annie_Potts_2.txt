@@ -1,0 +1,10 @@
+1.0	She	was	nominated
+1.0	She	won	Genie Award
+1.0	She	was nominated	appearing
+1.0	She	won	Genie Award for Heartaches
+1.0	She	was nominated for	Golden Globe Award
+1.0	Pretty	is in	Pink
+1.0	She	was nominated for	Golden Globe Award for Corvette Summer
+1.0	She	appearing in	Ghostbusters
+1.0	Pink	in Pretty is	Jumpin Jack Flash 1986
+1.0	She	appearing in	1984

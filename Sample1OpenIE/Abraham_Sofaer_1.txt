@@ -1,0 +1,2 @@
+1.0	player	is in	film
+1.0	Abraham Isaac Sofaer	was	stage actor

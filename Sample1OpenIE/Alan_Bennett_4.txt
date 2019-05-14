@@ -1,0 +1,4 @@
+1.0	His collaboration	is in	satirical revue Beyond Fringe at 1960 Edinburgh Festival
+1.0	His collaboration	is with	Dudley Moore
+1.0	His collaboration	brought	him fame
+1.0	His collaboration	brought	him instant fame

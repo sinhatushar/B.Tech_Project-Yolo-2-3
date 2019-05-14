@@ -1,0 +1,13 @@
+1.0	Royal Family	had	flee
+1.0	Royal Family	had	flee to Brazil in 1807
+1.0	Royal Family	had following	invasion by French troops
+1.0	Fabri	taking	charge
+1.0	Royal Family	had following	invasion
+1.0	Royal Family	had following	invasion of Portugal by French troops
+1.0	Royal Family	flee to	Brazil
+1.0	Royal Family	had	flee in 1807
+1.0	Royal Family	had	flee to Brazil
+1.0	Royal Family	had following	invasion of Portugal
+0.7162865981554681	Fabri	charge of	project
+1.0	Fabri	taking	charge of project
+1.0	Royal Family	flee in	1807

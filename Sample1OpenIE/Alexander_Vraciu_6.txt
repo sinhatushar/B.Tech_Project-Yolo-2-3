@@ -1,0 +1,5 @@
+1.0	Vraciu	later moved to	California
+1.0	Vraciu	worked for	Wells Fargo
+1.0	Vraciu	later moved to	Danville
+1.0	Vraciu	moved to	California
+1.0	Vraciu	moved to	Danville

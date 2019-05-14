@@ -1,0 +1,8 @@
+1.0	team	finished in	first teams ' championship
+1.0	team	Ultimately finished in	first teams ' championship
+1.0	team	finished third in	first teams ' championship
+1.0	team	Ultimately finished third in	teams ' championship
+1.0	team	finished in	teams ' championship
+1.0	team	finished third in	teams ' championship
+1.0	team	Ultimately finished third in	first teams ' championship
+1.0	team	Ultimately finished in	teams ' championship

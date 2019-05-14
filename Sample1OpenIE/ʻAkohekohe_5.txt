@@ -1,0 +1,7 @@
+1.0	adults	are	glossy
+1.0	adults	are glossy black with	whitish feathers
+1.0	adults	are	black
+1.0	adults	are black with	feathers
+1.0	adults	are	glossy black
+1.0	adults	are black with	whitish feathers
+1.0	adults	are glossy black with	feathers

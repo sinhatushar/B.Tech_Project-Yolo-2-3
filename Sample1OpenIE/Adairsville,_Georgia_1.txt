@@ -1,0 +1,5 @@
+1.0	city	is in	Bartow County
+1.0	Adairsville	is city in	United States
+1.0	Adairsville	is	city
+1.0	Adairsville	is city in	Bartow County
+1.0	Adairsville	is city in	Georgia

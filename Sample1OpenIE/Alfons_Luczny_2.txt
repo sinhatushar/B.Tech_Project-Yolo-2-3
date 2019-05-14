@@ -1,0 +1,5 @@
+1.0	He	was recipient of	Knight 's Cross of Iron Cross of Nazi Germany
+1.0	He	was recipient of	Knight 's Cross of Iron Cross
+1.0	Knight	of	Cross of Iron Cross of Nazi Germany
+1.0	He	was	recipient
+1.0	He	was recipient of	Knight 's Cross

@@ -1,0 +1,84 @@
+1.0	Anthracosauria	refer to	smaller group of crocodilian-like tetrapods
+1.0	Anthracosauria	refer to	smaller group of large tetrapods
+1.0	Anthracosauria	refer to	smaller group of crocodilian-like aquatic tetrapods
+1.0	Anthracosauria	refer to	smaller group of crocodilian-like tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	group of large crocodilian-like tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of crocodilian-like aquatic tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	group of large aquatic tetrapods also known
+1.0	Anthracosauria	refer to	smaller group of large crocodilian-like aquatic tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	group of aquatic tetrapods known
+1.0	Anthracosauria	refer to	smaller group of aquatic tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	group of crocodilian-like aquatic tetrapods also known
+1.0	Anthracosauria	refer to	group of large aquatic tetrapods known
+1.0	Anthracosauria	refer to	group of crocodilian-like aquatic tetrapods
+1.0	Anthracosauria	refer to	smaller group of tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	smaller group
+1.0	Anthracosauria	refer to	group of large crocodilian-like tetrapods
+1.0	Anthracosauria	refer to	smaller group of aquatic tetrapods
+1.0	Anthracosauria	refer to	smaller group of tetrapods known
+1.0	Anthracosauria	refer to	group of crocodilian-like aquatic tetrapods known
+1.0	Anthracosauria	refer to	group of large crocodilian-like aquatic tetrapods known
+1.0	Anthracosauria	refer to	group of crocodilian-like tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	group of crocodilian-like tetrapods
+1.0	Anthracosauria	refer to	group of tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	group of tetrapods known
+1.0	Anthracosauria	refer to	group of tetrapods also known
+1.0	Anthracosauria	refer to	smaller group of crocodilian-like aquatic tetrapods also known
+1.0	Anthracosauria	refer to	smaller group of large crocodilian-like aquatic tetrapods known
+1.0	Anthracosauria	refer to	group of large crocodilian-like tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	group
+1.0	Anthracosauria	has	has used
+1.0	Anthracosauria	refer to	smaller group of large aquatic tetrapods
+1.0	Anthracosauria	refer to	group of aquatic tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	group of crocodilian-like tetrapods also known
+1.0	Anthracosauria	refer to	group of large aquatic tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of aquatic tetrapods also known as embolomeres
+1.0	Anthracosauria	has	has also used
+1.0	Anthracosauria	refer to	smaller group of crocodilian-like aquatic tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of large aquatic tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	group of large crocodilian-like tetrapods known
+1.0	Anthracosauria	refer to	smaller group of crocodilian-like tetrapods also known
+1.0	Anthracosauria	refer to	smaller group of tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	group of aquatic tetrapods
+1.0	Anthracosauria	refer to	smaller group of large crocodilian-like tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	group of aquatic tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	group of large crocodilian-like aquatic tetrapods
+1.0	Anthracosauria	refer to	smaller group of large tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of aquatic tetrapods also known
+1.0	Anthracosauria	refer to	smaller group of large crocodilian-like tetrapods also known
+1.0	Anthracosauria	refer to	smaller group of crocodilian-like aquatic tetrapods known
+1.0	Anthracosauria	refer to	group of large tetrapods also known
+1.0	Anthracosauria	refer to	group of large crocodilian-like tetrapods also known
+1.0	Anthracosauria	refer to	group of large tetrapods known
+1.0	Anthracosauria	refer to	group of crocodilian-like tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	group of large crocodilian-like aquatic tetrapods also known
+1.0	Anthracosauria	refer to	smaller group of large crocodilian-like tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	group of tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of large crocodilian-like tetrapods known
+1.0	Anthracosauria	refer to	group of large tetrapods
+1.0	Anthracosauria	refer to	smaller group of large tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of large crocodilian-like tetrapods
+1.0	Anthracosauria	refer to	smaller group of crocodilian-like tetrapods known
+1.0	Anthracosauria	refer to	group of large aquatic tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of crocodilian-like tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of large aquatic tetrapods also known
+1.0	Anthracosauria	refer to	group of aquatic tetrapods also known
+1.0	Anthracosauria	refer to	group of large tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of tetrapods also known
+1.0	Anthracosauria	refer to	group of large tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	group of crocodilian-like aquatic tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of large tetrapods known
+1.0	Anthracosauria	refer to	smaller group of aquatic tetrapods known
+1.0	Anthracosauria	refer to	smaller group of large aquatic tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of tetrapods
+1.0	Anthracosauria	refer to	group of large aquatic tetrapods
+1.0	Anthracosauria	refer to	group of crocodilian-like tetrapods known
+1.0	Anthracosauria	refer to	smaller group of large crocodilian-like aquatic tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	group of large crocodilian-like aquatic tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	smaller group of large aquatic tetrapods known
+1.0	Anthracosauria	refer to	smaller group of large tetrapods also known
+1.0	Anthracosauria	refer to	group of large crocodilian-like aquatic tetrapods known as embolomeres
+1.0	Anthracosauria	refer to	group of crocodilian-like aquatic tetrapods also known as embolomeres
+1.0	Anthracosauria	refer to	group of tetrapods
+1.0	Anthracosauria	refer to	smaller group of large crocodilian-like aquatic tetrapods also known
+1.0	Anthracosauria	refer to	smaller group of large crocodilian-like aquatic tetrapods

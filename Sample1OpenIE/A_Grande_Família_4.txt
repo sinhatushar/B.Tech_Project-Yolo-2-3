@@ -1,0 +1,6 @@
+1.0	family 's grandfather	was written after	death
+1.0	family	's grandfather is	Floriano
+1.0	family 's grandfather	was written after	death of actor Rogrio Cardoso
+1.0	family 's grandfather	was written out of	story
+1.0	family	has	grandfather
+1.0	family 's grandfather	was	written

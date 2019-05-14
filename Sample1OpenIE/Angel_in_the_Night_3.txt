@@ -1,0 +1,9 @@
+1.0	main riff	is from	Basshunter song
+1.0	main synth riff	is from	older Basshunter song
+1.0	main riff	is from	older Basshunter song
+1.0	main synth riff	is from	Basshunter song
+1.0	riff	is from	Basshunter song
+1.0	synth riff	is from	Basshunter song
+1.0	riff	is from	older Basshunter song
+1.0	riff	is	older
+1.0	synth riff	is from	older Basshunter song

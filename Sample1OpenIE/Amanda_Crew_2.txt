@@ -1,0 +1,4 @@
+1.0	She	portraying	Monica Hall
+1.0	She	is	known
+1.0	She	is	best known
+1.0	She	portraying Monica Hall on	HBO sitcom Silicon Valley

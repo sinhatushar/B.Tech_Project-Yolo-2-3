@@ -1,0 +1,10 @@
+1.0	Winehouse	is	live
+1.0	Amy Winehouse	is album by	English singer
+1.0	Amy Winehouse	is posthumous album by	English singer
+1.0	Amy Winehouse	is	live album
+1.0	Amy Winehouse	is live album by	English singer
+1.0	Amy Winehouse	is	posthumous live album
+1.0	Winehouse	is	posthumous
+1.0	Amy Winehouse	is	album
+1.0	Amy Winehouse	is	posthumous album
+1.0	Amy Winehouse	is posthumous live album by	English singer

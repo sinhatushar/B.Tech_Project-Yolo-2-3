@@ -1,0 +1,7 @@
+1.0	Acropora	is	genus
+1.0	Acropora	is genus of	small polyp stony coral
+1.0	Acropora	is genus in	phylum Cnidaria
+1.0	Acropora	is genus of	polyp stony coral
+1.0	genus	is in	phylum Cnidaria
+1.0	Acropora	is	genus of polyp stony coral in phylum Cnidaria
+1.0	Acropora	is	genus of small polyp stony coral in phylum Cnidaria

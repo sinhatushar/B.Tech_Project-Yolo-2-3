@@ -1,0 +1,7 @@
+1.0	they	run	team
+1.0	they	Starting in	2014
+1.0	they	run team under	Audi Sport banner in FIA Formula E Championship for drivers Lucas di Grassi
+1.0	they	run team under	Audi Sport banner in FIA Formula E Championship
+1.0	they	run team under	Audi Sport banner
+1.0	they	run team under	Audi Sport banner for drivers Lucas di Grassi
+1.0	Audi Sport banner	is in	FIA Formula E Championship

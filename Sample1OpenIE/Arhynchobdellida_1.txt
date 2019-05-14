@@ -1,0 +1,6 @@
+1.0	proboscisless leeches	are classified as	order of Hirudinea
+1.0	leeches	are classified as	order
+1.0	leeches	are classified as	order of Hirudinea
+1.0	proboscisless leeches	are classified as	order
+1.0	leeches	are	classified
+1.0	proboscisless leeches	are	classified

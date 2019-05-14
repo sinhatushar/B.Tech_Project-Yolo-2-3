@@ -1,0 +1,13 @@
+1.0	canton	is in	Switzerland
+1.0	Agiez	is municipality of	district of Jura-Nord Vaudois in canton
+1.0	district	is in	canton of Vaud
+1.0	Agiez	is municipality of	district
+1.0	Agiez	is municipality of	district of Jura-Nord Vaudois
+1.0	Agiez	is municipality of	district of Jura-Nord Vaudois in canton in Switzerland
+1.0	Agiez	is municipality of	district of Jura-Nord Vaudois in canton of Vaud in Switzerland
+1.0	Agiez	is municipality of	district in canton
+1.0	Agiez	is municipality of	district in canton of Vaud in Switzerland
+1.0	Agiez	is municipality of	district in canton in Switzerland
+1.0	Agiez	is	municipality
+1.0	Agiez	is municipality of	district of Jura-Nord Vaudois in canton of Vaud
+1.0	Agiez	is municipality of	district in canton of Vaud

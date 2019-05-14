@@ -1,0 +1,8 @@
+1.0	he	recaptured ground at_time	later day
+1.0	he	recaptured ground amid	fighting
+1.0	he	recaptured	ground
+1.0	he	recaptured	further ground
+1.0	he	recaptured ground In	action
+1.0	he	recaptured ground at_time	day
+1.0	he	recaptured ground amid	hard fighting
+1.0	he	recaptured ground In	similar action

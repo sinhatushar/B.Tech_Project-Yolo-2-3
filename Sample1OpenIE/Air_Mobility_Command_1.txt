@@ -1,0 +1,6 @@
+1.0	U.S. Air Force	of Command is	MAJCOM
+1.0	Command	is	Major
+1.0	Air Mobility Command	is	Major Command
+1.0	Air Mobility Command	is	Command
+1.0	Air Mobility Command	is Major Command of	U.S. Air Force
+1.0	Air Mobility Command	is Command of	U.S. Air Force

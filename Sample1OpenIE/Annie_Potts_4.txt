@@ -1,0 +1,6 @@
+1.0	She	voiced Bo Peep in	Disney
+1.0	She	also voiced Bo Peep in	Disney
+1.0	She	is	set
+1.0	She	voiced	Bo Peep
+1.0	her role	is in	Toy Story 4
+1.0	She	also voiced	Bo Peep

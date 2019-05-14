@@ -1,0 +1,32 @@
+1.0	Parla	is	Spanish
+1.0	Agrupacin Deportiva Parla	is	Spanish football team in autonomous community
+1.0	Agrupacin Deportiva Parla	is	football team based in Parla in community
+1.0	Agrupacin Deportiva Parla	is	football team in autonomous community
+1.0	Agrupacin Deportiva Parla	is	Spanish football team based
+1.0	Agrupacin Deportiva Parla	is	Spanish football team based in Parla
+1.0	Agrupacin Deportiva Parla	is	football team based in Parla in autonomous community of Madrid
+1.0	Agrupacin Deportiva Parla	is	football team based in community of Madrid
+1.0	Agrupacin Deportiva Parla	is	football team based in Parla in autonomous community
+1.0	Agrupacin Deportiva Parla	is	football team based in Parla in community of Madrid
+1.0	Agrupacin Deportiva Parla	is	Spanish football team based in Parla in community of Madrid
+1.0	Agrupacin Deportiva Parla	is	Spanish football team
+1.0	Agrupacin Deportiva Parla	is	football team based in autonomous community of Madrid
+1.0	Agrupacin Deportiva Parla	is	Spanish football team based in community of Madrid
+1.0	Agrupacin Deportiva Parla	is	football team in autonomous community of Madrid
+1.0	Spanish football team	is in	autonomous community of Madrid
+1.0	Agrupacin Deportiva Parla	is	Spanish football team in community
+1.0	Agrupacin Deportiva Parla	is	Spanish football team based in community
+1.0	Agrupacin Deportiva Parla	is	Spanish football team in autonomous community of Madrid
+1.0	Agrupacin Deportiva Parla	is	Spanish football team based in Parla in autonomous community
+1.0	Agrupacin Deportiva Parla	is	football team based in community
+1.0	Agrupacin Deportiva Parla	is	football team
+1.0	Agrupacin Deportiva Parla	is	Spanish football team based in autonomous community of Madrid
+1.0	Agrupacin Deportiva Parla	is	Spanish football team based in autonomous community
+1.0	Agrupacin Deportiva Parla	is	Spanish football team based in Parla in community
+1.0	Agrupacin Deportiva Parla	is	Spanish football team based in Parla in autonomous community of Madrid
+1.0	Agrupacin Deportiva Parla	is	football team in community of Madrid
+1.0	Agrupacin Deportiva Parla	is	football team based
+1.0	Agrupacin Deportiva Parla	is	football team in community
+1.0	Agrupacin Deportiva Parla	is	football team based in Parla
+1.0	Agrupacin Deportiva Parla	is	football team based in autonomous community
+1.0	Agrupacin Deportiva Parla	is	Spanish football team in community of Madrid

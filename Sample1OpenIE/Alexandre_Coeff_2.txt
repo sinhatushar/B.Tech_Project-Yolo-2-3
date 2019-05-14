@@ -1,0 +1,4 @@
+1.0	he	can also play as	central defender
+1.0	he	can play as	central defender
+1.0	he	can play as	defender
+1.0	he	can also play as	defender

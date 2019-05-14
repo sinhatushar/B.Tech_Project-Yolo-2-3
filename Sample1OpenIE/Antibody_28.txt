@@ -1,0 +1,2 @@
+1.0	antibody paratope	is	polygenic
+1.0	antibody paratope	is	Basically polygenic

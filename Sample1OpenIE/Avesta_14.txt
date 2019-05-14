@@ -1,0 +1,12 @@
+1.0	abestg texts	are distinguished from	zand
+1.0	abestg texts	are portrayed as	knowledge
+1.0	abestg texts	are	In context portrayed as knowledge
+1.0	abestg texts	are distinguished from	commentaries
+1.0	abestg texts	are distinguished from	commentaries thereof
+1.0	abestg texts	are	In context portrayed as received knowledge
+1.0	abestg texts	are portrayed In	context
+1.0	abestg texts	are portrayed as	received knowledge
+1.0	abestg texts	are distinguished from	exegetical commentaries
+1.0	abestg texts	are	portrayed
+1.0	abestg texts	are	distinguished
+1.0	abestg texts	are distinguished from	exegetical commentaries thereof

@@ -1,0 +1,1 @@
+Each Fc region of a particular antibody isotype is able to bind to its specific Fc Receptor (except for IgD, which is essentially the BCR), thus allowing the antigen-antibody complex to mediate different roles depending on which FcR it binds.

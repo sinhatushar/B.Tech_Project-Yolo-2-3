@@ -1,0 +1,4 @@
+1.0	it	Also borders	departments
+1.0	it	borders	departments of Alibori
+1.0	it	borders	departments
+1.0	it	Also borders	departments of Alibori

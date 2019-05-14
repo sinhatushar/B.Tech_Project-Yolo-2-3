@@ -1,0 +1,4 @@
+1.0	acoustic guitar	is guitar	produces
+1.0	guitar	is guitar	produces
+1.0	guitar	is	guitar
+1.0	acoustic guitar	is	guitar

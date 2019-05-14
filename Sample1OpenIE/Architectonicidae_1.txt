@@ -1,0 +1,11 @@
+1.0	Architectonicidae	are family of	marine gastropod mollusks in informal group
+1.0	Architectonicidae	are family of	gastropod mollusks in group
+1.0	clade Heterobranchia	of Heterobranchia is	= Allogastropoda
+1.0	marine gastropod mollusks	is in	informal group
+1.0	Architectonicidae	are	family
+1.0	Architectonicidae	are family of	gastropod mollusks
+1.0	Architectonicidae	are family of	marine gastropod mollusks
+1.0	Architectonicidae	are family of	gastropod mollusks in informal group
+1.0	sea snails	mollusks in	informal group
+1.0	Architectonicidae	are family of	sea snails
+1.0	Architectonicidae	are family of	marine gastropod mollusks in group

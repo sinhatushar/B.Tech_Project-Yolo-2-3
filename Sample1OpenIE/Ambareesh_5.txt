@@ -1,0 +1,13 @@
+1.0	Ambareesh	became	lower house
+1.0	Ambareesh	became	member
+1.0	Ambareesh	three-time member of	Lok Sabha
+1.0	Ambareesh	joining	politics
+1.0	Ambareesh	house of	Indian Parliament
+1.0	Indian Parliament	of house is	member
+1.0	Ambareesh	joining politics in	1994
+1.0	Ambareesh	lower house of	Indian Parliament
+1.0	Ambareesh	became	house of Indian Parliament
+1.0	Ambareesh	became	lower house of Indian Parliament
+1.0	Ambareesh	member of	Lok Sabha
+1.0	he	remained till	his death
+1.0	Ambareesh	became	house

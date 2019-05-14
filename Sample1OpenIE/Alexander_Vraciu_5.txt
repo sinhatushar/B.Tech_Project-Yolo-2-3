@@ -1,0 +1,5 @@
+1.0	He	retired from	U.S. Navy
+1.0	He	retired with	rank on December 31 1963
+1.0	He	retired with	rank of commander on December 31 1963
+1.0	He	retired with	rank
+1.0	He	retired with	rank of commander

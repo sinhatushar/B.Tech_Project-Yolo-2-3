@@ -1,0 +1,33 @@
+1.0	ABRSM	is one	UK 's 200 largest charitable organisations
+1.0	ABRSM	is one of	UK 's 200 charitable organisations
+1.0	ABRSM	is one of	UK 's 200 largest charitable organisations ranked
+1.0	ABRSM	is one	UK 's 200 charitable organisations ranked by expenditure
+1.0	ABRSM	is one of	UK 's 200 organisations
+1.0	ABRSM	is one	UK 's 200 largest organisations ranked by annual expenditure
+1.0	ABRSM	is one	UK 's 200 charitable organisations ranked
+1.0	ABRSM	is one of	UK 's 200 largest charitable organisations ranked by expenditure
+1.0	ABRSM	is one of	UK 's 200 charitable organisations ranked
+1.0	ABRSM	is one of	UK 's 200 largest organisations ranked
+1.0	ABRSM	is one	UK 's 200 largest charitable organisations ranked
+1.0	UK	of	200 largest charitable organisations ranked by annual expenditure
+1.0	ABRSM	is one	UK 's 200 largest charitable organisations ranked by annual expenditure
+1.0	ABRSM	is one	UK 's 200 largest charitable organisations ranked by expenditure
+1.0	ABRSM	is one	UK 's 200 organisations
+1.0	ABRSM	is one of	UK 's 200 largest organisations ranked by annual expenditure
+1.0	ABRSM	is one of	UK 's 200 organisations ranked by annual expenditure
+1.0	ABRSM	is one of	UK 's 200 charitable organisations ranked by annual expenditure
+1.0	ABRSM	is one	UK 's 200 largest organisations ranked by expenditure
+1.0	ABRSM	is one	UK 's 200 largest organisations
+1.0	ABRSM	is one of	UK 's 200 organisations ranked
+1.0	ABRSM	is one of	UK 's 200 charitable organisations ranked by expenditure
+1.0	ABRSM	is one of	UK 's 200 organisations ranked by expenditure
+1.0	ABRSM	is one	UK 's 200 charitable organisations ranked by annual expenditure
+1.0	ABRSM	is one	UK 's 200 organisations ranked
+1.0	ABRSM	is one	UK 's 200 organisations ranked by annual expenditure
+1.0	ABRSM	is one	UK 's 200 largest organisations ranked
+1.0	ABRSM	is one of	UK 's 200 largest charitable organisations ranked by annual expenditure
+1.0	ABRSM	is one of	UK 's 200 largest charitable organisations
+1.0	ABRSM	is one of	UK 's 200 largest organisations ranked by expenditure
+1.0	ABRSM	is one of	UK 's 200 largest organisations
+1.0	ABRSM	is one	UK 's 200 organisations ranked by expenditure
+1.0	ABRSM	is one	UK 's 200 charitable organisations

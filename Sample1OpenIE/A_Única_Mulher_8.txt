@@ -1,0 +1,4 @@
+1.0	telenovela	is	split
+1.0	Portuguese telenovela	is	split
+1.0	Portuguese telenovela	is split into	seasons
+1.0	telenovela	is split into	seasons

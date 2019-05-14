@@ -1,0 +1,12 @@
+1.0	he	was elected in	1994
+1.0	he	was first elected in	1994
+1.0	he	was	first elected to
+1.0	Ahsan	is	Pakistani
+1.0	he	was	elected
+0.9351163768574879	lawyer	serving from	seat
+1.0	he	was	first elected
+1.0	he	was	elected to
+1.0	he	was	first elected to in 1994
+0.9351163768574879	lawyer	serving from	Punjab
+1.0	he	was	elected to in 1994
+0.9351163768574879	lawyer	serving as	Pakistan Senator

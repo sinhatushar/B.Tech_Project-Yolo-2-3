@@ -1,0 +1,5 @@
+1.0	AsiaticPacific Campaign Medal	is	United States military award
+1.0	AsiaticPacific Campaign Medal	is	United States award
+1.0	Medal	is	military
+1.0	AsiaticPacific Campaign Medal	is	United States award of Second World War
+1.0	AsiaticPacific Campaign Medal	is	United States military award of Second World War

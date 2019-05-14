@@ -1,0 +1,12 @@
+1.0	She	played collegiately at	University
+1.0	She	played collegiately at	University of Notre Dame
+1.0	She	was player	play
+1.0	She	was first Finnish player	play
+1.0	She	was first player	play in WUSA
+1.0	She	played at	University of Notre Dame
+1.0	She	was Finnish player	play
+1.0	She	was player	play in WUSA
+1.0	She	was Finnish player	play in WUSA
+1.0	She	played at	University
+1.0	She	was first Finnish player	play in WUSA
+1.0	She	was first player	play

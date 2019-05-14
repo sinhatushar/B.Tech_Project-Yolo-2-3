@@ -1,0 +1,8 @@
+1.0	its	family	Adiantaceae
+1.0	Adiantum	is genus of	about 250 species of ferns in Vittarioideae subfamily of family Pteridaceae
+1.0	Adiantum	is genus of	about 250 species
+1.0	Adiantum	is	genus
+1.0	Adiantum	is genus of	about 250 species of ferns
+1.0	researchers	place	it
+1.0	Adiantum	is genus of	about 250 species of ferns in Vittarioideae subfamily
+1.0	ferns	is in	Vittarioideae subfamily of family Pteridaceae

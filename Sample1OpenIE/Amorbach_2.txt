@@ -1,0 +1,12 @@
+1.0	small river Mud	is in	northeastern part of Odenwald
+1.0	It	is situated on	river Mud in northeastern part of Odenwald
+1.0	It	is situated on	small river Mud
+1.0	It	is situated on	small river Mud in part of Odenwald
+1.0	It	is situated on	small river Mud in northeastern part of Odenwald
+1.0	It	is situated on	river Mud in part
+1.0	It	is situated on	small river Mud in part
+1.0	It	is situated on	river Mud in northeastern part
+1.0	It	is situated on	small river Mud in northeastern part
+1.0	It	is	situated
+1.0	It	is situated on	river Mud in part of Odenwald
+1.0	It	is situated on	river Mud

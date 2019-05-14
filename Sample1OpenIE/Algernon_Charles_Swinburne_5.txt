@@ -1,0 +1,8 @@
+1.0	Several historical people	are featured in	his poems
+1.0	Several people	are featured in	his poems
+1.0	Several historical people	are	featured
+1.0	Several people	are	featured
+1.0	people	are featured in	his poems
+1.0	historical people	are featured in	his poems
+1.0	historical people	are	featured
+1.0	people	are	featured

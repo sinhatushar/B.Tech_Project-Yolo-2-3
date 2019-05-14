@@ -1,0 +1,9 @@
+1.0	He	teach at	university
+1.0	He	teach for	years
+1.0	He	stayed	teach for several years
+1.0	He	stayed	teach
+1.0	He	stayed	teach at university for several years
+1.0	He	stayed	teach at university
+1.0	He	stayed	teach at university for years
+1.0	He	stayed	teach for years
+1.0	He	teach for	several years

@@ -1,0 +1,6 @@
+1.0	Asfalt Records	has released	albums for artists
+1.0	Asfalt Records	far has released	albums for artists
+1.0	Asfalt Records	So far has released	albums
+1.0	Asfalt Records	far has released	albums
+1.0	Asfalt Records	has released	albums
+1.0	Asfalt Records	So far has released	albums for artists

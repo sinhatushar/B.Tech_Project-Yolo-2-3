@@ -1,0 +1,9 @@
+1.0	Century Fox	handled	its distribution
+1.0	Century Fox	handled	its distribution in France
+1.0	20th Century Fox	handled	its distribution in France
+1.0	film	was	distributed in Germany by Jugendfilm
+1.0	its distribution	is in	France
+1.0	film	was	distributed
+1.0	film	was distributed by	Jugendfilm
+1.0	20th Century Fox	handled	its distribution
+1.0	film	was distributed in	Germany

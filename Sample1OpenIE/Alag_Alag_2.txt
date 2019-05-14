@@ -1,0 +1,6 @@
+1.0	film	is	remembered
+1.0	it	was shot in	Kashmir
+1.0	it	was	shot
+1.0	film	is	best remembered
+1.0	film	is remembered for	way
+1.0	film	is best remembered for	way

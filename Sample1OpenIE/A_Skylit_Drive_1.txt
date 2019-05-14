@@ -1,0 +1,14 @@
+1.0	Skylit Drive	is band from	California
+1.0	Skylit Drive	is American band from	Lodi
+1.0	Skylit Drive	is	band
+1.0	Skylit Drive	is band from	Lodi
+1.0	Drive	is	post-hardcore
+1.0	Skylit Drive	is American post-hardcore band from	Lodi
+1.0	Skylit Drive	is	American band
+1.0	Skylit Drive	is	post-hardcore band
+1.0	Skylit Drive	is American post-hardcore band from	California
+1.0	Skylit Drive	is post-hardcore band from	California
+1.0	Drive	is	American
+1.0	Skylit Drive	is	American post-hardcore band
+1.0	Skylit Drive	is American band from	California
+1.0	Skylit Drive	is post-hardcore band from	Lodi

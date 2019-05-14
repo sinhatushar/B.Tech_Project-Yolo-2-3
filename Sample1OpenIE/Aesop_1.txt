@@ -1,0 +1,6 @@
+1.0	Aesop	was	Greek
+1.0	Aesop	was	fabulist
+1.0	Aesop	as	Fables
+1.0	Aesop	was	fabulist credited
+1.0	Aesop	was	Greek fabulist
+1.0	Aesop	was	Greek fabulist credited

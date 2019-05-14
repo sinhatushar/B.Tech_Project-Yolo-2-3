@@ -1,0 +1,22 @@
+1.0	Maimonides Medical Center	is in	Brooklyn
+1.0	Kantrowitz	was	cardiac
+1.0	Adrian Kantrowitz	was	American surgeon
+1.0	Adrian Kantrowitz	was	American cardiac surgeon
+1.0	team	performed	world 's second heart transplant attempt after Christiaan Barnard at Maimonides Medical Center
+1.0	Maimonides Medical Center	York on	December 6 1967
+1.0	team	performed	world 's heart transplant attempt after Christiaan Barnard at Maimonides Medical Center in Brooklyn
+1.0	world	has	second heart transplant attempt after Christiaan Barnard at Maimonides Medical Center in Brooklyn
+1.0	team	performed	world 's second heart transplant attempt after Christiaan Barnard at Maimonides Medical Center in Brooklyn
+1.0	team	performed	world 's heart transplant attempt at Maimonides Medical Center in Brooklyn
+1.0	team	performed	world 's heart transplant attempt after Christiaan Barnard
+1.0	team	performed	world 's second heart transplant attempt after Christiaan Barnard
+1.0	team	performed	world 's second heart transplant attempt
+1.0	Adrian Kantrowitz	was	surgeon
+1.0	team	performed	world 's heart transplant attempt
+1.0	team	performed	world 's heart transplant attempt at Maimonides Medical Center
+1.0	team	performed	world 's second heart transplant attempt at Maimonides Medical Center in Brooklyn
+1.0	team	performed	world 's second heart transplant attempt at Maimonides Medical Center
+1.0	Adrian Kantrowitz	was	cardiac surgeon
+1.0	Adrian Kantrowitz	October at_time	2008
+1.0	Kantrowitz	was	American
+1.0	team	performed	world 's heart transplant attempt after Christiaan Barnard at Maimonides Medical Center

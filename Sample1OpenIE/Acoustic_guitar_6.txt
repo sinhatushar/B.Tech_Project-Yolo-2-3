@@ -1,0 +1,14 @@
+1.0	string	creates	harmonics
+1.0	string	creates harmonics at	frequencies
+1.0	string	also creates harmonics at	various different frequencies
+1.0	string	creates harmonics at	different frequencies
+1.0	string	also creates harmonics at	various frequencies
+1.0	string	also creates harmonics at	frequencies
+1.0	string	creates harmonics at	various frequencies
+1.0	string	also creates	many harmonics
+1.0	string	also creates	harmonics
+1.0	string	creates harmonics at	various different frequencies
+1.0	string	also creates harmonics at	different frequencies
+1.0	string	creates	many harmonics
+1.0	string	vibrates at	necessary frequency
+1.0	string	vibrates at	frequency

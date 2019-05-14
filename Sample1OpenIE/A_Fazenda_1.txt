@@ -1,0 +1,4 @@
+1.0	Fazenda Portuguese pronunciation	is	reality television game show
+1.0	association	is with	Sony Entertainment
+1.0	pronunciation	is	Brazilian
+1.0	Fazenda Portuguese pronunciation	is	Brazilian reality television game show

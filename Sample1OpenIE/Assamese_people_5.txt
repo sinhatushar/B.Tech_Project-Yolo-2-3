@@ -1,0 +1,16 @@
+1.0	people	are referred	is dispute over definition
+0.7424566596684716	people	belonging to	state
+1.0	people	are referred	is dispute
+1.0	people	are referred	is dispute over definition of people
+1.0	people	are referred	is political dispute over definition of Assamese people
+1.0	people	are referred in	general
+1.0	people	are	referred
+1.0	people	are referred as	Assamese people
+1.0	people	are referred	is political dispute over definition of people
+1.0	people	are referred as	people
+1.0	people	are referred	is dispute over definition of Assamese people
+1.0	people	are	in general referred as people
+0.7424566596684716	people	belonging to	state Assam
+1.0	people	are referred	is political dispute over definition
+1.0	people	are referred	is political dispute
+1.0	people	are	in general referred as Assamese people

@@ -1,0 +1,4 @@
+1.0	song	was	released as single in early 1988
+1.0	song	was released in	early 1988
+1.0	song	was released as	single
+1.0	song	was	released

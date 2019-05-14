@@ -1,0 +1,9 @@
+1.0	Vice Admiral Sir Alan Wedel Ramsay McNicoll	April at_time	October 1987
+1.0	senior officer	is in	Royal Australian Navy
+1.0	Vice Admiral Sir Alan Wedel Ramsay McNicoll	was senior officer in	RAN
+1.0	Vice Admiral Sir Alan Wedel Ramsay McNicoll	was	officer
+1.0	Vice Admiral Sir Alan Wedel Ramsay McNicoll	was officer in	Royal Australian Navy
+1.0	Vice Admiral Sir Alan Wedel Ramsay McNicoll	was senior officer in	Royal Australian Navy
+1.0	Vice Admiral Sir Alan Wedel Ramsay McNicoll	was	senior officer
+1.0	McNicoll	was	senior
+1.0	Vice Admiral Sir Alan Wedel Ramsay McNicoll	was officer in	RAN

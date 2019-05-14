@@ -1,0 +1,15 @@
+1.0	she	won	league
+1.0	she	twice won league with	Ume IK
+1.0	she	twice won	Swedish league
+1.0	she	won	Swedish league
+1.0	she	twice won	top league
+1.0	she	twice won league with	Ume IK in Sweden
+1.0	Ume IK	is in	Sweden
+1.0	she	won	Swedish top league
+1.0	she	won	Damallsvenskan
+1.0	she	won league with	Ume IK in Sweden
+1.0	she	twice won	Swedish top league
+1.0	she	twice won	league
+1.0	she	won	top league
+1.0	she	won league with	Ume IK
+1.0	she	twice won	Damallsvenskan

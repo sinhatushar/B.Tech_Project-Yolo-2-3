@@ -1,0 +1,8 @@
+1.0	he	was	In 1903 again elected to Virginia State Senate
+1.0	he	was	again elected
+1.0	he	was elected to	Virginia State Senate
+1.0	he	was elected In	1903
+1.0	he	was	In 1903 elected to Virginia State Senate
+1.0	he	was again elected In	1903
+1.0	he	was	elected
+1.0	he	was again elected to	Virginia State Senate

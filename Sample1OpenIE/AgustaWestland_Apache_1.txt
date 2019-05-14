@@ -1,0 +1,9 @@
+1.0	AgustaWestland Apache	is	licence-built version
+1.0	AgustaWestland Apache	is version of	Boeing AH-64D Apache Longbow attack helicopter for Army Air Corps
+1.0	AgustaWestland Apache	is version of	Boeing AH-64D Apache Longbow attack helicopter for British Army Air Corps
+1.0	AgustaWestland Apache	is licence-built version of	Boeing AH-64D Apache Longbow attack helicopter for British Army Air Corps
+1.0	AgustaWestland Apache	is licence-built version of	Boeing AH-64D Apache Longbow attack helicopter for Army Air Corps
+1.0	AgustaWestland Apache	is licence-built version of	Boeing AH-64D Apache Longbow attack helicopter
+1.0	AgustaWestland Apache	is	version
+1.0	AgustaWestland Apache	is version of	Boeing AH-64D Apache Longbow attack helicopter
+1.0	Apache	is	licence-built

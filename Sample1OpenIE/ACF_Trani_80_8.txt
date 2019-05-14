@@ -1,0 +1,7 @@
+1.0	they	merged	become
+1.0	they	inheriting	Lecce 's striker Rose Reilly
+1.0	they	merged In	1984
+1.0	Lecce	has	Scottish striker Rose Reilly
+1.0	they	inheriting	Lecce 's Scottish striker Rose Reilly
+1.0	they	merged with	champions Alaska Lecce
+1.0	they	become	ACF Alaska Trani

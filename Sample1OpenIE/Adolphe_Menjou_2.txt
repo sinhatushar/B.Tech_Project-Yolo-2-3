@@ -1,0 +1,3 @@
+1.0	His career	spanned	silent films
+1.0	His career	spanned	talkies
+1.0	His career	spanned	films

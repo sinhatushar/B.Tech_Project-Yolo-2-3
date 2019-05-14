@@ -1,0 +1,7 @@
+1.0	Dirjal	is	Iraqi
+1.0	Iraq	of	most prominent national team captains
+1.0	Adnan Dirjal	is	former footballer
+1.0	Iraqi former footballer	one of	Iraq 's most prominent national team captains
+0.6001397604439802	Adnan Dirjal	born	January 1960
+0.6001397604439802	Adnan Dirjal	born	26 January 1960
+1.0	Adnan Dirjal	is	Iraqi former footballer

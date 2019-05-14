@@ -1,0 +1,11 @@
+1.0	It	is located in	Nagarjuna Nagar
+1.0	It	is	located in Nagarjuna Nagar in part of Guntur City
+1.0	It	is	located
+1.0	It	is located in	part of Guntur City
+1.0	It	is	located in Nagarjuna Nagar in northern part
+1.0	It	is located in	northern part of Guntur City
+1.0	It	is located in	part
+1.0	It	is located in	northern part
+1.0	It	is	located in Nagarjuna Nagar in northern part of Guntur City
+1.0	It	is located in	Namburu
+1.0	It	is	located in Nagarjuna Nagar in part

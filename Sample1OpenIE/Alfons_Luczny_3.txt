@@ -1,0 +1,5 @@
+1.0	he	was handed over to	Soviet forces
+1.0	Luczny	surrendered to	American troops
+1.0	Luczny	surrendered in	May 1945
+1.0	Luczny	surrendered to	troops
+1.0	he	was handed over to	forces

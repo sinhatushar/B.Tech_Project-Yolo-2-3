@@ -1,0 +1,16 @@
+1.0	Amorbach	is town in	Miltenberg district in Regierungsbezirk
+1.0	Amorbach	is town in	Miltenberg district
+1.0	Amorbach	is town in	Miltenberg district in Regierungsbezirk of Lower Franconia in Bavaria
+1.0	Amorbach	is	town in Miltenberg district with some 4,000 inhabitants
+1.0	Amorbach	is	town in Miltenberg district in Regierungsbezirk of Lower Franconia in Bavaria with some 4,000 inhabitants
+1.0	Amorbach	is town in	Miltenberg district in Regierungsbezirk of Lower Franconia
+1.0	Amorbach	is	town in Miltenberg district in Regierungsbezirk in Bavaria with some 4,000 inhabitants
+1.0	town	is in	Miltenberg district
+1.0	Amorbach	is	town in Miltenberg district in Regierungsbezirk of Lower Franconia with some 4,000 inhabitants
+1.0	Amorbach	is town in	Miltenberg district in Regierungsbezirk in Bavaria
+1.0	Regierungsbezirk	is in	Bavaria
+1.0	town	is with	some 4,000 inhabitants
+1.0	Amorbach	is town with	some 4,000 inhabitants
+1.0	Amorbach	is	town in Miltenberg district in Regierungsbezirk with some 4,000 inhabitants
+1.0	Miltenberg district	is in	Regierungsbezirk of Lower Franconia
+1.0	Amorbach	is	town

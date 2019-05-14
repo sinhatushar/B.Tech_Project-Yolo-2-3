@@ -1,0 +1,9 @@
+1.0	She	was	skillful
+1.0	She	dictated run with	her tackling
+1.0	She	dictated run with	her effective tackling
+1.0	She	was skillful with	ball
+1.0	She	dictated	run of her team 's play
+1.0	She	dictated run from	midfield
+1.0	She	dictated run from	central midfield
+1.0	team	of	play
+1.0	She	dictated	run

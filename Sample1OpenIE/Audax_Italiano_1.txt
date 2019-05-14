@@ -1,0 +1,9 @@
+1.0	Chilean football club	based in	La Florida
+1.0	Audax Club Sportivo Italiano	is	Chilean football club
+1.0	Italiano	is	Chilean
+1.0	Audax Club Sportivo Italiano	is	football club based in La Florida
+1.0	Audax Club Sportivo Italiano	is	football club
+1.0	Audax Club Sportivo Italiano	is	football club based
+1.0	Audax Club Sportivo Italiano	is	Chilean football club based in La Florida
+1.0	Audax Club Sportivo Italiano	is	Chilean football club based
+1.0	football club	based in	La Florida

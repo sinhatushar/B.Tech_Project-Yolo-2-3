@@ -1,0 +1,14 @@
+1.0	canton	is in	Switzerland
+1.0	Avegno Gordevio	is municipality in	district
+1.0	Avegno Gordevio	is municipality in	district in canton of Ticino in Switzerland
+1.0	municipality	is in	district of Vallemaggia
+1.0	Avegno Gordevio	is municipality in	district in canton of Ticino
+1.0	Avegno Gordevio	is municipality in	district of Vallemaggia in canton of Ticino in Switzerland
+1.0	Avegno Gordevio	is municipality in	district of Vallemaggia in canton in Switzerland
+1.0	district	is in	canton of Ticino
+1.0	Avegno Gordevio	is municipality in	district in canton
+1.0	Avegno Gordevio	is municipality in	district of Vallemaggia in canton of Ticino
+1.0	Avegno Gordevio	is	municipality
+1.0	Avegno Gordevio	is municipality in	district in canton in Switzerland
+1.0	Avegno Gordevio	is municipality in	district of Vallemaggia in canton
+1.0	Avegno Gordevio	is municipality in	district of Vallemaggia

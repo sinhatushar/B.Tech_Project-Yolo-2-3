@@ -1,0 +1,4 @@
+1.0	Archer Allen Phlegar	February at_time	1912
+1.0	Archer Allen Phlegar	was	born
+1.0	Archer Allen Phlegar	was born at	Virginia
+1.0	Archer Allen Phlegar	was born at	Christiansburg

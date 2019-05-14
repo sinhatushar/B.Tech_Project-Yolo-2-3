@@ -1,0 +1,6 @@
+1.0	TVI	announce	second season
+1.0	TVI	announce	second season one month before
+1.0	TVI	announce	season one month before
+1.0	Its rising popularity	led	TVI
+1.0	TVI	announce	season
+1.0	Its popularity	led	TVI

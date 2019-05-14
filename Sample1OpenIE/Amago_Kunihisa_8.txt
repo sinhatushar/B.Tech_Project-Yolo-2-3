@@ -1,0 +1,6 @@
+1.0	killed	acted as	guardian
+1.0	killed	acted as	guardian for former 's son
+1.0	Amago Masahisa	was killed in	1518 Kunihisa
+1.0	former	's son is	Amako Haruhisa
+1.0	former	for	son
+1.0	Amago Masahisa	was	killed

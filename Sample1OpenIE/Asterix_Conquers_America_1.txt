@@ -1,0 +1,5 @@
+1.0	Asterix Conquers America	is	1994 French produced by Jrgen Wohlrabe
+1.0	latter	directed	it
+1.0	Asterix Conquers America	is	1994 French
+1.0	Asterix Conquers America	is	1994 French produced
+1.0	latter	also directed	it

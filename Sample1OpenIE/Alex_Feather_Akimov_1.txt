@@ -1,0 +1,13 @@
+1.0	composer	has	has active for nearly ten years as musician
+1.0	composer	has	has active in music industry as touring musician
+1.0	composer	has	has active in music industry for nearly ten years as musician
+1.0	composer	has	has active for nearly ten years
+1.0	composer	has	has active in music industry for nearly ten years
+1.0	composer	has	has active for nearly ten years as touring musician
+1.0	solo artist	is in	his own right
+1.0	composer	has	has active as musician
+1.0	composer	has	has active in music industry for nearly ten years as touring musician
+1.0	composer	has	has active
+1.0	composer	has	has active in music industry
+1.0	composer	has	has active in music industry as musician
+1.0	composer	has	has active as touring musician

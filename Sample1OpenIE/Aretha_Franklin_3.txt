@@ -1,0 +1,6 @@
+1.0	she	embarked on	career recording
+1.0	she	embarked At	age
+1.0	she	embarked on	career recording for Columbia Records
+1.0	she	embarked At	age of 18
+1.0	she	embarked on	secular career recording
+1.0	she	embarked on	secular career recording for Columbia Records

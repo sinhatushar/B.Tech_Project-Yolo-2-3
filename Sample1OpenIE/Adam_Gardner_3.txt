@@ -1,0 +1,5 @@
+1.0	Harding Township School	is in	New Vernon
+1.0	He	also attended	Harding Township School
+1.0	He	attended	Harding Township School in New Vernon
+1.0	He	also attended	Harding Township School in New Vernon
+1.0	He	attended	Harding Township School

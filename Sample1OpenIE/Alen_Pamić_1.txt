@@ -1,0 +1,22 @@
+1.0	Alen Pami	was footballer	last played
+1.0	Alen Pami	was professional footballer	last played
+1.0	Alen Pami	was professional footballer	played for Istra 1961
+1.0	Alen Pami	was footballer	played for Istra 1961
+1.0	Alen Pami	was	Croatian professional footballer
+1.0	Alen Pami	was	footballer
+1.0	Alen Pami	was Croatian professional footballer	played
+1.0	Alen Pami	was Croatian footballer	last played
+1.0	Alen Pami	was Croatian footballer	played
+1.0	Alen Pami	was Croatian professional footballer	played for Istra 1961
+1.0	Alen Pami	was footballer	last played for Istra 1961
+1.0	Alen Pami	was footballer	played
+1.0	Alen Pami	was professional footballer	last played for Istra 1961
+1.0	Alen Pami	was	professional footballer
+1.0	Alen Pami	was professional footballer	played
+1.0	Alen Pami	was Croatian footballer	played for Istra 1961
+1.0	Pami	was	professional
+1.0	Alen Pami	was Croatian professional footballer	last played for Istra 1961
+1.0	Alen Pami	was	Croatian footballer
+1.0	Alen Pami	was Croatian professional footballer	last played
+1.0	Alen Pami	was Croatian footballer	last played for Istra 1961
+1.0	Pami	was	Croatian

@@ -1,0 +1,14 @@
+1.0	he	was commander of	U.S. Army
+1.0	he	was commander In	post-war era
+1.0	commander	is in	Europe
+1.0	he	was commander In	era
+1.0	he	was	In era commander of U.S. Army
+1.0	he	was	In post-war era commander of U.S. Army
+1.0	he	was	In era commander in Europe
+1.0	he	was commander in	Europe
+1.0	he	was	In post-war era commander of U.S. Army in Europe
+1.0	commander	is In	post-war era
+1.0	he	was	In era commander of U.S. Army in Europe
+1.0	he	was	In post-war era commander in Europe
+1.0	he	was	commander of U.S. Army in Europe
+1.0	he	was	commander

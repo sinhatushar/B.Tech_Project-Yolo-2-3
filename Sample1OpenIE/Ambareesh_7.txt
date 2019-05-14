@@ -1,0 +1,18 @@
+1.0	he	served as	part
+1.0	he	was member of	Karnataka Legislative Assembly
+1.0	Ambareesh	was honoured in	2013
+1.0	he	was	member
+1.0	he	was member of	Karnataka Assembly
+1.0	he	served as	part of Siddaramaiah cabinet.Besides
+1.0	Ambareesh	was	honoured
+1.0	he	served during	time
+1.0	Ambareesh	was	honoured with doctorate in 2013
+1.0	Ambareesh	was honoured with	doctorate from Karnatak University
+1.0	Ambareesh	was honoured with	honorary doctorate
+1.0	Ambareesh	was	honoured with doctorate from Karnatak University in 2013
+1.0	he	served as	Minister
+1.0	he	served as	Minister of Housing
+1.0	Ambareesh	was	honoured with honorary doctorate from Karnatak University in 2013
+1.0	Ambareesh	was	honoured with honorary doctorate in 2013
+1.0	Ambareesh	was honoured with	honorary doctorate from Karnatak University
+1.0	Ambareesh	was honoured with	doctorate

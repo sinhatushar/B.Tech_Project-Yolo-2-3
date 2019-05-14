@@ -1,0 +1,10 @@
+1.0	top	has	feathers sticking from wings
+1.0	top	has	feathers
+1.0	top	has	orange feathers sticking from wings
+0.5276585098827086	feathers	sticking from	wings
+1.0	top	has	orange feathers sticking
+1.0	underparts	are	black
+1.0	underparts	are	whitish black
+0.5276585098827086	orange feathers	sticking from	wings
+1.0	top	has	orange feathers
+1.0	top	has	feathers sticking

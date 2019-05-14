@@ -1,0 +1,4 @@
+1.0	film	had	musical score by Shankar Ganesh
+1.0	film	had	score by Shankar Ganesh
+1.0	film	had	score
+1.0	film	had	musical score

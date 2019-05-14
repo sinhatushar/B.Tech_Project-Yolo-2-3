@@ -1,0 +1,8 @@
+1.0	last episode	was	broadcast
+1.0	last episode	was	broadcast on June 16 2000 with Carita de ngel
+1.0	episode	was broadcast with	Carita de ngel
+1.0	last episode	was broadcast with	Carita de ngel
+1.0	episode	was broadcast on	June 16 2000
+1.0	episode	was	broadcast
+1.0	episode	was	broadcast on June 16 2000 with Carita de ngel
+1.0	last episode	was broadcast on	June 16 2000

@@ -1,0 +1,9 @@
+1.0	song	is	also included
+1.0	HBO	of	Taxicab Confessions
+1.0	song	is included in	video game NBA Street V3
+1.0	song	is	included
+1.0	song	was used during	opening credits
+1.0	song	is also included in	video game NBA Street V3
+1.0	song	was	used
+1.0	song	was used during	opening credits of episode
+1.0	song	was used during	opening credits of episode of HBO 's Taxicab Confessions

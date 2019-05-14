@@ -1,0 +1,2 @@
+1.0	flag colors	are visible in	ribbon
+1.0	flag colors	are	visible

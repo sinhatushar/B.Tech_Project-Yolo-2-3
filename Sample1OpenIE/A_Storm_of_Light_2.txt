@@ -1,0 +1,6 @@
+0.5926783807908189	new reasons	appreciate	band
+1.0	they	upping	songwriting ability
+0.5926783807908189	reasons	appreciate	band
+1.0	they	upping	intensity
+1.0	They	moved toward	review of Nations to Flames states
+1.0	they	upping	aggression

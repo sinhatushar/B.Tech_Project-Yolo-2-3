@@ -1,0 +1,14 @@
+1.0	Andrew	is English form of	name common in many countries
+1.0	Andrew	is form of	given name
+1.0	Andrew	is form of	given name common in many countries
+1.0	Andrew	is form of	given name common in countries
+1.0	Andrew	is form of	name common in many countries
+1.0	Andrew	is form of	name common in countries
+1.0	Andrew	is English form of	given name common in many countries
+1.0	Andrew	is form of	name
+1.0	Andrew	is	form
+1.0	Andrew	is English form of	given name common in countries
+1.0	Andrew	is English form of	name common in countries
+1.0	Andrew	is	English form
+1.0	Andrew	is English form of	given name
+1.0	Andrew	is English form of	name

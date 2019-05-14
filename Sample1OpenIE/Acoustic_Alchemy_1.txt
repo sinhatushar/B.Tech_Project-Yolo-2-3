@@ -1,0 +1,41 @@
+1.0	Acoustic Alchemy	is	smooth jazz band formed in England in early 1980s by Nick Webb
+1.0	Acoustic Alchemy	is	English jazz band formed in England in early 1980s
+1.0	Acoustic Alchemy	is	English smooth jazz band formed in England by Nick Webb
+1.0	Acoustic Alchemy	is	English smooth jazz band formed in England in early 1980s
+1.0	Acoustic Alchemy	is	English smooth jazz band formed
+1.0	Acoustic Alchemy	is	English jazz band formed in England by Nick Webb
+0.6725531696332385	Acoustic Alchemy	formed by	Nick Webb
+0.6725531696332385	Acoustic Alchemy	formed in	early 1980s
+1.0	Alchemy	is	English
+1.0	Acoustic Alchemy	is	jazz band formed
+1.0	Acoustic Alchemy	is	English smooth jazz band formed in early 1980s by Nick Webb
+1.0	Acoustic Alchemy	is	English jazz band formed in early 1980s by Nick Webb
+1.0	Acoustic Alchemy	is	English smooth jazz band formed in England in early 1980s by Nick Webb
+1.0	Acoustic Alchemy	is	jazz band formed in England
+1.0	Acoustic Alchemy	is	jazz band formed in early 1980s
+1.0	Acoustic Alchemy	is	English jazz band formed by Nick Webb
+1.0	Acoustic Alchemy	is	smooth jazz band formed in early 1980s
+1.0	Acoustic Alchemy	is	jazz band formed in England by Nick Webb
+1.0	Acoustic Alchemy	is	smooth jazz band formed in early 1980s by Nick Webb
+1.0	Alchemy	is	smooth
+1.0	Acoustic Alchemy	is	smooth jazz band formed in England in early 1980s
+1.0	Acoustic Alchemy	is	smooth jazz band
+1.0	Acoustic Alchemy	is	English smooth jazz band
+0.6725531696332385	Acoustic Alchemy	formed in	England
+1.0	Acoustic Alchemy	is	smooth jazz band formed in England by Nick Webb
+1.0	Acoustic Alchemy	is	jazz band formed in early 1980s by Nick Webb
+1.0	Acoustic Alchemy	is	English jazz band formed in England in early 1980s by Nick Webb
+1.0	Acoustic Alchemy	is	English jazz band formed
+1.0	Acoustic Alchemy	is	English smooth jazz band formed in England
+1.0	Acoustic Alchemy	is	jazz band formed in England in early 1980s by Nick Webb
+1.0	Acoustic Alchemy	is	English jazz band
+1.0	Acoustic Alchemy	is	English jazz band formed in England
+1.0	Acoustic Alchemy	is	English smooth jazz band formed by Nick Webb
+1.0	Acoustic Alchemy	is	jazz band
+1.0	Acoustic Alchemy	is	smooth jazz band formed
+1.0	Acoustic Alchemy	is	smooth jazz band formed in England
+1.0	Acoustic Alchemy	is	smooth jazz band formed by Nick Webb
+1.0	Acoustic Alchemy	is	English jazz band formed in early 1980s
+1.0	Acoustic Alchemy	is	jazz band formed by Nick Webb
+1.0	Acoustic Alchemy	is	English smooth jazz band formed in early 1980s
+1.0	Acoustic Alchemy	is	jazz band formed in England in early 1980s

@@ -1,0 +1,24 @@
+1.0	It	was released in	United States
+1.0	It	grossed	$ 142 million overseas on budget
+1.0	it	grossing	film
+1.0	it	grossing film at	just $ 288 million
+1.0	It	grossed	$ 145 million
+1.0	It	was	released
+1.0	It	grossed	$ 142 million overseas
+1.0	It	grossed	$ 145 million in US
+1.0	It	grossed	overseas on budget of $ 30 million
+1.0	it	grossing film at	just under $ 288 million worldwide
+1.0	It	was released on	August 10 2001
+1.0	It	grossed	$ 142 million overseas on budget of $ 30 million
+1.0	it	grossing film at	under $ 288 million worldwide
+1.0	it	grossing film at	$ 288 million
+1.0	it	grossing film at	just under $ 288 million
+1.0	It	grossed	over $ 145 million
+1.0	it	grossing film at	just $ 288 million worldwide
+1.0	It	grossed	overseas
+1.0	it	grossing film at	$ 288 million worldwide
+1.0	It	grossed	overseas on budget
+1.0	It	was	released in United States on August 10 2001
+1.0	It	grossed	over $ 145 million in US
+1.0	it	grossing film in	franchise
+1.0	it	grossing film at	under $ 288 million

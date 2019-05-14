@@ -1,0 +1,3 @@
+1.0	second highest vote count	is in	election
+1.0	Minister	is in	Jyrki Katainen 's cabinet
+1.0	Jyrki Katainen	in	cabinet

@@ -1,0 +1,4 @@
+1.0	Phlegar	joined Army as	private
+1.0	Phlegar	rose to	lieutenant
+1.0	Phlegar	joined	Confederate Army
+1.0	Phlegar	joined	Army

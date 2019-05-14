@@ -1,0 +1,4 @@
+1.0	Theater equivalent	was known as	European-African-Middle Eastern Campaign Medal
+1.0	European Theater equivalent	was known as	European-African-Middle Eastern Campaign Medal
+1.0	Theater equivalent	was	known
+1.0	European Theater equivalent	was	known

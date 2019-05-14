@@ -1,0 +1,16 @@
+1.0	he	served as	part
+1.0	he	briefly served between	October 2006
+1.0	he	served During	third term
+1.0	he	briefly served as	part of First Manmohan Singh ministry
+1.0	he	served as	Minister of State
+1.0	he	briefly served as	Minister
+1.0	he	served During	term
+1.0	he	briefly served for	Information
+1.0	he	briefly served as	part
+1.0	he	served between	October 2006
+1.0	he	served for	Information
+1.0	he	briefly served During	term
+1.0	he	served as	Minister
+1.0	he	briefly served as	Minister of State
+1.0	he	served as	part of First Manmohan Singh ministry
+1.0	he	briefly served During	third term

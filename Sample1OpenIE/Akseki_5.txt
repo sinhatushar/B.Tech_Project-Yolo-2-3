@@ -1,0 +1,2 @@
+1.0	Places	include	caves
+1.0	Places	include	valleys

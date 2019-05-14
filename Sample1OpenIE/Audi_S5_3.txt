@@ -1,0 +1,9 @@
+1.0	they	are	Like Audi S cars available here in S5
+1.0	they	are	available
+1.0	they	are available here Like	Audi S cars
+1.0	Audi	's drive is	4WD
+1.0	Audi	with	quattro four-wheel drive
+1.0	they	are available Like	Audi S cars
+1.0	they	are available as	coup
+1.0	Audi	at	plant in Ingolstadt
+1.0	Audi 's plant	is in	Ingolstadt

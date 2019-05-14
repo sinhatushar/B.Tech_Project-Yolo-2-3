@@ -1,0 +1,4 @@
+1.0	fragrances	affect	smell
+1.0	fragrances	affect	only smell
+1.0	Flavors	affect	sense of taste
+1.0	Flavors	affect	sense

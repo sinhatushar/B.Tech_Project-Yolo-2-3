@@ -1,0 +1,7 @@
+1.0	He	won IFFI Actor Award at	International Film Festival
+1.0	He	won	Male
+1.0	He	won IFFI Actor Award at	International Film Festival of India
+1.0	He	won	IFFI Actor Award
+1.0	He	won IFFI Actor Award at	44th International Film Festival
+1.0	He	won IFFI Actor Award at	44th International Film Festival of India
+1.0	He	won	IFFI Best Actor Award
