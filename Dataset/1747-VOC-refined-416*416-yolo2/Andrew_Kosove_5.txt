@@ -1,0 +1,3 @@
+Andrew_Kosove_5.jpg,0,0,300,6,subject
+Andrew_Kosove_5.jpg,0,6,300,24,relation
+Andrew_Kosove_5.jpg,0,78,300,84,object

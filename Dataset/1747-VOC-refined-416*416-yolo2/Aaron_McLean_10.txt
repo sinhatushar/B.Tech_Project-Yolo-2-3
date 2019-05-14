@@ -1,0 +1,3 @@
+Aaron_McLean_10.jpg,0,18,300,24,subject
+Aaron_McLean_10.jpg,0,24,300,42,relation
+Aaron_McLean_10.jpg,0,6,300,18,object

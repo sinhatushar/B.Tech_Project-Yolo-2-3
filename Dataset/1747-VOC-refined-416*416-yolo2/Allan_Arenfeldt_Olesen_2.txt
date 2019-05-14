@@ -1,0 +1,3 @@
+Allan_Arenfeldt_Olesen_2.jpg,0,0,300,6,subject
+Allan_Arenfeldt_Olesen_2.jpg,0,60,300,66,relation
+Allan_Arenfeldt_Olesen_2.jpg,0,72,300,90,object

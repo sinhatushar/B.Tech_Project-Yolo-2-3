@@ -1,0 +1,3 @@
+Antham_5.jpg,0,36,300,48,subject
+Antham_5.jpg,0,12,300,18,relation
+Antham_5.jpg,0,54,300,60,object

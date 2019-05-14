@@ -1,0 +1,3 @@
+Abacab_1.jpg,0,0,300,6,subject
+Abacab_1.jpg,0,6,300,12,relation
+Abacab_1.jpg,0,24,300,78,object

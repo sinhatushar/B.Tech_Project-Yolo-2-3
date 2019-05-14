@@ -1,0 +1,3 @@
+Anna_Tatishvili_4.jpg,0,24,300,30,subject
+Anna_Tatishvili_4.jpg,0,30,300,42,relation
+Anna_Tatishvili_4.jpg,0,6,300,24,object

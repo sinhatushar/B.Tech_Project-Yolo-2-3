@@ -1,0 +1,3 @@
+Alfred_Shout_11.jpg,0,0,300,6,subject
+Alfred_Shout_11.jpg,0,6,300,12,relation
+Alfred_Shout_11.jpg,0,60,300,78,object

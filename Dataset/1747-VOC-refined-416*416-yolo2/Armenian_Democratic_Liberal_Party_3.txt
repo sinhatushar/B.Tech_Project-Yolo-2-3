@@ -1,0 +1,3 @@
+Armenian_Democratic_Liberal_Party_3.jpg,0,6,300,18,subject
+Armenian_Democratic_Liberal_Party_3.jpg,0,18,300,36,relation
+Armenian_Democratic_Liberal_Party_3.jpg,0,66,300,102,object

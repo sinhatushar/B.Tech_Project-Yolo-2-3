@@ -1,0 +1,3 @@
+Alexander_Butterfield_3.jpg,0,126,300,132,subject
+Alexander_Butterfield_3.jpg,0,24,300,36,relation
+Alexander_Butterfield_3.jpg,0,144,300,150,object

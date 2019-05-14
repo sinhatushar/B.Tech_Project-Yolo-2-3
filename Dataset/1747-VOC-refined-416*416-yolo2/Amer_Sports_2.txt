@@ -1,0 +1,3 @@
+Amer_Sports_2.jpg,0,12,300,18,subject
+Amer_Sports_2.jpg,0,18,300,24,relation
+Amer_Sports_2.jpg,0,24,300,42,object

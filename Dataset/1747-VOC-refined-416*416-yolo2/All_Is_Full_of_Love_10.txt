@@ -1,0 +1,3 @@
+All_Is_Full_of_Love_10.jpg,0,0,300,6,subject
+All_Is_Full_of_Love_10.jpg,0,6,300,12,relation
+All_Is_Full_of_Love_10.jpg,0,6,300,30,object

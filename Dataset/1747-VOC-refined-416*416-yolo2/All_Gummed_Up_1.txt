@@ -1,0 +1,3 @@
+All_Gummed_Up_1.jpg,0,0,300,6,subject
+All_Gummed_Up_1.jpg,0,18,300,24,relation
+All_Gummed_Up_1.jpg,0,42,300,72,object

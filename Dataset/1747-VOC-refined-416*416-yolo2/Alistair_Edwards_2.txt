@@ -1,0 +1,3 @@
+Alistair_Edwards_2.jpg,0,18,300,24,subject
+Alistair_Edwards_2.jpg,0,24,300,42,relation
+Alistair_Edwards_2.jpg,0,48,300,96,object

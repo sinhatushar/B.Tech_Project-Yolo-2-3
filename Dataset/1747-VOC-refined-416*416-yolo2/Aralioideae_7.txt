@@ -1,0 +1,3 @@
+Aralioideae_7.jpg,0,102,300,108,subject
+Aralioideae_7.jpg,0,108,300,114,relation
+Aralioideae_7.jpg,0,108,300,132,object

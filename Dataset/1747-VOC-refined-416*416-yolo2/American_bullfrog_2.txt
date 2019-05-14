@@ -1,0 +1,3 @@
+American_bullfrog_2.jpg,0,36,300,42,subject
+American_bullfrog_2.jpg,0,102,300,114,relation
+American_bullfrog_2.jpg,0,114,300,120,object

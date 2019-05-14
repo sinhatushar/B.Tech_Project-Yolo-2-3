@@ -1,0 +1,3 @@
+Apidae_1.jpg,0,0,300,6,subject
+Apidae_1.jpg,0,6,300,12,relation
+Apidae_1.jpg,0,18,300,30,object

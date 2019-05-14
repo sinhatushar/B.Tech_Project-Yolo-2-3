@@ -1,0 +1,3 @@
+Alan_Blinder_1.jpg,0,12,300,18,subject
+Alan_Blinder_1.jpg,0,72,300,78,relation
+Alan_Blinder_1.jpg,0,84,300,90,object

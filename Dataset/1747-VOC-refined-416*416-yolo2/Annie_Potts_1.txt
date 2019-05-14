@@ -1,0 +1,3 @@
+Annie_Potts_1.jpg,0,12,300,18,subject
+Annie_Potts_1.jpg,0,42,300,48,relation
+Annie_Potts_1.jpg,0,54,300,60,object

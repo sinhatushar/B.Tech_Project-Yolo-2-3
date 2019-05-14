@@ -1,0 +1,3 @@
+Aitraaz_3.jpg,0,0,300,6,subject
+Aitraaz_3.jpg,0,6,300,12,relation
+Aitraaz_3.jpg,0,12,300,24,object

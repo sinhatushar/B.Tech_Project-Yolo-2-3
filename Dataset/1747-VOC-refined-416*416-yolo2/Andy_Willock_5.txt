@@ -1,0 +1,3 @@
+Andy_Willock_5.jpg,0,0,300,6,subject
+Andy_Willock_5.jpg,0,108,300,114,relation
+Andy_Willock_5.jpg,0,114,300,126,object

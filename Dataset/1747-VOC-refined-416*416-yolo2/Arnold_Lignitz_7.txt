@@ -1,0 +1,3 @@
+Arnold_Lignitz_7.jpg,0,0,300,6,subject
+Arnold_Lignitz_7.jpg,0,6,300,30,relation
+Arnold_Lignitz_7.jpg,0,54,300,66,object

@@ -1,0 +1,3 @@
+Amorbach_2.jpg,0,30,300,48,subject
+Amorbach_2.jpg,0,6,300,18,relation
+Amorbach_2.jpg,0,60,300,84,object

@@ -1,0 +1,3 @@
+Arnold_Meri_3.jpg,0,36,300,42,subject
+Arnold_Meri_3.jpg,0,42,300,48,relation
+Arnold_Meri_3.jpg,0,96,300,156,object

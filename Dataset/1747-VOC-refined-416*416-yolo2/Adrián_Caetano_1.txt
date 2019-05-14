@@ -1,0 +1,3 @@
+Adrián_Caetano_1.jpg,0,0,300,18,subject
+Adrián_Caetano_1.jpg,0,48,300,54,relation
+Adrián_Caetano_1.jpg,0,60,300,78,object

@@ -1,0 +1,3 @@
+AgustaWestland_Apache_1.jpg,0,6,300,18,subject
+AgustaWestland_Apache_1.jpg,0,18,300,24,relation
+AgustaWestland_Apache_1.jpg,0,30,300,42,object

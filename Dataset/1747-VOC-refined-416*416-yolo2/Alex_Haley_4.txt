@@ -1,0 +1,3 @@
+Alex_Haley_4.jpg,0,24,300,36,subject
+Alex_Haley_4.jpg,0,48,300,54,relation
+Alex_Haley_4.jpg,0,48,300,54,object

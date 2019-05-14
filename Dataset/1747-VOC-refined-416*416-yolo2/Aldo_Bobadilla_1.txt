@@ -1,0 +1,3 @@
+Aldo_Bobadilla_1.jpg,0,0,300,24,subject
+Aldo_Bobadilla_1.jpg,0,72,300,78,relation
+Aldo_Bobadilla_1.jpg,0,96,300,126,object

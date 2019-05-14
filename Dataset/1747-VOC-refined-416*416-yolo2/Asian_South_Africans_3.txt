@@ -1,0 +1,3 @@
+Asian_South_Africans_3.jpg,0,36,300,42,subject
+Asian_South_Africans_3.jpg,0,42,300,54,relation
+Asian_South_Africans_3.jpg,0,60,300,66,object

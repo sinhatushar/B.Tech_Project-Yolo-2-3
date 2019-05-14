@@ -1,0 +1,3 @@
+Albert_Shiryaev_5.jpg,0,0,300,6,subject
+Albert_Shiryaev_5.jpg,0,24,300,36,relation
+Albert_Shiryaev_5.jpg,0,12,300,36,object

@@ -1,0 +1,3 @@
+An_Open_Letter_to_NYC_5.jpg,0,24,300,30,subject
+An_Open_Letter_to_NYC_5.jpg,0,30,300,42,relation
+An_Open_Letter_to_NYC_5.jpg,0,144,300,150,object

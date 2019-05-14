@@ -1,0 +1,3 @@
+Anthony_Heald_2.jpg,0,0,300,6,subject
+Anthony_Heald_2.jpg,0,6,300,18,relation
+Anthony_Heald_2.jpg,0,30,300,78,object

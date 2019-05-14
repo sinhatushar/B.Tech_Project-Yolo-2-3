@@ -1,0 +1,3 @@
+Alemannia_Aachen_2.jpg,0,54,300,60,subject
+Alemannia_Aachen_2.jpg,0,60,300,78,relation
+Alemannia_Aachen_2.jpg,0,150,300,162,object

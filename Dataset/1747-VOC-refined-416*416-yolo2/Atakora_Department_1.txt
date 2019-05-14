@@ -1,0 +1,3 @@
+Atakora_Department_1.jpg,0,0,300,6,subject
+Atakora_Department_1.jpg,0,42,300,60,relation
+Atakora_Department_1.jpg,0,18,300,24,object

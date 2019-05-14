@@ -1,0 +1,3 @@
+Alberts_Kviesis_23.jpg,0,48,300,54,subject
+Alberts_Kviesis_23.jpg,0,72,300,78,relation
+Alberts_Kviesis_23.jpg,0,78,300,84,object

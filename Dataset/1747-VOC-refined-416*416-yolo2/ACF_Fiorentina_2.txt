@@ -1,0 +1,3 @@
+ACF_Fiorentina_2.jpg,0,18,300,24,subject
+ACF_Fiorentina_2.jpg,0,180,300,192,relation
+ACF_Fiorentina_2.jpg,0,30,300,42,object

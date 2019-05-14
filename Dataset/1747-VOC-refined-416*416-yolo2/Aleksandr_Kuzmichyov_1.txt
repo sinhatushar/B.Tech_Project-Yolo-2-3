@@ -1,0 +1,3 @@
+Aleksandr_Kuzmichyov_1.jpg,0,12,300,18,subject
+Aleksandr_Kuzmichyov_1.jpg,0,54,300,60,relation
+Aleksandr_Kuzmichyov_1.jpg,0,78,300,84,object

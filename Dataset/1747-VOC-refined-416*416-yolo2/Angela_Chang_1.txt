@@ -1,0 +1,3 @@
+Angela_Chang_1.jpg,0,102,300,114,subject
+Angela_Chang_1.jpg,0,138,300,150,relation
+Angela_Chang_1.jpg,0,150,300,162,object

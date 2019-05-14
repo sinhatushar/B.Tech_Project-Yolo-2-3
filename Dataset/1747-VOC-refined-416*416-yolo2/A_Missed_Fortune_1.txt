@@ -1,0 +1,3 @@
+A_Missed_Fortune_1.jpg,0,12,300,18,subject
+A_Missed_Fortune_1.jpg,0,6,300,12,relation
+A_Missed_Fortune_1.jpg,0,42,300,108,object

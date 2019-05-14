@@ -1,0 +1,3 @@
+Archer_Allen_Phlegar_1.jpg,0,0,300,18,subject
+Archer_Allen_Phlegar_1.jpg,0,18,300,30,relation
+Archer_Allen_Phlegar_1.jpg,0,48,300,54,object

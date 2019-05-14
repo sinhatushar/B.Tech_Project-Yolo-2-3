@@ -1,0 +1,3 @@
+Amagertorv_4.jpg,0,84,300,102,subject
+Amagertorv_4.jpg,0,300,300,312,relation
+Amagertorv_4.jpg,0,108,300,114,object

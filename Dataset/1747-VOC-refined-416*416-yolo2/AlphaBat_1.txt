@@ -1,0 +1,3 @@
+AlphaBat_1.jpg,0,0,300,6,subject
+AlphaBat_1.jpg,0,36,300,42,relation
+AlphaBat_1.jpg,0,54,300,102,object

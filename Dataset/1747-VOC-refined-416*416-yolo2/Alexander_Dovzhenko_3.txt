@@ -1,0 +1,3 @@
+Alexander_Dovzhenko_3.jpg,0,0,300,6,subject
+Alexander_Dovzhenko_3.jpg,0,6,300,12,relation
+Alexander_Dovzhenko_3.jpg,0,18,300,24,object

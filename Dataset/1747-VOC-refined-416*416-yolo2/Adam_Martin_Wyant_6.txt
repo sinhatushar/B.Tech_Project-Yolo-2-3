@@ -1,0 +1,3 @@
+Adam_Martin_Wyant_6.jpg,0,24,300,30,subject
+Adam_Martin_Wyant_6.jpg,0,30,300,36,relation
+Adam_Martin_Wyant_6.jpg,0,36,300,42,object

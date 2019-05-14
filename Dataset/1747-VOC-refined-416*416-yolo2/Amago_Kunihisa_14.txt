@@ -1,0 +1,3 @@
+Amago_Kunihisa_14.jpg,0,0,300,24,subject
+Amago_Kunihisa_14.jpg,0,24,300,48,relation
+Amago_Kunihisa_14.jpg,0,54,300,60,object

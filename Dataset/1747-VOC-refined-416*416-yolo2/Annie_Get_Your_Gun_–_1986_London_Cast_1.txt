@@ -1,0 +1,3 @@
+Annie_Get_Your_Gun_–_1986_London_Cast_1.jpg,0,54,300,60,subject
+Annie_Get_Your_Gun_–_1986_London_Cast_1.jpg,0,138,300,144,relation
+Annie_Get_Your_Gun_–_1986_London_Cast_1.jpg,0,144,300,174,object

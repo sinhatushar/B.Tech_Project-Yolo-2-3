@@ -1,0 +1,3 @@
+Alan_Parker_4.jpg,0,42,300,48,subject
+Alan_Parker_4.jpg,0,72,300,84,relation
+Alan_Parker_4.jpg,0,90,300,96,object

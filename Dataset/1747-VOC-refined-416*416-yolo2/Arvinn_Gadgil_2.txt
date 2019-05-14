@@ -1,0 +1,3 @@
+Arvinn_Gadgil_2.jpg,0,0,300,6,subject
+Arvinn_Gadgil_2.jpg,0,6,300,12,relation
+Arvinn_Gadgil_2.jpg,0,18,300,72,object

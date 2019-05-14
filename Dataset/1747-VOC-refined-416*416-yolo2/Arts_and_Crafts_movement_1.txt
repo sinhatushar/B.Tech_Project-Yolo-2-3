@@ -1,0 +1,3 @@
+Arts_and_Crafts_movement_1.jpg,0,18,300,30,subject
+Arts_and_Crafts_movement_1.jpg,0,30,300,36,relation
+Arts_and_Crafts_movement_1.jpg,0,24,300,30,object

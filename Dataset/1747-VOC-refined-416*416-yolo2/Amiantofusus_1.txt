@@ -1,0 +1,3 @@
+Amiantofusus_1.jpg,0,42,300,60,subject
+Amiantofusus_1.jpg,0,6,300,18,relation
+Amiantofusus_1.jpg,0,72,300,84,object

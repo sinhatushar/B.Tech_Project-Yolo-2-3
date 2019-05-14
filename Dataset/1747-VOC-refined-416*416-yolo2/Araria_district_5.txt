@@ -1,0 +1,3 @@
+Araria_district_5.jpg,0,6,300,12,subject
+Araria_district_5.jpg,0,12,300,18,relation
+Araria_district_5.jpg,0,18,300,36,object

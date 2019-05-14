@@ -1,0 +1,3 @@
+ARY_Zauq_3.jpg,0,0,300,6,subject
+ARY_Zauq_3.jpg,0,6,300,12,relation
+ARY_Zauq_3.jpg,0,12,300,30,object

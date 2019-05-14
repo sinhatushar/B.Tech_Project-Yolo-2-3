@@ -1,0 +1,3 @@
+Aitzaz_Ahsan_10.jpg,0,0,300,6,subject
+Aitzaz_Ahsan_10.jpg,0,6,300,24,relation
+Aitzaz_Ahsan_10.jpg,0,42,300,48,object

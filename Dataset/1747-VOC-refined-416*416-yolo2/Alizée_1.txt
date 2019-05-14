@@ -1,0 +1,3 @@
+Alizée_1.jpg,0,6,300,18,subject
+Alizée_1.jpg,0,12,300,24,relation
+Alizée_1.jpg,0,18,300,36,object

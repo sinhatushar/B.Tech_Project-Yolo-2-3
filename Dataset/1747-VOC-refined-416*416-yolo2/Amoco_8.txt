@@ -1,0 +1,3 @@
+Amoco_8.jpg,0,42,300,66,subject
+Amoco_8.jpg,0,150,300,162,relation
+Amoco_8.jpg,0,78,300,102,object

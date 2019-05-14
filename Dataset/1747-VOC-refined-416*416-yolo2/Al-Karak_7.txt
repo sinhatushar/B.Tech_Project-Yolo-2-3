@@ -1,0 +1,3 @@
+Al-Karak_7.jpg,0,6,300,12,subject
+Al-Karak_7.jpg,0,36,300,42,relation
+Al-Karak_7.jpg,0,96,300,126,object

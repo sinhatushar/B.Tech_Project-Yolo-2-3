@@ -1,0 +1,3 @@
+Anders_Christiansen_1.jpg,0,12,300,18,subject
+Anders_Christiansen_1.jpg,0,18,300,24,relation
+Anders_Christiansen_1.jpg,0,54,300,60,object

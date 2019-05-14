@@ -1,0 +1,3 @@
+Arkham_House_4.jpg,0,0,300,18,subject
+Arkham_House_4.jpg,0,18,300,24,relation
+Arkham_House_4.jpg,0,24,300,30,object

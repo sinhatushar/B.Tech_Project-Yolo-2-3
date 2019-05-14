@@ -1,0 +1,3 @@
+Alfred_Rosenberg_2.jpg,0,12,300,18,subject
+Alfred_Rosenberg_2.jpg,0,54,300,60,relation
+Alfred_Rosenberg_2.jpg,0,72,300,78,object

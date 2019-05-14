@@ -1,0 +1,3 @@
+Abdul_Haris_Nasution_3.jpg,0,0,300,6,subject
+Abdul_Haris_Nasution_3.jpg,0,12,300,18,relation
+Abdul_Haris_Nasution_3.jpg,0,96,300,156,object

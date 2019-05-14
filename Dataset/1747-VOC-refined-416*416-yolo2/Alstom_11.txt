@@ -1,0 +1,3 @@
+Alstom_11.jpg,0,120,300,132,subject
+Alstom_11.jpg,0,150,300,156,relation
+Alstom_11.jpg,0,156,300,192,object

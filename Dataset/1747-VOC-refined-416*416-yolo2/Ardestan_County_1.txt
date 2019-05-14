@@ -1,0 +1,3 @@
+Ardestan_County_1.jpg,0,0,300,12,subject
+Ardestan_County_1.jpg,0,24,300,42,relation
+Ardestan_County_1.jpg,0,48,300,72,object

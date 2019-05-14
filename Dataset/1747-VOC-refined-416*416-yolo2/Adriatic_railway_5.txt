@@ -1,0 +1,3 @@
+Adriatic_railway_5.jpg,0,24,300,36,subject
+Adriatic_railway_5.jpg,0,54,300,78,relation
+Adriatic_railway_5.jpg,0,84,300,108,object

@@ -1,0 +1,3 @@
+Antoine_Préget_1.jpg,0,0,300,12,subject
+Antoine_Préget_1.jpg,0,48,300,54,relation
+Antoine_Préget_1.jpg,0,66,300,72,object

@@ -1,0 +1,3 @@
+Alexander_Stubb_13.jpg,0,18,300,24,subject
+Alexander_Stubb_13.jpg,0,144,300,162,relation
+Alexander_Stubb_13.jpg,0,168,300,192,object

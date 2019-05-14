@@ -1,0 +1,3 @@
+Amy_Winehouse_at_the_BBC_2.jpg,0,0,300,6,subject
+Amy_Winehouse_at_the_BBC_2.jpg,0,6,300,12,relation
+Amy_Winehouse_at_the_BBC_2.jpg,0,12,300,66,object

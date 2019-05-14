@@ -1,0 +1,3 @@
+Akira_Kurosawa_3.jpg,0,0,300,6,subject
+Akira_Kurosawa_3.jpg,0,6,300,30,relation
+Akira_Kurosawa_3.jpg,0,60,300,84,object

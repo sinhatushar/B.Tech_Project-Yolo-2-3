@@ -1,0 +1,3 @@
+Alan_McNicoll_17.jpg,0,0,300,6,subject
+Alan_McNicoll_17.jpg,0,6,300,18,relation
+Alan_McNicoll_17.jpg,0,36,300,42,object

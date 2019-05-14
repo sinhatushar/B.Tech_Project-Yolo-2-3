@@ -1,0 +1,3 @@
+AviaBellanca_Aircraft_1.jpg,0,12,300,18,subject
+AviaBellanca_Aircraft_1.jpg,0,18,300,24,relation
+AviaBellanca_Aircraft_1.jpg,0,30,300,36,object

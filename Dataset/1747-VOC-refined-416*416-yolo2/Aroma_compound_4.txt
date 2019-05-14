@@ -1,0 +1,3 @@
+Aroma_compound_4.jpg,0,60,300,66,subject
+Aroma_compound_4.jpg,0,6,300,12,relation
+Aroma_compound_4.jpg,0,48,300,54,object

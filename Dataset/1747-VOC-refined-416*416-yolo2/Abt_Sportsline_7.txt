@@ -1,0 +1,3 @@
+Abt_Sportsline_7.jpg,0,30,300,42,subject
+Abt_Sportsline_7.jpg,0,42,300,54,relation
+Abt_Sportsline_7.jpg,0,12,300,30,object

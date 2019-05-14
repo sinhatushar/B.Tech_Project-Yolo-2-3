@@ -1,0 +1,3 @@
+Ángela_Molina_1.jpg,0,12,300,18,subject
+Ángela_Molina_1.jpg,0,42,300,48,relation
+Ángela_Molina_1.jpg,0,54,300,60,object

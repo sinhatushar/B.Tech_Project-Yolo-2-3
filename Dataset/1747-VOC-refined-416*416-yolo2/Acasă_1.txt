@@ -1,0 +1,3 @@
+Acasă_1.jpg,0,54,300,66,subject
+Acasă_1.jpg,0,66,300,78,relation
+Acasă_1.jpg,0,84,300,108,object

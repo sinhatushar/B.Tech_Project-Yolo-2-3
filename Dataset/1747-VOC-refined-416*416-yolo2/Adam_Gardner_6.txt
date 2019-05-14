@@ -1,0 +1,3 @@
+Adam_Gardner_6.jpg,0,54,300,60,subject
+Adam_Gardner_6.jpg,0,66,300,72,relation
+Adam_Gardner_6.jpg,0,72,300,78,object

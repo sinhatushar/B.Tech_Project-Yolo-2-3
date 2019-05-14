@@ -1,0 +1,3 @@
+Addis_Ababa_University_5.jpg,0,0,300,6,subject
+Addis_Ababa_University_5.jpg,0,6,300,12,relation
+Addis_Ababa_University_5.jpg,0,18,300,48,object

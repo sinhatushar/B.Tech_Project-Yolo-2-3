@@ -1,0 +1,3 @@
+Arie_Alter_1.jpg,0,0,300,12,subject
+Arie_Alter_1.jpg,0,12,300,36,relation
+Arie_Alter_1.jpg,0,48,300,60,object

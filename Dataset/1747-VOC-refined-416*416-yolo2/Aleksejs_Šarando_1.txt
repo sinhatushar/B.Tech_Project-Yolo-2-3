@@ -1,0 +1,3 @@
+Aleksejs_Šarando_1.jpg,0,72,300,78,subject
+Aleksejs_Šarando_1.jpg,0,96,300,108,relation
+Aleksejs_Šarando_1.jpg,0,108,300,144,object

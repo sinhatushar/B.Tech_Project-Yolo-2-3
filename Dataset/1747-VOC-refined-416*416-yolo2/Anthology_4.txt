@@ -1,0 +1,3 @@
+Anthology_4.jpg,0,6,300,18,subject
+Anthology_4.jpg,0,30,300,42,relation
+Anthology_4.jpg,0,24,300,30,object

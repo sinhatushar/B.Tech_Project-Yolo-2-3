@@ -1,0 +1,3 @@
+Acoustic_guitar_1.jpg,0,6,300,18,subject
+Acoustic_guitar_1.jpg,0,18,300,30,relation
+Acoustic_guitar_1.jpg,0,42,300,48,object

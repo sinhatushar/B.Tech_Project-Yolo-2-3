@@ -1,0 +1,3 @@
+Ainda_É_Cedo_1.jpg,0,0,300,12,subject
+Ainda_É_Cedo_1.jpg,0,12,300,18,relation
+Ainda_É_Cedo_1.jpg,0,30,300,42,object

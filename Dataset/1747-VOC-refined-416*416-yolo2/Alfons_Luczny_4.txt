@@ -1,0 +1,3 @@
+Alfons_Luczny_4.jpg,0,36,300,42,subject
+Alfons_Luczny_4.jpg,0,0,300,12,relation
+Alfons_Luczny_4.jpg,0,18,300,30,object

@@ -1,0 +1,3 @@
+Atari_5200_4.jpg,0,18,300,24,subject
+Atari_5200_4.jpg,0,24,300,30,relation
+Atari_5200_4.jpg,0,30,300,36,object

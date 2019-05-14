@@ -1,0 +1,3 @@
+Anindya_Chatterjee_2.jpg,0,0,300,6,subject
+Anindya_Chatterjee_2.jpg,0,6,300,24,relation
+Anindya_Chatterjee_2.jpg,0,30,300,48,object

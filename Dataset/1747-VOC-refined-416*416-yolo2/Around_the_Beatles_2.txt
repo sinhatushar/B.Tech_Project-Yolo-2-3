@@ -1,0 +1,3 @@
+Around_the_Beatles_2.jpg,0,0,300,6,subject
+Around_the_Beatles_2.jpg,0,114,300,132,relation
+Around_the_Beatles_2.jpg,0,132,300,150,object

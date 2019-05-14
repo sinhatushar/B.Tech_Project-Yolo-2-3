@@ -1,0 +1,3 @@
+Acropora_2.jpg,0,0,300,6,subject
+Acropora_2.jpg,0,24,300,30,relation
+Acropora_2.jpg,0,30,300,36,object

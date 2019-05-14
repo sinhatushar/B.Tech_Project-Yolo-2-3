@@ -1,0 +1,3 @@
+Automobile_layout_2.jpg,0,0,300,6,subject
+Automobile_layout_2.jpg,0,6,300,12,relation
+Automobile_layout_2.jpg,0,6,300,42,object

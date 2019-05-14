@@ -1,0 +1,3 @@
+A_Man_This_Lonely_2.jpg,0,12,300,18,subject
+A_Man_This_Lonely_2.jpg,0,90,300,102,relation
+A_Man_This_Lonely_2.jpg,0,102,300,108,object

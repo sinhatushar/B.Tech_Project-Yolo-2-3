@@ -1,0 +1,3 @@
+Algerian_War_8.jpg,0,60,300,72,subject
+Algerian_War_8.jpg,0,72,300,78,relation
+Algerian_War_8.jpg,0,84,300,96,object

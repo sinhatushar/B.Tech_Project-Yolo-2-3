@@ -1,0 +1,3 @@
+Aesop_6.jpg,0,6,300,12,subject
+Aesop_6.jpg,0,30,300,42,relation
+Aesop_6.jpg,0,42,300,48,object

@@ -1,0 +1,3 @@
+Adam_Varadi_3.jpg,0,0,300,6,subject
+Adam_Varadi_3.jpg,0,6,300,18,relation
+Adam_Varadi_3.jpg,0,24,300,54,object

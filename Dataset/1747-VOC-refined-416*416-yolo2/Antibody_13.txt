@@ -1,0 +1,3 @@
+Antibody_13.jpg,0,0,300,6,subject
+Antibody_13.jpg,0,6,300,12,relation
+Antibody_13.jpg,0,12,300,18,object

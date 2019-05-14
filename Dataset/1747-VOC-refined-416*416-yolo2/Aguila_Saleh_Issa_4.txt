@@ -1,0 +1,3 @@
+Aguila_Saleh_Issa_4.jpg,0,30,300,42,subject
+Aguila_Saleh_Issa_4.jpg,0,234,300,246,relation
+Aguila_Saleh_Issa_4.jpg,0,48,300,54,object

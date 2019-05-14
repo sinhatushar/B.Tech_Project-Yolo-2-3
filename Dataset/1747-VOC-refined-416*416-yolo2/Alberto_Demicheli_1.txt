@@ -1,0 +1,3 @@
+Alberto_Demicheli_1.jpg,0,0,300,24,subject
+Alberto_Demicheli_1.jpg,0,24,300,36,relation
+Alberto_Demicheli_1.jpg,0,54,300,60,object

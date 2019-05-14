@@ -1,0 +1,3 @@
+Anonymity_14.jpg,0,18,300,24,subject
+Anonymity_14.jpg,0,36,300,42,relation
+Anonymity_14.jpg,0,72,300,108,object

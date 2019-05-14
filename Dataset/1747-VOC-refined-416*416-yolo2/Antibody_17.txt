@@ -1,0 +1,3 @@
+Antibody_17.jpg,0,174,300,180,subject
+Antibody_17.jpg,0,186,300,192,relation
+Antibody_17.jpg,0,198,300,204,object

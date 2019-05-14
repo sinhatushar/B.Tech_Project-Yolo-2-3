@@ -1,0 +1,3 @@
+Ann_Rest_2.jpg,0,48,300,54,subject
+Ann_Rest_2.jpg,0,54,300,60,relation
+Ann_Rest_2.jpg,0,60,300,72,object

@@ -1,0 +1,3 @@
+Amigos_x_siempre_9.jpg,0,24,300,30,subject
+Amigos_x_siempre_9.jpg,0,18,300,24,relation
+Amigos_x_siempre_9.jpg,0,30,300,36,object

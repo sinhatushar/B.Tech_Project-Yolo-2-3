@@ -1,0 +1,3 @@
+AES_Corporation_1.jpg,0,6,300,18,subject
+AES_Corporation_1.jpg,0,18,300,24,relation
+AES_Corporation_1.jpg,0,30,300,48,object

@@ -1,0 +1,3 @@
+Alla_Rakha_1.jpg,0,102,300,114,subject
+Alla_Rakha_1.jpg,0,114,300,126,relation
+Alla_Rakha_1.jpg,0,126,300,144,object

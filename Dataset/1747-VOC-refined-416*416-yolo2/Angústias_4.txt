@@ -1,0 +1,3 @@
+Angústias_4.jpg,0,36,300,42,subject
+Angústias_4.jpg,0,42,300,48,relation
+Angústias_4.jpg,0,150,300,228,object

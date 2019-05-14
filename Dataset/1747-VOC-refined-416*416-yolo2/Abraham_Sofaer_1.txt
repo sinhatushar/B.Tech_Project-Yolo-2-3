@@ -1,0 +1,3 @@
+Abraham_Sofaer_1.jpg,0,108,300,114,subject
+Abraham_Sofaer_1.jpg,0,144,300,156,relation
+Abraham_Sofaer_1.jpg,0,120,300,126,object

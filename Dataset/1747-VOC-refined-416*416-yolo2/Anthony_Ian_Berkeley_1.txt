@@ -1,0 +1,3 @@
+Anthony_Ian_Berkeley_1.jpg,0,12,300,18,subject
+Anthony_Ian_Berkeley_1.jpg,0,84,300,90,relation
+Anthony_Ian_Berkeley_1.jpg,0,102,300,108,object

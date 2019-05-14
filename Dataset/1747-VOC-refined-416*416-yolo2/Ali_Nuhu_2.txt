@@ -1,0 +1,3 @@
+Ali_Nuhu_2.jpg,0,0,300,6,subject
+Ali_Nuhu_2.jpg,0,42,300,48,relation
+Ali_Nuhu_2.jpg,0,60,300,72,object

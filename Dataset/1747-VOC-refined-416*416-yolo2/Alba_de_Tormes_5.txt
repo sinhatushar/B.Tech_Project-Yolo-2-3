@@ -1,0 +1,3 @@
+Alba_de_Tormes_5.jpg,0,48,300,54,subject
+Alba_de_Tormes_5.jpg,0,72,300,78,relation
+Alba_de_Tormes_5.jpg,0,114,300,174,object

@@ -1,0 +1,3 @@
+All_About_Soul_1.jpg,0,6,300,18,subject
+All_About_Soul_1.jpg,0,18,300,36,relation
+All_About_Soul_1.jpg,0,42,300,60,object

@@ -1,0 +1,3 @@
+Anurodh_6.jpg,0,12,300,18,subject
+Anurodh_6.jpg,0,30,300,36,relation
+Anurodh_6.jpg,0,36,300,60,object

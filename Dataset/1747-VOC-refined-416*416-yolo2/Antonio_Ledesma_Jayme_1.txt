@@ -1,0 +1,3 @@
+Antonio_Ledesma_Jayme_1.jpg,0,216,300,222,subject
+Antonio_Ledesma_Jayme_1.jpg,0,6,300,12,relation
+Antonio_Ledesma_Jayme_1.jpg,0,222,300,228,object

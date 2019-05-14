@@ -1,0 +1,3 @@
+A_Skylit_Drive_1.jpg,0,6,300,18,subject
+A_Skylit_Drive_1.jpg,0,18,300,36,relation
+A_Skylit_Drive_1.jpg,0,60,300,66,object

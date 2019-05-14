@@ -1,0 +1,3 @@
+Alexander_Kutschera_1.jpg,0,0,300,36,subject
+Alexander_Kutschera_1.jpg,0,48,300,54,relation
+Alexander_Kutschera_1.jpg,0,60,300,78,object

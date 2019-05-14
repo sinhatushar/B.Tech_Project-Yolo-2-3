@@ -1,0 +1,3 @@
+Aleílson_Sousa_Rabelo_1.jpg,0,12,300,18,subject
+Aleílson_Sousa_Rabelo_1.jpg,0,42,300,48,relation
+Aleílson_Sousa_Rabelo_1.jpg,0,54,300,60,object

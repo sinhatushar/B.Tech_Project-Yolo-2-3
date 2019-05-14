@@ -1,0 +1,3 @@
+Akaki_Tskarozia_1.jpg,0,0,300,12,subject
+Akaki_Tskarozia_1.jpg,0,48,300,54,relation
+Akaki_Tskarozia_1.jpg,0,60,300,78,object

@@ -1,0 +1,3 @@
+Antibody_5.jpg,0,30,300,36,subject
+Antibody_5.jpg,0,96,300,102,relation
+Antibody_5.jpg,0,102,300,108,object

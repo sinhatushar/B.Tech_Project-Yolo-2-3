@@ -1,0 +1,3 @@
+A_Dreamers_Christmas_2.jpg,0,0,300,6,subject
+A_Dreamers_Christmas_2.jpg,0,42,300,54,relation
+A_Dreamers_Christmas_2.jpg,0,54,300,84,object

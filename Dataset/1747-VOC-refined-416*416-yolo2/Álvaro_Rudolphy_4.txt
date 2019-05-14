@@ -1,0 +1,3 @@
+Álvaro_Rudolphy_4.jpg,0,0,300,6,subject
+Álvaro_Rudolphy_4.jpg,0,30,300,48,relation
+Álvaro_Rudolphy_4.jpg,0,72,300,84,object

@@ -1,0 +1,3 @@
+Alex_Wolff_8.jpg,0,0,300,6,subject
+Alex_Wolff_8.jpg,0,6,300,24,relation
+Alex_Wolff_8.jpg,0,30,300,120,object

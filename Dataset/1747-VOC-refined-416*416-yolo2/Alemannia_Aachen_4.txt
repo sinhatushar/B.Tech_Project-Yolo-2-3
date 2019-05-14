@@ -1,0 +1,3 @@
+Alemannia_Aachen_4.jpg,0,0,300,6,subject
+Alemannia_Aachen_4.jpg,0,6,300,12,relation
+Alemannia_Aachen_4.jpg,0,12,300,30,object

@@ -1,0 +1,3 @@
+Aretha_Franklin_15.jpg,0,0,300,6,subject
+Aretha_Franklin_15.jpg,0,144,300,150,relation
+Aretha_Franklin_15.jpg,0,18,300,30,object

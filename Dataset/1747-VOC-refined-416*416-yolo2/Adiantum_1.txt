@@ -1,0 +1,3 @@
+Adiantum_1.jpg,0,186,300,192,subject
+Adiantum_1.jpg,0,126,300,132,relation
+Adiantum_1.jpg,0,204,300,210,object

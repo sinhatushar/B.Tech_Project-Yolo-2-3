@@ -1,0 +1,3 @@
+Alibek_Aliev_1.jpg,0,12,300,18,subject
+Alibek_Aliev_1.jpg,0,54,300,60,relation
+Alibek_Aliev_1.jpg,0,72,300,78,object

@@ -1,0 +1,3 @@
+Architectonicidae_1.jpg,0,0,300,6,subject
+Architectonicidae_1.jpg,0,48,300,66,relation
+Architectonicidae_1.jpg,0,84,300,120,object

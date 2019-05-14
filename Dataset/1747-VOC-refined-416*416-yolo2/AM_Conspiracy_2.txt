@@ -1,0 +1,3 @@
+AM_Conspiracy_2.jpg,0,0,300,18,subject
+AM_Conspiracy_2.jpg,0,18,300,30,relation
+AM_Conspiracy_2.jpg,0,30,300,48,object

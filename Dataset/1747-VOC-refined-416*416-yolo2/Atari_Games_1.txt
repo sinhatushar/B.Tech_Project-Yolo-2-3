@@ -1,0 +1,3 @@
+Atari_Games_1.jpg,0,0,300,18,subject
+Atari_Games_1.jpg,0,18,300,36,relation
+Atari_Games_1.jpg,0,48,300,60,object

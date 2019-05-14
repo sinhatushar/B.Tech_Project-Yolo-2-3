@@ -1,0 +1,3 @@
+Abdur_Rashid_Kardar_2.jpg,0,0,300,6,subject
+Abdur_Rashid_Kardar_2.jpg,0,6,300,12,relation
+Abdur_Rashid_Kardar_2.jpg,0,18,300,36,object

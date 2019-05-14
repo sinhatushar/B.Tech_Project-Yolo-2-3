@@ -1,0 +1,3 @@
+Ashok_Pati_1.jpg,0,0,300,12,subject
+Ashok_Pati_1.jpg,0,12,300,18,relation
+Ashok_Pati_1.jpg,0,24,300,36,object

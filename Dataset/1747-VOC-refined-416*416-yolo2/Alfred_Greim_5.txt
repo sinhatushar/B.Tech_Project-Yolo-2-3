@@ -1,0 +1,3 @@
+Alfred_Greim_5.jpg,0,0,300,6,subject
+Alfred_Greim_5.jpg,0,6,300,24,relation
+Alfred_Greim_5.jpg,0,24,300,30,object

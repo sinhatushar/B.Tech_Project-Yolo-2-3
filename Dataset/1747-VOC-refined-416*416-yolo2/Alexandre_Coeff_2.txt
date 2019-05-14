@@ -1,0 +1,3 @@
+Alexandre_Coeff_2.jpg,0,24,300,30,subject
+Alexandre_Coeff_2.jpg,0,30,300,54,relation
+Alexandre_Coeff_2.jpg,0,60,300,72,object
