@@ -1,3 +1,0 @@
-American_Pie_2_3.jpg,0,6,300,12,subject
-American_Pie_2_3.jpg,0,12,300,30,relation
-American_Pie_2_3.jpg,0,90,300,114,object

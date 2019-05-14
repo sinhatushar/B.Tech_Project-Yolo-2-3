@@ -1,3 +1,0 @@
-Alag_Alag_2.jpg,0,6,300,12,subject
-Alag_Alag_2.jpg,0,12,300,18,relation
-Alag_Alag_2.jpg,0,24,300,30,object

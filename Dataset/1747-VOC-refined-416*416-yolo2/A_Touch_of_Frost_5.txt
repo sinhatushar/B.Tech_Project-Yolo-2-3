@@ -1,3 +1,0 @@
-A_Touch_of_Frost_5.jpg,0,24,300,30,subject
-A_Touch_of_Frost_5.jpg,0,60,300,66,relation
-A_Touch_of_Frost_5.jpg,0,66,300,72,object

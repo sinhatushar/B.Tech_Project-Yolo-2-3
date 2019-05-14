@@ -1,3 +1,0 @@
-Alex_Van_Halen_4.jpg,0,0,300,6,subject
-Alex_Van_Halen_4.jpg,0,6,300,12,relation
-Alex_Van_Halen_4.jpg,0,12,300,48,object

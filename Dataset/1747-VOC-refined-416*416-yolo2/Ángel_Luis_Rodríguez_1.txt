@@ -1,3 +1,0 @@
-Ángel_Luis_Rodríguez_1.jpg,0,12,300,18,subject
-Ángel_Luis_Rodríguez_1.jpg,0,12,300,18,relation
-Ángel_Luis_Rodríguez_1.jpg,0,54,300,60,object

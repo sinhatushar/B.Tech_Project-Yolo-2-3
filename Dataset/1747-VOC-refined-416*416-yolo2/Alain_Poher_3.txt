@@ -1,3 +1,0 @@
-Alain_Poher_3.jpg,0,0,300,6,subject
-Alain_Poher_3.jpg,0,6,300,24,relation
-Alain_Poher_3.jpg,0,42,300,84,object

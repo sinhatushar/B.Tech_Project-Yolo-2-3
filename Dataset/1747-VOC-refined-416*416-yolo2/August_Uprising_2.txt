@@ -1,3 +1,0 @@
-August_Uprising_2.jpg,0,72,300,78,subject
-August_Uprising_2.jpg,0,78,300,96,relation
-August_Uprising_2.jpg,0,138,300,186,object

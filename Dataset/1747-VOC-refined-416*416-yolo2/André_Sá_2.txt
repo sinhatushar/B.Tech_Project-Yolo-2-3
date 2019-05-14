@@ -1,3 +1,0 @@
-André_Sá_2.jpg,0,12,300,18,subject
-André_Sá_2.jpg,0,66,300,72,relation
-André_Sá_2.jpg,0,72,300,84,object

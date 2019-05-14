@@ -1,3 +1,0 @@
-A_Fazenda_1.jpg,0,6,300,24,subject
-A_Fazenda_1.jpg,0,42,300,48,relation
-A_Fazenda_1.jpg,0,72,300,96,object

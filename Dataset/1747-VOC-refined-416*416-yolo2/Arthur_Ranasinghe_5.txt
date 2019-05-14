@@ -1,3 +1,0 @@
-Arthur_Ranasinghe_5.jpg,0,24,300,30,subject
-Arthur_Ranasinghe_5.jpg,0,42,300,60,relation
-Arthur_Ranasinghe_5.jpg,0,66,300,78,object

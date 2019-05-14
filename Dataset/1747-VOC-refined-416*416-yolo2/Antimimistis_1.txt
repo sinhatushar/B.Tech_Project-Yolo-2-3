@@ -1,3 +1,0 @@
-Antimimistis_1.jpg,0,0,300,6,subject
-Antimimistis_1.jpg,0,6,300,12,relation
-Antimimistis_1.jpg,0,18,300,24,object

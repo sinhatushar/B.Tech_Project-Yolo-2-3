@@ -1,3 +1,0 @@
-Andrew_McLachlan_2.jpg,0,24,300,36,subject
-Andrew_McLachlan_2.jpg,0,78,300,90,relation
-Andrew_McLachlan_2.jpg,0,96,300,114,object

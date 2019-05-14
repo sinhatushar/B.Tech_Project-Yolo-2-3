@@ -1,3 +1,0 @@
-Ali_Rehema_1.jpg,0,0,300,24,subject
-Ali_Rehema_1.jpg,0,78,300,96,relation
-Ali_Rehema_1.jpg,0,120,300,126,object

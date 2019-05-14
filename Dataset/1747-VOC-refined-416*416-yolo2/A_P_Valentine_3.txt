@@ -1,3 +1,0 @@
-A_P_Valentine_3.jpg,0,60,300,66,subject
-A_P_Valentine_3.jpg,0,48,300,54,relation
-A_P_Valentine_3.jpg,0,6,300,12,object

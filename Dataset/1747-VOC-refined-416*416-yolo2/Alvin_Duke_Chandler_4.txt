@@ -1,3 +1,0 @@
-Alvin_Duke_Chandler_4.jpg,0,0,300,12,subject
-Alvin_Duke_Chandler_4.jpg,0,42,300,54,relation
-Alvin_Duke_Chandler_4.jpg,0,54,300,72,object

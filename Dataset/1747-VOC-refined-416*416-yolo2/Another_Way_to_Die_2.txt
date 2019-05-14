@@ -1,3 +1,0 @@
-Another_Way_to_Die_2.jpg,0,6,300,12,subject
-Another_Way_to_Die_2.jpg,0,114,300,132,relation
-Another_Way_to_Die_2.jpg,0,216,300,234,object

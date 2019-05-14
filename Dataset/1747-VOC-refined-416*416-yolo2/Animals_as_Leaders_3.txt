@@ -1,3 +1,0 @@
-Animals_as_Leaders_3.jpg,0,0,300,6,subject
-Animals_as_Leaders_3.jpg,0,6,300,30,relation
-Animals_as_Leaders_3.jpg,0,48,300,54,object

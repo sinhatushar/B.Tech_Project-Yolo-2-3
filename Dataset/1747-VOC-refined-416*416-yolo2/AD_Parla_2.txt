@@ -1,3 +1,0 @@
-AD_Parla_2.jpg,0,18,300,24,subject
-AD_Parla_2.jpg,0,42,300,66,relation
-AD_Parla_2.jpg,0,96,300,120,object

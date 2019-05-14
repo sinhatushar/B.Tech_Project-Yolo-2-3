@@ -1,3 +1,0 @@
-Arseny_Zverev_6.jpg,0,6,300,12,subject
-Arseny_Zverev_6.jpg,0,54,300,72,relation
-Arseny_Zverev_6.jpg,0,78,300,90,object

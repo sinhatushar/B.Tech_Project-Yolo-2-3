@@ -1,3 +1,0 @@
-Ashley_Tisdale_11.jpg,0,18,300,24,subject
-Ashley_Tisdale_11.jpg,0,60,300,72,relation
-Ashley_Tisdale_11.jpg,0,84,300,90,object

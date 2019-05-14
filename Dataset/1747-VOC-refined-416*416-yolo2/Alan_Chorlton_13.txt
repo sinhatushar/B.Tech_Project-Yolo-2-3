@@ -1,3 +1,0 @@
-Alan_Chorlton_13.jpg,0,6,300,24,subject
-Alan_Chorlton_13.jpg,0,24,300,36,relation
-Alan_Chorlton_13.jpg,0,36,300,42,object

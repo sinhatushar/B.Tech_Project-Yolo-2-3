@@ -1,3 +1,0 @@
-Argentines_of_European_descent_1.jpg,0,0,300,12,subject
-Argentines_of_European_descent_1.jpg,0,12,300,24,relation
-Argentines_of_European_descent_1.jpg,0,30,300,36,object

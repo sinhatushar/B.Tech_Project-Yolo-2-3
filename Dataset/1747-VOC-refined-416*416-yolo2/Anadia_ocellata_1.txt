@@ -1,3 +1,0 @@
-Anadia_ocellata_1.jpg,0,36,300,48,subject
-Anadia_ocellata_1.jpg,0,90,300,102,relation
-Anadia_ocellata_1.jpg,0,84,300,90,object

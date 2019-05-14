@@ -1,3 +1,0 @@
-Agenor_Romuald_Gołuchowski_3.jpg,0,30,300,36,subject
-Agenor_Romuald_Gołuchowski_3.jpg,0,54,300,60,relation
-Agenor_Romuald_Gołuchowski_3.jpg,0,66,300,84,object

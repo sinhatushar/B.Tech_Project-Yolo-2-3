@@ -1,3 +1,0 @@
-Alyssa_Soebandono_3.jpg,0,0,300,12,subject
-Alyssa_Soebandono_3.jpg,0,12,300,24,relation
-Alyssa_Soebandono_3.jpg,0,24,300,30,object

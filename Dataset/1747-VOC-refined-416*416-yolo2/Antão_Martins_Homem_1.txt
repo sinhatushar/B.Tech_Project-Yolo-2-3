@@ -1,3 +1,0 @@
-Antão_Martins_Homem_1.jpg,0,36,300,48,subject
-Antão_Martins_Homem_1.jpg,0,54,300,66,relation
-Antão_Martins_Homem_1.jpg,0,66,300,72,object

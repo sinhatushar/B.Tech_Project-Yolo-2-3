@@ -1,3 +1,0 @@
-Alex_Sharpe_1.jpg,0,48,300,66,subject
-Alex_Sharpe_1.jpg,0,78,300,96,relation
-Alex_Sharpe_1.jpg,0,96,300,108,object

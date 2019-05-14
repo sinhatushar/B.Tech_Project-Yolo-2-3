@@ -1,3 +1,0 @@
-Amigos_x_siempre_6.jpg,0,0,300,6,subject
-Amigos_x_siempre_6.jpg,0,12,300,18,relation
-Amigos_x_siempre_6.jpg,0,30,300,42,object

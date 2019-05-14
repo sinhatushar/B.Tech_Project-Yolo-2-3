@@ -1,3 +1,0 @@
-Anonymity_6.jpg,0,6,300,18,subject
-Anonymity_6.jpg,0,78,300,96,relation
-Anonymity_6.jpg,0,102,300,114,object

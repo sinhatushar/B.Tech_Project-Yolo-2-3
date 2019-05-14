@@ -1,3 +1,0 @@
-Anna_Jantar_1.jpg,0,6,300,12,subject
-Anna_Jantar_1.jpg,0,72,300,78,relation
-Anna_Jantar_1.jpg,0,84,300,90,object

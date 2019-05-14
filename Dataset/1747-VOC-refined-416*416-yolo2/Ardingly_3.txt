@@ -1,3 +1,0 @@
-Ardingly_3.jpg,0,0,300,6,subject
-Ardingly_3.jpg,0,54,300,66,relation
-Ardingly_3.jpg,0,78,300,84,object

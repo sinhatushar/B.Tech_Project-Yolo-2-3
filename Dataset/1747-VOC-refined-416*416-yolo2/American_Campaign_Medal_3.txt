@@ -1,3 +1,0 @@
-American_Campaign_Medal_3.jpg,0,36,300,60,subject
-American_Campaign_Medal_3.jpg,0,60,300,66,relation
-American_Campaign_Medal_3.jpg,0,66,300,138,object

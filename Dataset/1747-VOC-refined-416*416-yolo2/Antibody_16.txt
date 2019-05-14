@@ -1,3 +1,0 @@
-Antibody_16.jpg,0,48,300,54,subject
-Antibody_16.jpg,0,60,300,66,relation
-Antibody_16.jpg,0,66,300,72,object

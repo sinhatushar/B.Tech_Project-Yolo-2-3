@@ -1,3 +1,0 @@
-Aroma_compound_9.jpg,0,6,300,12,subject
-Aroma_compound_9.jpg,0,12,300,36,relation
-Aroma_compound_9.jpg,0,66,300,102,object

@@ -1,3 +1,0 @@
-A_Grande_Família_4.jpg,0,6,300,24,subject
-A_Grande_Família_4.jpg,0,24,300,42,relation
-A_Grande_Família_4.jpg,0,72,300,78,object

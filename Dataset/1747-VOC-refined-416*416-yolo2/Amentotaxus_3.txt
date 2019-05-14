@@ -1,3 +1,0 @@
-Amentotaxus_3.jpg,0,6,300,12,subject
-Amentotaxus_3.jpg,0,12,300,18,relation
-Amentotaxus_3.jpg,0,18,300,30,object

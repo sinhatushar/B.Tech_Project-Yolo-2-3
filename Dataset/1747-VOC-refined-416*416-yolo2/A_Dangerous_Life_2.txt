@@ -1,3 +1,0 @@
-A_Dangerous_Life_2.jpg,0,6,300,12,subject
-A_Dangerous_Life_2.jpg,0,12,300,24,relation
-A_Dangerous_Life_2.jpg,0,54,300,66,object

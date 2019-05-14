@@ -1,3 +1,0 @@
-Arabs_in_Romania_1.jpg,0,0,300,6,subject
-Arabs_in_Romania_1.jpg,0,162,300,174,relation
-Arabs_in_Romania_1.jpg,0,12,300,18,object

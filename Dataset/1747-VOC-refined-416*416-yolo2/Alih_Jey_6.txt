@@ -1,3 +1,0 @@
-Alih_Jey_6.jpg,0,12,300,18,subject
-Alih_Jey_6.jpg,0,18,300,24,relation
-Alih_Jey_6.jpg,0,78,300,138,object

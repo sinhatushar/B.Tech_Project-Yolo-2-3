@@ -1,3 +1,0 @@
-Automatic_Man_1.jpg,0,0,300,12,subject
-Automatic_Man_1.jpg,0,12,300,18,relation
-Automatic_Man_1.jpg,0,24,300,72,object

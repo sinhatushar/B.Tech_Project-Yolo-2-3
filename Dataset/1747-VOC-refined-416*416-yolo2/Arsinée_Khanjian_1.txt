@@ -1,3 +1,0 @@
-Arsinée_Khanjian_1.jpg,0,6,300,12,subject
-Arsinée_Khanjian_1.jpg,0,72,300,78,relation
-Arsinée_Khanjian_1.jpg,0,84,300,90,object

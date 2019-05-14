@@ -1,3 +1,0 @@
-Addis_Ababa_University_4.jpg,0,54,300,60,subject
-Addis_Ababa_University_4.jpg,0,42,300,48,relation
-Addis_Ababa_University_4.jpg,0,66,300,72,object

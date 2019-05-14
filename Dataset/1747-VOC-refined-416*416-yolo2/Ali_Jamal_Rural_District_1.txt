@@ -1,3 +1,0 @@
-Ali_Jamal_Rural_District_1.jpg,0,0,300,24,subject
-Ali_Jamal_Rural_District_1.jpg,0,18,300,36,relation
-Ali_Jamal_Rural_District_1.jpg,0,78,300,108,object

@@ -1,3 +1,0 @@
-Ahmad_Elrich_4.jpg,0,0,300,6,subject
-Ahmad_Elrich_4.jpg,0,6,300,30,relation
-Ahmad_Elrich_4.jpg,0,36,300,72,object

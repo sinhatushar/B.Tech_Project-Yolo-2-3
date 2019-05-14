@@ -1,3 +1,0 @@
-Alfonso_the_Battler_1.jpg,0,0,300,12,subject
-Alfonso_the_Battler_1.jpg,0,36,300,42,relation
-Alfonso_the_Battler_1.jpg,0,66,300,78,object

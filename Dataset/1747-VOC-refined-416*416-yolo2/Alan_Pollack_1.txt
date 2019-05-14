@@ -1,3 +1,0 @@
-Alan_Pollack_1.jpg,0,0,300,12,subject
-Alan_Pollack_1.jpg,0,42,300,60,relation
-Alan_Pollack_1.jpg,0,72,300,102,object

@@ -1,3 +1,0 @@
-Another_Grey_Area_1.jpg,0,66,300,72,subject
-Another_Grey_Area_1.jpg,0,36,300,42,relation
-Another_Grey_Area_1.jpg,0,138,300,144,object

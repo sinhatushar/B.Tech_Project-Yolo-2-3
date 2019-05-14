@@ -1,3 +1,0 @@
-Alfa_System_4.jpg,0,0,300,6,subject
-Alfa_System_4.jpg,0,6,300,24,relation
-Alfa_System_4.jpg,0,78,300,84,object

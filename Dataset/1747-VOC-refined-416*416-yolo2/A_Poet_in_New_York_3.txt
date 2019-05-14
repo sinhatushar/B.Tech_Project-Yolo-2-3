@@ -1,3 +1,0 @@
-A_Poet_in_New_York_3.jpg,0,78,300,102,subject
-A_Poet_in_New_York_3.jpg,0,102,300,114,relation
-A_Poet_in_New_York_3.jpg,0,114,300,126,object

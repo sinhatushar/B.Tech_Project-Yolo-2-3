@@ -1,3 +1,0 @@
-Adriana_Evans_1.jpg,0,54,300,78,subject
-Adriana_Evans_1.jpg,0,18,300,30,relation
-Adriana_Evans_1.jpg,0,30,300,42,object

@@ -1,3 +1,0 @@
-Alexander_Vraciu_10.jpg,0,252,300,276,subject
-Alexander_Vraciu_10.jpg,0,18,300,24,relation
-Alexander_Vraciu_10.jpg,0,24,300,30,object

@@ -1,3 +1,0 @@
-Avegno_Gordevio_1.jpg,0,72,300,78,subject
-Avegno_Gordevio_1.jpg,0,12,300,24,relation
-Avegno_Gordevio_1.jpg,0,96,300,102,object

@@ -1,3 +1,0 @@
-Adrian_Mutu_7.jpg,0,84,300,90,subject
-Adrian_Mutu_7.jpg,0,90,300,102,relation
-Adrian_Mutu_7.jpg,0,12,300,36,object

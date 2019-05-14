@@ -1,3 +1,0 @@
-Alessandro_Lopes_Pereira_1.jpg,0,12,300,18,subject
-Alessandro_Lopes_Pereira_1.jpg,0,72,300,78,relation
-Alessandro_Lopes_Pereira_1.jpg,0,84,300,90,object

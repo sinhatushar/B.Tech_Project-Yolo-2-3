@@ -1,3 +1,0 @@
-Ali_Nazifkar_1.jpg,0,0,300,12,subject
-Ali_Nazifkar_1.jpg,0,60,300,66,relation
-Ali_Nazifkar_1.jpg,0,78,300,108,object

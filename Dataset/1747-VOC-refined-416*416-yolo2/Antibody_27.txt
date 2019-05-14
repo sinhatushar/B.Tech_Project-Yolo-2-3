@@ -1,3 +1,0 @@
-Antibody_27.jpg,0,12,300,18,subject
-Antibody_27.jpg,0,54,300,66,relation
-Antibody_27.jpg,0,66,300,78,object

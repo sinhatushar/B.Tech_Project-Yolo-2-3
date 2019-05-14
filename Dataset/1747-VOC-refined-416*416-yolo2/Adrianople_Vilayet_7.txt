@@ -1,3 +1,0 @@
-Adrianople_Vilayet_7.jpg,0,36,300,42,subject
-Adrianople_Vilayet_7.jpg,0,42,300,48,relation
-Adrianople_Vilayet_7.jpg,0,48,300,54,object

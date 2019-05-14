@@ -1,3 +1,0 @@
-Air_show_1.jpg,0,84,300,90,subject
-Air_show_1.jpg,0,90,300,96,relation
-Air_show_1.jpg,0,78,300,90,object

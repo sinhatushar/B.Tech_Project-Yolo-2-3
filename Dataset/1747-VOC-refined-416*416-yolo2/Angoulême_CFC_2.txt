@@ -1,3 +1,0 @@
-Angoulême_CFC_2.jpg,0,42,300,48,subject
-Angoulême_CFC_2.jpg,0,48,300,72,relation
-Angoulême_CFC_2.jpg,0,30,300,36,object

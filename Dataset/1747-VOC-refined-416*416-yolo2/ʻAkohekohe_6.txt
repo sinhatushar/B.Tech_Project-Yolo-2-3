@@ -1,3 +1,0 @@
-ʻAkohekohe_6.jpg,0,42,300,48,subject
-ʻAkohekohe_6.jpg,0,48,300,54,relation
-ʻAkohekohe_6.jpg,0,60,300,84,object

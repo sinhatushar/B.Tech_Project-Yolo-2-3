@@ -1,3 +1,0 @@
-Anu_Prabhakar_1.jpg,0,0,300,12,subject
-Anu_Prabhakar_1.jpg,0,90,300,96,relation
-Anu_Prabhakar_1.jpg,0,102,300,120,object

@@ -1,3 +1,0 @@
-Alberta_Gay_3.jpg,0,0,300,6,subject
-Alberta_Gay_3.jpg,0,6,300,12,relation
-Alberta_Gay_3.jpg,0,30,300,78,object

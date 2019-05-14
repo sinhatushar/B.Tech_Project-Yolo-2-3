@@ -1,3 +1,0 @@
-Albanian_Superliga_1.jpg,0,66,300,72,subject
-Albanian_Superliga_1.jpg,0,60,300,66,relation
-Albanian_Superliga_1.jpg,0,72,300,90,object

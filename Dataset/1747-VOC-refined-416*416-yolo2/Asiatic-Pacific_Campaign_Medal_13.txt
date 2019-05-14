@@ -1,3 +1,0 @@
-Asiatic-Pacific_Campaign_Medal_13.jpg,0,12,300,24,subject
-Asiatic-Pacific_Campaign_Medal_13.jpg,0,24,300,36,relation
-Asiatic-Pacific_Campaign_Medal_13.jpg,0,42,300,90,object

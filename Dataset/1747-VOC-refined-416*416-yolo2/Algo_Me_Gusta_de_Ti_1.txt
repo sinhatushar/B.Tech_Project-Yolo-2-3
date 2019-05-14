@@ -1,3 +1,0 @@
-Algo_Me_Gusta_de_Ti_1.jpg,0,0,300,30,subject
-Algo_Me_Gusta_de_Ti_1.jpg,0,36,300,42,relation
-Algo_Me_Gusta_de_Ti_1.jpg,0,78,300,90,object

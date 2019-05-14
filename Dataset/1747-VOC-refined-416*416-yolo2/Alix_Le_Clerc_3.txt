@@ -1,3 +1,0 @@
-Alix_Le_Clerc_3.jpg,0,0,300,6,subject
-Alix_Le_Clerc_3.jpg,0,24,300,30,relation
-Alix_Le_Clerc_3.jpg,0,48,300,54,object

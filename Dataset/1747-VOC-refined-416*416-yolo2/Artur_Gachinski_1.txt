@@ -1,3 +1,0 @@
-Artur_Gachinski_1.jpg,0,12,300,18,subject
-Artur_Gachinski_1.jpg,0,54,300,60,relation
-Artur_Gachinski_1.jpg,0,18,300,24,object

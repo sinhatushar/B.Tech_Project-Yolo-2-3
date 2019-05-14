@@ -1,3 +1,0 @@
-Anabarilius_1.jpg,0,0,300,6,subject
-Anabarilius_1.jpg,0,6,300,24,relation
-Anabarilius_1.jpg,0,30,300,42,object

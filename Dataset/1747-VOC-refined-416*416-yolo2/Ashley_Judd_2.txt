@@ -1,3 +1,0 @@
-Ashley_Judd_2.jpg,0,0,300,6,subject
-Ashley_Judd_2.jpg,0,6,300,24,relation
-Ashley_Judd_2.jpg,0,30,300,48,object

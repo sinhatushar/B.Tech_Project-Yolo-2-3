@@ -1,3 +1,0 @@
-Alice_Terry_3.jpg,0,174,300,186,subject
-Alice_Terry_3.jpg,0,198,300,210,relation
-Alice_Terry_3.jpg,0,216,300,222,object

@@ -1,3 +1,0 @@
-Alberts_Kviesis_7.jpg,0,24,300,30,subject
-Alberts_Kviesis_7.jpg,0,30,300,42,relation
-Alberts_Kviesis_7.jpg,0,48,300,54,object

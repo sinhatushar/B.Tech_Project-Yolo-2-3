@@ -1,3 +1,0 @@
-Audax_Italiano_1.jpg,0,60,300,78,subject
-Audax_Italiano_1.jpg,0,78,300,90,relation
-Audax_Italiano_1.jpg,0,90,300,102,object

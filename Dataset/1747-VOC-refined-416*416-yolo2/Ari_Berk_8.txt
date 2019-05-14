@@ -1,3 +1,0 @@
-Ari_Berk_8.jpg,0,48,300,66,subject
-Ari_Berk_8.jpg,0,66,300,72,relation
-Ari_Berk_8.jpg,0,72,300,78,object

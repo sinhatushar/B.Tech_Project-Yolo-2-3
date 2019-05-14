@@ -1,3 +1,0 @@
-Archerfish_2.jpg,0,6,300,12,subject
-Archerfish_2.jpg,0,24,300,36,relation
-Archerfish_2.jpg,0,60,300,78,object

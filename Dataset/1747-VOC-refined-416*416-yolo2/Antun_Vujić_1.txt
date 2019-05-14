@@ -1,3 +1,0 @@
-Antun_Vujić_1.jpg,0,6,300,12,subject
-Antun_Vujić_1.jpg,0,48,300,54,relation
-Antun_Vujić_1.jpg,0,60,300,66,object

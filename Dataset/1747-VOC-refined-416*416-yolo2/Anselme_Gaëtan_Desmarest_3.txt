@@ -1,3 +1,0 @@
-Anselme_Gaëtan_Desmarest_3.jpg,0,78,300,84,subject
-Anselme_Gaëtan_Desmarest_3.jpg,0,84,300,114,relation
-Anselme_Gaëtan_Desmarest_3.jpg,0,72,300,78,object

@@ -1,3 +1,0 @@
-A_Bit_of_Liverpool_5.jpg,0,30,300,36,subject
-A_Bit_of_Liverpool_5.jpg,0,42,300,60,relation
-A_Bit_of_Liverpool_5.jpg,0,18,300,30,object

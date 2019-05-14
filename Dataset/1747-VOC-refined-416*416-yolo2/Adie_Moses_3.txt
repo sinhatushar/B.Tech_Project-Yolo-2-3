@@ -1,3 +1,0 @@
-Adie_Moses_3.jpg,0,0,300,6,subject
-Adie_Moses_3.jpg,0,12,300,18,relation
-Adie_Moses_3.jpg,0,18,300,24,object

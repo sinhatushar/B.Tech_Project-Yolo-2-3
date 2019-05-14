@@ -1,3 +1,0 @@
-Ajuda_National_Palace_4.jpg,0,18,300,24,subject
-Ajuda_National_Palace_4.jpg,0,24,300,30,relation
-Ajuda_National_Palace_4.jpg,0,36,300,42,object

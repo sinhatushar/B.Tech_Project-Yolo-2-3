@@ -1,3 +1,0 @@
-António_Reis_1.jpg,0,0,300,30,subject
-António_Reis_1.jpg,0,60,300,66,relation
-António_Reis_1.jpg,0,78,300,90,object

@@ -1,3 +1,0 @@
-Alessandro_Poglietti_4.jpg,0,54,300,60,subject
-Alessandro_Poglietti_4.jpg,0,72,300,84,relation
-Alessandro_Poglietti_4.jpg,0,84,300,108,object

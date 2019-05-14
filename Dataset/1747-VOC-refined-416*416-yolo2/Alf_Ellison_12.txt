@@ -1,3 +1,0 @@
-Alf_Ellison_12.jpg,0,18,300,24,subject
-Alf_Ellison_12.jpg,0,66,300,90,relation
-Alf_Ellison_12.jpg,0,90,300,102,object

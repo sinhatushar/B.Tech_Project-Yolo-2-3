@@ -1,3 +1,0 @@
-Ambareesh_9.jpg,0,48,300,54,subject
-Ambareesh_9.jpg,0,6,300,18,relation
-Ambareesh_9.jpg,0,24,300,48,object

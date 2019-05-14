@@ -1,3 +1,0 @@
-André_Felipe_Ribeiro_de_Souza_1.jpg,0,0,300,30,subject
-André_Felipe_Ribeiro_de_Souza_1.jpg,0,78,300,84,relation
-André_Felipe_Ribeiro_de_Souza_1.jpg,0,90,300,102,object

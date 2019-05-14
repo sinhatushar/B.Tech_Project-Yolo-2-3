@@ -1,3 +1,0 @@
-Assicurazioni_Generali_3.jpg,0,12,300,30,subject
-Assicurazioni_Generali_3.jpg,0,30,300,36,relation
-Assicurazioni_Generali_3.jpg,0,54,300,78,object

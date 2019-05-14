@@ -1,3 +1,0 @@
-Acasă_2.jpg,0,0,300,6,subject
-Acasă_2.jpg,0,6,300,12,relation
-Acasă_2.jpg,0,18,300,54,object

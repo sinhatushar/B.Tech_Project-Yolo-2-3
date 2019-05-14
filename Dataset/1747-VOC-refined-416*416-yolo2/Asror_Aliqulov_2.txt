@@ -1,3 +1,0 @@
-Asror_Aliqulov_2.jpg,0,0,300,6,subject
-Asror_Aliqulov_2.jpg,0,12,300,24,relation
-Asror_Aliqulov_2.jpg,0,24,300,30,object

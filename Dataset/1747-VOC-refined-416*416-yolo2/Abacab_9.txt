@@ -1,3 +1,0 @@
-Abacab_9.jpg,0,6,300,12,subject
-Abacab_9.jpg,0,36,300,60,relation
-Abacab_9.jpg,0,84,300,114,object

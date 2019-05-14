@@ -1,3 +1,0 @@
-Alfred_and_Plantagenet_3.jpg,0,6,300,12,subject
-Alfred_and_Plantagenet_3.jpg,0,12,300,30,relation
-Alfred_and_Plantagenet_3.jpg,0,60,300,84,object

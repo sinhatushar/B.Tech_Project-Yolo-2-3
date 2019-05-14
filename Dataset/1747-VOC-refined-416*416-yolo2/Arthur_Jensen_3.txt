@@ -1,3 +1,0 @@
-Arthur_Jensen_3.jpg,0,0,300,6,subject
-Arthur_Jensen_3.jpg,0,6,300,18,relation
-Arthur_Jensen_3.jpg,0,72,300,90,object

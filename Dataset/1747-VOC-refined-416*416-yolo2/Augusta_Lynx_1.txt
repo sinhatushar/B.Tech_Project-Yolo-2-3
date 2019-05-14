@@ -1,3 +1,0 @@
-Augusta_Lynx_1.jpg,0,6,300,18,subject
-Augusta_Lynx_1.jpg,0,18,300,24,relation
-Augusta_Lynx_1.jpg,0,30,300,66,object

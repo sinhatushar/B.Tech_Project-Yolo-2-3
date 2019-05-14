@@ -1,3 +1,0 @@
-AFC_Fortuna_Poiana_Câmpina_1.jpg,0,0,300,18,subject
-AFC_Fortuna_Poiana_Câmpina_1.jpg,0,18,300,24,relation
-AFC_Fortuna_Poiana_Câmpina_1.jpg,0,36,300,48,object

@@ -1,3 +1,0 @@
-Adolphe_Menjou_2.jpg,0,0,300,12,subject
-Adolphe_Menjou_2.jpg,0,12,300,18,relation
-Adolphe_Menjou_2.jpg,0,24,300,36,object

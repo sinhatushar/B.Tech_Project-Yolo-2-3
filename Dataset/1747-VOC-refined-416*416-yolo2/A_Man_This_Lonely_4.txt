@@ -1,3 +1,0 @@
-A_Man_This_Lonely_4.jpg,0,30,300,42,subject
-A_Man_This_Lonely_4.jpg,0,24,300,30,relation
-A_Man_This_Lonely_4.jpg,0,42,300,66,object

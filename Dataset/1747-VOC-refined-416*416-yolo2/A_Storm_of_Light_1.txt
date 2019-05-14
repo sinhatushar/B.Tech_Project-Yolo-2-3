@@ -1,3 +1,0 @@
-A_Storm_of_Light_1.jpg,0,18,300,24,subject
-A_Storm_of_Light_1.jpg,0,6,300,24,relation
-A_Storm_of_Light_1.jpg,0,36,300,66,object

@@ -1,3 +1,0 @@
-Avenger_of_Antares_4.jpg,0,60,300,66,subject
-Avenger_of_Antares_4.jpg,0,36,300,54,relation
-Avenger_of_Antares_4.jpg,0,72,300,90,object

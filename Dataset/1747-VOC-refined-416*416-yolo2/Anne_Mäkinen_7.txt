@@ -1,3 +1,0 @@
-Anne_Mäkinen_7.jpg,0,108,300,114,subject
-Anne_Mäkinen_7.jpg,0,96,300,102,relation
-Anne_Mäkinen_7.jpg,0,114,300,138,object

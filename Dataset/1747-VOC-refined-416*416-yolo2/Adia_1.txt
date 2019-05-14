@@ -1,3 +1,0 @@
-Adia_1.jpg,0,6,300,30,subject
-Adia_1.jpg,0,36,300,42,relation
-Adia_1.jpg,0,54,300,102,object

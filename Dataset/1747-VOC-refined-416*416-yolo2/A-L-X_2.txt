@@ -1,3 +1,0 @@
-A-L-X_2.jpg,0,12,300,48,subject
-A-L-X_2.jpg,0,48,300,60,relation
-A-L-X_2.jpg,0,72,300,84,object

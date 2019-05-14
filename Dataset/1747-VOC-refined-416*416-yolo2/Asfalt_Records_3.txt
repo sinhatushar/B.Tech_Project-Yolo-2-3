@@ -1,3 +1,0 @@
-Asfalt_Records_3.jpg,0,18,300,30,subject
-Asfalt_Records_3.jpg,0,30,300,54,relation
-Asfalt_Records_3.jpg,0,66,300,90,object

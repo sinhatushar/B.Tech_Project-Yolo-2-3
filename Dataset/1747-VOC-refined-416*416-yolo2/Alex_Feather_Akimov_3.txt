@@ -1,3 +1,0 @@
-Alex_Feather_Akimov_3.jpg,0,36,300,42,subject
-Alex_Feather_Akimov_3.jpg,0,108,300,138,relation
-Alex_Feather_Akimov_3.jpg,0,150,300,162,object

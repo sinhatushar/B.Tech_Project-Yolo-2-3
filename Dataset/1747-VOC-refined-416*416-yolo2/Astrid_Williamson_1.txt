@@ -1,3 +1,0 @@
-Astrid_Williamson_1.jpg,0,6,300,12,subject
-Astrid_Williamson_1.jpg,0,36,300,42,relation
-Astrid_Williamson_1.jpg,0,48,300,54,object

@@ -1,3 +1,0 @@
-Ambrose_Burnside_3.jpg,0,78,300,84,subject
-Ambrose_Burnside_3.jpg,0,204,300,216,relation
-Ambrose_Burnside_3.jpg,0,90,300,102,object

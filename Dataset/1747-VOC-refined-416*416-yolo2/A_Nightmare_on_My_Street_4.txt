@@ -1,3 +1,0 @@
-A_Nightmare_on_My_Street_4.jpg,0,6,300,12,subject
-A_Nightmare_on_My_Street_4.jpg,0,12,300,30,relation
-A_Nightmare_on_My_Street_4.jpg,0,30,300,36,object

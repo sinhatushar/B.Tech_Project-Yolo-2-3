@@ -1,3 +1,0 @@
-Angelos_Vertzos_1.jpg,0,6,300,12,subject
-Angelos_Vertzos_1.jpg,0,6,300,12,relation
-Angelos_Vertzos_1.jpg,0,66,300,72,object

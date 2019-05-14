@@ -1,3 +1,0 @@
-Atlantic_Southeast_Airlines_5.jpg,0,18,300,24,subject
-Atlantic_Southeast_Airlines_5.jpg,0,36,300,42,relation
-Atlantic_Southeast_Airlines_5.jpg,0,48,300,66,object

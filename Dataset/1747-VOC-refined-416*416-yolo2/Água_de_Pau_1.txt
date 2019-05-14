@@ -1,3 +1,0 @@
-Água_de_Pau_1.jpg,0,0,300,18,subject
-Água_de_Pau_1.jpg,0,18,300,42,relation
-Água_de_Pau_1.jpg,0,54,300,60,object

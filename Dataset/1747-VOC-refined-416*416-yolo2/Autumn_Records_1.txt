@@ -1,3 +1,0 @@
-Autumn_Records_1.jpg,0,0,300,12,subject
-Autumn_Records_1.jpg,0,12,300,18,relation
-Autumn_Records_1.jpg,0,24,300,48,object

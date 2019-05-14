@@ -1,3 +1,0 @@
-Acineta_10.jpg,0,6,300,12,subject
-Acineta_10.jpg,0,12,300,36,relation
-Acineta_10.jpg,0,36,300,66,object

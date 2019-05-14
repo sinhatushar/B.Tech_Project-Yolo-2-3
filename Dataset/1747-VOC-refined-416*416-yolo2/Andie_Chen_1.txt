@@ -1,3 +1,0 @@
-Andie_Chen_1.jpg,0,6,300,12,subject
-Andie_Chen_1.jpg,0,96,300,102,relation
-Andie_Chen_1.jpg,0,108,300,114,object

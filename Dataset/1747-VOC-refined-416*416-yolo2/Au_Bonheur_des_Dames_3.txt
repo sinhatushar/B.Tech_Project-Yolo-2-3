@@ -1,3 +1,0 @@
-Au_Bonheur_des_Dames_3.jpg,0,6,300,12,subject
-Au_Bonheur_des_Dames_3.jpg,0,12,300,30,relation
-Au_Bonheur_des_Dames_3.jpg,0,78,300,114,object

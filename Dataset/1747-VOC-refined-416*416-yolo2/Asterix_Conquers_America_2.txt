@@ -1,3 +1,0 @@
-Asterix_Conquers_America_2.jpg,0,0,300,6,subject
-Asterix_Conquers_America_2.jpg,0,78,300,84,relation
-Asterix_Conquers_America_2.jpg,0,90,300,114,object

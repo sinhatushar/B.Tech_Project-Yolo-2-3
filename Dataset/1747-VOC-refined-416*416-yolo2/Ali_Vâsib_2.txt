@@ -1,3 +1,0 @@
-Ali_Vâsib_2.jpg,0,42,300,48,subject
-Ali_Vâsib_2.jpg,0,48,300,72,relation
-Ali_Vâsib_2.jpg,0,84,300,108,object

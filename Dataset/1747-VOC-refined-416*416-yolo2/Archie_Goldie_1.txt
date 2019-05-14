@@ -1,3 +1,0 @@
-Archie_Goldie_1.jpg,0,0,300,12,subject
-Archie_Goldie_1.jpg,0,48,300,66,relation
-Archie_Goldie_1.jpg,0,78,300,102,object

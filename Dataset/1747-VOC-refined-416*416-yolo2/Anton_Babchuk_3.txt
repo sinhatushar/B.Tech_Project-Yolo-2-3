@@ -1,3 +1,0 @@
-Anton_Babchuk_3.jpg,0,138,300,156,subject
-Anton_Babchuk_3.jpg,0,126,300,144,relation
-Anton_Babchuk_3.jpg,0,156,300,180,object

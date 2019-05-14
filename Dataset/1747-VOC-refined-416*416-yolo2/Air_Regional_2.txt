@@ -1,3 +1,0 @@
-Air_Regional_2.jpg,0,0,300,6,subject
-Air_Regional_2.jpg,0,6,300,36,relation
-Air_Regional_2.jpg,0,84,300,138,object

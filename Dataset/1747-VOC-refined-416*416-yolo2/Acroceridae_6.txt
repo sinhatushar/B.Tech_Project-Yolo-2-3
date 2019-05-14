@@ -1,3 +1,0 @@
-Acroceridae_6.jpg,0,6,300,12,subject
-Acroceridae_6.jpg,0,42,300,66,relation
-Acroceridae_6.jpg,0,18,300,24,object

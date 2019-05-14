@@ -1,3 +1,0 @@
-Acoustic_guitar_2.jpg,0,54,300,60,subject
-Acoustic_guitar_2.jpg,0,66,300,72,relation
-Acoustic_guitar_2.jpg,0,84,300,90,object

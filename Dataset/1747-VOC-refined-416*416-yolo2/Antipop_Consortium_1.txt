@@ -1,3 +1,0 @@
-Antipop_Consortium_1.jpg,0,0,300,12,subject
-Antipop_Consortium_1.jpg,0,12,300,18,relation
-Antipop_Consortium_1.jpg,0,24,300,48,object

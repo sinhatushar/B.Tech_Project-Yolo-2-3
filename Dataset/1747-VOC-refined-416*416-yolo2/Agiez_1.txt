@@ -1,3 +1,0 @@
-Agiez_1.jpg,0,72,300,78,subject
-Agiez_1.jpg,0,60,300,72,relation
-Agiez_1.jpg,0,96,300,102,object

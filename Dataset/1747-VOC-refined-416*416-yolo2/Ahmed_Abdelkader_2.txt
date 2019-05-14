@@ -1,3 +1,0 @@
-Ahmed_Abdelkader_2.jpg,0,0,300,6,subject
-Ahmed_Abdelkader_2.jpg,0,6,300,18,relation
-Ahmed_Abdelkader_2.jpg,0,18,300,36,object

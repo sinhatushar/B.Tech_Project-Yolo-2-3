@@ -1,3 +1,0 @@
-Armagnac–Burgundian_Civil_War_2.jpg,0,0,300,6,subject
-Armagnac–Burgundian_Civil_War_2.jpg,0,84,300,96,relation
-Armagnac–Burgundian_Civil_War_2.jpg,0,102,300,126,object

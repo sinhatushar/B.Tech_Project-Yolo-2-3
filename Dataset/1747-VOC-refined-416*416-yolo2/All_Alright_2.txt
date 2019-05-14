@@ -1,3 +1,0 @@
-All_Alright_2.jpg,0,84,300,90,subject
-All_Alright_2.jpg,0,90,300,108,relation
-All_Alright_2.jpg,0,114,300,126,object

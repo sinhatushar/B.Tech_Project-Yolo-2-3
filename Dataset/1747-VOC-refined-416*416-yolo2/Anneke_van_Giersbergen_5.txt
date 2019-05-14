@@ -1,3 +1,0 @@
-Anneke_van_Giersbergen_5.jpg,0,12,300,18,subject
-Anneke_van_Giersbergen_5.jpg,0,18,300,30,relation
-Anneke_van_Giersbergen_5.jpg,0,36,300,42,object

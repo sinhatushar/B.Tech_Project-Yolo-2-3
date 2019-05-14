@@ -1,3 +1,0 @@
-Asian_South_Africans_4.jpg,0,96,300,108,subject
-Asian_South_Africans_4.jpg,0,108,300,132,relation
-Asian_South_Africans_4.jpg,0,138,300,156,object

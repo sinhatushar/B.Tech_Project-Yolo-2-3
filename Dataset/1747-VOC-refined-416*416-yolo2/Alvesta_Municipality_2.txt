@@ -1,3 +1,0 @@
-Alvesta_Municipality_2.jpg,0,0,300,12,subject
-Alvesta_Municipality_2.jpg,0,12,300,24,relation
-Alvesta_Municipality_2.jpg,0,24,300,30,object

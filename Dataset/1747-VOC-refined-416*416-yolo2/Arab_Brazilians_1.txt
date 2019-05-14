@@ -1,3 +1,0 @@
-Arab_Brazilians_1.jpg,0,6,300,12,subject
-Arab_Brazilians_1.jpg,0,12,300,18,relation
-Arab_Brazilians_1.jpg,0,18,300,30,object

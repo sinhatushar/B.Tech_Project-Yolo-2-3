@@ -1,3 +1,0 @@
-AM_Conspiracy_3.jpg,0,24,300,30,subject
-AM_Conspiracy_3.jpg,0,72,300,84,relation
-AM_Conspiracy_3.jpg,0,78,300,114,object

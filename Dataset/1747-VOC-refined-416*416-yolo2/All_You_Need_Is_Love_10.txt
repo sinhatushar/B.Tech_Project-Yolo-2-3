@@ -1,3 +1,0 @@
-All_You_Need_Is_Love_10.jpg,0,48,300,54,subject
-All_You_Need_Is_Love_10.jpg,0,54,300,66,relation
-All_You_Need_Is_Love_10.jpg,0,72,300,96,object

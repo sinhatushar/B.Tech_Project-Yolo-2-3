@@ -1,3 +1,0 @@
-António_Vitorino_1.jpg,0,30,300,36,subject
-António_Vitorino_1.jpg,0,60,300,66,relation
-António_Vitorino_1.jpg,0,66,300,72,object

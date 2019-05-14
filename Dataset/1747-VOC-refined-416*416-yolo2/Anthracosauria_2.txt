@@ -1,3 +1,0 @@
-Anthracosauria_2.jpg,0,0,300,6,subject
-Anthracosauria_2.jpg,0,30,300,42,relation
-Anthracosauria_2.jpg,0,48,300,54,object

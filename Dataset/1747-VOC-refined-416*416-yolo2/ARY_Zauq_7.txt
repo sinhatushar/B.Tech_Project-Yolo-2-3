@@ -1,3 +1,0 @@
-ARY_Zauq_7.jpg,0,12,300,24,subject
-ARY_Zauq_7.jpg,0,24,300,42,relation
-ARY_Zauq_7.jpg,0,60,300,114,object

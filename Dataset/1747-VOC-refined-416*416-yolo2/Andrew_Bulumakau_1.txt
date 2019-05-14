@@ -1,3 +1,0 @@
-Andrew_Bulumakau_1.jpg,0,6,300,12,subject
-Andrew_Bulumakau_1.jpg,0,36,300,42,relation
-Andrew_Bulumakau_1.jpg,0,60,300,66,object

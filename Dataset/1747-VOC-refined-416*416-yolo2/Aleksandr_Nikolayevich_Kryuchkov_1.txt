@@ -1,3 +1,0 @@
-Aleksandr_Nikolayevich_Kryuchkov_1.jpg,0,12,300,18,subject
-Aleksandr_Nikolayevich_Kryuchkov_1.jpg,0,54,300,60,relation
-Aleksandr_Nikolayevich_Kryuchkov_1.jpg,0,18,300,24,object

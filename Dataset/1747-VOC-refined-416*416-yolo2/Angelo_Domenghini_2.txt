@@ -1,3 +1,0 @@
-Angelo_Domenghini_2.jpg,0,24,300,30,subject
-Angelo_Domenghini_2.jpg,0,36,300,54,relation
-Angelo_Domenghini_2.jpg,0,198,300,204,object

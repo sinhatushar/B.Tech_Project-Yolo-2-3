@@ -1,3 +1,0 @@
-Australian_Ghost_Story_1.jpg,0,6,300,18,subject
-Australian_Ghost_Story_1.jpg,0,18,300,36,relation
-Australian_Ghost_Story_1.jpg,0,42,300,54,object

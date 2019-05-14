@@ -1,3 +1,0 @@
-Audi_S5_5.jpg,0,6,300,12,subject
-Audi_S5_5.jpg,0,42,300,48,relation
-Audi_S5_5.jpg,0,48,300,54,object

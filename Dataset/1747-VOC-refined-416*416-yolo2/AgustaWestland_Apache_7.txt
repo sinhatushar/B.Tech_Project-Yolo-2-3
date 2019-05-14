@@ -1,3 +1,0 @@
-AgustaWestland_Apache_7.jpg,0,0,300,12,subject
-AgustaWestland_Apache_7.jpg,0,42,300,66,relation
-AgustaWestland_Apache_7.jpg,0,84,300,120,object

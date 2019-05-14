@@ -1,3 +1,0 @@
-Arkham_House_5.jpg,0,6,300,12,subject
-Arkham_House_5.jpg,0,30,300,36,relation
-Arkham_House_5.jpg,0,36,300,42,object

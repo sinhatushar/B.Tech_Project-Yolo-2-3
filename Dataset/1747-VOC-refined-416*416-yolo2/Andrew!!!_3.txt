@@ -1,3 +1,0 @@
-Andrew!!!_3.jpg,0,18,300,24,subject
-Andrew!!!_3.jpg,0,36,300,48,relation
-Andrew!!!_3.jpg,0,66,300,90,object

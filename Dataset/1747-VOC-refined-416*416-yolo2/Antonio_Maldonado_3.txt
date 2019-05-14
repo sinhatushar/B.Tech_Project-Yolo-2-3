@@ -1,3 +1,0 @@
-Antonio_Maldonado_3.jpg,0,0,300,6,subject
-Antonio_Maldonado_3.jpg,0,6,300,12,relation
-Antonio_Maldonado_3.jpg,0,24,300,78,object

@@ -1,3 +1,0 @@
-Alessandra_Martines_1.jpg,0,6,300,12,subject
-Alessandra_Martines_1.jpg,0,36,300,42,relation
-Alessandra_Martines_1.jpg,0,48,300,54,object

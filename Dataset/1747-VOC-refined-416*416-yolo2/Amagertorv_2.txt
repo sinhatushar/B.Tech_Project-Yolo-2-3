@@ -1,3 +1,0 @@
-Amagertorv_2.jpg,0,24,300,30,subject
-Amagertorv_2.jpg,0,66,300,72,relation
-Amagertorv_2.jpg,0,72,300,84,object

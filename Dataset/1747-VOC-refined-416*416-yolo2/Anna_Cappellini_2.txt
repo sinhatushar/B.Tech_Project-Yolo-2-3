@@ -1,3 +1,0 @@
-Anna_Cappellini_2.jpg,0,6,300,24,subject
-Anna_Cappellini_2.jpg,0,216,300,234,relation
-Anna_Cappellini_2.jpg,0,66,300,84,object

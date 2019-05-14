@@ -1,3 +1,0 @@
-Alice_and_Martin_1.jpg,0,12,300,18,subject
-Alice_and_Martin_1.jpg,0,48,300,54,relation
-Alice_and_Martin_1.jpg,0,66,300,72,object

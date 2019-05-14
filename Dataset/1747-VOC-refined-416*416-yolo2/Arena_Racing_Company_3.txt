@@ -1,3 +1,0 @@
-Arena_Racing_Company_3.jpg,0,0,300,6,subject
-Arena_Racing_Company_3.jpg,0,12,300,18,relation
-Arena_Racing_Company_3.jpg,0,18,300,42,object

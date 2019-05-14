@@ -1,3 +1,0 @@
-Asistencia_Asesoría_y_Administración_3.jpg,0,48,300,54,subject
-Asistencia_Asesoría_y_Administración_3.jpg,0,54,300,66,relation
-Asistencia_Asesoría_y_Administración_3.jpg,0,72,300,90,object

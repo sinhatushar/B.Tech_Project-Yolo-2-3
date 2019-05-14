@@ -1,3 +1,0 @@
-Amir_Naderi_1.jpg,0,0,300,12,subject
-Amir_Naderi_1.jpg,0,78,300,84,relation
-Amir_Naderi_1.jpg,0,90,300,108,object

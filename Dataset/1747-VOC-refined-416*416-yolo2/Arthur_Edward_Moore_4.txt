@@ -1,3 +1,0 @@
-Arthur_Edward_Moore_4.jpg,0,174,300,192,subject
-Arthur_Edward_Moore_4.jpg,0,216,300,228,relation
-Arthur_Edward_Moore_4.jpg,0,198,300,204,object

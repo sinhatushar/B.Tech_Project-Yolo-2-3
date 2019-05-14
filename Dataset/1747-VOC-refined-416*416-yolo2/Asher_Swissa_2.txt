@@ -1,3 +1,0 @@
-Asher_Swissa_2.jpg,0,48,300,54,subject
-Asher_Swissa_2.jpg,0,0,300,12,relation
-Asher_Swissa_2.jpg,0,12,300,18,object

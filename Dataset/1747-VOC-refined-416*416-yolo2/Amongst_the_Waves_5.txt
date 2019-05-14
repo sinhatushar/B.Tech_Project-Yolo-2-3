@@ -1,3 +1,0 @@
-Amongst_the_Waves_5.jpg,0,6,300,18,subject
-Amongst_the_Waves_5.jpg,0,36,300,42,relation
-Amongst_the_Waves_5.jpg,0,42,300,48,object

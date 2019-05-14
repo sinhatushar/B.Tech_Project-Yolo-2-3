@@ -1,3 +1,0 @@
-Arup_Group_2.jpg,0,48,300,54,subject
-Arup_Group_2.jpg,0,210,300,222,relation
-Arup_Group_2.jpg,0,36,300,42,object

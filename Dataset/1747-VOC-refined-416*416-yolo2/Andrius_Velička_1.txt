@@ -1,3 +1,0 @@
-Andrius_Velička_1.jpg,0,0,300,12,subject
-Andrius_Velička_1.jpg,0,72,300,78,relation
-Andrius_Velička_1.jpg,0,96,300,108,object

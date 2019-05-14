@@ -1,3 +1,0 @@
-Anastrangalia_dissimilis_dissimilis_1.jpg,0,6,300,12,subject
-Anastrangalia_dissimilis_dissimilis_1.jpg,0,6,300,24,relation
-Anastrangalia_dissimilis_dissimilis_1.jpg,0,54,300,66,object

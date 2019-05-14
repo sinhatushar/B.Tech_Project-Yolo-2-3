@@ -1,3 +1,0 @@
-Anime_Talk_Show_1.jpg,0,6,300,24,subject
-Anime_Talk_Show_1.jpg,0,60,300,66,relation
-Anime_Talk_Show_1.jpg,0,78,300,90,object

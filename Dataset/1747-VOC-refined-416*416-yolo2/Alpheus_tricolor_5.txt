@@ -1,3 +1,0 @@
-Alpheus_tricolor_5.jpg,0,0,300,24,subject
-Alpheus_tricolor_5.jpg,0,138,300,150,relation
-Alpheus_tricolor_5.jpg,0,36,300,54,object

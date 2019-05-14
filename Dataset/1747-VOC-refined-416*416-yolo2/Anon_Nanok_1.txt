@@ -1,3 +1,0 @@
-Anon_Nanok_1.jpg,0,6,300,12,subject
-Anon_Nanok_1.jpg,0,84,300,90,relation
-Anon_Nanok_1.jpg,0,96,300,102,object

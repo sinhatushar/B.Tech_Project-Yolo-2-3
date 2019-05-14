@@ -1,3 +1,0 @@
-A_Hen_in_the_Wolf_House_6.jpg,0,0,300,12,subject
-A_Hen_in_the_Wolf_House_6.jpg,0,72,300,90,relation
-A_Hen_in_the_Wolf_House_6.jpg,0,96,300,108,object

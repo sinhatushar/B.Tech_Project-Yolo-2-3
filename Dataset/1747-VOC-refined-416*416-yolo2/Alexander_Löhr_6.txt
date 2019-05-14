@@ -1,3 +1,0 @@
-Alexander_Löhr_6.jpg,0,78,300,84,subject
-Alexander_Löhr_6.jpg,0,120,300,132,relation
-Alexander_Löhr_6.jpg,0,24,300,54,object

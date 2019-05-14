@@ -1,3 +1,0 @@
-Anyone_Can_Fall_in_Love_1.jpg,0,42,300,48,subject
-Anyone_Can_Fall_in_Love_1.jpg,0,48,300,60,relation
-Anyone_Can_Fall_in_Love_1.jpg,0,60,300,66,object

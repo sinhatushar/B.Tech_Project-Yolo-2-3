@@ -1,3 +1,0 @@
-Anybody_Killa_3.jpg,0,30,300,36,subject
-Anybody_Killa_3.jpg,0,36,300,48,relation
-Anybody_Killa_3.jpg,0,48,300,60,object

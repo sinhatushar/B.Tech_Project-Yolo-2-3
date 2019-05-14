@@ -1,3 +1,0 @@
-Álex_Aguinaga_4.jpg,0,24,300,30,subject
-Álex_Aguinaga_4.jpg,0,30,300,48,relation
-Álex_Aguinaga_4.jpg,0,12,300,24,object

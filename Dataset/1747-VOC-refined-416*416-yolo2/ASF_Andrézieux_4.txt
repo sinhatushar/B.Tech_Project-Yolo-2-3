@@ -1,3 +1,0 @@
-ASF_Andrézieux_4.jpg,0,6,300,12,subject
-ASF_Andrézieux_4.jpg,0,12,300,30,relation
-ASF_Andrézieux_4.jpg,0,30,300,48,object

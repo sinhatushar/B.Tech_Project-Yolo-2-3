@@ -1,3 +1,0 @@
-Assamese_people_7.jpg,0,18,300,24,subject
-Assamese_people_7.jpg,0,42,300,60,relation
-Assamese_people_7.jpg,0,90,300,102,object

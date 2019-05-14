@@ -1,3 +1,0 @@
-American_bullfrog_8.jpg,0,6,300,12,subject
-American_bullfrog_8.jpg,0,12,300,18,relation
-American_bullfrog_8.jpg,0,18,300,78,object

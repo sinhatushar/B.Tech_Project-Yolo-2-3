@@ -1,3 +1,0 @@
-Ali_Khademhosseini_4.jpg,0,24,300,30,subject
-Ali_Khademhosseini_4.jpg,0,66,300,78,relation
-Ali_Khademhosseini_4.jpg,0,84,300,114,object

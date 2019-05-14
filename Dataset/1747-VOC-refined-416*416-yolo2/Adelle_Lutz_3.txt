@@ -1,3 +1,0 @@
-Adelle_Lutz_3.jpg,0,12,300,48,subject
-Adelle_Lutz_3.jpg,0,42,300,48,relation
-Adelle_Lutz_3.jpg,0,54,300,84,object

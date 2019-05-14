@@ -1,3 +1,0 @@
-A_Canterbury_Tale_1.jpg,0,30,300,42,subject
-A_Canterbury_Tale_1.jpg,0,84,300,90,relation
-A_Canterbury_Tale_1.jpg,0,90,300,102,object

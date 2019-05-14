@@ -1,3 +1,0 @@
-Alizée_4.jpg,0,48,300,54,subject
-Alizée_4.jpg,0,6,300,18,relation
-Alizée_4.jpg,0,18,300,30,object

@@ -1,3 +1,0 @@
-A_Prize_of_Arms_2.jpg,0,24,300,30,subject
-A_Prize_of_Arms_2.jpg,0,0,300,12,relation
-A_Prize_of_Arms_2.jpg,0,12,300,18,object

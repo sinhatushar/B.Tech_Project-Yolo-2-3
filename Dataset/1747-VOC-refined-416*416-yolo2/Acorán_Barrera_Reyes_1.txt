@@ -1,3 +1,0 @@
-Acorán_Barrera_Reyes_1.jpg,0,192,300,216,subject
-Acorán_Barrera_Reyes_1.jpg,0,24,300,42,relation
-Acorán_Barrera_Reyes_1.jpg,0,126,300,180,object

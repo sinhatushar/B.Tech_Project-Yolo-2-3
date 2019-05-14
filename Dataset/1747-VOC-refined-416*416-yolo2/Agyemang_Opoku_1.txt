@@ -1,3 +1,0 @@
-Agyemang_Opoku_1.jpg,0,12,300,18,subject
-Agyemang_Opoku_1.jpg,0,72,300,78,relation
-Agyemang_Opoku_1.jpg,0,90,300,96,object

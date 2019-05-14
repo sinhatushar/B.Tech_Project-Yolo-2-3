@@ -1,3 +1,0 @@
-Aurora_Sutra_3.jpg,0,48,300,60,subject
-Aurora_Sutra_3.jpg,0,30,300,42,relation
-Aurora_Sutra_3.jpg,0,66,300,96,object

@@ -1,3 +1,0 @@
-Adrian_Caceres_1.jpg,0,0,300,18,subject
-Adrian_Caceres_1.jpg,0,66,300,84,relation
-Adrian_Caceres_1.jpg,0,108,300,114,object

@@ -1,3 +1,0 @@
-Antibody_9.jpg,0,6,300,12,subject
-Antibody_9.jpg,0,72,300,78,relation
-Antibody_9.jpg,0,114,300,144,object

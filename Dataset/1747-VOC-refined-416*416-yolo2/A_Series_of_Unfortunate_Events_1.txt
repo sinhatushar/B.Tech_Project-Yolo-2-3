@@ -1,3 +1,0 @@
-A_Series_of_Unfortunate_Events_1.jpg,0,72,300,84,subject
-A_Series_of_Unfortunate_Events_1.jpg,0,96,300,108,relation
-A_Series_of_Unfortunate_Events_1.jpg,0,108,300,132,object

@@ -1,3 +1,0 @@
-Army_Black_Knights_2.jpg,0,24,300,30,subject
-Army_Black_Knights_2.jpg,0,30,300,36,relation
-Army_Black_Knights_2.jpg,0,72,300,120,object

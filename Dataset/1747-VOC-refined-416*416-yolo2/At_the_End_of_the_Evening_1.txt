@@ -1,3 +1,0 @@
-At_the_End_of_the_Evening_1.jpg,0,48,300,60,subject
-At_the_End_of_the_Evening_1.jpg,0,36,300,48,relation
-At_the_End_of_the_Evening_1.jpg,0,12,300,30,object

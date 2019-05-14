@@ -1,3 +1,0 @@
-Alas_Smith_and_Jones_2.jpg,0,54,300,60,subject
-Alas_Smith_and_Jones_2.jpg,0,60,300,84,relation
-Alas_Smith_and_Jones_2.jpg,0,186,300,192,object

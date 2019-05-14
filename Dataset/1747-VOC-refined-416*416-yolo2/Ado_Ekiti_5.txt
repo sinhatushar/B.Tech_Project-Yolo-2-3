@@ -1,3 +1,0 @@
-Ado_Ekiti_5.jpg,0,78,300,84,subject
-Ado_Ekiti_5.jpg,0,96,300,102,relation
-Ado_Ekiti_5.jpg,0,60,300,72,object

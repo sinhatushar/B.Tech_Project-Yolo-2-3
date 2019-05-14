@@ -1,3 +1,0 @@
-Alstom_3.jpg,0,102,300,108,subject
-Alstom_3.jpg,0,108,300,114,relation
-Alstom_3.jpg,0,114,300,120,object

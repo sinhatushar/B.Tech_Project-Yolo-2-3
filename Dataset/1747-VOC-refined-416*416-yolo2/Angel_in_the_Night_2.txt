@@ -1,3 +1,0 @@
-Angel_in_the_Night_2.jpg,0,6,300,12,subject
-Angel_in_the_Night_2.jpg,0,12,300,30,relation
-Angel_in_the_Night_2.jpg,0,30,300,48,object

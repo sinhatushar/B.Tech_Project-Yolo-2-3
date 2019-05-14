@@ -1,3 +1,0 @@
-ACF_Trani_80_3.jpg,0,18,300,24,subject
-ACF_Trani_80_3.jpg,0,66,300,78,relation
-ACF_Trani_80_3.jpg,0,84,300,90,object

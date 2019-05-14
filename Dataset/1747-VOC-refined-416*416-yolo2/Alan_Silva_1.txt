@@ -1,3 +1,0 @@
-Alan_Silva_1.jpg,0,0,300,12,subject
-Alan_Silva_1.jpg,0,72,300,78,relation
-Alan_Silva_1.jpg,0,84,300,114,object

@@ -1,3 +1,0 @@
-Abhishek_Ray_14.jpg,0,66,300,72,subject
-Abhishek_Ray_14.jpg,0,72,300,90,relation
-Abhishek_Ray_14.jpg,0,114,300,126,object

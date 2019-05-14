@@ -1,3 +1,0 @@
-ABRSM_6.jpg,0,0,300,6,subject
-ABRSM_6.jpg,0,6,300,18,relation
-ABRSM_6.jpg,0,30,300,66,object

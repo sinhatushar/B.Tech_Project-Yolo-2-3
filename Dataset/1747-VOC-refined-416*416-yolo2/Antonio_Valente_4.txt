@@ -1,3 +1,0 @@
-Antonio_Valente_4.jpg,0,18,300,24,subject
-Antonio_Valente_4.jpg,0,24,300,30,relation
-Antonio_Valente_4.jpg,0,30,300,42,object

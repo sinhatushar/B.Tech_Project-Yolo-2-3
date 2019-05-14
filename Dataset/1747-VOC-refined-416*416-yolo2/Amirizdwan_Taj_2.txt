@@ -1,3 +1,0 @@
-Amirizdwan_Taj_2.jpg,0,78,300,84,subject
-Amirizdwan_Taj_2.jpg,0,90,300,96,relation
-Amirizdwan_Taj_2.jpg,0,96,300,108,object

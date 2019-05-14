@@ -1,3 +1,0 @@
-Agent_51_4.jpg,0,102,300,108,subject
-Agent_51_4.jpg,0,114,300,132,relation
-Agent_51_4.jpg,0,150,300,192,object

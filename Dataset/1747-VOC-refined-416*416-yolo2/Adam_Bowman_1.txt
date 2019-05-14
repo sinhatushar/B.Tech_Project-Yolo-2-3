@@ -1,3 +1,0 @@
-Adam_Bowman_1.jpg,0,96,300,102,subject
-Adam_Bowman_1.jpg,0,114,300,126,relation
-Adam_Bowman_1.jpg,0,132,300,144,object

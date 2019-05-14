@@ -1,3 +1,0 @@
-Avesta_15.jpg,0,6,300,12,subject
-Avesta_15.jpg,0,36,300,42,relation
-Avesta_15.jpg,0,102,300,108,object

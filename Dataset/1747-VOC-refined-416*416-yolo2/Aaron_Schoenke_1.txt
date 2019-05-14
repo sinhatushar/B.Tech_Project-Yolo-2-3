@@ -1,3 +1,0 @@
-Aaron_Schoenke_1.jpg,0,216,300,234,subject
-Aaron_Schoenke_1.jpg,0,174,300,186,relation
-Aaron_Schoenke_1.jpg,0,186,300,210,object

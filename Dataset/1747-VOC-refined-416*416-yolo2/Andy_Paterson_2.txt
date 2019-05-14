@@ -1,3 +1,0 @@
-Andy_Paterson_2.jpg,0,0,300,6,subject
-Andy_Paterson_2.jpg,0,6,300,24,relation
-Andy_Paterson_2.jpg,0,24,300,36,object

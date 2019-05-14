@@ -1,3 +1,0 @@
-Akseki_11.jpg,0,0,300,6,subject
-Akseki_11.jpg,0,18,300,24,relation
-Akseki_11.jpg,0,6,300,18,object

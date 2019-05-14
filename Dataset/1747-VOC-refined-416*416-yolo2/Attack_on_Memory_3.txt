@@ -1,3 +1,0 @@
-Attack_on_Memory_3.jpg,0,6,300,12,subject
-Attack_on_Memory_3.jpg,0,114,300,132,relation
-Attack_on_Memory_3.jpg,0,180,300,186,object

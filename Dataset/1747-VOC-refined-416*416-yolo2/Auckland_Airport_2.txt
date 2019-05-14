@@ -1,3 +1,0 @@
-Auckland_Airport_2.jpg,0,6,300,12,subject
-Auckland_Airport_2.jpg,0,12,300,30,relation
-Auckland_Airport_2.jpg,0,30,300,36,object

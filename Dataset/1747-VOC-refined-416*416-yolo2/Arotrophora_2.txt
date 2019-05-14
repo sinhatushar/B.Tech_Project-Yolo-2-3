@@ -1,3 +1,0 @@
-Arotrophora_2.jpg,0,30,300,36,subject
-Arotrophora_2.jpg,0,36,300,42,relation
-Arotrophora_2.jpg,0,24,300,36,object

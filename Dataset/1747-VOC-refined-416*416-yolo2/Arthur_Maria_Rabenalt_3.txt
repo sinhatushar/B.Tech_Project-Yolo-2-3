@@ -1,3 +1,0 @@
-Arthur_Maria_Rabenalt_3.jpg,0,108,300,120,subject
-Arthur_Maria_Rabenalt_3.jpg,0,54,300,72,relation
-Arthur_Maria_Rabenalt_3.jpg,0,78,300,108,object

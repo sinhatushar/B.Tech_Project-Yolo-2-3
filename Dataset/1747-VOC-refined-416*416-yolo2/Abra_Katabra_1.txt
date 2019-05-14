@@ -1,3 +1,0 @@
-Abra_Katabra_1.jpg,0,0,300,12,subject
-Abra_Katabra_1.jpg,0,12,300,30,relation
-Abra_Katabra_1.jpg,0,54,300,66,object

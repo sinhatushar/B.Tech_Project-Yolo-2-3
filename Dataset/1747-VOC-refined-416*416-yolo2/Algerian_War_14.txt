@@ -1,3 +1,0 @@
-Algerian_War_14.jpg,0,6,300,12,subject
-Algerian_War_14.jpg,0,84,300,102,relation
-Algerian_War_14.jpg,0,108,300,132,object

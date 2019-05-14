@@ -1,3 +1,0 @@
-Atsimo-Atsinanana_4.jpg,0,6,300,12,subject
-Atsimo-Atsinanana_4.jpg,0,12,300,24,relation
-Atsimo-Atsinanana_4.jpg,0,30,300,54,object

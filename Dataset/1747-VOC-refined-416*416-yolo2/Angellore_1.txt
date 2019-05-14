@@ -1,3 +1,0 @@
-Angellore_1.jpg,0,0,300,6,subject
-Angellore_1.jpg,0,6,300,12,relation
-Angellore_1.jpg,0,24,300,30,object

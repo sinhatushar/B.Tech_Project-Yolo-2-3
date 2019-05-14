@@ -1,3 +1,0 @@
-Aleksandar_Stanojević_1.jpg,0,6,300,12,subject
-Aleksandar_Stanojević_1.jpg,0,78,300,84,relation
-Aleksandar_Stanojević_1.jpg,0,96,300,102,object

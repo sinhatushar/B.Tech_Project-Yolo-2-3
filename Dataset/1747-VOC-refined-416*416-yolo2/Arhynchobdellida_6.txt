@@ -1,3 +1,0 @@
-Arhynchobdellida_6.jpg,0,0,300,6,subject
-Arhynchobdellida_6.jpg,0,90,300,96,relation
-Arhynchobdellida_6.jpg,0,96,300,102,object
