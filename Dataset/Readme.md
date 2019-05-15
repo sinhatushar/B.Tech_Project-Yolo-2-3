@@ -18,3 +18,5 @@ sentence each.
 9. 1747-VOC-refined-416x416-yolo3 : Annotated dataset for 416x416 image for yolo3.
 
 10. 1747-VOC-refined-416x416-yolo2 : Annotated dataset for 416x416 image for yolo2.
+
+11. 339-yolo3-annotation-64x320 : Annotated dataset for 64x320 image for yolo2.
