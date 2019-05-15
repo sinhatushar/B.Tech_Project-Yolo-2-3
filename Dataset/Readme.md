@@ -11,6 +11,10 @@ sentence each.
 
 6. Sentences-train : Same as Sample1. Sentences from this folder are used for training.
 
-7. 1982-train-images-416*416 : 416*416 image representation of sentences made using vector embeddings.
+7. 1982-train-images-416x416 : 416x416 image representation of sentences made using vector embeddings.
 
-8. 339-train-images.tar.gz : 64*320 image representation of sentences made using vector embeddings.
+8. 339-train-images.tar.gz : 64x320 image representation of sentences made using vector embeddings. 
+
+9. 1747-VOC-refined-416x416-yolo3 : Annotated dataset for 416x416 image for yolo3.
+
+10. 1747-VOC-refined-416x416-yolo2 : Annotated dataset for 416x416 image for yolo2.
