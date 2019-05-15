@@ -1,9 +1,11 @@
-# YOLOv2 in Keras 
-
+# YOLOv2 for text data for predicting RDF triples
 { 
-    See Ipython-training folder for ipython notebooks containing traning and detection
+    See Training-ipython folder for ipython notebooks containing traning and detection
+
     Also, the trained weights can be downloaded from :
+
     Trained weights for 416x416 : https://drive.google.com/open?id=1j_qfREngdZJl85mjf4y74vxUTxU6gUEW
+
     Trained weights for 64x320 : https://drive.google.com/drive/folders/1WyuWaIipkLfGPc2Pks9ndg7DAMfEQMGX
 }
 
