@@ -1,6 +1,11 @@
 # YOLOv2 in Keras 
-[See Ipython-training folder for ipython notebooks containing training and detection on sentences.]
 
+{ 
+    See Ipython-training folder for ipython notebooks containing traning and detection
+    Also, the trained weights can be downloaded from :
+    Trained weights for 416x416 : https://drive.google.com/open?id=1j_qfREngdZJl85mjf4y74vxUTxU6gUEW
+    Trained weights for 64x320 : https://drive.google.com/drive/folders/1WyuWaIipkLfGPc2Pks9ndg7DAMfEQMGX
+}
 
 ### 0. Requirement
 
@@ -82,10 +87,6 @@ The configuration file is a json file, which looks like this:
 ```
 
 ## 3. Training custom dataset
-first change the option ```xml``` to ```csv``` in this line on json file:
-```
-"parser_annotation_type":    "csv",
-```
 
  the CSV files must be used in this way
  ```
@@ -127,4 +128,3 @@ to do it, change the architecture in the config file, like this:
 if the custom_backend file are in the root directory you must use ```./``` in order to indicate that you are using a file instead a known backend
 
 for the generator callback specified into json config, it works in the same way than the custom backend, check the examples into ./examples/generator_callback.py
-
