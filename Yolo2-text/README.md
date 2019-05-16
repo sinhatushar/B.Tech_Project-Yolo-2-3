@@ -32,7 +32,7 @@ The configuration file is a json file, which looks like this:
 ```python
 {
     "model" : {
-        "backend":              "Full Yolo",
+        "backend":              "Full Yolo",    # "Tiny Yolo" or "Full Yolo" or "MobileNet" or "SqueezeNet" or "Inception3"
         "input_size_w":         416,
         "input_size_h":         416,
         "gray_mode":            false,
@@ -49,23 +49,23 @@ The configuration file is a json file, which looks like this:
         "train_image_folder":   "",   
         "train_annot_folder":   "",      
 
-        "callback":             null,
-        "train_times":          8,
-        "pretrained_weights":   "",
-        "batch_size":           4,
-        "learning_rate":        1e-4,
-        "nb_epochs":            150,
-        "warmup_epochs":        3,
+        "callback":             null,           # a specific callback to apply into image augmentation
+        "train_times":          10,             # the number of time to cycle through the training set, useful for small datasets
+        "pretrained_weights":   "",             # specify the path of the pretrained weights, but it's fine to start from scratch
+        "batch_size":           16,             # the number of images to read in each batch
+        "learning_rate":        1e-4,           # the base learning rate of the default Adam rate scheduler
+        "nb_epoch":             50,             # number of epoches
+        "warmup_epochs":        3,              # the number of initial epochs during which the sizes of the 5 boxes in each cell is forced to match the sizes of the 5 anchors, this trick seems to improve precision emperically
 
-        "workers":              12,
-        "max_queue_size":       40,
-        "early_stop":           false,
-        "tensorboard_log_dir":  "./logs/1",
+        "workers":              3,
+        "max_queue_size":       8,
+        "early_stop":           true,
+        "tensorboard_log_dir":  "./logs/example",
 
-        "object_scale":         5.0,
-        "no_object_scale":      1.0,
-        "coord_scale":          1.0,
-        "class_scale":          1.0,
+        "object_scale":         5.0 ,           # determine how much to penalize wrong prediction of confidence of object predictors
+        "no_object_scale":      1.0,            # determine how much to penalize wrong prediction of confidence of non-object predictors
+        "coord_scale":          1.0,            # determine how much to penalize wrong position and size predictions (x, y, w, h)
+        "class_scale":          1.0,            # determine how much to penalize wrong class prediction
 
         "saved_weights_name":   "pre-weights-not-loaded-416*416-iou-point-one.h5",
         "debug":                false
@@ -83,12 +83,13 @@ The configuration file is a json file, which looks like this:
     },
 
     "backup":{
-        "create_backup":        false,
-        "redirect_model":       true,
+        "create_backup":        false, 
+        "redirect_model":       true,           # if true, will rename tensorboard_log_dir and saved_weights_name to keep in same directory
         "backup_path":          "../backup",
         "backup_prefix":        "Full_yolo_VOC"
     }
 }
+
 
 ```
 
