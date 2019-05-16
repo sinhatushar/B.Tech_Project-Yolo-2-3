@@ -20,7 +20,7 @@ parser.add_argument("--anchor_path", type=str, default="./data/yolo_anchors.txt"
                     help="The path of the anchor txt file.")
 parser.add_argument("--new_size", nargs='*', type=int, default=[416, 416],
                     help="Resize the input image with `new_size`, size format: [width, height]")
-parser.add_argument("--class_name_path", type=str, default="./data/coco.names",
+parser.add_argument("--class_name_path", type=str, default="./data/my_data/data.names",
                     help="The path of the class names.")
 parser.add_argument("--restore_path", type=str, default="./data/darknet_weights/yolov3.ckpt",
                     help="The path of the weights to restore.")

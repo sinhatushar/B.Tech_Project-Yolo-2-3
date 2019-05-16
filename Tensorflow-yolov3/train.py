@@ -40,7 +40,7 @@ parser.add_argument("--progress_log_path", type=str, default="./data/progress.lo
 parser.add_argument("--anchor_path", type=str, default="./data/yolo_anchors.txt",
                     help="The path of the anchor txt file.")
 
-parser.add_argument("--class_name_path", type=str, default="./data/coco.names",
+parser.add_argument("--class_name_path", type=str, default="./data/my_data/data.names", 
                     help="The path of the class names.")
 
 # some numbers
