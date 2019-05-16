@@ -5,6 +5,6 @@ Contains code for Yolo2 and Yolo3 used on text data to detect RDF triples in a s
 
 2. Python scripts : Important python scripts used for working with dataset.
 
-3. Keras-yolo2 : Yolo2 for text data.
+3. Yolo2-text : Yolo2 for text data.
 
-4. Tensorflow-yolov3 : Yolo3 for text data.
+4. Yolo3-text : Yolo3 for text data.
