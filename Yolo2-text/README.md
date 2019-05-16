@@ -32,7 +32,7 @@ The configuration file is a json file, which looks like this:
 ```python
 {
     "model" : {
-        "architecture":         "Full Yolo",    # "Tiny Yolo" or "Full Yolo" or "MobileNet" or "SqueezeNet" or "Inception3"
+        "backend":              "Full Yolo",
         "input_size_w":         416,
         "input_size_h":         416,
         "gray_mode":            false,
@@ -44,49 +44,49 @@ The configuration file is a json file, which looks like this:
     "parser_annotation_type":    "csv",
 
     "train": {
-        "train_csv_file":       "/home/tushar/Desktop/Server/Keras-yolo2/1747-annotation.csv",
-        "train_csv_base_path":  "/home/tushar/Desktop/Server/Keras-yolo2/1747-train-images-416*416/",
-        "train_image_folder":   "",
+        "train_csv_file":       "/content/drive/My Drive/yolo2/1747-annotation.csv",
+        "train_csv_base_path":  "/content/drive/My Drive/yolo2/1747-train-images-416*416/",
+        "train_image_folder":   "",   
         "train_annot_folder":   "",      
-          
-        "callback":             null,           # a specific callback to apply into image augmentation
-        "train_times":          10,             # the number of time to cycle through the training set, useful for small datasets
-        "pretrained_weights":   "",             # specify the path of the pretrained weights, but it's fine to start from scratch
-        "batch_size":           16,             # the number of images to read in each batch
-        "learning_rate":        1e-4,           # the base learning rate of the default Adam rate scheduler
-        "nb_epoch":             50,             # number of epoches
-        "warmup_epochs":        3,              # the number of initial epochs during which the sizes of the 5 boxes in each cell is forced to match the sizes of the 5 anchors, this trick seems to improve precision emperically
 
-        "workers":              3,
-        "max_queue_size":       8,
-        "early_stop":           true,
-        "tensorboard_log_dir":  "./logs/example",
+        "callback":             null,
+        "train_times":          8,
+        "pretrained_weights":   "",
+        "batch_size":           4,
+        "learning_rate":        1e-4,
+        "nb_epochs":            150,
+        "warmup_epochs":        3,
 
-        "object_scale":         5.0 ,           # determine how much to penalize wrong prediction of confidence of object predictors
-        "no_object_scale":      1.0,            # determine how much to penalize wrong prediction of confidence of non-object predictors
-        "coord_scale":          1.0,            # determine how much to penalize wrong position and size predictions (x, y, w, h)
-        "class_scale":          1.0,            # determine how much to penalize wrong class prediction
+        "workers":              12,
+        "max_queue_size":       40,
+        "early_stop":           false,
+        "tensorboard_log_dir":  "./logs/1",
 
-        "saved_weights_name":   "raccon.h5",
-        "debug":                true            # turn on/off the line that prints current confidence, position, size, class losses and recall
+        "object_scale":         5.0,
+        "no_object_scale":      1.0,
+        "coord_scale":          1.0,
+        "class_scale":          1.0,
+
+        "saved_weights_name":   "pre-weights-not-loaded-416*416-iou-point-one.h5",
+        "debug":                false
     },
 
     "valid": {
-        "iou_threshold":        0.1,
-        "score_threshold":      0.1,
-        "valid_csv_file":       "val.txt",
+        "iou_threshold":        0.5,
+        "score_threshold":      0.2,
+        "valid_csv_file":       "",
         "valid_csv_base_path":  "",
         "valid_image_folder":   "",
         "valid_annot_folder":   "",
 
         "valid_times":          1
-    }
+    },
 
-    "backup":{  #it is usefull for testing networks, this backup will save the whole repsoitory, and can be used again in the future
-        "create_backup":        true,
-        "redirect_model":       true,           #if true, will rename tensorboard_log_dir and saved_weights_name to keep in same directory
+    "backup":{
+        "create_backup":        false,
+        "redirect_model":       true,
         "backup_path":          "../backup",
-        "backup_prefix":        "Tiny_yolo_VOC",
+        "backup_prefix":        "Full_yolo_VOC"
     }
 }
 
@@ -96,7 +96,7 @@ The configuration file is a json file, which looks like this:
 
  the CSV files must be used in this way
  ```
-    file_path,xMin,yMin,xMax,yMax,objectCLass    
+    file_path,xMin,yMin,xMax,yMax,objectCLass
  ```
  example:
  ```
