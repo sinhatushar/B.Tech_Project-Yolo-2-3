@@ -1,5 +1,19 @@
 #  Yolo3 for text
 
+{ 
+    
+    See Training-ipython folder for ipython notebooks containing traning and detection
+
+    Also, the trained weights can be downloaded from :
+
+    Trained weights for 416x416 : https://drive.google.com/open?id=1k1G9KNDNrJl61dkLUMEqEunqSNz-qDC0
+
+    Trained weights for 64x320 : https://drive.google.com/open?id=1-FhUlym0t9LU6tnPvKvlfFMY6zvcvzTb
+
+    Please see the BTP1/Dataset to understand the dataset which has been used for yolo3. 
+    
+}
+
 ### 1. Requirements
 
 - works only with python2
