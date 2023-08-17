@@ -1,5 +1,6 @@
 # BTP1
 Contains code for Yolo2 and Yolo3 used on text data to detect RDF triples in a sentence.
+There are separate readme files with details in each of the folders. 
 
 1. Dataset : Contains dataset used for training.
 
